@@ -1,0 +1,2 @@
+ProductID,Name,ProductNumber,Color,StandardCost,ListPrice,Size,Weight,ProductCategoryID,ProductModelID
+711,"Sport-100 Helmet, Blue",HL-U509-B,Blue,13.0863,34.99,NULL,NULL,35,33

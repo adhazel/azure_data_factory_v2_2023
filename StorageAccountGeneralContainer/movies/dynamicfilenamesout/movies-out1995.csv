@@ -1,0 +1,273 @@
+movie,title,genres,year,Rating,RottenTomato
+1,Toy Story,Adventure|Animation|Children|Comedy|Fantasy,1995,2,69
+2,Jumanji,Adventure|Children|Fantasy,1995,2,56
+4,Waiting to Exhale,Comedy|Drama|Romance,1995,6,97
+6,Heat,Action|Crime|Thriller,1995,9,94
+9,Sudden Death,Action,1995,9,77
+10,GoldenEye,Action|Adventure|Thriller,1995,7,60
+11,"American President, The",Comedy|Drama|Romance,1995,5,95
+12,Dracula: Dead and Loving It,Comedy|Horror,1995,7,84
+13,Balto,Adventure|Animation|Children,1995,10,67
+16,Casino,Crime|Drama,1995,3,51
+17,Sense and Sensibility,Drama|Romance,1995,7,100
+19,Ace Ventura: When Nature Calls,Comedy,1995,9,54
+23,Assassins,Action|Crime|Thriller,1995,10,77
+26,Othello,Drama,1995,3,51
+29,"City of Lost Children, The (Cité des enfants perdus, La)",Adventure|Drama|Fantasy|Mystery|Sci-Fi,1995,7,84
+34,Babe,Children|Drama,1995,1,99
+39,Clueless,Comedy|Romance,1995,5,95
+42,Dead Presidents,Action|Crime|Drama,1995,8,83
+44,Mortal Kombat,Action|Adventure|Fantasy,1995,4,67
+45,To Die For,Comedy|Drama|Thriller,1995,4,80
+48,Pocahontas,Animation|Children|Drama|Musical|Romance,1995,10,53
+52,Mighty Aphrodite,Comedy|Drama|Romance,1995,3,73
+54,"Big Green, The",Children|Comedy,1995,6,70
+55,Georgia,Drama,1995,5,80
+57,Home for the Holidays,Drama,1995,8,84
+59,"Confessional, The (Confessionnal, Le)",Drama|Mystery,1995,9,65
+62,Mr. Holland's Opus,Drama,1995,4,99
+68,French Twist (Gazon maudit),Comedy|Romance,1995,7,50
+72,Kicking and Screaming,Comedy|Drama,1995,9,50
+73,"Misérables, Les",Drama|War,1995,8,87
+77,Nico Icon,Documentary,1995,2,61
+80,"White Balloon, The (Badkonake sefid)",Children|Drama,1995,10,75
+83,Once Upon a Time... When We Were Colored,Drama|Romance,1995,9,90
+84,Last Summer in the Hamptons,Comedy|Drama,1995,1,79
+85,Angels and Insects,Drama|Romance,1995,9,57
+89,Nick of Time,Action|Thriller,1995,1,59
+96,In the Bleak Midwinter,Comedy|Drama,1995,7,63
+99,Heidi Fleiss: Hollywood Madam,Documentary,1995,6,98
+105,"Bridges of Madison County, The",Drama|Romance,1995,9,57
+110,Braveheart,Action|Drama|War,1995,5,56
+112,Rumble in the Bronx (Hont faan kui),Action|Adventure|Comedy|Crime,1995,6,57
+114,Margaret's Museum,Drama,1995,1,91
+116,Anne Frank Remembered,Documentary,1995,10,98
+119,"Steal Big, Steal Little",Comedy,1995,9,99
+124,"Star Maker, The (Uomo delle stelle, L')",Drama,1995,3,87
+144,"Brothers McMullen, The",Comedy,1995,9,66
+145,Bad Boys,Action|Comedy|Crime|Drama|Thriller,1995,8,73
+146,"Amazing Panda Adventure, The",Adventure|Children,1995,7,74
+147,"Basketball Diaries, The",Drama,1995,4,72
+153,Batman Forever,Action|Adventure|Comedy|Crime,1995,3,77
+163,Desperado,Action|Romance|Western,1995,7,57
+164,Devil in a Blue Dress,Crime|Film-Noir|Mystery|Thriller,1995,9,73
+167,Feast of July,Drama,1995,9,82
+169,Free Willy 2: The Adventure Home,Adventure|Children|Drama,1995,5,54
+171,Jeffrey,Comedy|Drama,1995,4,78
+172,Johnny Mnemonic,Action|Sci-Fi|Thriller,1995,1,83
+173,Judge Dredd,Action|Crime|Sci-Fi,1995,10,100
+174,Jury Duty,Comedy,1995,6,95
+176,Living in Oblivion,Comedy,1995,4,77
+179,Mad Love,Drama|Romance,1995,7,69
+180,Mallrats,Comedy|Romance,1995,6,81
+185,"Net, The",Action|Crime|Thriller,1995,10,63
+189,Reckless,Comedy|Fantasy,1995,4,55
+190,Safe,Thriller,1995,9,56
+193,Showgirls,Drama,1995,1,91
+194,Smoke,Comedy|Drama,1995,4,80
+195,Something to Talk About,Comedy|Drama|Romance,1995,2,85
+196,Species,Horror|Sci-Fi,1995,5,58
+200,"Tie That Binds, The",Thriller,1995,8,83
+206,Unzipped,Documentary,1995,1,95
+215,Before Sunrise,Drama|Romance,1995,6,91
+216,Billy Madison,Comedy,1995,10,85
+217,"Babysitter, The",Drama|Thriller,1995,10,79
+218,Boys on the Side,Comedy|Drama,1995,6,61
+222,Circle of Friends,Drama|Romance,1995,2,58
+228,Destiny Turns on the Radio,Comedy,1995,2,79
+237,Forget Paris,Comedy|Romance,1995,7,82
+239,"Goofy Movie, A",Animation|Children|Comedy|Romance,1995,8,63
+240,Hideaway,Thriller,1995,6,57
+243,Gordy,Children|Comedy|Fantasy,1995,4,72
+244,Gumby: The Movie,Animation|Children,1995,5,97
+250,Heavyweights (Heavy Weights),Children|Comedy,1995,6,52
+251,"Hunted, The",Action,1995,3,51
+255,"Jerky Boys, The",Comedy,1995,2,79
+257,Just Cause,Mystery|Thriller,1995,6,91
+259,Kiss of Death,Crime|Drama|Thriller,1995,2,67
+278,Miami Rhapsody,Comedy,1995,10,67
+283,New Jersey Drive,Crime|Drama,1995,6,50
+292,Outbreak,Action|Drama|Sci-Fi|Thriller,1995,5,54
+294,"Perez Family, The",Comedy|Romance,1995,9,64
+325,National Lampoon's Senior Trip,Comedy,1995,10,90
+335,Underneath,Mystery|Thriller,1995,5,64
+336,"Walking Dead, The",Drama|War,1995,6,62
+338,Virtuosity,Action|Sci-Fi|Thriller,1995,4,63
+343,"Baby-Sitters Club, The",Children,1995,9,85
+388,Boys Life,Drama,1995,2,89
+581,"Celluloid Closet, The",Documentary,1995,7,60
+606,Candyman: Farewell to the Flesh,Fantasy|Horror,1995,3,77
+617,"Flower of My Secret, The (La flor de mi secreto)",Comedy|Drama,1995,10,55
+627,"Last Supper, The",Drama|Thriller,1995,7,93
+633,Denise Calls Up,Comedy,1995,1,65
+638,Jack and Sarah,Romance,1995,1,67
+665,Underground,Comedy|Drama|War,1995,6,81
+679,"Run of the Country, The",Drama,1995,2,58
+688,Operation Dumbo Drop,Action|Adventure|Comedy|War,1995,5,57
+690,"Promise, The (Versprechen, Das)",Drama|Romance,1995,7,89
+696,Butterfly Kiss,Drama|Thriller,1995,7,74
+698,Delta of Venus,Drama,1995,6,65
+728,Cold Comfort Farm,Comedy,1995,5,54
+745,Wallace & Gromit: A Close Shave,Animation|Children|Comedy,1995,8,90
+754,Gold Diggers: The Secret of Bear Mountain,Adventure|Children,1995,10,95
+816,Two Deaths,Drama,1995,2,53
+831,Stonewall,Drama,1995,9,60
+864,"Wife, The",Comedy|Drama,1995,10,73
+888,Land Before Time III: The Time of the Great Giving,Adventure|Animation|Children|Musical,1995,1,96
+1087,Madame Butterfly,Musical,1995,4,89
+1428,Angel Baby,Drama,1995,10,69
+1757,Fallen Angels (Duo luo tian shi),Drama|Romance,1995,3,72
+2483,"Day of the Beast, The (Día de la Bestia, El)",Adventure|Comedy|Thriller,1995,7,52
+4750,3 Ninjas Knuckle Up,Action|Children,1995,2,58
+6857,Ninja Scroll (Jûbei ninpûchô),Action|Adventure|Animation|Fantasy,1995,8,83
+8839,"Mangler, The",Horror,1995,3,96
+26903,Whisper of the Heart (Mimi wo sumaseba),Animation|Drama|Romance,1995,4,85
+32352,"Thief and the Cobbler, The (a.k.a. Arabian Knight)",Adventure|Animation|Comedy|Fantasy,1995,8,87
+32554,Memories (Memorîzu),Animation|Fantasy|Sci-Fi|Thriller,1995,6,82
+44421,"Personal Journey with Martin Scorsese Through American Movies, A",Documentary,1995,10,57
+51357,Citizen X,Crime|Drama|Thriller,1995,10,100
+95963,Dragon Ball Z: Wrath of the Dragon (Doragon bôru Z 13: Ryûken bakuhatsu!! Gokû ga yaraneba dare ga yaru),Action|Adventure|Animation,1995,3,75
+61,Eye for an Eye,Drama|Thriller,1995,1,62
+64,Two if by Sea,Comedy|Romance,1995,4,74
+65,Bio-Dome,Comedy,1995,2,96
+66,Lawnmower Man 2: Beyond Cyberspace,Action|Sci-Fi|Thriller,1995,4,91
+70,From Dusk Till Dawn,Action|Comedy|Horror|Thriller,1995,3,60
+86,White Squall,Action|Adventure|Drama,1995,10,79
+87,Dunston Checks In,Children|Comedy,1995,8,55
+88,Black Sheep,Comedy,1995,8,95
+94,Beautiful Girls,Comedy|Drama|Romance,1995,9,98
+95,Broken Arrow,Action|Adventure|Thriller,1995,7,98
+103,Unforgettable,Mystery|Sci-Fi|Thriller,1995,9,74
+104,Happy Gilmore,Comedy,1995,5,72
+107,Muppet Treasure Island,Adventure|Children|Comedy|Musical,1995,7,65
+108,Catwalk,Documentary,1995,1,98
+113,Before and After,Drama|Mystery,1995,4,87
+118,If Lucy Fell,Comedy|Romance,1995,4,91
+125,Flirting With Disaster,Comedy,1995,4,76
+129,Pie in the Sky,Comedy|Romance,1995,6,51
+291,Poison Ivy II,Drama|Thriller,1995,3,67
+494,Executive Decision,Action|Adventure|Thriller,1995,5,72
+605,One Fine Day,Drama|Romance,1995,9,80
+608,Fargo,Comedy|Crime|Drama|Thriller,1995,1,89
+609,Homeward Bound II: Lost in San Francisco,Adventure|Children,1995,1,70
+611,Hellraiser: Bloodline,Action|Horror|Sci-Fi,1995,2,51
+612,"Pallbearer, The",Comedy,1995,8,82
+619,Ed,Comedy,1995,6,100
+626,"Thin Line Between Love and Hate, A",Comedy,1995,7,97
+631,All Dogs Go to Heaven 2,Adventure|Animation|Children|Fantasy|Musical|Romance,1995,1,87
+637,Sgt. Bilko,Comedy,1995,8,67
+640,Diabolique,Drama|Thriller,1995,5,97
+648,Mission: Impossible,Action|Adventure|Mystery|Thriller,1995,7,90
+651,"Superweib, Das",Comedy,1995,3,56
+661,James and the Giant Peach,Adventure|Animation|Children|Fantasy|Musical,1995,6,78
+662,Fear,Thriller,1995,8,83
+685,It's My Party,Drama,1995,10,85
+691,Mrs. Winterbourne,Comedy|Romance,1995,2,54
+694,"Substitute, The",Action|Crime|Drama,1995,5,53
+697,Feeling Minnesota,Drama|Romance,1995,5,69
+705,Cosi,Comedy,1995,5,78
+708,"Truth About Cats & Dogs, The",Comedy|Romance,1995,8,59
+710,Celtic Pride,Comedy,1995,2,56
+711,Flipper,Adventure|Children,1995,1,89
+719,Multiplicity,Comedy,1995,1,54
+720,Wallace & Gromit: The Best of Aardman Animation,Adventure|Animation|Comedy,1995,10,100
+725,"Great White Hype, The",Comedy,1995,1,96
+733,"Rock, The",Action|Adventure|Thriller,1995,9,56
+736,Twister,Action|Adventure|Romance|Thriller,1995,9,74
+742,Thinner,Horror|Thriller,1995,2,79
+743,Spy Hard,Comedy,1995,10,91
+748,"Arrival, The",Action|Sci-Fi|Thriller,1995,4,85
+761,"Phantom, The",Action|Adventure,1995,6,95
+766,I Shot Andy Warhol,Drama,1995,10,84
+778,Trainspotting,Comedy|Crime|Drama,1995,3,70
+781,Stealing Beauty,Drama,1995,10,65
+786,Eraser,Action|Drama|Thriller,1995,9,87
+804,She's the One,Comedy|Romance,1995,7,56
+818,"Very Brady Sequel, A",Comedy,1995,8,87
+830,"First Wives Club, The",Comedy,1995,7,59
+835,Foxfire,Drama,1995,5,58
+836,Chain Reaction,Action|Adventure|Thriller,1995,7,80
+837,Matilda,Children|Comedy|Fantasy,1995,3,79
+838,Emma,Comedy|Drama|Romance,1995,1,72
+848,"Spitfire Grill, The",Drama,1995,5,87
+849,Escape from L.A.,Action|Adventure|Sci-Fi|Thriller,1995,4,67
+851,Basquiat,Drama,1995,6,84
+852,Tin Cup,Comedy|Drama|Romance,1995,6,52
+867,Carpool,Comedy|Crime,1995,6,95
+869,Kansas City,Crime|Drama|Musical|Thriller,1995,1,69
+880,"Island of Dr. Moreau, The",Sci-Fi|Thriller,1995,9,61
+881,First Kid,Children|Comedy,1995,6,68
+885,Bogus,Children|Drama|Fantasy,1995,2,67
+886,Bulletproof,Action|Comedy|Crime,1995,6,82
+984,"Pompatus of Love, The",Comedy|Drama,1995,3,58
+988,Grace of My Heart,Comedy|Drama,1995,4,53
+992,"Rich Man's Wife, The",Thriller,1995,9,69
+994,Big Night,Comedy|Drama,1995,3,57
+996,Last Man Standing,Action|Crime|Drama|Thriller,1995,10,61
+997,Caught,Drama|Thriller,1995,2,85
+998,Set It Off,Action|Crime,1995,9,65
+999,2 Days in the Valley,Crime|Film-Noir,1995,4,51
+1004,"Glimmer Man, The",Action|Thriller,1995,3,66
+1005,D3: The Mighty Ducks,Children|Comedy,1995,5,53
+1040,"Secret Agent, The",Drama,1995,6,52
+1042,That Thing You Do!,Comedy|Drama,1995,1,88
+1043,To Gillian on Her 37th Birthday,Drama|Romance,1995,6,99
+1049,"Ghost and the Darkness, The",Action|Adventure,1995,8,94
+1051,Trees Lounge,Drama,1995,3,81
+1056,Jude,Drama,1995,8,50
+1057,Everyone Says I Love You,Comedy|Musical|Romance,1995,5,63
+1059,William Shakespeare's Romeo + Juliet,Drama|Romance,1995,8,73
+1111,Microcosmos (Microcosmos: Le peuple de l'herbe),Documentary,1995,1,68
+1112,Palookaville,Action|Comedy|Drama,1995,8,56
+1113,"Associate, The",Comedy,1995,9,56
+1114,"Funeral, The",Crime|Drama,1995,1,55
+1120,"People vs. Larry Flynt, The",Comedy|Drama,1995,1,99
+1145,Snowriders,Documentary,1995,5,100
+1147,When We Were Kings,Documentary,1995,9,99
+1165,"Bloody Child, The",Drama|Thriller,1995,1,99
+1310,Hype!,Documentary,1995,8,51
+1311,Santa with Muscles,Comedy,1995,8,59
+1312,Female Perversions,Drama,1995,3,80
+1317,I'm Not Rappaport,Comedy,1995,10,86
+1324,Amityville: Dollhouse,Horror,1995,4,75
+1353,"Mirror Has Two Faces, The",Comedy|Drama|Romance,1995,6,87
+1357,Shine,Drama|Romance,1995,10,66
+1358,Sling Blade,Drama,1995,8,60
+1361,Paradise Lost: The Child Murders at Robin Hood Hills,Documentary,1995,8,85
+1363,"Preacher's Wife, The",Drama,1995,6,71
+1365,Ridicule,Drama,1995,9,59
+1384,"Substance of Fire, The",Drama,1995,8,80
+1393,Jerry Maguire,Drama|Romance,1995,9,74
+1397,Bastard Out of Carolina,Drama,1995,3,88
+1398,In Love and War,Romance|War,1995,5,78
+1404,Night Falls on Manhattan,Crime|Drama,1995,1,65
+1405,Beavis and Butt-Head Do America,Adventure|Animation|Comedy|Crime,1995,3,60
+1409,Michael,Comedy|Drama|Fantasy|Romance,1995,1,69
+1415,"Thieves (Voleurs, Les)",Crime|Drama|Romance,1995,6,74
+1416,Evita,Drama|Musical,1995,7,61
+1417,"Portrait of a Lady, The",Drama,1995,10,86
+1420,Message to Love: The Isle of Wight Festival,Documentary,1995,7,86
+1423,Hearts and Minds,Drama,1995,7,65
+1446,Kolya (Kolja),Comedy|Drama,1995,5,67
+1449,Waiting for Guffman,Comedy,1995,10,78
+1475,Kama Sutra: A Tale of Love,Romance,1995,4,90
+1482,"Van, The",Comedy|Drama,1995,8,58
+1483,Crash,Drama|Thriller,1995,1,89
+1484,"Daytrippers, The",Comedy|Drama|Mystery|Romance,1995,5,66
+1493,Love and Other Catastrophes,Romance,1995,9,73
+1537,Shall We Dance? (Shall We Dansu?),Comedy|Drama|Romance,1995,10,85
+1542,Brassed Off,Comedy|Drama|Romance,1995,8,83
+1545,Ponette,Drama,1995,8,100
+1554,"Pillow Book, The",Drama|Romance,1995,7,74
+1571,When the Cat's Away (Chacun cherche son chat),Comedy|Romance,1995,9,95
+2330,Hands on a Hard Body,Comedy|Documentary,1995,5,54
+2342,Hard Core Logo,Comedy|Drama,1995,3,84
+2609,"King of Masks, The (Bian Lian)",Drama,1995,5,64
+3574,Carnosaur 3: Primal Species,Horror|Sci-Fi,1995,8,98
+4175,Gray's Anatomy,Comedy|Drama,1995,3,69
+4755,Wish Upon a Star,Comedy,1995,2,64
+5570,Thesis (Tesis),Drama|Horror|Thriller,1995,7,80
+7845,Tremors II: Aftershocks,Comedy|Horror|Sci-Fi,1995,1,100
+8504,Box of Moon Light,Comedy|Drama,1995,6,95
+26915,Tromeo and Juliet,Comedy|Drama,1995,7,79
+136445,George Carlin: Back in Town,Comedy,1995,10,85

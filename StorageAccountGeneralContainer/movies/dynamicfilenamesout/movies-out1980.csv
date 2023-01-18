@@ -1,0 +1,95 @@
+movie,title,genres,year,Rating,RottenTomato
+1130,"Howling, The",Horror|Mystery,1980,6,85
+1196,Star Wars: Episode V - The Empire Strikes Back,Action|Adventure|Sci-Fi,1980,10,63
+1228,Raging Bull,Drama,1980,3,78
+1974,Friday the 13th,Horror|Mystery|Thriller,1980,1,64
+1987,Prom Night,Horror,1980,4,95
+2050,Herbie Goes Bananas,Adventure|Children|Comedy,1980,2,65
+2088,Popeye,Adventure|Comedy|Musical,1980,7,62
+2150,"Gods Must Be Crazy, The",Adventure|Comedy,1980,1,86
+2240,My Bodyguard,Drama,1980,8,82
+2290,Stardust Memories,Comedy|Drama,1980,7,92
+2313,"Elephant Man, The",Drama,1980,3,58
+2791,Airplane!,Comedy,1980,9,50
+2988,Melvin and Howard,Drama,1980,9,73
+3552,Caddyshack,Comedy,1980,4,70
+3619,"Hollywood Knights, The",Comedy,1980,7,58
+3649,American Gigolo,Drama,1980,5,69
+4198,Battle Beyond the Stars,Sci-Fi,1980,7,95
+4291,Nine to Five (a.k.a. 9 to 5),Comedy|Crime,1980,10,86
+4713,Altered States,Drama|Sci-Fi,1980,7,88
+4714,Any Which Way You Can,Comedy,1980,5,68
+4751,"Hunter, The",Action|Thriller,1980,6,88
+4752,Maniac,Horror,1980,5,96
+4826,"Big Red One, The",Action|Adventure|Drama|War,1980,10,85
+4830,Brubaker,Crime|Drama,1980,9,95
+4831,Can't Stop the Music,Comedy|Musical,1980,7,59
+4832,Carny,Drama,1980,8,55
+4837,Cruising,Crime|Drama|Thriller,1980,2,90
+4840,"Last Metro, The (Dernier métro, Le)",Drama|Romance,1980,8,83
+4842,"Dogs of War, The",Drama|War,1980,6,100
+4933,"Earthling, The",Adventure|Drama,1980,6,77
+4956,"Stunt Man, The",Action|Adventure|Comedy|Drama|Romance|Thriller,1980,5,86
+5125,Used Cars,Comedy,1980,8,82
+5180,"Great Rock 'n' Roll Swindle, The",Documentary,1980,4,95
+5186,Honeysuckle Rose (a.k.a. On the Road Again),Drama|Romance,1980,10,96
+5193,"Jazz Singer, The",Musical,1980,8,99
+5198,"Long Good Friday, The",Drama|Thriller,1980,7,85
+5199,"Long Riders, The",Western,1980,4,65
+5202,Mon oncle d'Amérique,Drama,1980,4,55
+5241,Seems Like Old Times,Comedy|Romance,1980,6,81
+5242,Serial,Comedy,1980,8,67
+5243,"Young Master, The (Shi di chu ma)",Action|Comedy,1980,8,99
+5250,Stir Crazy,Comedy,1980,10,54
+5696,Urban Cowboy,Drama,1980,1,86
+5700,The Pumaman,Action|Adventure|Fantasy|Sci-Fi,1980,1,66
+5703,Wholly Moses,Comedy,1980,7,77
+6835,Alien Contamination,Action|Horror|Sci-Fi,1980,3,95
+8853,"Small Circle of Friends, A",Drama,1980,5,61
+71650,Werner Herzog Eats His Shoe,Documentary,1980,9,98
+72612,"Fly, The (Légy, A)",Animation|Comedy,1980,3,92
+109205,No Nukes,Documentary|Musical,1980,8,66
+610,Heavy Metal,Action|Adventure|Animation|Horror|Sci-Fi,1980,10,63
+681,Coup de torchon (Clean Slate),Crime,1980,5,97
+1129,Escape from New York,Action|Adventure|Sci-Fi|Thriller,1980,7,59
+1233,"Boot, Das (Boat, The)",Action|Drama|War,1980,1,92
+1264,Diva,Action|Drama|Mystery|Romance|Thriller,1980,2,63
+1321,"American Werewolf in London, An",Comedy|Horror|Thriller,1980,6,97
+1957,Chariots of Fire,Drama,1980,3,94
+1975,Friday the 13th Part 2,Horror,1980,1,63
+2041,Condorman,Action|Adventure|Children|Comedy,1980,7,62
+2075,Mephisto,Drama|War,1980,6,68
+2301,History of the World: Part I,Comedy|Musical,1980,9,84
+2968,Time Bandits,Adventure|Comedy|Fantasy|Sci-Fi,1980,6,92
+3021,"Funhouse, The",Horror,1980,4,63
+3529,"Postman Always Rings Twice, The",Crime|Thriller,1980,7,75
+3805,Knightriders,Action|Adventure|Drama,1980,2,57
+3970,"Beyond, The (E tu vivrai nel terrore - L'aldilà)",Horror,1980,5,51
+4443,Outland,Action|Sci-Fi|Thriller,1980,3,75
+5039,Dragonslayer,Action|Adventure|Fantasy,1980,2,74
+5540,Clash of the Titans,Action|Adventure|Fantasy|Romance,1980,4,94
+5655,"Fan, The",Drama|Thriller,1980,2,77
+5710,Banana Joe,Comedy,1980,10,92
+5712,Blow Out,Mystery|Thriller,1980,5,78
+5718,Carbon Copy,Comedy,1980,4,57
+5723,Continental Divide,Comedy|Romance,1980,9,55
+5745,"Four Seasons, The",Comedy|Drama,1980,9,95
+5746,Galaxy of Terror (Quest),Action|Horror|Mystery|Sci-Fi,1980,1,81
+5754,"Hand, The",Drama|Horror,1980,8,86
+5765,"Looney, Looney, Looney Bugs Bunny Movie, The",Animation|Children|Comedy,1980,3,83
+5773,Neighbors,Comedy,1980,1,100
+5779,Piranha II: The Spawning,Horror|Sci-Fi,1980,10,73
+5782,"Professional, The (Le professionnel)",Action|Drama|Thriller,1980,7,72
+5847,Ragtime,Drama,1980,5,82
+5850,Road Games (a.k.a. Roadgames),Thriller,1980,3,96
+5853,Scanners,Horror|Sci-Fi|Thriller,1980,3,97
+5854,Sharky's Machine,Crime|Drama|Romance,1980,5,79
+5857,So Fine,Comedy,1980,9,74
+5859,Southern Comfort,Drama|Thriller|War,1980,9,73
+5867,Thief,Crime|Drama|Thriller,1980,8,75
+5868,This Is Elvis,Documentary|Drama|Musical,1980,6,62
+5869,True Confessions,Crime|Drama,1980,5,100
+5910,"Bolero (Uns et les autres, Les)",Drama|War,1980,2,60
+5913,Warning for the Joensson Gang (Varning för Jönssonligan),Comedy|Crime,1980,1,52
+5915,Victory (a.k.a. Escape to Victory),Action|Drama|War,1980,2,83
+5917,Zoot Suit,Drama|Musical,1980,1,55

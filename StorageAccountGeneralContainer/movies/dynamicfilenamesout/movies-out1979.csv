@@ -1,0 +1,90 @@
+movie,title,genres,year,Rating,RottenTomato
+1080,Monty Python's Life of Brian,Comedy,1979,3,85
+1208,Apocalypse Now,Action|Drama|War,1979,5,100
+1232,Stalker,Drama|Mystery|Sci-Fi,1979,7,80
+1244,Manhattan,Comedy|Drama|Romance,1979,7,70
+1955,Kramer vs. Kramer,Drama,1979,1,83
+2034,"Black Hole, The",Children|Sci-Fi,1979,10,83
+2109,"Jerk, The",Comedy,1979,7,67
+2537,Beyond the Poseidon Adventure,Adventure,1979,3,66
+2862,Caligula,Drama,1979,2,60
+2901,Phantasm,Horror|Sci-Fi,1979,2,90
+3040,Meatballs,Comedy,1979,1,83
+3135,"Great Santini, The",Drama,1979,7,67
+3359,Breaking Away,Comedy|Drama,1979,7,76
+3428,"Champ, The",Drama,1979,7,79
+3506,North Dallas Forty,Comedy|Drama,1979,10,95
+3702,Mad Max,Action|Adventure|Sci-Fi,1979,9,64
+4197,Real Life,Comedy,1979,9,98
+4292,Norma Rae,Drama,1979,2,56
+4811,Quadrophenia,Drama|Musical,1979,6,60
+4893,When a Stranger Calls,Horror|Thriller,1979,5,92
+5165,Zombie (a.k.a. Zombie 2: The Dead Are Among Us) (Zombi 2),Horror,1979,8,87
+5489,Nosferatu the Vampyre (Nosferatu: Phantom der Nacht),Horror,1979,5,72
+5600,"Wanderers, The",Drama,1979,9,61
+6032,"Little Romance, A",Comedy|Romance,1979,5,83
+6413,"Electric Horseman, The",Comedy|Western,1979,7,70
+6521,"Main Event, The",Comedy,1979,7,62
+6658,10,Comedy|Romance,1979,9,76
+6665,Dracula,Horror|Romance,1979,8,85
+6735,"Rose, The",Drama,1979,10,60
+6748,"Brood, The",Horror,1979,3,99
+7104,1941,Comedy|War,1979,9,63
+7802,"Warriors, The",Action|Adventure|Crime|Thriller,1979,9,94
+7990,Rock 'N' Roll High School,Comedy|Musical,1979,6,74
+8899,Hardcore,Drama,1979,4,56
+26409,"Clonus Horror, The",Horror|Sci-Fi,1979,7,72
+26425,"In-Laws, The",Action|Comedy,1979,1,78
+26435,Starting Over,Comedy|Romance,1979,9,72
+31502,Salem's Lot,Drama|Horror|Mystery|Thriller,1979,1,67
+31522,"Marriage of Maria Braun, The (Ehe der Maria Braun, Die)",Drama,1979,5,70
+43177,Over the Edge,Crime|Drama,1979,4,57
+55652,Scum,Crime|Drama,1979,1,68
+55757,Chilly Scenes of Winter (Head Over Heels),Comedy|Drama|Romance,1979,10,83
+1128,"Fog, The",Horror,1979,2,50
+1135,Private Benjamin,Comedy,1979,3,92
+1220,"Blues Brothers, The",Action|Comedy|Musical,1979,1,67
+1258,"Shining, The",Horror,1979,4,51
+1286,Somewhere in Time,Drama|Romance,1979,7,56
+1956,Ordinary People,Drama,1979,1,86
+2130,Atlantic City,Crime|Drama|Romance,1979,6,93
+2286,"Fiendish Plot of Dr. Fu Manchu, The",Comedy,1979,4,55
+2525,Alligator,Action|Horror|Sci-Fi,1979,8,93
+2641,Superman II,Action|Sci-Fi,1979,9,66
+2851,Saturn 3,Adventure|Sci-Fi|Thriller,1979,8,88
+2950,"Blue Lagoon, The",Adventure|Drama|Romance,1979,6,61
+3091,Kagemusha,Drama|War,1979,10,83
+3235,Where the Buffalo Roam,Comedy,1979,1,83
+3587,Inferno,Horror,1979,7,51
+3811,Breaker Morant,Drama|War,1979,7,94
+3834,Bronco Billy,Adventure|Drama|Romance,1979,9,59
+4177,"Mirror Crack'd, The",Crime|Mystery|Thriller,1979,5,65
+4706,"Cage aux Folles II, La",Comedy,1979,1,73
+4716,Bad Timing: A Sensual Obsession,Drama,1979,8,81
+4717,"Battle Creek Brawl (Big Brawl, The)",Action|Comedy,1979,8,80
+4833,"Changeling, The",Horror|Mystery|Thriller,1979,10,82
+4834,Cheech & Chong's Next Movie,Comedy,1979,2,78
+4835,Coal Miner's Daughter,Drama,1979,5,60
+4836,"Competition, The",Drama|Romance,1979,9,64
+4932,Dressed to Kill,Mystery|Thriller,1979,6,51
+4936,Fame,Drama|Musical,1979,5,93
+4941,Flash Gordon,Action|Adventure|Sci-Fi,1979,1,94
+5042,Forbidden Zone,Musical|Sci-Fi,1979,9,65
+5043,"Formula, The",Thriller,1979,9,59
+5179,Gloria,Drama|Thriller,1979,7,64
+5182,Hawk the Slayer,Action|Fantasy,1979,5,97
+5187,Hopscotch,Comedy,1979,9,58
+5205,Motel Hell,Comedy|Horror,1979,8,69
+5208,"Ninth Configuration, The (a.k.a. Twinkle, Twinkle, Killer Kane)",Drama|War,1979,8,88
+5238,Return of the Secaucus 7,Drama,1979,1,76
+5244,Shogun Assassin,Action|Adventure,1979,5,72
+5246,Smokey and the Bandit II,Action|Comedy,1979,9,96
+5413,Zombie Holocaust (a.k.a. Doctor Butcher M.D.) (Zombi Holocaust),Horror,1979,2,89
+5699,Tom Horn,Western,1979,6,77
+5705,Xanadu,Fantasy|Musical|Romance,1979,3,72
+6000,"House on the Edge of the Park, The (Casa sperduta nel parco, La)",Horror|Thriller,1979,6,59
+7790,"Bon Voyage, Charlie Brown (and Don't Come Back!)",Animation|Children|Comedy,1979,8,76
+8906,Cannibal Holocaust,Horror,1979,5,83
+69241,Berlin Alexanderplatz,Drama,1979,7,68
+77658,Cosmos,Documentary,1979,7,82
+112577,Willie & Phil,Comedy|Drama|Romance,1979,6,72
