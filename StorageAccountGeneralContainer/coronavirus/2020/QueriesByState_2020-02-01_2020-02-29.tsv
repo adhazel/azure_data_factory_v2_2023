@@ -1,0 +1,1003 @@
+Date	Query	IsImplicitIntent	State	Country	PopularityScore
+2020-02-01	coronavirus death	False	New York	United States	1
+2020-02-01	coronavirus death toll	False	Colorado	United States	20
+2020-02-01	マスク	True	Okayama	Japan	50
+2020-02-01	マスク	True	Kumamoto	Japan	100
+2020-02-01	coronavirus humain	False	Quebec	Canada	1
+2020-02-01	マスク	True	Nara	Japan	75
+2020-02-01	coronavirus	False	Bournemouth	United Kingdom	1
+2020-02-01	corona virus	False	Alabama	United States	10
+2020-02-01	コロナウイルス	False	Ibaraki	Japan	100
+2020-02-01	coronavirus deaths	False	Colorado	United States	2
+2020-02-01	how did the coronavirus start	False	Ohio	United States	2
+2020-02-01	coronavirus	False	Greater Accra Region	Ghana	1
+2020-02-01	coronavirus china	False	Shanghai	China	4
+2020-02-01	wuhan virus	True	Guangdong	China	5
+2020-02-01	coronavirus in united states	False	Washington	United States	2
+2020-02-01	coronavirus	False	Cornwall	United Kingdom	1
+2020-02-01	コロナウイルス	False	Saitama	Japan	100
+2020-02-01	coronavirus death toll	False	Quebec	Canada	1
+2020-02-01	tucker carlson	True	Wisconsin	United States	1
+2020-02-01	coronavirus	False	Buskerud	Norway	1
+2020-02-01	coronavirus	False	Nuevo Leon	Mexico	100
+2020-02-01	coronovirus	False	Georgia	United States	1
+2020-02-01	coronavirus in canada	False	British Columbia	Canada	3
+2020-02-01	how did the coronavirus start	False	Ontario	Canada	1
+2020-02-01	wuhan	True	Beijing	China	15
+2020-02-01	china coronavirus	False	New York	United States	3
+2020-02-01	coronavirus death toll	False	Louisiana	United States	12
+2020-02-01	how many people have died from coronavirus	False	West Midlands	United Kingdom	1
+2020-02-01	coronavirus death toll	False	Texas	United States	19
+2020-02-01	cdc coronavirus	False	New Jersey	United States	5
+2020-02-01	massachusetts man coronavirus	False	Ontario	Canada	3
+2020-02-01	corona virus	False	Ile-De-France	France	6
+2020-02-01	who coronavirus	False	New Jersey	United States	1
+2020-02-01	coronavirus death toll	False	Maine	United States	15
+2020-02-01	worthing hospital	True	West Sussex	United Kingdom	1
+2020-02-01	coronavirus	False	Hunan	China	100
+2020-02-01	wuhan coronavirus	False	London	United Kingdom	1
+2020-02-01	corona virus update	False	Michigan	United States	45
+2020-02-01	massachusetts man coronavirus	False	Idaho	United States	31
+2020-02-01	coronavirus news	False	Piedmont	Italy	2
+2020-02-01	coronavirus chine	False	Quebec	Canada	2
+2020-02-01	coronavirus symptoms	False	South Yorkshire	United Kingdom	3
+2020-02-01	corona virus	False	Zurich	Switzerland	1
+2020-02-01	coronavirus in nyc	False	New York	United States	1
+2020-02-01	corona virus update	False	Gauteng	South Africa	64
+2020-02-01	wuhan virus	True	None	Singapore	50
+2020-02-01	コロナ	True	Ibaraki	Japan	1
+2020-02-01	corona virus map	False	California	United States	3
+2020-02-01	coronavirus canada	False	Quebec	Canada	4
+2020-02-01	wuhan coronavirus	False	Beijing	China	20
+2020-02-01	wuhan china	True	Connecticut	United States	2
+2020-02-01	corona virus	False	Lagos	Nigeria	38
+2020-02-01	coronavirus	False	Yucatan	Mexico	1
+2020-02-01	coronavirus uk	False	Hertfordshire	United Kingdom	8
+2020-02-01	what is coronavirus	False	Minnesota	United States	6
+2020-02-01	massachusetts man coronavirus	False	Nebraska	United States	31
+2020-02-01	コロナ	True	Aichi	Japan	22
+2020-02-01	expressen	True	Vaesternorrland	Sweden	1
+2020-02-01	coronavirus map	False	London	United Kingdom	2
+2020-02-01	coronavirus update	False	Zhejiang	China	1
+2020-02-01	symptoms of coronavirus	False	Connecticut	United States	3
+2020-02-01	china coronavirus	False	Nevada	United States	3
+2020-02-01	cdc coronavirus update	False	Washington	United States	3
+2020-02-01	china virus	True	Minnesota	United States	2
+2020-02-01	coronavirus	False	Lusaka	Zambia	1
+2020-02-01	corona virus	False	New Jersey	United States	11
+2020-02-01	coronavirus	False	Kerala	India	100
+2020-02-01	corona virus	False	Bahia	Brazil	100
+2020-02-01	coronavirus	False	Istanbul	Turkey	1
+2020-02-01	china virus	True	Ohio	United States	6
+2020-02-01	massachusetts man coronavirus	False	Provincia De Santo Domingo	Dominican Republic	1
+2020-02-01	uk coronavirus	False	London	United Kingdom	1
+2020-02-01	coronavirus death toll	False	Connecticut	United States	22
+2020-02-01	coronavirus symptoms	False	Virginia	United States	11
+2020-02-01	マスク	True	Wakayama	Japan	100
+2020-02-01	california coronavirus	False	California	United States	1
+2020-02-01	coronavirus	False	Arizona	United States	100
+2020-02-01	coronavirus illinois	False	Illinois	United States	1
+2020-02-01	coronavirus death toll	False	Shanghai	China	4
+2020-02-01	coronavirus	False	Quebec	Canada	100
+2020-02-01	virus corona	False	North Sumatra	Indonesia	1
+2020-02-01	マスク	True	Gifu	Japan	100
+2020-02-01	coronavirus death toll	False	Ontario	Canada	8
+2020-02-01	symptoms of coronavirus	False	District Of Columbia	United States	1
+2020-02-01	coronavirus	False	Zeeland	Netherlands	1
+2020-02-01	coronavirus	False	Ningxia Hui	China	1
+2020-02-01	coronavirus	False	Luxembourg	Luxembourg	1
+2020-02-01	coronavirus italia	False	Piedmont	Italy	9
+2020-02-01	remdesivir	True	Guangdong	China	29
+2020-02-01	auswärtiges amt	True	North Rhine-Westphalia	Germany	2
+2020-02-01	bat soup	True	California	United States	2
+2020-02-01	corona virus	False	Colorado	United States	11
+2020-02-01	wuhan	True	California	United States	5
+2020-02-01	china virus	True	Guangdong	China	4
+2020-02-01	symptoms of coronavirus	False	Maryland	United States	4
+2020-02-01	johns hopkins coronavirus map	False	Ohio	United States	4
+2020-02-01	coronavirus map	False	Oregon	United States	2
+2020-02-01	coronavirus vaccine	False	New York	United States	1
+2020-02-01	what is the coronavirus	False	Oregon	United States	1
+2020-02-01	corona virus update	False	Quebec	Canada	16
+2020-02-01	coronavirus death toll	False	Jiangsu	China	3
+2020-02-01	coronavirus	False	Latium	Italy	100
+2020-02-01	coronavirus	False	Distrito Capital	Venezuela	1
+2020-02-01	human coronavirus	False	Georgia	United States	1
+2020-02-01	coronavirus	False	Aberdeen City	United Kingdom	1
+2020-02-01	wuhan virus	True	Beijing	China	4
+2020-02-01	corona virus news	False	New York	United States	1
+2020-02-01	symptoms of coronavirus	False	Wisconsin	United States	6
+2020-02-01	lackland afb	True	Texas	United States	2
+2020-02-01	corona virus map	False	Quebec	Canada	1
+2020-02-01	wuhan virus	True	Zhejiang	China	1
+2020-02-01	coronavirus	False	Kalmar County	Sweden	1
+2020-02-01	corona virus	False	Ontario	Canada	17
+2020-02-01	coronavirus uk	False	South Yorkshire	United Kingdom	34
+2020-02-01	coronavirus death	False	Texas	United States	1
+2020-02-01	what is coronavirus	False	Illinois	United States	2
+2020-02-01	n95 mask	True	Washington	United States	3
+2020-02-01	coronavirus update	False	New York	United States	7
+2020-02-01	coronavirus	False	Upper Austria	Austria	1
+2020-02-01	corona virus update	False	North Holland	Netherlands	1
+2020-02-01	coronavirus	False	Jalisco	Mexico	1
+2020-02-01	coronavirus	False	Piedmont	Italy	100
+2020-02-01	coronavirus update	False	New Hampshire	United States	4
+2020-02-01	coronavirus	False	Zurich	Switzerland	34
+2020-02-01	coronavirus	False	Friesland	Netherlands	1
+2020-02-01	coronavirus cure	False	Texas	United States	1
+2020-02-01	corona virus map	False	Oklahoma	United States	3
+2020-02-01	coronavirus	False	Basilicata	Italy	1
+2020-02-01	wuhan china	True	Nebraska	United States	4
+2020-02-01	coronavirus	False	Muscat	Oman	1
+2020-02-01	coronavirus	False	Gauteng	South Africa	100
+2020-02-01	expressen	True	Kronoberg County	Sweden	1
+2020-02-01	corona virus	False	Quebec	Canada	11
+2020-02-01	コロナ	True	Nagano	Japan	1
+2020-02-01	coronavirus	False	North-East Lincolnshire	United Kingdom	1
+2020-02-01	corona virus update	False	Surrey	United Kingdom	1
+2020-02-01	latest on coronavirus	False	Ontario	Canada	1
+2020-02-01	coronavirus	False	Maryland	United States	100
+2020-02-01	コロナ	True	Shiga	Japan	1
+2020-02-01	johns hopkins coronavirus	False	Wisconsin	United States	2
+2020-02-01	wuhan virus	True	Sichuan	China	1
+2020-02-01	coronavirus updates	False	California	United States	1
+2020-02-01	what is the coronavirus	False	Tennessee	United States	4
+2020-02-01	2019-ncov	True	Virginia	United States	1
+2020-02-01	코로나 바이러스	False	Busan	Korea (South)	1
+2020-02-01	coronavirus	False	Hainaut	Belgium	1
+2020-02-01	expressen	True	Gotland County	Sweden	1
+2020-02-01	coronavirus	False	West Yorkshire	United Kingdom	100
+2020-02-01	wuhan virus	True	Ohio	United States	2
+2020-02-01	冠状病毒	False	Beijing	China	32
+2020-02-01	corona virus adelaide	False	South Australia	Australia	3
+2020-02-01	coronavirus	False	Telangana	India	100
+2020-02-01	wuhan	True	New Mexico	United States	1
+2020-02-01	china coronavirus update	False	California	United States	1
+2020-02-01	coronavirus wien	False	Vienna	Austria	1
+2020-02-01	what is coronavirus	False	Tennessee	United States	3
+2020-02-01	china virus	True	New Jersey	United States	4
+2020-02-01	2019-ncov	True	Shaanxi	China	1
+2020-02-01	wuhan	True	New York	United States	3
+2020-02-01	coronavirus deaths	False	Pennsylvania	United States	1
+2020-02-01	コロナウイルス	False	Wakayama	Japan	63
+2020-02-01	corona virus death toll	False	California	United States	1
+2020-02-01	how did the coronavirus start	False	California	United States	2
+2020-02-01	cdc coronavirus	False	South Carolina	United States	3
+2020-02-01	cdc coronavirus	False	Washington	United States	8
+2020-02-01	over the counter medication for coronavirus in cats	False	Colorado	United States	1
+2020-02-01	corona virus italia	False	Piedmont	Italy	2
+2020-02-01	china virus	True	North Rhine-Westphalia	Germany	1
+2020-02-01	coronavirus hku1	False	Illinois	United States	2
+2020-02-01	wuhan coronavirus	False	Massachusetts	United States	2
+2020-02-01	coronavirus	False	Karnataka	India	100
+2020-02-01	srf	True	Basel-Town	Switzerland	1
+2020-02-01	guardian coronavirus	False	London	United Kingdom	1
+2020-02-01	coronavirus update	False	Shanghai	China	2
+2020-02-01	symptoms of coronavirus	False	Tennessee	United States	3
+2020-02-01	john hopkins coronavirus	False	Georgia	United States	1
+2020-02-01	massachusetts man coronavirus	False	Alabama	United States	43
+2020-02-01	coronavirus symptoms	False	Hertfordshire	United Kingdom	15
+2020-02-01	massachusetts man coronavirus	False	Distrito Capital	Colombia	1
+2020-02-01	coronavirus death toll	False	British Columbia	Canada	3
+2020-02-01	where did the coronavirus come from	False	Ohio	United States	3
+2020-02-01	coronavirus	False	Brussels Region	Belgium	1
+2020-02-01	coronavirus deaths	False	Illinois	United States	1
+2020-02-01	kalitta air	True	Ohio	United States	1
+2020-02-01	expressen	True	Jonkoping County	Sweden	100
+2020-02-01	マスク	True	Ishikawa	Japan	1
+2020-02-01	massachusetts man coronavirus	False	Tennessee	United States	26
+2020-02-01	srf	True	Zurich	Switzerland	100
+2020-02-01	coronavirus	False	Jiangxi	China	100
+2020-02-01	coronavirus death toll	False	Gauteng	South Africa	23
+2020-02-01	コロナウイルス	False	Oita	Japan	1
+2020-02-01	coronavirus	False	Distrito Capital	Colombia	100
+2020-02-01	what is the coronavirus	False	New Jersey	United States	4
+2020-02-01	is there a cure for coronavirus	False	London	United Kingdom	1
+2020-02-01	johns hopkins coronavirus	False	Virginia	United States	1
+2020-02-01	massachusetts man coronavirus	False	Wisconsin	United States	29
+2020-02-01	coronavirus dallas	False	Texas	United States	2
+2020-02-01	corona virus update	False	Ad Dawhah	Qatar	1
+2020-02-01	coronavirus	False	Mississippi	United States	100
+2020-02-01	corona virus	False	Piedmont	Italy	39
+2020-02-01	symptoms of coronavirus	False	Pennsylvania	United States	4
+2020-02-01	coronavirus	False	Uppsala County	Sweden	1
+2020-02-01	harvard professor arrested	True	Tennessee	United States	1
+2020-02-01	coronavirus	False	Berlin	Germany	100
+2020-02-01	coronavirus usa	False	California	United States	2
+2020-02-01	コロナウイルス	False	Nagano	Japan	80
+2020-02-01	novel coronavirus	False	Maryland	United States	3
+2020-02-01	coronavirus	False	Southampton	United Kingdom	1
+2020-02-01	coronavirus	False	Baladiyat Ad Dawhah	Qatar	1
+2020-02-01	wuhan china	True	Kentucky	United States	1
+2020-02-01	cdc coronavirus	False	Colorado	United States	7
+2020-02-01	john hopkins coronavirus	False	Virginia	United States	1
+2020-02-01	coronavirus uk	False	West Sussex	United Kingdom	12
+2020-02-01	coronavirus	False	Hainan	China	1
+2020-02-01	coronavirus	False	Michigan	United States	100
+2020-02-01	massachusetts man coronavirus	False	California	United States	26
+2020-02-01	coronavirus santa clara	False	Arizona	United States	8
+2020-02-01	first case of 2019 novel coronavirus in the united states	False	Shanghai	China	1
+2020-02-01	coronavirus	False	North Holland	Netherlands	100
+2020-02-01	coronavirus	False	Jiangsu	China	100
+2020-02-01	remdesivir	True	Hebei	China	30
+2020-02-01	coronavirus symptoms	False	England	United Kingdom	1
+2020-02-01	what is coronavirus	False	Nebraska	United States	2
+2020-02-01	john hopkins coronavirus map	False	Ontario	Canada	1
+2020-02-01	coronavirus	False	North Yorkshire	United Kingdom	100
+2020-02-01	コロナ	True	Yamaguchi	Japan	1
+2020-02-01	expressen	True	Halland County	Sweden	100
+2020-02-01	carona virus	False	Washington	United States	1
+2020-02-01	coronavirus update	False	Tennessee	United States	4
+2020-02-01	coronavirus nyc	False	New York	United States	4
+2020-02-01	corona virus	False	North Rhine-Westphalia	Germany	24
+2020-02-01	冠状病毒	False	Jiangxi	China	1
+2020-02-01	corona virus	False	Oregon	United States	11
+2020-02-01	wuhan china	True	Oklahoma	United States	3
+2020-02-01	coronavirus	False	Glasgow City	United Kingdom	100
+2020-02-01	china coronavirus	False	New Jersey	United States	3
+2020-02-01	マスク	True	Miyazaki	Japan	1
+2020-02-01	coronavirus	False	Swindon	United Kingdom	1
+2020-02-01	マスク	True	Yamagata	Japan	1
+2020-02-01	コロナ	True	Saitama	Japan	35
+2020-02-01	coronavirus symptoms	False	Maine	United States	1
+2020-02-01	coronavirus death toll	False	Massachusetts	United States	11
+2020-02-01	massachusetts man coronavirus	False	Georgia	United States	30
+2020-02-01	coronavirus update	False	Washington	United States	12
+2020-02-01	コロナウイルスとは	False	Tokyo	Japan	9
+2020-02-01	コロナウイルス	False	Kumamoto	Japan	1
+2020-02-01	sars virus	True	Virginia	United States	1
+2020-02-01	ansa ultima ora	True	Piedmont	Italy	5
+2020-02-01	coronavirus symptoms	False	Tennessee	United States	15
+2020-02-01	china coronavirus	False	Arizona	United States	3
+2020-02-01	corona virus in california	False	California	United States	1
+2020-02-01	coronavirus	False	Hamburg	Germany	100
+2020-02-01	corona virus	False	Montana	United States	1
+2020-02-01	pelosi	True	Arizona	United States	1
+2020-02-01	coronavirus symptoms	False	Gauteng	South Africa	31
+2020-02-01	2019-ncov	True	Texas	United States	3
+2020-02-01	lawrence coronavirus	False	Ohio	United States	1
+2020-02-01	coronavirus map	False	Tennessee	United States	1
+2020-02-01	coronavirus	False	Somerset	United Kingdom	100
+2020-02-01	coronavirus symptoms	False	Colorado	United States	13
+2020-02-01	coronavirus news	False	London	United Kingdom	2
+2020-02-01	massachusetts man coronavirus	False	West Virginia	United States	64
+2020-02-01	corona virus	False	Ohio	United States	9
+2020-02-01	coronavirus new york	False	New York	United States	2
+2020-02-01	2019-ncov	True	Liaoning	China	1
+2020-02-01	coronavirus san diego	False	California	United States	1
+2020-02-01	novel coronavirus	False	Washington	United States	1
+2020-02-01	2019-ncov	True	Anhui	China	25
+2020-02-01	coronavirus	False	Greater Accra	Ghana	1
+2020-02-01	srf	True	Lucerne	Switzerland	100
+2020-02-01	2019 novel coronavirus	False	Guangdong	China	1
+2020-02-01	coronavirus	False	Riyadh	Saudi Arabia	100
+2020-02-01	coronavirus update	False	London	United Kingdom	1
+2020-02-01	coronavirus	False	Casablanca-Settat	Morocco	1
+2020-02-01	coronavirus in united states	False	Tennessee	United States	2
+2020-02-01	canada coronavirus	False	Ontario	Canada	2
+2020-02-01	expressen	True	Uppsala County	Sweden	100
+2020-02-01	corona virus	False	Iowa	United States	7
+2020-02-01	sintomi coronavirus	False	Lombardy	Italy	3
+2020-02-01	coronavirus aktuell	False	Bavaria	Germany	5
+2020-02-01	srf	True	Aargau	Switzerland	1
+2020-02-01	coronavirus	False	Campania	Italy	100
+2020-02-01	corona virus update	False	New Brunswick	Canada	1
+2020-02-01	johns hopkins coronavirus	False	Texas	United States	1
+2020-02-01	auswärtiges amt	True	Berlin	Germany	1
+2020-02-01	phe coronavirus	False	London	United Kingdom	1
+2020-02-01	冠状病毒	False	Jiangsu	China	56
+2020-02-01	コロナウイルス	False	Nara	Japan	100
+2020-02-01	corona virus update	False	New Hampshire	United States	61
+2020-02-01	bat soup	True	Virginia	United States	3
+2020-02-01	corona virus santa clara county	False	California	United States	1
+2020-02-01	massachusetts man coronavirus	False	Connecticut	United States	33
+2020-02-01	coronavirus	False	Punjab	Pakistan	100
+2020-02-01	マスク	True	Nagano	Japan	100
+2020-02-01	expressen	True	Gavleborg County	Sweden	1
+2020-02-01	massachusetts man coronavirus	False	Shanghai	China	11
+2020-02-01	coronavirus deaths	False	Tennessee	United States	1
+2020-02-01	マスク	True	Oita	Japan	100
+2020-02-01	coronavirus	False	Shropshire	United Kingdom	1
+2020-02-01	corona virus deutschland	False	North Rhine-Westphalia	Germany	2
+2020-02-01	corona virus	False	Latium	Italy	24
+2020-02-01	cdc coronavirus	False	Utah	United States	4
+2020-02-01	coronavirus news	False	Sardinia	Italy	1
+2020-02-01	massachusetts man coronavirus	False	Nevada	United States	40
+2020-02-01	coronavirus uk	False	Somerset	United Kingdom	1
+2020-02-01	johns hopkins coronavirus	False	California	United States	1
+2020-02-01	china coronavirus	False	Pennsylvania	United States	4
+2020-02-01	sars virus	True	Pennsylvania	United States	2
+2020-02-01	coronavirus	False	Merseyside	United Kingdom	100
+2020-02-01	corona virus	False	Punjab	Pakistan	1
+2020-02-01	coronavirus	False	Queretaro	Mexico	1
+2020-02-01	coronavirus	False	Liaoning	China	100
+2020-02-01	coronavirus death toll	False	Tennessee	United States	19
+2020-02-01	n95 mask	True	Georgia	United States	3
+2020-02-01	corona virus	False	South Carolina	United States	5
+2020-02-01	sintomi corona virus	False	Lombardy	Italy	1
+2020-02-01	coronavirus update	False	Gauteng	South Africa	1
+2020-02-01	coronavirus deaths	False	California	United States	2
+2020-02-01	corona virus map	False	Minnesota	United States	3
+2020-02-01	china virus	True	Connecticut	United States	1
+2020-02-01	coronavirus in united states	False	Pennsylvania	United States	3
+2020-02-01	expressen	True	Ostergotland County	Sweden	100
+2020-02-01	folkhälsomyndigheten se	True	Stockholm County	Sweden	2
+2020-02-01	massachusetts man coronavirus	False	Kentucky	United States	32
+2020-02-01	corona virus update	False	Colorado	United States	45
+2020-02-01	corona virus update	False	Rhode Island	United States	48
+2020-02-01	coronavirus	False	Tennessee	United States	100
+2020-02-01	coronavirus	False	Brandenburg	Germany	100
+2020-02-01	what is coronavirus	False	New Mexico	United States	6
+2020-02-01	corona virus italia	False	Tuscany	Italy	1
+2020-02-01	corona virus update	False	West Midlands	United Kingdom	1
+2020-02-01	coronavirus symptoms	False	Iowa	United States	7
+2020-02-01	coronavirus in dogs	False	California	United States	1
+2020-02-01	coronavirus	False	Galicia	Spain	1
+2020-02-01	coronavirus bay area	False	California	United States	3
+2020-02-01	srf	True	Berne	Switzerland	100
+2020-02-01	corona virus	False	Community Of Madrid	Spain	4
+2020-02-01	coronavirus	False	Santa Catarina	Brazil	1
+2020-02-01	latest on coronavirus	False	Pennsylvania	United States	1
+2020-02-01	massachusetts coronavirus	False	Ohio	United States	1
+2020-02-01	novel coronavirus	False	Henan	China	1
+2020-02-01	coronavirus death toll	False	Delaware	United States	1
+2020-02-01	coronavirus	False	Ostergotland County	Sweden	1
+2020-02-01	wuhan china	True	Ohio	United States	7
+2020-02-01	corona virus	False	Hamburg	Germany	19
+2020-02-01	corona virus update	False	Tennessee	United States	56
+2020-02-01	corona virus update	False	South Carolina	United States	40
+2020-02-01	coronavirus death toll	False	Mississippi	United States	3
+2020-02-01	coronavirus in arkansas	False	Arkansas	United States	2
+2020-02-01	carte coronavirus	False	Ile-De-France	France	1
+2020-02-01	sesto san giovanni	True	Lombardy	Italy	1
+2020-02-01	symptoms of coronavirus	False	Minnesota	United States	4
+2020-02-01	massachusetts man coronavirus	False	Liaoning	China	15
+2020-02-01	n95 mask	True	Maryland	United States	4
+2020-02-01	coronavirus	False	Kingston Upon Hull	United Kingdom	1
+2020-02-01	coronavirus	False	Normandy	France	1
+2020-02-01	coronavirus news	False	California	United States	2
+2020-02-01	what causes coronavirus	False	California	United States	1
+2020-02-01	coronavirus live updates	False	Virginia	United States	1
+2020-02-01	chinese coronavirus	False	Hawaii	United States	1
+2020-02-01	coronavirus	False	Valais	Switzerland	1
+2020-02-01	corona virus update	False	Oklahoma	United States	40
+2020-02-01	corona virus	False	Stockholm County	Sweden	2
+2020-02-01	coronavirus symptoms	False	Bristol	United Kingdom	1
+2020-02-01	corona virus	False	Tennessee	United States	8
+2020-02-01	symptoms of coronavirus	False	Oxfordshire	United Kingdom	6
+2020-02-01	coronavirus	False	Community Of Madrid	Spain	100
+2020-02-01	corona virus	False	Adis Abeba	Ethiopia	1
+2020-02-01	where did the coronavirus come from	False	Pennsylvania	United States	1
+2020-02-01	coronavirus	False	North Rhine-Westphalia	Germany	100
+2020-02-01	coronavirus washington state	False	Washington	United States	1
+2020-02-01	corona virus	False	National Capital Region	Philippines	12
+2020-02-01	corona virus	False	Indiana	United States	4
+2020-02-01	coronavirus	False	Sardinia	Italy	100
+2020-02-01	corona virus update	False	Jiangsu	China	9
+2020-02-01	corona virus	False	Utah	United States	3
+2020-02-01	코로나 바이러스	False	Gyeonggi	Korea (South)	1
+2020-02-01	massachusetts man coronavirus	False	Gauteng	South Africa	5
+2020-02-01	coronavirus	False	South Carolina	United States	100
+2020-02-01	symptoms of coronavirus	False	Virginia	United States	5
+2020-02-01	novel coronavirus	False	Shanghai	China	6
+2020-02-01	china virus	True	Tennessee	United States	4
+2020-02-01	massachusetts man coronavirus	False	Pennsylvania	United States	30
+2020-02-01	coronavirus	False	Iles Du Vent	French Polynesia	1
+2020-02-01	coronavirus china	False	Maryland	United States	1
+2020-02-01	italie	True	Ile-De-France	France	2
+2020-02-01	coronavirus	False	Penang	Malaysia	1
+2020-02-01	massachusetts man coronavirus	False	Oklahoma	United States	34
+2020-02-01	coronavirus death toll	False	Michigan	United States	17
+2020-02-01	salvini	True	Lombardy	Italy	2
+2020-02-01	how did the coronavirus start	False	New York	United States	3
+2020-02-01	coronavirus	False	Bedfordshire	United Kingdom	1
+2020-02-01	cdc coronavirus update	False	Colorado	United States	1
+2020-02-01	coronavirus canada	False	British Columbia	Canada	1
+2020-02-01	coronavirus update	False	Minnesota	United States	12
+2020-02-01	coronavirus	False	Louisiana	United States	100
+2020-02-01	what is coronavirus	False	New Jersey	United States	7
+2020-02-01	coronavirus	False	West Sussex	United Kingdom	100
+2020-02-01	remdesivir	True	Liaoning	China	15
+2020-02-01	coronavirus	False	Rogaland	Norway	1
+2020-02-01	pelosi	True	Georgia	United States	3
+2020-02-01	coronavirus	False	England	United Kingdom	100
+2020-02-01	cdc coronavirus	False	Tennessee	United States	2
+2020-02-01	coronavirus	False	Abu Dhabi	United Arab Emirates	100
+2020-02-01	coronavirus	False	Central Province	Sri Lanka	1
+2020-02-01	coronavirus update	False	Mississippi	United States	1
+2020-02-01	coronavirus	False	Middlesbrough	United Kingdom	1
+2020-02-01	coronavirus en españa	False	Community Of Madrid	Spain	2
+2020-02-01	carona virus	False	California	United States	1
+2020-02-01	germersheim	True	Rhineland-Palatinate	Germany	1
+2020-02-01	coronavirus death toll	False	South Carolina	United States	31
+2020-02-01	massachusetts man coronavirus	False	Ohio	United States	30
+2020-02-01	coronavirus aktuell	False	Berlin	Germany	3
+2020-02-01	regione lombardia	True	Lombardy	Italy	30
+2020-02-01	china coronavirus	False	Illinois	United States	3
+2020-02-01	corona virus update	False	Delaware	United States	62
+2020-02-01	coronavirus news	False	Virginia	United States	2
+2020-02-01	corona virus	False	Sicily	Italy	18
+2020-02-01	what is coronavirus	False	Pennsylvania	United States	6
+2020-02-01	china coronavirus	False	Alberta	Canada	1
+2020-02-01	coronavirus symptoms	False	West Virginia	United States	20
+2020-02-01	corona virus update	False	Abu Dhabi	United Arab Emirates	1
+2020-02-01	coronavirus	False	Derbyshire	United Kingdom	1
+2020-02-01	coronavirus uk	False	Surrey	United Kingdom	23
+2020-02-01	coronavirus mass	False	Massachusetts	United States	1
+2020-02-01	corona virus in adults	False	Ohio	United States	1
+2020-02-01	coronavirus	False	Guatemala	Guatemala	1
+2020-02-01	coronavirus	False	Veracruz	Mexico	1
+2020-02-01	cornovirus	False	Texas	United States	1
+2020-02-01	coronavirus fürstenfeldbruck	False	Bavaria	Germany	1
+2020-02-01	massachusetts man coronavirus	False	New York	United States	32
+2020-02-01	wuhan coronavirus	False	Liaoning	China	15
+2020-02-01	china virus	True	Bavaria	Germany	2
+2020-02-01	what is the coronavirus	False	Ohio	United States	7
+2020-02-01	coronavirus	False	Al Asimah	Kuwait	100
+2020-02-01	coronavirus uk	False	Middlesex	United Kingdom	1
+2020-02-01	remdesivir	True	Washington	United States	1
+2020-02-01	wuhan coronavirus	False	Sichuan	China	7
+2020-02-01	coronavirus	False	Rhineland-Palatinate	Germany	100
+2020-02-01	coronavirus aktuell	False	North Rhine-Westphalia	Germany	2
+2020-02-01	cornavirus	False	Ontario	Canada	1
+2020-02-01	who coronavirus	False	Guangdong	China	2
+2020-02-01	coronavirus map	False	South Carolina	United States	4
+2020-02-01	corona virus	False	Abu Dhabi	United Arab Emirates	23
+2020-02-01	srf	True	Valais	Switzerland	100
+2020-02-01	coronavirus españa	False	Community Of Madrid	Spain	6
+2020-02-01	what is coronavirus	False	Gauteng	South Africa	1
+2020-02-01	coronavirus boston	False	Massachusetts	United States	16
+2020-02-01	remdesivir	True	Georgia	United States	1
+2020-02-01	corona virus news	False	California	United States	1
+2020-02-01	corona virus update	False	National Capital Region	Philippines	12
+2020-02-01	corona virus	False	Rhineland-Palatinate	Germany	13
+2020-02-01	corona virus update	False	Utah	United States	45
+2020-02-01	ministero della salute	True	Lombardy	Italy	1
+2020-02-01	コロナウイルス	False	Toyama	Japan	100
+2020-02-01	coronavirus bayern	False	Bavaria	Germany	3
+2020-02-01	remdesivir	True	Shanghai	China	26
+2020-02-01	冠状病毒	False	Liaoning	China	65
+2020-02-01	coronavirus uk	False	Nottingham City	United Kingdom	1
+2020-02-01	how did the coronavirus start	False	Arizona	United States	1
+2020-02-01	wuhan	True	Zhejiang	China	13
+2020-02-01	coronavirus update	False	Pennsylvania	United States	8
+2020-02-01	coronavirus	False	Lisbon	Portugal	1
+2020-02-01	maine news	True	Maine	United States	15
+2020-02-01	ansa ultima ora	True	Latium	Italy	12
+2020-02-01	massachusetts man coronavirus	False	Mississippi	United States	29
+2020-02-01	corona virus update	False	Montana	United States	40
+2020-02-01	wuhan virus	True	Florida	United States	1
+2020-02-01	coronavirus deaths	False	Virginia	United States	2
+2020-02-01	coronavirus nhs	False	London	United Kingdom	1
+2020-02-01	what is the coronavirus	False	Arizona	United States	3
+2020-02-01	マスク	True	Kochi	Japan	1
+2020-02-01	coronavirus sintomas	False	Community Of Madrid	Spain	1
+2020-02-01	coronavirus	False	Nottingham City	United Kingdom	100
+2020-02-01	coronavirus symptoms	False	South Carolina	United States	16
+2020-02-01	coronavirus ansteckung	False	North Rhine-Westphalia	Germany	2
+2020-02-01	コロナ	True	Nara	Japan	1
+2020-02-01	mappa coronavirus	False	Lombardy	Italy	2
+2020-02-01	sars virus	True	Georgia	United States	2
+2020-02-01	thailand coronavirus	False	California	United States	1
+2020-02-01	miami university coronavirus	False	Ohio	United States	12
+2020-02-01	coronavirus uk	False	Leicester City	United Kingdom	1
+2020-02-01	cdc coronavirus	False	Virginia	United States	5
+2020-02-01	n95 mask	True	Pennsylvania	United States	3
+2020-02-01	corona virus news	False	Wisconsin	United States	1
+2020-02-01	corona virus	False	Marches	Italy	3
+2020-02-01	corona virus in india	False	Rajasthan	India	100
+2020-02-01	expressen	True	Stockholm County	Sweden	100
+2020-02-01	massachusetts man coronavirus	False	Maryland	United States	28
+2020-02-01	corona virus	False	Alaska	United States	12
+2020-02-01	coronavirus	False	Leicester City	United Kingdom	100
+2020-02-01	ministerio de sanidad	True	Community Of Madrid	Spain	2
+2020-02-01	what is coronavirus	False	California	United States	4
+2020-02-01	2019-ncov	True	Sichuan	China	7
+2020-02-01	corona virus	False	Lisboa	Portugal	1
+2020-02-01	corona virus	False	Jiangsu	China	5
+2020-02-01	coronavirus rouen	False	Ile-De-France	France	2
+2020-02-01	coronavirus map	False	Minnesota	United States	6
+2020-02-01	コロナウイルス	False	Fukui	Japan	100
+2020-02-01	virus corona	False	Thanh Pho Ha Noi	Viet Nam	1
+2020-02-01	coronavirus	False	National Capital Region	Philippines	100
+2020-02-01	coronavirus ultime notizie	False	Lombardy	Italy	1
+2020-02-01	coronavirus china	False	North Rhine-Westphalia	Germany	4
+2020-02-01	symptoms of coronavirus	False	North Carolina	United States	4
+2020-02-01	coronavirus	False	Utah	United States	100
+2020-02-01	coronavirus update	False	Alaska	United States	7
+2020-02-01	coronavirus update	False	South Carolina	United States	5
+2020-02-01	coronavirus	False	New Brunswick	Canada	100
+2020-02-01	webasto	True	Saxony	Germany	1
+2020-02-01	symptoms of coronavirus	False	Georgia	United States	3
+2020-02-01	coronavirus	False	Phuket	Thailand	1
+2020-02-01	coronavirus update	False	Kentucky	United States	7
+2020-02-01	who coronavirus	False	Shanghai	China	1
+2020-02-01	expressen	True	Kalmar County	Sweden	100
+2020-02-01	sintomas coronavirus	False	Community Of Madrid	Spain	4
+2020-02-01	coronavirus santa clara	False	California	United States	6
+2020-02-01	coronavirus	False	Surrey	United Kingdom	100
+2020-02-01	coronavirus in us	False	Pennsylvania	United States	1
+2020-02-01	coronavirus	False	Delaware	United States	100
+2020-02-01	coronavirus in ny	False	New York	United States	1
+2020-02-01	coronavirus update	False	Oklahoma	United States	6
+2020-02-01	virginia coronavirus	False	Virginia	United States	1
+2020-02-01	john hopkins coronavirus	False	Texas	United States	1
+2020-02-01	coronavirus	False	Portsmouth	United Kingdom	1
+2020-02-01	wuhan	True	Arizona	United States	1
+2020-02-01	coronavirus	False	Suffolk	United Kingdom	100
+2020-02-01	corona virus update	False	South Australia	Australia	12
+2020-02-01	coronavirus sintomi	False	Lombardy	Italy	3
+2020-02-01	コロナウイルス感染症	False	Chiba	Japan	1
+2020-02-01	n95 mask	True	Ohio	United States	2
+2020-02-01	coronavirus us	False	Connecticut	United States	1
+2020-02-01	who coronavirus	False	Utah	United States	3
+2020-02-01	coronavirus	False	Saxony	Germany	100
+2020-02-01	coronavirus deutschland	False	North Rhine-Westphalia	Germany	6
+2020-02-01	china coronavirus	False	Connecticut	United States	3
+2020-02-01	coronavirus deaths	False	North Carolina	United States	2
+2020-02-01	how many people have died from coronavirus	False	London	United Kingdom	2
+2020-02-01	webasto	True	Bavaria	Germany	8
+2020-02-01	massachusetts man coronavirus	False	South Carolina	United States	36
+2020-02-01	coronavirus	False	Calabarzon	Philippines	1
+2020-02-01	china coronavirus spreads	False	Texas	United States	1
+2020-02-01	coronavirus	False	Rajasthan	India	1
+2020-02-01	wuhan coronavirus	False	Florida	United States	2
+2020-02-01	coronavirus uk	False	North Yorkshire	United Kingdom	7
+2020-02-01	ansa ultima ora	True	Emilia-Romagna	Italy	4
+2020-02-01	فيروس كورونا	False	Makkah	Saudi Arabia	43
+2020-02-01	corona virus	False	Seoul	Korea (South)	1
+2020-02-01	coronavirus	False	Coahuila	Mexico	1
+2020-02-01	what is coronavirus	False	Georgia	United States	2
+2020-02-01	coronavirus	False	Oklahoma	United States	100
+2020-02-01	coronavirus uk	False	Suffolk	United Kingdom	24
+2020-02-01	coronavirus news	False	Lombardy	Italy	1
+2020-02-01	coronavirus	False	Utrecht	Netherlands	100
+2020-02-01	coronavirus china	False	London	United Kingdom	1
+2020-02-01	coronavirus	False	Lisboa	Portugal	100
+2020-02-01	tucker carlson	True	Texas	United States	1
+2020-02-01	coronavirus symptoms	False	National Capital Region	Philippines	1
+2020-02-01	coronavirus	False	Sicily	Italy	100
+2020-02-01	corona virus	False	Saxony	Germany	6
+2020-02-01	corona virus update	False	Selangor	Malaysia	86
+2020-02-01	coronavirus	False	East Riding Of Yorkshire	United Kingdom	1
+2020-02-01	coronavirus aktuell	False	Hamburg	Germany	1
+2020-02-01	cornovirus	False	Virginia	United States	1
+2020-02-01	coronavirus münchen	False	Bavaria	Germany	1
+2020-02-01	corona virus update	False	Sichuan	China	1
+2020-02-01	coronavirus death toll	False	Utah	United States	4
+2020-02-01	coronavirus china	False	Hesse	Germany	1
+2020-02-01	coronavirus death toll	False	West Virginia	United States	12
+2020-02-01	coronavirus	False	Tunis	Tunisia	1
+2020-02-01	コロナ	True	Mie	Japan	1
+2020-02-01	novel coronavirus	False	South Carolina	United States	1
+2020-02-01	coronavirus in new york	False	New York	United States	1
+2020-02-01	coronavirus	False	Montana	United States	100
+2020-02-01	coronavirus	False	Lima Province	Peru	1
+2020-02-01	coronavirus death toll	False	Maryland	United States	17
+2020-02-01	corona virus update	False	Riyadh	Saudi Arabia	1
+2020-02-01	corona virus	False	Emilia-Romagna	Italy	25
+2020-02-01	wuhan coronavirus	False	Shanghai	China	17
+2020-02-01	coronavirus	False	Reading	United Kingdom	1
+2020-02-01	coronovirus	False	New York	United States	1
+2020-02-01	coronavirus in deutschland	False	North Rhine-Westphalia	Germany	1
+2020-02-01	us wuhan quarantine	True	Texas	United States	1
+2020-02-01	corona virus update	False	Al Asimah	Kuwait	1
+2020-02-01	wuhan coronavirus	False	Hebei	China	1
+2020-02-01	corona virus	False	Louisiana	United States	6
+2020-02-01	coronavirus	False	Western Cape	South Africa	100
+2020-02-01	wuhan china	True	Florida	United States	5
+2020-02-01	equine coronavirus massachusetts	False	Massachusetts	United States	1
+2020-02-01	coronavirus	False	Umbria	Italy	100
+2020-02-01	china coronavirus	False	London	United Kingdom	1
+2020-02-01	corona virus	False	Minnesota	United States	8
+2020-02-01	coronavirus morti	False	Lombardy	Italy	1
+2020-02-01	wuhan virus	True	California	United States	2
+2020-02-01	coronavirus	False	British Columbia	Canada	100
+2020-02-01	what is the coronavirus	False	Georgia	United States	4
+2020-02-01	coronavirus	False	New York	United States	100
+2020-02-01	cdc coronavirus update	False	Virginia	United States	3
+2020-02-01	massachusetts coronavirus	False	Massachusetts	United States	2
+2020-02-01	novel coronavirus update	False	Ohio	United States	1
+2020-02-01	coronavirus	False	Emilia-Romagna	Italy	100
+2020-02-01	coronavirus	False	Marches	Italy	100
+2020-02-01	coronavirus	False	Arkansas	United States	100
+2020-02-01	what is coronavirus	False	South Carolina	United States	2
+2020-02-01	coronavirus	False	Tuscany	Italy	100
+2020-02-01	what is corona virus	False	New York	United States	1
+2020-02-01	coronavirus	False	Dalarna County	Sweden	1
+2020-02-01	coronavirus update	False	Maryland	United States	7
+2020-02-01	china virus	True	Jiangsu	China	5
+2020-02-01	john hopkins coronavirus	False	New York	United States	1
+2020-02-01	coronavirus	False	Vienna	Austria	100
+2020-02-01	what is the coronavirus	False	California	United States	3
+2020-02-01	what is coronavirus	False	Ohio	United States	5
+2020-02-01	china coronavirus	False	Maryland	United States	1
+2020-02-01	coronavirus live updates	False	Pennsylvania	United States	1
+2020-02-01	coronavirus map	False	Lombardy	Italy	1
+2020-02-01	coronavirus	False	Halland County	Sweden	1
+2020-02-01	コロナ	True	Miyagi	Japan	1
+2020-02-01	expressen	True	Vastmanland County	Sweden	100
+2020-02-01	coronavirus symptoms	False	Oklahoma	United States	15
+2020-02-01	coronavirus in india	False	Telangana	India	3
+2020-02-01	coronavirus	False	West Bengal	India	100
+2020-02-01	alto adige	True	Latium	Italy	1
+2020-02-01	cdc coronavirus update	False	California	United States	2
+2020-02-01	coronavirus news	False	North Rhine-Westphalia	Germany	1
+2020-02-01	coronavirus in united states	False	Michigan	United States	1
+2020-02-01	novel coronavirus	False	National Capital Region	Philippines	1
+2020-02-01	sars virus	True	Minnesota	United States	2
+2020-02-01	corona virus	False	Al Kuwayt	Kuwait	1
+2020-02-01	coronavirus italia	False	Emilia-Romagna	Italy	1
+2020-02-01	coronavirus	False	Stockholm County	Sweden	12
+2020-02-01	coronavirus death toll	False	West Midlands	United Kingdom	1
+2020-02-01	wuhan	True	Guangdong	China	10
+2020-02-01	how did coronavirus start	False	California	United States	1
+2020-02-01	who coronavirus	False	Georgia	United States	3
+2020-02-01	what is the coronavirus	False	South Carolina	United States	3
+2020-02-01	us coronavirus	False	New Jersey	United States	2
+2020-02-01	coronavirus	False	Nairobi Province	Kenya	1
+2020-02-01	coronavirus deaths	False	Washington	United States	1
+2020-02-01	china coronavirus	False	Iowa	United States	2
+2020-02-01	coronavirus map	False	Utah	United States	3
+2020-02-01	symptoms of coronavirus	False	Hertfordshire	United Kingdom	1
+2020-02-01	coronavirus symptoms	False	Wellington Region	New Zealand	1
+2020-02-01	corona virus	False	Oslo	Norway	1
+2020-02-01	wuhan virus	True	Shanghai	China	3
+2020-02-01	coronavirus	False	Cumbria	United Kingdom	1
+2020-02-01	massachusetts man coronavirus	False	Maine	United States	44
+2020-02-01	マスク	True	Chiba	Japan	95
+2020-02-01	massachusetts man coronavirus	False	District Of Columbia	United States	7
+2020-02-01	coronavirus	False	East Sussex	United Kingdom	100
+2020-02-01	wuhan	True	Sichuan	China	11
+2020-02-01	coronavirus	False	Sichuan	China	87
+2020-02-01	coronavirus	False	West Midlands	United Kingdom	100
+2020-02-01	coronavirus italia	False	Lombardy	Italy	3
+2020-02-01	corona virus	False	Alberta	Canada	17
+2020-02-01	coronavirus symptoms	False	London	United Kingdom	27
+2020-02-01	coronavirus	False	Cheshire	United Kingdom	1
+2020-02-01	corona virus map	False	Ohio	United States	6
+2020-02-01	china coronavirus	False	Ontario	Canada	4
+2020-02-01	wuhan virus	True	Virginia	United States	1
+2020-02-01	corona virus	False	Vastra Gotaland County	Sweden	1
+2020-02-01	coronavirus update	False	Manitoba	Canada	1
+2020-02-01	coronaviruset	False	Stockholm County	Sweden	1
+2020-02-01	coronavirus parma	False	Emilia-Romagna	Italy	1
+2020-02-01	germersheim	True	Bavaria	Germany	2
+2020-02-01	wuhan	True	Texas	United States	4
+2020-02-01	ohio coronavirus	False	Ohio	United States	2
+2020-02-01	wuhan china	True	South Carolina	United States	3
+2020-02-01	coronavirus	False	Manitoba	Canada	100
+2020-02-01	what is the coronavirus	False	Virginia	United States	3
+2020-02-01	coronavirus	False	Nova Scotia	Canada	100
+2020-02-01	coronavirus symptome	False	North Rhine-Westphalia	Germany	3
+2020-02-01	what is coronavirus	False	West Midlands	United Kingdom	1
+2020-02-01	coronavirus	False	Lombardy	Italy	100
+2020-02-01	what is coronavirus	False	Utah	United States	1
+2020-02-01	sars virus	True	Washington	United States	2
+2020-02-01	us coronavirus	False	Illinois	United States	1
+2020-02-01	コロナウイルス	False	Miyagi	Japan	60
+2020-02-01	coronavirus symptoms	False	Kentucky	United States	15
+2020-02-01	coronavirus	False	North Lanarkshire	United Kingdom	1
+2020-02-01	wuhan	True	Georgia	United States	3
+2020-02-01	coronavirus symptoms in humans	False	Maryland	United States	1
+2020-02-01	coronavirus symptoms	False	Telangana	India	1
+2020-02-01	massachusetts man coronavirus	False	Montana	United States	37
+2020-02-01	wuhan china	True	New York	United States	5
+2020-02-01	corona virus update	False	Manitoba	Canada	36
+2020-02-01	冠状病毒	False	Shanghai	China	30
+2020-02-01	wuhan	True	Florida	United States	2
+2020-02-01	cdc coronavirus update	False	Wisconsin	United States	2
+2020-02-01	corona virus update	False	Nova Scotia	Canada	28
+2020-02-01	corona virus	False	Eastern Samar	Philippines	1
+2020-02-01	corona virus in india	False	West Bengal	India	60
+2020-02-01	corona virus update	False	Louisiana	United States	26
+2020-02-01	salvini	True	Emilia-Romagna	Italy	1
+2020-02-01	china coronavirus	False	Jiangsu	China	14
+2020-02-01	coronavirus map	False	Oklahoma	United States	7
+2020-02-01	coronavirus italia	False	Sicily	Italy	6
+2020-02-01	corona virus	False	Hertfordshire	United Kingdom	3
+2020-02-01	corona virus	False	Utrecht	Netherlands	1
+2020-02-01	human coronavirus	False	Texas	United States	1
+2020-02-01	coronavirus symptoms	False	County Dublin	Ireland	1
+2020-02-01	corona virus	False	Nova Scotia	Canada	1
+2020-02-01	corona virus	False	Victoria	Australia	20
+2020-02-01	coronavirus symptoms	False	Utah	United States	12
+2020-02-01	corona virus update	False	Kwazulu-Natal	South Africa	25
+2020-02-01	sars virus	True	California	United States	3
+2020-02-01	what is corona virus	False	California	United States	1
+2020-02-01	what is coronavirus	False	Alabama	United States	2
+2020-02-01	冠状病毒	False	Hebei	China	100
+2020-02-01	corona virus update	False	Western Cape	South Africa	86
+2020-02-01	coronavirus death toll	False	Montana	United States	8
+2020-02-01	冠状病毒	False	Inner Mongolia	China	1
+2020-02-01	who coronavirus	False	Arizona	United States	11
+2020-02-01	corona virus italia	False	Lombardy	Italy	1
+2020-02-01	massachusetts man coronavirus	False	Sichuan	China	21
+2020-02-01	coronavirus death toll	False	Oklahoma	United States	21
+2020-02-01	coronavirus	False	Anzoategui	Venezuela	1
+2020-02-01	cdc coronavirus	False	Arizona	United States	22
+2020-02-01	what is the coronavirus	False	Pennsylvania	United States	3
+2020-02-01	corona virus	False	Wisconsin	United States	8
+2020-02-01	wuhan coronavirus	False	Virginia	United States	2
+2020-02-01	who coronavirus	False	Queensland	Australia	1
+2020-02-01	coronavirus	False	County Dublin	Ireland	100
+2020-02-01	coronavirus	False	West Virginia	United States	100
+2020-02-01	coronavirus symptoms in humans	False	California	United States	2
+2020-02-01	coronavirus	False	Lincolnshire	United Kingdom	1
+2020-02-01	coronavirus	False	Flemish Brabant	Belgium	1
+2020-02-01	germersheim	True	North Rhine-Westphalia	Germany	2
+2020-02-01	coronavirus york	False	York	United Kingdom	17
+2020-02-01	coronavirus death toll	False	Minnesota	United States	16
+2020-02-01	wuhan china	True	Georgia	United States	3
+2020-02-01	coronavirus	False	Guangdong	China	100
+2020-02-01	coronavirus map	False	Maryland	United States	3
+2020-02-01	冠状病毒	False	Yunnan	China	1
+2020-02-01	coronavirus	False	Ljubljana	Slovenia	1
+2020-02-01	who coronavirus	False	Florida	United States	2
+2020-02-01	マスク	True	Miyagi	Japan	100
+2020-02-01	corona virus	False	County Dublin	Ireland	7
+2020-02-01	china coronavirus	False	Oregon	United States	2
+2020-02-01	china coronavirus	False	Virginia	United States	2
+2020-02-01	cdc coronavirus update	False	Texas	United States	2
+2020-02-01	coronavirus	False	Hidalgo	Mexico	1
+2020-02-01	corona virus	False	Lombardy	Italy	21
+2020-02-01	symptoms of coronavirus	False	Alabama	United States	1
+2020-02-01	corona virus update	False	Virginia	United States	44
+2020-02-01	paddington station	True	London	United Kingdom	2
+2020-02-01	symptoms of coronavirus	False	Ohio	United States	7
+2020-02-01	cdc coronavirus update	False	Connecticut	United States	1
+2020-02-01	coronavirus	False	Atlantico	Colombia	1
+2020-02-01	corona virus	False	West Bengal	India	1
+2020-02-01	pelosi	True	Ohio	United States	4
+2020-02-01	coronavirus symptoms	False	Suffolk	United Kingdom	1
+2020-02-01	corona virus	False	West Virginia	United States	1
+2020-02-01	コロナウイルス	False	Mie	Japan	67
+2020-02-01	coronavirus map	False	Colorado	United States	4
+2020-02-01	massachusetts man coronavirus	False	Arizona	United States	33
+2020-02-01	coronavirus	False	Styria	Austria	1
+2020-02-01	virus china	True	North Rhine-Westphalia	Germany	2
+2020-02-01	coronavírus	False	Minas Gerais	Brazil	42
+2020-02-01	corona virus	False	Vienna	Austria	11
+2020-02-01	coronavirus map	False	Virginia	United States	4
+2020-02-01	corona virus	False	Guangdong	China	4
+2020-02-01	corona virus	False	New Hampshire	United States	11
+2020-02-01	massachusetts man coronavirus	False	Guangxi Zhuang	China	1
+2020-02-01	コロナウイルス	False	Ishikawa	Japan	100
+2020-02-01	coronavirus	False	Yunnan	China	100
+2020-02-01	coronavirus	False	Andhra Pradesh	India	100
+2020-02-01	coronavirus death toll	False	Kentucky	United States	5
+2020-02-01	coronavirus	False	Massachusetts	United States	100
+2020-02-01	symptoms of coronavirus	False	New York	United States	4
+2020-02-01	冠状病毒	False	Guizhou	China	1
+2020-02-01	wuhan coronavirus	False	Georgia	United States	3
+2020-02-01	coronavirus symptoms	False	Maryland	United States	13
+2020-02-01	coronavirus uk	False	Kent	United Kingdom	18
+2020-02-01	coronavirus map	False	Pennsylvania	United States	7
+2020-02-01	coronavirus ottawa	False	Ontario	Canada	1
+2020-02-01	coronavirus uk	False	London	United Kingdom	32
+2020-02-01	coronavírus	False	Pernambuco	Brazil	1
+2020-02-01	ats milano	True	Lombardy	Italy	1
+2020-02-01	コロナ	True	Kanagawa	Japan	22
+2020-02-01	coronavirus news	False	Bavaria	Germany	4
+2020-02-01	coronavirus	False	Region Del Biobio	Chile	1
+2020-02-01	wuhan china	True	Virginia	United States	3
+2020-02-01	le coronavirus	False	Ile-De-France	France	1
+2020-02-01	coronavirus	False	Nairobi Area	Kenya	1
+2020-02-01	corona virus news	False	Hesse	Germany	1
+2020-02-01	coronavirus	False	California	United States	100
+2020-02-01	novel coronavirus	False	Sichuan	China	1
+2020-02-01	2019-ncov	True	Jiangsu	China	20
+2020-02-01	coronavirus update	False	Utah	United States	1
+2020-02-01	johns hopkins coronavirus	False	New York	United States	1
+2020-02-01	corona virus	False	Ad Dawhah	Qatar	93
+2020-02-01	carona virus	False	Ontario	Canada	1
+2020-02-01	who coronavirus	False	Virginia	United States	3
+2020-02-01	coronavirus symptoms	False	Kent	United Kingdom	1
+2020-02-01	coronavirus map	False	Arizona	United States	5
+2020-02-01	corona virus update	False	British Columbia	Canada	64
+2020-02-01	coronavirus symptome	False	Bavaria	Germany	9
+2020-02-01	corona virus	False	Province 3	Nepal	17
+2020-02-01	symptoms of coronavirus	False	New Jersey	United States	5
+2020-02-01	coronavirus death toll	False	Province 3	Nepal	1
+2020-02-01	coronavirus symptoms	False	Hampshire	United Kingdom	1
+2020-02-01	coronavirus	False	South Australia	Australia	100
+2020-02-01	symptoms of coronavirus	False	Idaho	United States	1
+2020-02-01	wuhan coronavirus	False	Guangdong	China	20
+2020-02-01	what is the coronavirus	False	Florida	United States	3
+2020-02-01	webasto	True	North Rhine-Westphalia	Germany	6
+2020-02-01	coronavirus	False	Colorado	United States	100
+2020-02-01	world health organization coronavirus	False	California	United States	1
+2020-02-01	coronavirus	False	Vastmanland County	Sweden	1
+2020-02-01	コロナウイルス感染症	False	Hyogo	Japan	1
+2020-02-01	coronavirus in united states	False	Oklahoma	United States	3
+2020-02-01	massachusetts man coronavirus	False	Minnesota	United States	25
+2020-02-01	coronavirus	False	Kent	United Kingdom	100
+2020-02-01	coronavirus symptoms	False	Pennsylvania	United States	17
+2020-02-01	korona virüsü	False	Ankara	Turkey	1
+2020-02-01	wuhan coronavirus	False	Illinois	United States	4
+2020-02-01	ansa ultima ora	True	Lombardy	Italy	3
+2020-02-01	coronavirus in us	False	Michigan	United States	5
+2020-02-01	coronavirus symptoms	False	Surrey	United Kingdom	12
+2020-02-01	coronavirus	False	Drenthe	Netherlands	1
+2020-02-01	coronavirus	False	Basque Country	Spain	1
+2020-02-01	coronavirus symptoms	False	Maharashtra	India	18
+2020-02-01	coronavirus	False	Provincia De Pichincha	Ecuador	1
+2020-02-01	corona virus update	False	Indiana	United States	42
+2020-02-01	coronavirus update	False	Montana	United States	10
+2020-02-01	coronavirus	False	Abidjan	Cote D'ivoire	1
+2020-02-01	coronavirus	False	York	United Kingdom	100
+2020-02-01	corona virus update	False	Alberta	Canada	69
+2020-02-01	マスク	True	Fukushima	Japan	100
+2020-02-01	symptoms of coronavirus	False	Tyne And Wear	United Kingdom	1
+2020-02-01	corona virus	False	Brandenburg	Germany	1
+2020-02-01	2019-ncov	True	Hunan	China	28
+2020-02-01	coronavirus	False	Edinburgh City	United Kingdom	100
+2020-02-01	coronavirus origin	False	California	United States	1
+2020-02-01	corona virus	False	New Mexico	United States	6
+2020-02-01	remdesivir	True	Ohio	United States	4
+2020-02-01	コロナウイルスとは	False	Kanagawa	Japan	2
+2020-02-01	coronavirus	False	Province 3	Nepal	67
+2020-02-01	salvini	True	Sicily	Italy	1
+2020-02-01	corona virus	False	Friuli-Venezia Giulia	Italy	1
+2020-02-01	マスク	True	Yamanashi	Japan	1
+2020-02-01	corona virus update	False	West Virginia	United States	28
+2020-02-01	massachusetts man coronavirus	False	Utah	United States	16
+2020-02-01	冠状病毒	False	Zhejiang	China	62
+2020-02-01	coronavirus	False	Puebla	Mexico	1
+2020-02-01	coronavirus	False	Sonora	Mexico	1
+2020-02-01	coronavirus	False	Dorset	United Kingdom	1
+2020-02-01	coronavirus	False	Friuli-Venezia Giulia	Italy	100
+2020-02-01	coronavirus death rate	False	Ontario	Canada	1
+2020-02-01	coronavirus update	False	New Mexico	United States	7
+2020-02-01	wuhan	True	Virginia	United States	2
+2020-02-01	corona virus	False	Edinburgh City	United Kingdom	1
+2020-02-01	remdesivir	True	Sichuan	China	11
+2020-02-01	corona virus	False	Ceara	Brazil	100
+2020-02-01	coronavirus	False	Medway	United Kingdom	1
+2020-02-01	coronavirus	False	Selangor	Malaysia	100
+2020-02-01	corona virus update	False	Province 3	Nepal	100
+2020-02-01	alto adige	True	Lombardy	Italy	2
+2020-02-01	coronavirus death toll	False	Western Cape	South Africa	29
+2020-02-01	symptoms of coronavirus	False	Arizona	United States	5
+2020-02-01	corona virus ohio	False	Ohio	United States	1
+2020-02-01	coronavirus kina	False	Stockholm County	Sweden	1
+2020-02-01	china virus	True	Virginia	United States	1
+2020-02-01	coronavirus italia	False	Tuscany	Italy	1
+2020-02-01	expressen	True	Skane County	Sweden	100
+2020-02-01	コロナ	True	Tokyo	Japan	37
+2020-02-01	coronavirus	False	Middlesex	United Kingdom	100
+2020-02-01	expressen	True	Blekinge County	Sweden	1
+2020-02-01	coronavirus symptoms	False	Delaware	United States	8
+2020-02-01	coronavirus update	False	North Carolina	United States	7
+2020-02-01	coronavirus	False	Chiapas	Mexico	1
+2020-02-01	corona virus map	False	New Mexico	United States	2
+2020-02-01	corona virus	False	Gaborone	Botswana	1
+2020-02-01	2019-ncov	True	Georgia	United States	1
+2020-02-01	coronovirus	False	Texas	United States	2
+2020-02-01	coronavirus symptoms	False	West Midlands	United Kingdom	18
+2020-02-01	coronavirus news	False	Washington	United States	2
+2020-02-01	santa clara county coronavirus	False	California	United States	1
+2020-02-01	what is coronavirus	False	Florida	United States	4
+2020-02-01	symptoms of coronavirus	False	Washington	United States	4
+2020-02-01	coronavirus in india	False	Karnataka	India	6
+2020-02-01	corona virus update massachusetts	False	Massachusetts	United States	1
+2020-02-01	コロナ	True	Hokkaido	Japan	7
+2020-02-01	coronavirus symptoms	False	Massachusetts	United States	18
+2020-02-01	coronavirus update	False	Arkansas	United States	2
+2020-02-01	coronavirus	False	Zhejiang	China	100
+2020-02-01	coronavirus virginia	False	Virginia	United States	1
+2020-02-01	what are the symptoms of the coronavirus	False	Florida	United States	1
+2020-02-01	coronavirus	False	Kentucky	United States	100
+2020-02-01	coronavirus update	False	Nevada	United States	7
+2020-02-01	coronavirus	False	East Flanders	Belgium	1
+2020-02-01	coronavirus symptoms	False	Oregon	United States	16
+2020-02-01	coronavirus in philippines	False	California	United States	1
+2020-02-01	coronavirus death toll	False	Iowa	United States	10
+2020-02-01	corona virus update	False	Victoria	Australia	11
+2020-02-01	coronavirus	False	Mazowieckie	Poland	1
+2020-02-01	christmas island	True	Victoria	Australia	6
+2020-02-01	massachusetts man coronavirus	False	Henan	China	8
+2020-02-01	coronavirus	False	West Berkshire	United Kingdom	1
+2020-02-01	corona virus	False	Hawaii	United States	15
+2020-02-01	corona virus	False	Western Cape	South Africa	1
+2020-02-01	symptoms of coronavirus	False	Queensland	Australia	5
+2020-02-01	cdc coronavirus	False	Michigan	United States	14
+2020-02-01	マスク	True	Shizuoka	Japan	70
+2020-02-01	coronavirus	False	Tasmania	Australia	1
+2020-02-01	corona virus	False	British Columbia	Canada	16
+2020-02-01	remdesivir	True	New Jersey	United States	1
+2020-02-01	what is the coronavirus	False	London	United Kingdom	1
+2020-02-01	coronavirus	False	Haryana	India	1
+2020-02-01	what is coronavirus	False	Colorado	United States	2
+2020-02-01	corona virus symptoms	False	California	United States	2
+2020-02-01	coronavirus	False	Warwickshire	United Kingdom	100
+2020-02-01	massachusetts man coronavirus	False	North Carolina	United States	30
+2020-02-01	coronavirus china	False	New York	United States	1
+2020-02-01	coronavirus	False	Alberta	Canada	100
+2020-02-01	who coronavirus	False	California	United States	6
+2020-02-01	us wuhan quarantine	True	Florida	United States	1
+2020-02-01	what is coronavirus	False	Texas	United States	5
+2020-02-01	coronavirus mort	False	Ile-De-France	France	1
+2020-02-01	コロナウイルス	False	Yamanashi	Japan	100
+2020-02-01	coronavirus	False	North Brabant	Netherlands	100
+2020-02-01	wuhan china	True	District Of Columbia	United States	18
+2020-02-01	china virus	True	Pennsylvania	United States	2
+2020-02-01	coronavirus in usa	False	Michigan	United States	1
+2020-02-01	bat soup	True	Georgia	United States	1
+2020-02-01	coronavirus death toll	False	North Carolina	United States	22
+2020-02-01	corona virus	False	Texas	United States	11
+2020-02-01	what is the coronavirus	False	Colorado	United States	5
+2020-02-01	tucker carlson	True	Florida	United States	1
+2020-02-01	massachusetts man coronavirus	False	Massachusetts	United States	46
+2020-02-01	coronavirus map	False	New York	United States	4
+2020-02-01	corona virus update	False	Ohio	United States	42
+2020-02-01	corona virus update	False	Kentucky	United States	37
+2020-02-01	massachusetts man coronavirus	False	Lima	Peru	1
+2020-02-01	symptoms of coronaviruses	False	Washington	United States	1
+2020-02-01	コロナウイルスとは	False	Osaka	Japan	1
+2020-02-01	corona virus	False	Lower Saxony	Germany	17
+2020-02-01	coronavirus map	False	Massachusetts	United States	2
+2020-02-01	coronavirus vaccine	False	Texas	United States	1
+2020-02-01	coronavirus death toll	False	South Dakota	United States	1
+2020-02-01	코로나 바이러스	False	Incheon	Korea (South)	1
+2020-02-01	corona virus update	False	Iowa	United States	26
+2020-02-01	コロナウイルス	False	Shiga	Japan	78
+2020-02-01	wuhan china	True	Texas	United States	5
+2020-02-01	coronavirus latest	False	Merseyside	United Kingdom	1
+2020-02-01	symptoms of coronavirus	False	Florida	United States	5
+2020-02-01	coronavirus death toll	False	Washington	United States	18
+2020-02-01	coronavirus	False	Provincia De Panama	Panama	1
+2020-02-01	コロナウイルス	False	Fukushima	Japan	56
+2020-02-01	coronavirus deaths	False	Arizona	United States	2
+2020-02-01	coronavirus	False	Canterbury	New Zealand	1
+2020-02-01	コロナウイルス	False	Hokkaido	Japan	100
+2020-02-01	coronavirus	False	Maputo Cidade	Mozambique	1
+2020-02-01	corona virus in adults	False	California	United States	1
+2020-02-01	what are the symptoms of the coronavirus	False	New York	United States	1
+2020-02-01	corona virus update	False	Wisconsin	United States	36
+2020-02-01	coronavirus	False	Valencia	Spain	100
+2020-02-01	冠状病毒	False	Anhui	China	88
+2020-02-01	coronavirus canada	False	Alberta	Canada	5
+2020-02-01	coronavirus update	False	District Of Columbia	United States	7
+2020-02-01	coronavirus	False	Indiana	United States	100
+2020-02-01	china virus	True	Illinois	United States	2
+2020-02-01	coronavirus infection	False	California	United States	1
+2020-02-01	coronavirus china	False	Nuevo Leon	Mexico	1
+2020-02-01	corona virus update	False	Massachusetts	United States	38
+2020-02-01	coronavírus	False	Rio Grande Do Sul	Brazil	1
+2020-02-01	coronavirus death toll	False	Selangor	Malaysia	1
+2020-02-01	coronavirus uk	False	West Midlands	United Kingdom	25
+2020-02-01	sars virus	True	Florida	United States	1
+2020-02-01	china coronavirus	False	British Columbia	Canada	6
+2020-02-01	nyc coronavirus	False	New Jersey	United States	2
+2020-02-01	corona virus map	False	Kentucky	United States	1
+2020-02-01	coronavirus	False	Schleswig-Holstein	Germany	1
+2020-02-01	coronavirus symptoms	False	Western Cape	South Africa	5
+2020-02-01	coronavirus map	False	Michigan	United States	6
+2020-02-01	cdc coronavirus	False	Georgia	United States	8
+2020-02-01	who coronavirus	False	Illinois	United States	3
+2020-02-01	corona virus	False	West Yorkshire	United Kingdom	2
+2020-02-01	remdesivir	True	California	United States	2
+2020-02-01	what is coronavirus	False	North Carolina	United States	2
+2020-02-01	wuhan virus	True	Maryland	United States	1
+2020-02-01	corona virus	False	Federal Territory Of Kuala Lumpur	Malaysia	25
+2020-02-01	coronavirus	False	Autonomous Community Of Balearic Islands	Spain	1
+2020-02-01	coronavirus news	False	Hesse	Germany	2
+2020-02-01	coronovirus	False	Washington	United States	2
+2020-02-01	cdc coronavirus update	False	New York	United States	2
+2020-02-01	コロナウイルス	False	Shizuoka	Japan	100
+2020-02-01	wuhan china	True	California	United States	8
+2020-02-01	china virus	True	California	United States	2
+2020-02-01	cdc coronavirus	False	Oregon	United States	1
+2020-02-01	coronavirus	False	Staffordshire	United Kingdom	1
+2020-02-01	coronavirus	False	Ceara	Brazil	1
+2020-02-01	symptoms of coronavirus	False	Illinois	United States	1
+2020-02-01	pelosi	True	Florida	United States	1
+2020-02-01	wuhan virus	True	Jiangsu	China	5
+2020-02-01	oms coronavirus	False	Ile-De-France	France	1
+2020-02-01	coronavirus symptoms	False	Glasgow City	United Kingdom	13
+2020-02-01	corona virus update usa	False	Ohio	United States	1
+2020-02-01	coronavirus london ontario	False	Ontario	Canada	2
+2020-02-01	symptoms of coronavirus	False	Maharashtra	India	1
+2020-02-01	coronavirus usa	False	Texas	United States	2
+2020-02-01	coronavirus death toll	False	London	United Kingdom	3
