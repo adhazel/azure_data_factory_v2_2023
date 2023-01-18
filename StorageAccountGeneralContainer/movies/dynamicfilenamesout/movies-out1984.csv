@@ -1,0 +1,107 @@
+movie,title,genres,year,Rating,RottenTomato
+1225,Amadeus,Drama,1984,5,79
+1240,"Terminator, The",Action|Sci-Fi|Thriller,1984,8,62
+1288,This Is Spinal Tap,Comedy,1984,1,79
+1299,"Killing Fields, The",Drama|War,1984,6,55
+1305,"Paris, Texas",Drama|Romance,1984,7,94
+1965,Repo Man,Comedy|Sci-Fi,1984,8,71
+2003,Gremlins,Comedy|Horror,1984,10,52
+2100,Splash,Comedy|Fantasy|Romance,1984,5,66
+2115,Indiana Jones and the Temple of Doom,Action|Adventure|Fantasy,1984,8,53
+2259,Blame It on Rio,Comedy|Romance,1984,5,64
+2311,2010: The Year We Make Contact,Sci-Fi,1984,3,71
+2347,"Pope of Greenwich Village, The",Drama,1984,3,70
+2397,Mass Appeal,Drama,1984,10,64
+2406,Romancing the Stone,Action|Adventure|Comedy|Romance,1984,8,70
+2420,"Karate Kid, The",Drama,1984,8,68
+2716,Ghostbusters (a.k.a. Ghost Busters),Action|Comedy|Sci-Fi,1984,4,50
+3041,Meatballs Part II,Comedy,1984,10,71
+3098,"Natural, The",Drama,1984,10,93
+3109,"River, The",Drama,1984,3,98
+3110,Country,Drama,1984,7,98
+3441,Red Dawn,Action|Drama|War,1984,10,63
+3699,Starman,Adventure|Drama|Romance|Sci-Fi,1984,8,77
+3700,"Brother from Another Planet, The",Drama|Sci-Fi,1984,4,97
+3770,Dreamscape,Horror|Sci-Fi|Thriller,1984,5,69
+3877,Supergirl,Action|Adventure|Fantasy,1984,5,91
+3925,Stranger Than Paradise,Comedy|Drama,1984,9,68
+3937,Runaway,Sci-Fi|Thriller,1984,5,95
+4085,Beverly Hills Cop,Action|Comedy|Crime|Drama,1984,2,72
+4397,Cannonball Run II,Action|Comedy,1984,9,66
+4692,"Hotel New Hampshire, The",Drama,1984,1,67
+4971,Moscow on the Hudson,Comedy|Drama,1984,7,66
+5040,Conan the Destroyer,Action|Adventure|Fantasy,1984,7,93
+5061,Mrs. Soffel,Drama|Romance,1984,9,66
+5277,"Evil That Men Do, The",Action|Thriller,1984,5,89
+5344,Thief of Hearts,Drama|Thriller,1984,10,62
+5428,Cheech & Chong's The Corsican Brothers,Comedy,1984,4,95
+5500,Top Secret!,Comedy,1984,8,51
+5568,Johnny Dangerously,Comedy,1984,9,53
+6348,Breakin' 2: Electric Boogaloo,Musical,1984,6,93
+6349,Breakin',Drama|Musical,1984,9,91
+6814,City Heat,Action|Comedy,1984,10,74
+7087,"Passage to India, A",Adventure|Drama,1984,7,53
+7099,Nausicaä of the Valley of the Wind (Kaze no tani no Naushika),Adventure|Animation|Drama|Fantasy|Sci-Fi,1984,4,67
+7616,Body Double,Mystery|Thriller,1984,1,60
+8591,"Philadelphia Experiment, The",Adventure|Drama|Sci-Fi,1984,1,96
+8610,All of Me,Comedy|Fantasy,1984,5,50
+26472,"Norte, El",Adventure|Drama,1984,7,51
+26494,Suburbia,Drama,1984,3,88
+26501,Choose Me,Comedy|Romance,1984,6,68
+26524,"Times of Harvey Milk, The",Documentary,1984,6,51
+980,"Yes, Madam (a.k.a. Police Assassins) (a.k.a. In the Line of Duty 2) (Huang gu shi jie)",Action,1984,5,71
+1199,Brazil,Fantasy|Sci-Fi,1984,3,51
+1300,My Life as a Dog (Mitt liv som hund),Comedy|Drama,1984,9,96
+2033,"Black Cauldron, The",Adventure|Animation|Children|Fantasy,1984,8,57
+2093,Return to Oz,Adventure|Children|Fantasy,1984,4,94
+2134,Weird Science,Comedy|Fantasy|Sci-Fi,1984,2,50
+2146,St. Elmo's Fire,Drama|Romance,1984,1,87
+2344,Runaway Train,Action|Adventure|Drama|Thriller,1984,1,83
+2369,Desperately Seeking Susan,Comedy|Drama|Romance,1984,5,75
+2370,"Emerald Forest, The",Action|Adventure|Drama,1984,8,89
+2376,"View to a Kill, A",Action|Adventure|Thriller,1984,7,67
+2379,Police Academy 2: Their First Assignment,Comedy|Crime,1984,8,91
+2401,Pale Rider,Western,1984,10,50
+2405,"Jewel of the Nile, The",Action|Adventure|Comedy|Romance,1984,7,51
+2407,Cocoon,Comedy|Sci-Fi,1984,9,56
+2413,Clue,Comedy|Crime|Mystery|Thriller,1984,5,51
+2414,Young Sherlock Holmes,Action|Adventure|Children|Fantasy|Mystery|Thriller,1984,8,94
+2758,Plenty,Drama,1984,5,66
+2787,Cat's Eye,Horror,1984,3,77
+2794,European Vacation (aka National Lampoon's European Vacation),Adventure|Comedy|Romance,1984,8,62
+3018,Re-Animator,Comedy|Horror|Sci-Fi,1984,4,85
+3102,Jagged Edge,Crime|Romance|Thriller,1984,7,52
+3223,"Zed & Two Noughts, A",Drama,1984,4,81
+3251,Agnes of God,Drama|Mystery,1984,6,74
+3608,Pee-wee's Big Adventure,Adventure|Comedy,1984,7,53
+3637,Vagabond (Sans toit ni loi),Drama,1984,3,89
+3690,Porky's Revenge,Comedy,1984,9,52
+3704,Mad Max Beyond Thunderdome,Action|Adventure|Sci-Fi,1984,8,70
+4276,Lost in America,Comedy,1984,8,75
+4442,"Last Dragon, The",Action|Comedy|Drama,1984,5,76
+4565,American Ninja,Action|Adventure,1984,2,60
+4952,Morons From Outer Space,Comedy|Sci-Fi,1984,7,75
+5367,My Beautiful Laundrette,Drama|Romance,1984,9,73
+5433,Silver Bullet (Stephen King's Silver Bullet),Adventure|Drama|Horror|Mystery|Thriller,1984,9,93
+5471,Perfect,Drama|Romance,1984,5,74
+6345,"Chorus Line, A",Comedy|Drama|Musical,1984,3,62
+6582,Remo Williams: The Adventure Begins,Action|Comedy|Crime|Thriller,1984,9,69
+6636,"Sure Thing, The",Comedy|Romance,1984,5,90
+6664,Commando,Action|Adventure,1984,5,70
+6896,Shoah,Documentary|War,1984,3,62
+6964,Dance with a Stranger,Crime|Drama|Thriller,1984,2,72
+7036,Teen Wolf,Comedy|Fantasy,1984,3,58
+7307,Flesh & Blood,Action|Adventure|Drama|War,1984,10,60
+7308,King Solomon's Mines,Adventure|Comedy,1984,4,76
+7419,After Hours,Comedy|Thriller,1984,6,52
+8392,Fool for Love,Drama,1984,7,67
+8880,Mask,Drama,1984,6,65
+8884,"Man with One Red Shoe, The",Comedy|Thriller,1984,3,91
+26528,Anne of Green Gables,Children|Drama,1984,6,60
+26547,Police Story (Ging chaat goo si),Action|Comedy|Crime|Thriller,1984,10,78
+26554,"Quiet Earth, The",Drama|Mystery|Sci-Fi,1984,2,80
+26555,Spies Like Us,Comedy,1984,3,98
+26562,White Nights,Drama,1984,10,81
+36152,Dreamchild,Drama|Fantasy|Romance,1984,8,94
+58520,Mala Noche,Drama,1984,10,94
+97817,Pumping Iron II: The Women,Documentary,1984,10,60

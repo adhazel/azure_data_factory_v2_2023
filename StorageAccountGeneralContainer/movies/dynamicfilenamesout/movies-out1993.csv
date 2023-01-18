@@ -1,0 +1,202 @@
+movie,title,genres,year,Rating,RottenTomato
+178,Love & Human Remains,Comedy|Drama,1993,3,59
+307,Three Colors: Blue (Trois couleurs: Bleu),Drama,1993,4,56
+320,Suture,Film-Noir|Thriller,1993,10,79
+346,Backbeat,Drama|Musical,1993,7,93
+410,Addams Family Values,Children|Comedy|Fantasy,1993,10,73
+415,Another Stakeout,Comedy|Thriller,1993,5,99
+418,Being Human,Drama,1993,7,79
+419,"Beverly Hillbillies, The",Comedy,1993,9,64
+426,Body Snatchers,Horror|Sci-Fi|Thriller,1993,6,86
+427,Boxing Helena,Drama|Mystery|Romance|Thriller,1993,1,96
+439,Dangerous Game,Drama,1993,6,75
+440,Dave,Comedy|Romance,1993,3,90
+442,Demolition Man,Action|Adventure|Sci-Fi,1993,3,59
+444,Even Cowgirls Get the Blues,Comedy|Romance,1993,8,83
+445,Fatal Instinct,Comedy,1993,5,76
+446,Farewell My Concubine (Ba wang bie ji),Drama|Romance,1993,10,97
+448,Fearless,Drama,1993,9,63
+455,Free Willy,Adventure|Children|Drama,1993,5,91
+457,"Fugitive, The",Thriller,1993,5,79
+458,Geronimo: An American Legend,Drama|Western,1993,1,70
+463,Guilty as Sin,Crime|Drama|Thriller,1993,1,71
+464,Hard Target,Action|Adventure|Crime|Thriller,1993,3,71
+466,Hot Shots! Part Deux,Action|Comedy|War,1993,7,80
+469,"House of the Spirits, The",Drama|Romance,1993,8,100
+477,What's Love Got to Do with It?,Drama|Musical,1993,3,79
+479,Judgment Night,Action|Crime|Thriller,1993,7,86
+480,Jurassic Park,Action|Adventure|Sci-Fi|Thriller,1993,8,67
+481,Kalifornia,Drama|Thriller,1993,2,93
+483,King of the Hill,Drama,1993,3,82
+485,Last Action Hero,Action|Adventure|Comedy|Fantasy,1993,4,81
+489,Made in America,Comedy,1993,10,69
+491,"Man Without a Face, The",Drama,1993,8,51
+493,Menace II Society,Action|Crime|Drama,1993,1,65
+497,Much Ado About Nothing,Comedy|Romance,1993,5,68
+499,Mr. Wonderful,Comedy|Romance,1993,5,70
+500,Mrs. Doubtfire,Comedy|Drama,1993,7,93
+501,Naked,Drama,1993,3,54
+508,Philadelphia,Drama,1993,10,88
+509,"Piano, The",Drama|Romance,1993,2,63
+517,Rising Sun,Action|Drama|Mystery,1993,5,51
+524,Rudy,Drama,1993,4,84
+527,Schindler's List,Drama|War,1993,10,70
+540,Sliver,Thriller,1993,8,86
+543,So I Married an Axe Murderer,Comedy|Romance|Thriller,1993,2,89
+544,Striking Distance,Action|Crime,1993,4,61
+551,"Nightmare Before Christmas, The",Animation|Children|Fantasy|Musical,1993,7,77
+552,"Three Musketeers, The",Action|Adventure|Comedy|Romance,1993,2,70
+553,Tombstone,Action|Drama|Western,1993,4,96
+565,Cronos,Drama|Horror,1993,6,90
+621,My Favorite Season,Drama,1993,5,89
+793,My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud),Drama,1993,9,53
+824,Kaspar Hauser,Drama|Mystery,1993,5,53
+1015,Homeward Bound: The Incredible Journey,Adventure|Children|Drama,1993,4,96
+1020,Cool Runnings,Comedy,1993,7,93
+1265,Groundhog Day,Comedy|Fantasy|Romance,1993,1,77
+1325,Amityville: A New Generation,Horror,1993,3,75
+1440,Amos & Andrew,Comedy,1993,2,53
+1441,Benny & Joon,Comedy|Romance,1993,7,84
+2045,"Far Off Place, A",Adventure|Children|Drama|Romance,1993,9,90
+2071,And the Band Played On,Drama,1993,10,50
+2120,Needful Things,Drama|Horror,1993,3,79
+2269,Indecent Proposal,Drama|Romance,1993,2,81
+2552,My Boyfriend's Back,Comedy,1993,3,52
+2803,"Pelican Brief, The",Crime|Drama|Mystery|Romance|Thriller,1993,8,77
+2875,Sommersby,Drama|Mystery|Romance,1993,8,79
+3020,Falling Down,Action|Drama,1993,8,61
+3165,Boiling Point,Action|Drama,1993,7,96
+3400,We're Back! A Dinosaur's Story,Adventure|Animation|Children|Fantasy,1993,4,93
+3440,Teenage Mutant Ninja Turtles III,Action|Adventure|Children|Comedy|Fantasy,1993,3,63
+3466,Heart and Souls,Comedy|Fantasy,1993,7,84
+3761,"Blood In, Blood Out",Action|Crime|Drama|Thriller,1993,9,73
+4067,Untamed Heart,Drama|Romance,1993,1,86
+4846,Iron Monkey (Siu nin Wong Fei-hung ji: Tit Ma Lau),Action|Comedy,1993,6,66
+5452,Look Who's Talking Now,Children|Comedy|Romance,1993,8,58
+5962,Body of Evidence,Drama|Thriller,1993,8,61
+6166,Dennis the Menace,Comedy,1993,1,50
+6204,"Meteor Man, The",Comedy,1993,5,58
+6233,Born Yesterday,Comedy|Romance,1993,6,68
+6794,Beethoven's 2nd,Children|Comedy,1993,10,69
+6822,"Ballad of Little Jo, The",Drama|Western,1993,8,74
+7108,Crime Story (Zhong an zu),Action|Crime|Drama,1993,10,54
+7192,Only the Strong,Action,1993,7,94
+7782,Sniper,Action|Drama,1993,10,63
+7844,"Legend, The (Legend of Fong Sai-Yuk, The) (Fong Sai Yuk)",Action|Comedy,1993,2,66
+8254,Arizona Dream,Comedy|Drama|Fantasy|Romance,1993,9,53
+8268,Point of No Return,Action|Thriller,1993,3,69
+9005,Fire in the Sky,Drama|Mystery|Sci-Fi,1993,2,60
+26812,Barbarians at the Gate,Drama,1993,7,87
+26840,Sonatine (Sonachine),Action|Comedy|Crime|Drama,1993,6,50
+26842,Tai Chi Master (Twin Warriors) (Tai ji: Zhang San Feng),Action|Adventure|Comedy|Drama,1993,5,72
+26843,Three of Hearts,Comedy|Romance,1993,1,68
+32153,Once Upon a Forest,Adventure|Animation|Children|Fantasy,1993,10,71
+59447,Fiorile,Drama,1993,10,67
+92424,Dottie Gets Spanked,Drama,1993,1,91
+96004,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu),Action|Adventure|Animation,1993,4,92
+102217,Bill Hicks: Revelations,Comedy,1993,9,84
+53,Lamerica,Adventure|Drama,1993,4,79
+58,"Postman, The (Postino, Il)",Comedy|Drama|Romance,1993,8,88
+123,Chungking Express (Chung Hing sam lam),Drama|Mystery|Romance,1993,5,86
+211,"Browning Version, The",Drama,1993,7,67
+214,Before the Rain (Pred dozhdot),Drama|War,1993,7,67
+223,Clerks,Comedy,1993,9,84
+225,Disclosure,Drama|Thriller,1993,3,57
+227,Drop Zone,Action|Thriller,1993,8,96
+229,Death and the Maiden,Drama|Thriller,1993,2,72
+233,Exotica,Drama,1993,2,62
+234,Exit to Eden,Comedy,1993,5,74
+235,Ed Wood,Comedy|Drama,1993,3,89
+242,Farinelli: il castrato,Drama|Musical,1993,5,80
+247,Heavenly Creatures,Crime|Drama,1993,2,52
+249,Immortal Beloved,Drama|Romance,1993,8,81
+261,Little Women,Drama,1993,7,99
+264,"Enfer, L'",Drama,1993,5,71
+268,Little Odessa,Crime|Drama,1993,10,87
+270,Love Affair,Drama|Romance,1993,1,81
+272,"Madness of King George, The",Comedy|Drama,1993,10,76
+273,Mary Shelley's Frankenstein (Frankenstein),Drama|Horror|Sci-Fi,1993,2,86
+277,Miracle on 34th Street,Drama,1993,9,60
+287,Nina Takes a Lover,Comedy|Romance,1993,8,69
+300,Quiz Show,Drama,1993,6,87
+301,Picture Bride (Bijo photo),Drama|Romance,1993,8,89
+302,"Queen Margot (Reine Margot, La)",Drama|Romance,1993,4,54
+306,Three Colors: Red (Trois couleurs: Rouge),Drama,1993,3,75
+308,Three Colors: White (Trzy kolory: Bialy),Comedy|Drama,1993,6,50
+309,"Red Firecracker, Green Firecracker (Pao Da Shuang Deng)",Drama,1993,5,100
+324,"Sum of Us, The",Comedy|Drama,1993,9,68
+326,To Live (Huozhe),Drama,1993,3,72
+340,"War, The",Adventure|Drama|War,1993,2,52
+342,Muriel's Wedding,Comedy,1993,10,98
+348,Bullets Over Broadway,Comedy,1993,6,99
+349,Clear and Present Danger,Action|Crime|Drama|Thriller,1993,1,84
+350,"Client, The",Drama|Mystery|Thriller,1993,6,76
+351,"Corrina, Corrina",Comedy|Drama|Romance,1993,2,56
+354,Cobb,Drama,1993,10,50
+355,"Flintstones, The",Children|Comedy|Fantasy,1993,1,97
+356,Forrest Gump,Comedy|Drama|Romance|War,1993,8,84
+360,I Love Trouble,Action|Comedy,1993,1,54
+362,"Jungle Book, The",Adventure|Children|Romance,1993,4,85
+366,"Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A)",Drama|Horror|Mystery|Thriller,1993,6,63
+367,"Mask, The",Action|Comedy|Crime|Fantasy,1993,5,71
+368,Maverick,Adventure|Comedy|Western,1993,1,52
+370,Naked Gun 33 1/3: The Final Insult,Action|Comedy,1993,7,71
+374,Richie Rich,Children|Comedy,1993,6,78
+379,Timecop,Action|Sci-Fi|Thriller,1993,7,91
+381,When a Man Loves a Woman,Drama|Romance,1993,5,87
+383,Wyatt Earp,Western,1993,8,71
+387,"Low Down Dirty Shame, A",Action|Comedy,1993,5,52
+393,Street Fighter,Action|Adventure|Fantasy,1993,2,87
+405,Highlander III: The Sorcerer (a.k.a. Highlander: The Final Dimension),Action|Fantasy,1993,5,72
+413,Airheads,Comedy,1993,6,74
+420,Beverly Hills Cop III,Action|Comedy|Crime|Thriller,1993,10,55
+422,Blink,Thriller,1993,5,60
+424,Blue Chips,Drama,1993,3,63
+425,Blue Sky,Drama|Romance,1993,8,65
+429,Cabin Boy,Comedy,1993,3,84
+432,City Slickers II: The Legend of Curly's Gold,Adventure|Comedy|Western,1993,2,53
+433,Clean Slate,Comedy,1993,6,97
+437,Cops and Robbersons,Comedy,1993,3,58
+449,Fear of a Black Hat,Comedy,1993,9,81
+450,With Honors,Comedy|Drama,1993,4,76
+456,Fresh,Crime|Drama|Thriller,1993,4,74
+459,"Getaway, The",Action|Adventure|Crime|Drama|Romance|Thriller,1993,2,65
+460,Getting Even with Dad,Comedy,1993,4,70
+461,Go Fish,Drama|Romance,1993,1,94
+470,House Party 3,Comedy,1993,10,73
+476,"Inkwell, The",Comedy|Drama,1993,6,52
+484,Lassie,Adventure|Children,1993,2,65
+487,Lightning Jack,Comedy|Western,1993,9,59
+533,"Shadow, The",Action|Adventure|Fantasy|Mystery,1993,2,74
+537,Sirens,Drama,1993,6,67
+547,Surviving the Game,Action|Adventure|Thriller,1993,4,79
+554,Trial by Jury,Crime|Drama|Thriller,1993,5,56
+558,"Pagemaster, The",Action|Adventure|Animation|Children|Fantasy,1993,9,74
+574,Spanking the Monkey,Comedy|Drama,1993,4,61
+687,Country Life,Drama|Romance,1993,5,77
+872,Vive L'Amour (Ai qing wan sui),Drama,1993,7,90
+889,1-900 (06),Drama|Romance,1993,8,97
+1021,Angels in the Outfield,Children|Comedy,1993,5,65
+1133,Talking About Sex,Comedy|Drama,1993,9,67
+1151,Lesson Faust,Animation|Comedy|Drama|Fantasy,1993,7,100
+1369,I Can't Sleep (J'ai pas sommeil),Drama|Thriller,1993,10,92
+2042,D2: The Mighty Ducks,Children|Comedy,1993,1,57
+3434,Death Wish 5: The Face of Death,Action|Drama,1993,8,75
+3838,Phantasm III: Lord of the Dead,Horror,1993,6,70
+3848,Silent Fall,Drama|Thriller,1993,1,67
+4458,Africa: The Serengeti,Documentary|IMAX,1993,6,91
+5053,Blankman,Comedy,1993,1,78
+5161,Intersection,Drama|Romance,1993,2,54
+6559,Little Giants,Children|Comedy,1993,7,96
+6811,PCU,Comedy,1993,7,53
+6827,It's Pat,Comedy,1993,1,80
+7189,"Car 54, Where Are You?",Comedy,1993,6,80
+7505,"Kingdom, The (Riget)",Drama|Horror|Mystery,1993,8,58
+8387,Police Academy: Mission to Moscow,Comedy|Crime,1993,4,87
+9000,That's Entertainment! III,Documentary,1993,2,99
+26850,71 Fragments of a Chronology of Chance (71 Fragmente einer Chronologie des Zufalls),Drama,1993,4,65
+26865,Fist of Legend (Jing wu ying xiong),Action|Drama,1993,1,87
+32456,"Pom Poko (a.k.a. Raccoon War, The) (Heisei tanuki gassen pompoko)",Animation|Comedy|Drama|Fantasy,1993,4,92
+69761,Through the Olive Trees (Zire darakhatan zeyton),Drama,1993,7,62
+69821,Men of War,Action|Drama,1993,3,81
+126106,Beastie Boys: Sabotage,(no genres listed),1993,10,61
