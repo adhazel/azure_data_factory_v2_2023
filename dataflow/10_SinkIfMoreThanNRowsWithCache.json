@@ -1,0 +1,49 @@
+{
+	"name": "10_SinkIfMoreThanNRowsWithCache",
+	"properties": {
+		"description": "This dataflow gets a rowcount of movies that are from the year passed in via parameter. If that year has a minimum of movies equal or greater than the parameter value minrowcount, it is assumed the file is valid and the data is sinked to the output folder.\n\nThere are 9 movies in the dataset with this year; however, the \"Debug Settings\" for the data flow is set to only look at the first 1000 rows of the \"rowcountSource\" source, so this dataflow will show 8 in the rowcount. Change the Debug Settings to 15000 to see the 9th movie from 1926.\n\nTo test the sink if rowcount is greater than or equal to action, change the data flow parameter named minrowcount between 5 and 10. When set to 5, the data should be saved to sink2. When set to 10, the \"less than\" path from the conditional split activity should apply, meaning that no data should be sinked in sink2.",
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"dataset": {
+						"referenceName": "d10_MoviesDbCsv",
+						"type": "DatasetReference"
+					},
+					"name": "moviesSource"
+				},
+				{
+					"dataset": {
+						"referenceName": "d10_MoviesDbCsv",
+						"type": "DatasetReference"
+					},
+					"name": "rowcountSource"
+				}
+			],
+			"sinks": [
+				{
+					"name": "CacheRowcountForYear"
+				},
+				{
+					"dataset": {
+						"referenceName": "d10_FolderOut",
+						"type": "DatasetReference"
+					},
+					"name": "sink2"
+				}
+			],
+			"transformations": [
+				{
+					"name": "Aggregate"
+				},
+				{
+					"name": "ConditionalSplit1"
+				},
+				{
+					"name": "FilterToYearForRowCount"
+				}
+			],
+			"script": "parameters{\n\tminrowcount as integer (10),\n\tyear as integer (1926)\n}\nsource(output(\n\t\tmovie as integer,\n\t\ttitle as string,\n\t\tgenres as string,\n\t\tyear as short,\n\t\tRating as short,\n\t\tRottenTomato as short\n\t),\n\tallowSchemaDrift: true,\n\tvalidateSchema: false,\n\tignoreNoFilesFound: false) ~> moviesSource\nsource(output(\n\t\tmovie as integer,\n\t\ttitle as string,\n\t\tgenres as string,\n\t\tyear as short,\n\t\tRating as short,\n\t\tRottenTomato as short\n\t),\n\tallowSchemaDrift: true,\n\tvalidateSchema: false,\n\tignoreNoFilesFound: false) ~> rowcountSource\nFilterToYearForRowCount aggregate(rowcount = count(1)) ~> Aggregate\nmoviesSource split(CacheRowcountForYear#output().rowcount >= $minrowcount,\n\tdisjoint: false) ~> ConditionalSplit1@(greaterThan, lessThan)\nrowcountSource filter(year == $year) ~> FilterToYearForRowCount\nAggregate sink(allowSchemaDrift: true,\n\tvalidateSchema: false,\n\tskipDuplicateMapInputs: true,\n\tskipDuplicateMapOutputs: true,\n\tstore: 'cache',\n\tformat: 'inline',\n\toutput: false,\n\tsaveOrder: 1) ~> CacheRowcountForYear\nConditionalSplit1@greaterThan sink(allowSchemaDrift: true,\n\tvalidateSchema: false,\n\tumask: 0022,\n\tpreCommands: [],\n\tpostCommands: [],\n\tskipDuplicateMapInputs: true,\n\tskipDuplicateMapOutputs: true) ~> sink2"
+		}
+	}
+}

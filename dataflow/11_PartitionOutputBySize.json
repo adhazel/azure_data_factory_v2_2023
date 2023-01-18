@@ -1,0 +1,76 @@
+{
+	"name": "11_PartitionOutputBySize",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"linkedService": {
+						"referenceName": "ls_mvmedium_storageacct",
+						"type": "LinkedServiceReference"
+					},
+					"name": "source1"
+				}
+			],
+			"sinks": [
+				{
+					"linkedService": {
+						"referenceName": "ls_mvmedium_storageacct",
+						"type": "LinkedServiceReference"
+					},
+					"name": "sink1"
+				}
+			],
+			"transformations": [],
+			"scriptLines": [
+				"parameters{",
+				"     input_adls_file as string ('NYCTripSmall.parquet')",
+				"}",
+				"source(output(",
+				"          DateID as integer,",
+				"          MedallionID as integer,",
+				"          HackneyLicenseID as integer,",
+				"          PickupTimeID as integer,",
+				"          DropoffTimeID as integer,",
+				"          PickupGeographyID as integer,",
+				"          DropoffGeographyID as integer,",
+				"          PickupLatitude as double,",
+				"          PickupLongitude as double,",
+				"          PickupLatLong as string,",
+				"          DropoffLatitude as double,",
+				"          DropoffLongitude as double,",
+				"          DropoffLatLong as string,",
+				"          PassengerCount as integer,",
+				"          TripDurationSeconds as integer,",
+				"          TripDistanceMiles as double,",
+				"          PaymentType as string,",
+				"          FareAmount as decimal(19,4),",
+				"          SurchargeAmount as decimal(19,4),",
+				"          TaxAmount as decimal(19,4),",
+				"          TipAmount as decimal(19,4),",
+				"          TollsAmount as decimal(19,4),",
+				"          TotalAmount as decimal(19,4)",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false,",
+				"     format: 'parquet',",
+				"     fileSystem: 'general',",
+				"     folderPath: 'nyx_taxi_sample',",
+				"     fileName: ($input_adls_file)) ~> source1",
+				"source1 sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     format: 'parquet',",
+				"     fileSystem: ('general'),",
+				"     folderPath: ('nyx_taxi_sample/output'),",
+				"     truncate: true,",
+				"     umask: 0022,",
+				"     preCommands: [],",
+				"     postCommands: [],",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true,",
+				"     saveOrder: 1) ~> sink1"
+			]
+		}
+	}
+}

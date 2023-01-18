@@ -1,0 +1,16 @@
+{
+	"name": "ls_sh_storageacct",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "Self hosted IR connection to externaladhdbstorage using system assigned managed identity",
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://externaladhdbstorage.dfs.core.windows.net/"
+		},
+		"connectVia": {
+			"referenceName": "SelfHosted001",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

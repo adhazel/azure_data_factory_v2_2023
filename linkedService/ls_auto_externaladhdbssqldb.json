@@ -1,0 +1,12 @@
+{
+	"name": "ls_auto_externaladhdbssqldb",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "AutoResolveIntegrationRuntime IR connected to external-adh-dbs-sqldb using system identity",
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"connectionString": "Integrated Security=False;Encrypt=True;Connection Timeout=30;Data Source=external-adh-dbs-sqlsvr.database.windows.net;Initial Catalog=external-adh-dbs-sqldb"
+		}
+	}
+}

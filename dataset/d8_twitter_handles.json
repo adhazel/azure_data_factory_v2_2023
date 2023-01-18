@@ -1,0 +1,51 @@
+{
+	"name": "d8_twitter_handles",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_auto_storageacct",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "twitter_handles.parquet",
+				"folderPath": "twitter",
+				"fileSystem": "general"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": [
+			{
+				"name": "Rank",
+				"type": "INT64"
+			},
+			{
+				"name": "Change",
+				"type": "UTF8"
+			},
+			{
+				"name": "Account name",
+				"type": "UTF8"
+			},
+			{
+				"name": "Owner",
+				"type": "UTF8"
+			},
+			{
+				"name": "Followers",
+				"type": "INT64"
+			},
+			{
+				"name": "Activity",
+				"type": "UTF8"
+			},
+			{
+				"name": "Country",
+				"type": "UTF8"
+			}
+		]
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

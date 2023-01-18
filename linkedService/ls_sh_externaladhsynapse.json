@@ -1,0 +1,16 @@
+{
+	"name": "ls_sh_externaladhsynapse",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDW",
+		"typeProperties": {
+			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=external-adh-synapse.sql.azuresynapse.net;initial catalog=externaladhsynapsedp;user id=sqladminuser",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJlYWNlZTk5ZC0xZjIxLTRhYzctYjQwMS0wMTk1YmViNzk2NjEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "SelfHosted001",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

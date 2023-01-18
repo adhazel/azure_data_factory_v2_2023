@@ -1,0 +1,133 @@
+{
+	"name": "TaxiDemo",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"dataset": {
+						"referenceName": "taxi_trip_data_input",
+						"type": "DatasetReference"
+					},
+					"name": "TripData"
+				},
+				{
+					"dataset": {
+						"referenceName": "taxi_trip_fare_input",
+						"type": "DatasetReference"
+					},
+					"name": "TripFare"
+				}
+			],
+			"sinks": [
+				{
+					"dataset": {
+						"referenceName": "TaxiDemoVendorStatsSink",
+						"type": "DatasetReference"
+					},
+					"name": "VendorStatsSink"
+				},
+				{
+					"dataset": {
+						"referenceName": "TaxiDemoDayStatsSink",
+						"type": "DatasetReference"
+					},
+					"name": "DayStatsSink"
+				},
+				{
+					"dataset": {
+						"referenceName": "TaxiDemoTotalByPaymentType",
+						"type": "DatasetReference"
+					},
+					"name": "TotalPaymentByPaymentType"
+				}
+			],
+			"transformations": [
+				{
+					"name": "JoinMatchedData"
+				},
+				{
+					"name": "AggregateVendorStats"
+				},
+				{
+					"name": "AggregateDayStats"
+				},
+				{
+					"name": "AggregateByPaymentType"
+				}
+			],
+			"scriptLines": [
+				"source(output(",
+				"          medallion as string,",
+				"          hack_license as string,",
+				"          vendor_id as string,",
+				"          rate_code as string,",
+				"          store_and_fwd_flag as string,",
+				"          pickup_datetime as string,",
+				"          dropoff_datetime as string,",
+				"          passenger_count as short,",
+				"          trip_time_in_secs as long,",
+				"          trip_distance as double,",
+				"          pickup_longitude as double,",
+				"          pickup_latitude as double,",
+				"          dropoff_longitude as double,",
+				"          dropoff_latitude as double",
+				"     ),",
+				"     allowSchemaDrift: false,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false) ~> TripData",
+				"source(output(",
+				"          medallion as string,",
+				"          { hack_license} as string,",
+				"          { vendor_id} as string,",
+				"          { pickup_datetime} as string,",
+				"          { payment_type} as string,",
+				"          { fare_amount} as double,",
+				"          { surcharge} as double,",
+				"          { mta_tax} as double,",
+				"          { tip_amount} as double,",
+				"          { tolls_amount} as double,",
+				"          { total_amount} as double",
+				"     ),",
+				"     allowSchemaDrift: false,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false) ~> TripFare",
+				"TripData, TripFare join(hack_license == { hack_license}",
+				"     && TripData@medallion == TripFare@medallion",
+				"     && vendor_id == { vendor_id}",
+				"     && pickup_datetime == { pickup_datetime},",
+				"     joinType:'inner',",
+				"     matchType:'exact',",
+				"     ignoreSpaces: false,",
+				"     broadcast: 'auto')~> JoinMatchedData",
+				"JoinMatchedData aggregate(groupBy(vendor_id),",
+				"     passenger_count = round(sum(passenger_count), 2),",
+				"          trip_time_in_secs = round(sum(trip_time_in_secs)/60, 2),",
+				"          trip_distance = round(sum(trip_distance), 2),",
+				"          TotalTripFare = round(sum({ total_amount}), 2)) ~> AggregateVendorStats",
+				"JoinMatchedData aggregate(groupBy(DayOfTheWeek = dayOfWeek(toDate(pickup_datetime,'yyyy-mm-dd hh:mm:ss'))),",
+				"     trip_distance = round(avg(trip_distance), 2),",
+				"          passenger_count = round(avg(passenger_count), 2),",
+				"          trip_time_in_secs = round(avg(trip_time_in_secs)/60, 2),",
+				"          average_fare = round(avg({ total_amount}), 2)) ~> AggregateDayStats",
+				"TripFare aggregate(groupBy({ payment_type}),",
+				"     each(match(type=='double'), concat($$, '_total') = round(sum ($$)))) ~> AggregateByPaymentType",
+				"AggregateVendorStats sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     filePattern:'file[n].csv',",
+				"     truncate: true,",
+				"     quoteAll: true) ~> VendorStatsSink",
+				"AggregateDayStats sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     filePattern:'file[n].csv',",
+				"     truncate: true,",
+				"     quoteAll: true) ~> DayStatsSink",
+				"AggregateByPaymentType sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     filePattern:'file[n].csv',",
+				"     truncate: true,",
+				"     quoteAll: true) ~> TotalPaymentByPaymentType"
+			]
+		}
+	}
+}

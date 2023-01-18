@@ -1,0 +1,190 @@
+{
+	"name": "13_MedallionDeltaLake_Gold",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"linkedService": {
+						"referenceName": "ls_mvsmall_storageacct",
+						"type": "LinkedServiceReference"
+					},
+					"name": "sourceDelta"
+				}
+			],
+			"sinks": [
+				{
+					"linkedService": {
+						"referenceName": "ls_mvsmall_storageacct",
+						"type": "LinkedServiceReference"
+					},
+					"name": "sinkUnrestricted",
+					"rejectedDataLinkedService": {
+						"referenceName": "ls_mvsmall_storageacct",
+						"type": "LinkedServiceReference"
+					}
+				},
+				{
+					"linkedService": {
+						"referenceName": "ls_mvsmall_storageacct",
+						"type": "LinkedServiceReference"
+					},
+					"name": "sinkRestricted",
+					"rejectedDataLinkedService": {
+						"referenceName": "ls_mvsmall_storageacct",
+						"type": "LinkedServiceReference"
+					}
+				}
+			],
+			"transformations": [
+				{
+					"name": "addCalcAges",
+					"description": "Add calculated columns for age and age in company to be used in new banded columns in next step."
+				},
+				{
+					"name": "addBandsAndMasked",
+					"description": "Add masked and banded fields"
+				},
+				{
+					"name": "AllowUpsert"
+				}
+			],
+			"scriptLines": [
+				"source(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false,",
+				"     format: 'delta',",
+				"     compressionType: 'snappy',",
+				"     compressionLevel: 'Fastest',",
+				"     fileSystem: 'general',",
+				"     folderPath: 'names/l2_silver',",
+				"     dateFormats: ['MM/dd/yyyy','MM-dd-yyyy'],",
+				"     timestampFormats: ['MM/dd/yyyy hh:mm:ss a'],",
+				"     preferredIntegralType: 'long',",
+				"     preferredFractionalType: 'float') ~> sourceDelta",
+				"sourceDelta derive(CalcAge = floor(divide(monthsBetween(currentDate(),toDate(byName('DateofBirth'))),12)),",
+				"          CalcAgeInCompany = floor(divide(monthsBetween(currentDate(),toDate(byName('DateofJoining'))),12))) ~> addCalcAges",
+				"addCalcAges derive(MaskedEMail = rpad(left(toString(byName('EMail')),1),15,'*'),",
+				"          AgeBand = case(CalcAge < 35, 'Less than 35', case(CalcAge < 55,'35 - 54','55+')),",
+				"          AgeInCompanyBand = case(CalcAgeInCompany < 5, 'Less than 5', case(CalcAgeInCompany < 10,'5-9',case(CalcAgeInCompany < 20,'10-19',case(CalcAgeInCompany < 30, '20-29', '30+'))))) ~> addBandsAndMasked",
+				"addBandsAndMasked alterRow(upsertIf(true())) ~> AllowUpsert",
+				"AllowUpsert sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     input(",
+				"          EmpID as long,",
+				"          NamePrefix as string,",
+				"          FirstName as string,",
+				"          MiddleInitial as string,",
+				"          LastName as string,",
+				"          Gender as string,",
+				"          EMail as string,",
+				"          FathersName as string,",
+				"          MothersName as string,",
+				"          MothersMaidenName as string,",
+				"          DateofBirth as date,",
+				"          TimeofBirth as string,",
+				"          AgeinYrs as float,",
+				"          WeightinKgs as long,",
+				"          DateofJoining as date,",
+				"          QuarterofJoining as string,",
+				"          HalfofJoining as string,",
+				"          YearofJoining as long,",
+				"          MonthofJoining as long,",
+				"          MonthNameofJoining as string,",
+				"          ShortMonth as string,",
+				"          DayofJoining as long,",
+				"          DOWofJoining as string,",
+				"          ShortDOW as string,",
+				"          AgeinCompanyYears as float,",
+				"          Salary as long,",
+				"          LastPercentHike as float,",
+				"          SSN as string,",
+				"          PhoneNo as string,",
+				"          PlaceName as string,",
+				"          County as string,",
+				"          City as string,",
+				"          State as string,",
+				"          Zip as long,",
+				"          Region as string,",
+				"          UserName as string,",
+				"          Password as string,",
+				"          s1Filename as string,",
+				"          CalcAge as long,",
+				"          CalcAgeInCompany as long,",
+				"          MaskedEMail as string,",
+				"          AgeBand as string,",
+				"          AgeInCompanyBand as string",
+				"     ),",
+				"     format: 'delta',",
+				"     fileSystem: 'general',",
+				"     folderPath: 'names/l3_gold/unrestricted',",
+				"     mergeSchema: false,",
+				"     autoCompact: true,",
+				"     optimizedWrite: false,",
+				"     vacuum: 0,",
+				"     deletable:false,",
+				"     insertable:false,",
+				"     updateable:true,",
+				"     upsertable:false,",
+				"     keys:['EmpID'],",
+				"     umask: 0022,",
+				"     preCommands: [],",
+				"     postCommands: [],",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true,",
+				"     saveOrder: 1,",
+				"     outputAssertFailedRows: true,",
+				"     assertFailure_fileSystem: 'general',",
+				"     assertFailure_folderPath: (\"names/l2_gold_errors/\" +  toString(currentDate('CST'),'yyyyMMdd'))) ~> sinkUnrestricted",
+				"AllowUpsert sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     format: 'delta',",
+				"     fileSystem: 'general',",
+				"     folderPath: 'names/l3_gold/restricted',",
+				"     mergeSchema: false,",
+				"     autoCompact: true,",
+				"     optimizedWrite: false,",
+				"     vacuum: 0,",
+				"     deletable:false,",
+				"     insertable:false,",
+				"     updateable:true,",
+				"     upsertable:false,",
+				"     keys:['EmpID'],",
+				"     umask: 0022,",
+				"     preCommands: [],",
+				"     postCommands: [],",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true,",
+				"     outputAssertFailedRows: true,",
+				"     assertFailure_fileSystem: 'general',",
+				"     assertFailure_folderPath: (\"names/l2_gold_errors/\" +  toString(currentDate('CST'),'yyyyMMdd')),",
+				"     mapColumn(",
+				"          each(match(name=='EmpID')),",
+				"          each(match(name=='NamePrefix')),",
+				"          each(match(name=='Gender')),",
+				"          each(match(name=='MaskedEMail')),",
+				"          each(match(name=='WeightinKgs')),",
+				"          each(match(name=='QuarterofJoining')),",
+				"          each(match(name=='HalfofJoining')),",
+				"          each(match(name=='YearofJoining')),",
+				"          each(match(name=='MonthofJoining')),",
+				"          each(match(name=='MonthNameofJoining')),",
+				"          each(match(name=='ShortMonth')),",
+				"          each(match(name=='DayofJoining')),",
+				"          each(match(name=='DOWofJoining')),",
+				"          each(match(name=='ShortDOW')),",
+				"          each(match(name=='AgeinCompanyYears')),",
+				"          each(match(name=='City')),",
+				"          each(match(name=='State')),",
+				"          each(match(name=='Zip')),",
+				"          each(match(name=='Region')),",
+				"          each(match(name=='UserName')),",
+				"          each(match(name=='s1Filename'),",
+				"               'SourceFile' = $$),",
+				"          each(match(name=='AgeBand')),",
+				"          each(match(name=='AgeInCompanyBand'))",
+				"     )) ~> sinkRestricted"
+			]
+		}
+	}
+}

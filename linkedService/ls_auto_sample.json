@@ -1,0 +1,12 @@
+{
+	"name": "ls_auto_sample",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"serviceEndpoint": "https://externaladhdbstorage.blob.core.windows.net/",
+			"accountKind": "StorageV2"
+		}
+	}
+}

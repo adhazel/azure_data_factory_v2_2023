@@ -1,0 +1,54 @@
+{
+	"name": "2_FilePatternExists",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"linkedService": {
+						"referenceName": "ls_mvsmall_storageacct",
+						"type": "LinkedServiceReference"
+					},
+					"name": "GetFilesByPattern",
+					"description": "Get a single row for any files matching the file mask; error on no files found"
+				}
+			],
+			"sinks": [
+				{
+					"name": "WriteRow1ToCache",
+					"description": "Export single row to cache (dummy sink)"
+				}
+			],
+			"transformations": [],
+			"scriptLines": [
+				"parameters{",
+				"     adls_container as string,",
+				"     adls_folder as string,",
+				"     adls_filemask as string",
+				"}",
+				"source(output(",
+				"          {_col0_} as string",
+				"     ),",
+				"     useSchema: false,",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     limit: 1,",
+				"     ignoreNoFilesFound: false,",
+				"     format: 'delimited',",
+				"     fileSystem: ($adls_container),",
+				"     columnDelimiter: '',",
+				"     escapeChar: '\\\\',",
+				"     quoteChar: '\\\"',",
+				"     columnNamesAsHeader: false,",
+				"     wildcardPaths:[(concat($adls_folder,'/',$adls_filemask))]) ~> GetFilesByPattern",
+				"GetFilesByPattern sink(validateSchema: false,",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true,",
+				"     store: 'cache',",
+				"     format: 'inline',",
+				"     output: false,",
+				"     saveOrder: 1) ~> WriteRow1ToCache"
+			]
+		}
+	}
+}

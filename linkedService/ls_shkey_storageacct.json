@@ -1,0 +1,16 @@
+{
+	"name": "ls_shkey_storageacct",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://externaladhdbstorage.dfs.core.windows.net/",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI1Y2ViYTlkYy0xYzU1LTQ1NzItYmY1YS1jYjRiMTg5NDhmYzEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "SelfHosted001",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

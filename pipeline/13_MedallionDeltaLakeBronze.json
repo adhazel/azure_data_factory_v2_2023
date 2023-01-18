@@ -1,0 +1,138 @@
+{
+	"name": "13_MedallionDeltaLakeBronze",
+	"properties": {
+		"activities": [
+			{
+				"name": "Copy Bronze Raw",
+				"type": "Copy",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"source": {
+						"type": "BinarySource",
+						"storeSettings": {
+							"type": "AzureBlobFSReadSettings",
+							"recursive": false,
+							"modifiedDatetimeStart": {
+								"value": "@addDays(convertFromUtc(utcNow(),'Central Standard Time'),-3)",
+								"type": "Expression"
+							},
+							"modifiedDatetimeEnd": {
+								"value": "utcNow()",
+								"type": "Expression"
+							},
+							"wildcardFolderPath": "names",
+							"wildcardFileName": "*.xlsx",
+							"deleteFilesAfterCompletion": false
+						},
+						"formatSettings": {
+							"type": "BinaryReadSettings"
+						}
+					},
+					"sink": {
+						"type": "BinarySink",
+						"storeSettings": {
+							"type": "AzureBlobFSWriteSettings"
+						}
+					},
+					"enableStaging": false
+				},
+				"inputs": [
+					{
+						"referenceName": "d13_sh_adls_binary",
+						"type": "DatasetReference",
+						"parameters": {
+							"container": "general",
+							"folder": "names",
+							"file": "*xlsx"
+						}
+					}
+				],
+				"outputs": [
+					{
+						"referenceName": "d13_sh_adls_binary_folder",
+						"type": "DatasetReference",
+						"parameters": {
+							"container": "general",
+							"folder": {
+								"value": "@concat('names/l1_bronze/',\nformatDateTime(convertFromUtc(utcNow(),'Central Standard Time')\n,'yyyyMMdd'))",
+								"type": "Expression"
+							}
+						}
+					}
+				]
+			},
+			{
+				"name": "Data Retention Policy",
+				"type": "Delete",
+				"dependsOn": [
+					{
+						"activity": "Copy Bronze Raw",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"dataset": {
+						"referenceName": "d13_sh_adls_binary_folder",
+						"type": "DatasetReference",
+						"parameters": {
+							"container": "general",
+							"folder": {
+								"value": "@concat('names',\nformatDateTime(getPastTime(2,'Year'),'yyyyMM'),\n'*'\n)",
+								"type": "Expression"
+							}
+						}
+					},
+					"enableLogging": false,
+					"storeSettings": {
+						"type": "AzureBlobFSReadSettings",
+						"recursive": true,
+						"enablePartitionDiscovery": false
+					}
+				}
+			},
+			{
+				"name": "Do something with errors",
+				"type": "SetVariable",
+				"dependsOn": [
+					{
+						"activity": "Copy Bronze Raw",
+						"dependencyConditions": [
+							"Failed"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "test",
+					"value": "Error condition triggered"
+				}
+			}
+		],
+		"variables": {
+			"test": {
+				"type": "String"
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2023-01-06T21:57:29Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

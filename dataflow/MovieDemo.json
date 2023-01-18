@@ -1,0 +1,45 @@
+{
+	"name": "MovieDemo",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"dataset": {
+						"referenceName": "movie_dataflow_source",
+						"type": "DatasetReference"
+					},
+					"name": "Movies"
+				}
+			],
+			"sinks": [
+				{
+					"dataset": {
+						"referenceName": "movie_dataflow_sink",
+						"type": "DatasetReference"
+					},
+					"name": "Output"
+				}
+			],
+			"transformations": [
+				{
+					"name": "MoviesYear"
+				}
+			],
+			"scriptLines": [
+				"source(output(",
+				"          movieId as string,",
+				"          title as string,",
+				"          genres as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false) ~> Movies",
+				"Movies derive(year = toInteger(trim(right(title, 6), '()')),",
+				"          title = toString(left(title, length(title)-6))) ~> MoviesYear",
+				"MoviesYear sink(allowSchemaDrift: true,",
+				"     validateSchema: false) ~> Output"
+			]
+		}
+	}
+}

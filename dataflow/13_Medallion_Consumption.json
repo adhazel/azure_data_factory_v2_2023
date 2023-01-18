@@ -1,0 +1,98 @@
+{
+	"name": "13_Medallion_Consumption",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"linkedService": {
+						"referenceName": "ls_mvsmall_storageacct",
+						"type": "LinkedServiceReference"
+					},
+					"name": "sourceDelta"
+				}
+			],
+			"sinks": [
+				{
+					"linkedService": {
+						"referenceName": "ls_mvsmall_storageacct",
+						"type": "LinkedServiceReference"
+					},
+					"name": "sinkRestricted",
+					"rejectedDataLinkedService": {
+						"referenceName": "ls_mvsmall_storageacct",
+						"type": "LinkedServiceReference"
+					}
+				}
+			],
+			"transformations": [
+				{
+					"name": "aggregateAverageWeightByAgeBand"
+				}
+			],
+			"scriptLines": [
+				"source(output(",
+				"          EmpID as long,",
+				"          NamePrefix as string,",
+				"          Gender as string,",
+				"          MaskedEMail as string,",
+				"          WeightinKgs as long,",
+				"          QuarterofJoining as string,",
+				"          HalfofJoining as string,",
+				"          YearofJoining as long,",
+				"          MonthofJoining as long,",
+				"          MonthNameofJoining as string,",
+				"          ShortMonth as string,",
+				"          DayofJoining as long,",
+				"          DOWofJoining as string,",
+				"          ShortDOW as string,",
+				"          AgeinCompanyYears as float,",
+				"          City as string,",
+				"          State as string,",
+				"          Zip as long,",
+				"          Region as string,",
+				"          UserName as string,",
+				"          SourceFile as string,",
+				"          AgeBand as string,",
+				"          AgeInCompanyBand as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false,",
+				"     format: 'delta',",
+				"     compressionType: 'snappy',",
+				"     compressionLevel: 'Fastest',",
+				"     fileSystem: 'general',",
+				"     folderPath: 'names/l3_gold/restricted',",
+				"     dateFormats: ['MM/dd/yyyy','MM-dd-yyyy'],",
+				"     timestampFormats: ['MM/dd/yyyy hh:mm:ss a'],",
+				"     preferredIntegralType: 'long',",
+				"     preferredFractionalType: 'float') ~> sourceDelta",
+				"sourceDelta aggregate(groupBy(AgeBand),",
+				"     AverageWeightinKgs = avg(WeightinKgs)) ~> aggregateAverageWeightByAgeBand",
+				"aggregateAverageWeightByAgeBand sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     format: 'delimited',",
+				"     fileSystem: 'general',",
+				"     folderPath: (\"names/l4_projectA/\"),",
+				"     truncate: true,",
+				"     columnDelimiter: ',',",
+				"     escapeChar: '\\\\',",
+				"     quoteChar: '\\\"',",
+				"     columnNamesAsHeader: true,",
+				"     partitionFileNames:['AverageWeightByEmployeeAgeBand.csv'],",
+				"     umask: 0022,",
+				"     preCommands: [],",
+				"     postCommands: [],",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true,",
+				"     quoteAll: true,",
+				"     saveOrder: 0,",
+				"     outputAssertFailedRows: true,",
+				"     assertFailure_fileSystem: 'general',",
+				"     assertFailure_folderPath: 'names/l2_silver_errors',",
+				"     partitionBy('hash', 1)) ~> sinkRestricted"
+			]
+		}
+	}
+}

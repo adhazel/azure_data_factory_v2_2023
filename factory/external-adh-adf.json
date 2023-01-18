@@ -1,0 +1,9 @@
+{
+	"name": "external-adh-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03e025bd-bf15-44d2-983c-febd12590805",
+		"tenantId": "684f6003-b579-41b8-8af7-1e0ecd96c0e7"
+	}
+}

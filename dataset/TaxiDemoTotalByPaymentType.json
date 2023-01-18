@@ -1,0 +1,24 @@
+{
+	"name": "TaxiDemoTotalByPaymentType",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_auto_sample",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"folderPath": "taxi",
+				"container": "general"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

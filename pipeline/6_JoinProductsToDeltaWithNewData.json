@@ -1,0 +1,76 @@
+{
+	"name": "6_JoinProductsToDeltaWithNewData",
+	"properties": {
+		"description": "Before running this, move the Product2_20221212.csv file into the root of the \"products\" folder.\n\nThe only change in this pipeline is the default value of the output folder parameter, which is \"out2\" instead of \"out1\" \n\nThis second run of the pipeline is intended to demonstrate an example where incrementally loaded data is moved into a different Delta Lake directoryadf",
+		"activities": [
+			{
+				"name": "run products mash dataflow",
+				"type": "ExecuteDataFlow",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"dataflow": {
+						"referenceName": "6_JoinProductsToDelta",
+						"type": "DataFlowReference",
+						"parameters": {
+							"source_container": {
+								"value": "'@{pipeline().parameters.source_container}'",
+								"type": "Expression"
+							},
+							"source_folder": {
+								"value": "'@{pipeline().parameters.source_folder}'",
+								"type": "Expression"
+							},
+							"source_file": {
+								"value": "'@{pipeline().parameters.source_file}'",
+								"type": "Expression"
+							},
+							"output_folder": {
+								"value": "'@{pipeline().parameters.output_folder}'",
+								"type": "Expression"
+							},
+							"fact_utcfrom": "toTimestamp(\"2000-01-01 00:00:01\")",
+							"fact_utcto": "toTimestamp(\"2050-01-01 00:00:01\")"
+						}
+					},
+					"compute": {
+						"coreCount": 8,
+						"computeType": "General"
+					},
+					"traceLevel": "None",
+					"cacheSinks": {
+						"firstRowOnly": true
+					}
+				}
+			}
+		],
+		"parameters": {
+			"source_container": {
+				"type": "String",
+				"defaultValue": "general"
+			},
+			"source_folder": {
+				"type": "String",
+				"defaultValue": "products"
+			},
+			"source_file": {
+				"type": "String",
+				"defaultValue": "Product2*.csv"
+			},
+			"output_folder": {
+				"type": "String",
+				"defaultValue": "out2"
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2023-01-03T17:08:26Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

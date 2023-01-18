@@ -1,0 +1,54 @@
+{
+	"name": "d11_SourceFileForSizeCheck",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_auto_storageacct",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"container": {
+				"type": "string"
+			},
+			"folder": {
+				"type": "string"
+			},
+			"file": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": {
+					"value": "@dataset().file",
+					"type": "Expression"
+				},
+				"folderPath": {
+					"value": "@dataset().folder",
+					"type": "Expression"
+				},
+				"fileSystem": {
+					"value": "@dataset().container",
+					"type": "Expression"
+				}
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": [
+			{
+				"name": "PAR1\u0015\u0004\u0015x\u0015|L\u0015\u001e\u0015\u0004\u0000\u0000<�-3\u0001�-3\u0001�-3\u0001�-3\u0001�-3\u0001�-3\u0001�-3\u0001�-3\u0001�-3\u0001�-3\u0001�-3\u0001�-3\u0001�-3\u0001�-3\u0001�-3\u0001\u0015\u0000\u0015��\u0005\u0015�k",
+				"type": "String"
+			},
+			{
+				"name": "\u0015��\f\u0015\u0004\u0015\b\u0015\b\u001c\u0018\u0004�-3\u0001\u0018\u0004�-3\u0001\u0016\u0000(\u0004�-3\u0001\u0018\u0004�-3\u0001\u0000\u0000\u0000��\u0002�\u0004�\u0002\u0000�\u0001\u0001�\u0002\u0002�\u0001\u0003�\u0001\u0004�\u0001\u0005�\u0002\u0006�\u0001\u0007�\u0001\b�\u0002\t�\u0001",
+				"type": "String"
+			}
+		]
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

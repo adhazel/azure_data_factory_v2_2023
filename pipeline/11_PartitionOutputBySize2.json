@@ -1,0 +1,70 @@
+{
+	"name": "11_PartitionOutputBySize2",
+	"properties": {
+		"description": "Sample pipeline that uses data flow to partition output based on incoming source file size",
+		"activities": [
+			{
+				"name": "Data flow1",
+				"type": "ExecuteDataFlow",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"dataflow": {
+						"referenceName": "11_PartitionOutputBySize",
+						"type": "DataFlowReference",
+						"parameters": {
+							"input_adls_file": {
+								"value": "@pipeline().parameters.p_input_adls_file",
+								"type": "Expression"
+							}
+						}
+					},
+					"integrationRuntime": {
+						"referenceName": "ManagedVnetMedium",
+						"type": "IntegrationRuntimeReference"
+					},
+					"traceLevel": "None",
+					"cacheSinks": {
+						"firstRowOnly": true
+					}
+				}
+			}
+		],
+		"parameters": {
+			"p_input_adls_container": {
+				"type": "string",
+				"defaultValue": "general"
+			},
+			"p_input_adls_folder": {
+				"type": "string",
+				"defaultValue": "nyx_taxi_sample"
+			},
+			"p_input_adls_file": {
+				"type": "string",
+				"defaultValue": "NYCTripSmall.parquet"
+			},
+			"p_output_adls_container": {
+				"type": "string",
+				"defaultValue": "general"
+			},
+			"p_output_adls_folder": {
+				"type": "string",
+				"defaultValue": "nyx_taxi_sample/output"
+			},
+			"output_adls_filepattern": {
+				"type": "string",
+				"defaultValue": "output[n].parquet"
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2023-01-03T21:37:57Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

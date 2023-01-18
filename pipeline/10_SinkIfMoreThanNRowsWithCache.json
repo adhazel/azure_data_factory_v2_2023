@@ -1,0 +1,37 @@
+{
+	"name": "10_SinkIfMoreThanNRowsWithCache",
+	"properties": {
+		"activities": [
+			{
+				"name": "sinkIfMoreThanNRows",
+				"type": "ExecuteDataFlow",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "1.00:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"dataflow": {
+						"referenceName": "10_SinkIfMoreThanNRowsWithCache",
+						"type": "DataFlowReference",
+						"parameters": {
+							"minrowcount": "0"
+						}
+					},
+					"compute": {
+						"coreCount": 8,
+						"computeType": "General"
+					},
+					"traceLevel": "Fine"
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2023-01-03T17:08:26Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

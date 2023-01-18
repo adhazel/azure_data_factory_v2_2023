@@ -1,0 +1,118 @@
+{
+	"name": "13_MedallionDeltaLakeSilver",
+	"properties": {
+		"activities": [
+			{
+				"name": "Load L2Silver",
+				"type": "ExecuteDataFlow",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"dataflow": {
+						"referenceName": "13_MedallionDeltaLake_Gold",
+						"type": "DataFlowReference"
+					},
+					"integrationRuntime": {
+						"referenceName": "ManagedVnetSmall",
+						"type": "IntegrationRuntimeReference"
+					},
+					"traceLevel": "None",
+					"cacheSinks": {
+						"firstRowOnly": true
+					}
+				}
+			},
+			{
+				"name": "Check for L2 error files",
+				"type": "GetMetadata",
+				"dependsOn": [
+					{
+						"activity": "Load L2Silver",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"dataset": {
+						"referenceName": "d13_sh_adls_binary",
+						"type": "DatasetReference",
+						"parameters": {
+							"container": "general",
+							"folder": {
+								"value": "@concat('names/l2_silver_errors/',\n formatDateTime(convertFromUtc(utcNow(),'Central Standard Time'),'yyyyMMdd')\n)",
+								"type": "Expression"
+							},
+							"file": "*.csv"
+						}
+					},
+					"fieldList": [
+						"childItems"
+					],
+					"storeSettings": {
+						"type": "AzureBlobFSReadSettings",
+						"recursive": true,
+						"enablePartitionDiscovery": false
+					},
+					"formatSettings": {
+						"type": "BinaryReadSettings"
+					}
+				}
+			},
+			{
+				"name": "If l2 Errors",
+				"type": "IfCondition",
+				"dependsOn": [
+					{
+						"activity": "Check for L2 error files",
+						"dependencyConditions": [
+							"Completed"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"expression": {
+						"value": "@if(\n    not(empty(activity('Check for L2 error files').output))\n    ,if(\n        not(\n            empty(\n                activity('Check for L2 error files').output.childitems\n                )\n            )\n        ,true,false),false)",
+						"type": "Expression"
+					},
+					"ifTrueActivities": [
+						{
+							"name": "Set variable1",
+							"type": "SetVariable",
+							"dependsOn": [],
+							"userProperties": [],
+							"typeProperties": {
+								"variableName": "test",
+								"value": "Do something with failure"
+							}
+						}
+					]
+				}
+			}
+		],
+		"variables": {
+			"test": {
+				"type": "String"
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2023-01-06T16:45:06Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

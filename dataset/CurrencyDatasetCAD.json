@@ -1,0 +1,25 @@
+{
+	"name": "CurrencyDatasetCAD",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_auto_sample",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "Currency_CAD.txt",
+				"folderPath": "currency",
+				"container": "general"
+			},
+			"columnDelimiter": "\t",
+			"escapeChar": "\\",
+			"firstRowAsHeader": false,
+			"quoteChar": "\""
+		},
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

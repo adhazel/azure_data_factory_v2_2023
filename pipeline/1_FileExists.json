@@ -1,0 +1,102 @@
+{
+	"name": "1_FileExists",
+	"properties": {
+		"activities": [
+			{
+				"name": "Check for file existance",
+				"type": "GetMetadata",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"dataset": {
+						"referenceName": "d1_adls_binary",
+						"type": "DatasetReference",
+						"parameters": {
+							"container": {
+								"value": "@pipeline().parameters.adls_container",
+								"type": "Expression"
+							},
+							"folder": {
+								"value": "@pipeline().parameters.adls_folder",
+								"type": "Expression"
+							},
+							"file": {
+								"value": "@pipeline().parameters.adls_filename",
+								"type": "Expression"
+							}
+						}
+					},
+					"fieldList": [
+						"exists"
+					],
+					"storeSettings": {
+						"type": "AzureBlobFSReadSettings",
+						"recursive": true,
+						"enablePartitionDiscovery": false
+					},
+					"formatSettings": {
+						"type": "BinaryReadSettings"
+					}
+				}
+			},
+			{
+				"name": "Fail if not found",
+				"type": "IfCondition",
+				"dependsOn": [
+					{
+						"activity": "Check for file existance",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"expression": {
+						"value": "@activity('Check for file existance').output.exists",
+						"type": "Expression"
+					},
+					"ifFalseActivities": [
+						{
+							"name": "Fail File not found",
+							"type": "Fail",
+							"dependsOn": [],
+							"userProperties": [],
+							"typeProperties": {
+								"message": {
+									"value": "@concat('File not found. Container:'\n    ,pipeline().parameters.adls_container\n    ,'; Folder:'\n    ,pipeline().parameters.adls_folder\n    ,'; File Mask:'\n    ,pipeline().parameters.adls_filename\n    ,'.')",
+									"type": "Expression"
+								},
+								"errorCode": "500"
+							}
+						}
+					]
+				}
+			}
+		],
+		"parameters": {
+			"adls_container": {
+				"type": "string",
+				"defaultValue": "general"
+			},
+			"adls_folder": {
+				"type": "string",
+				"defaultValue": "address"
+			},
+			"adls_filename": {
+				"type": "string",
+				"defaultValue": "Address2.csv"
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2023-01-05T13:50:41Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

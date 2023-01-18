@@ -1,0 +1,62 @@
+{
+	"name": "2_FilePatternExistsFlow",
+	"properties": {
+		"activities": [
+			{
+				"name": "Data flow1",
+				"type": "ExecuteDataFlow",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"dataflow": {
+						"referenceName": "2_FilePatternExists",
+						"type": "DataFlowReference",
+						"parameters": {
+							"adls_container": {
+								"value": "'@{pipeline().parameters.adls_container}'",
+								"type": "Expression"
+							},
+							"adls_folder": {
+								"value": "'@{pipeline().parameters.adls_folder}'",
+								"type": "Expression"
+							},
+							"adls_filemask": {
+								"value": "'@{pipeline().parameters.adls_filemask}'",
+								"type": "Expression"
+							}
+						}
+					},
+					"integrationRuntime": {
+						"referenceName": "ManagedVnetSmall",
+						"type": "IntegrationRuntimeReference"
+					},
+					"traceLevel": "Fine"
+				}
+			}
+		],
+		"parameters": {
+			"adls_container": {
+				"type": "String",
+				"defaultValue": "general"
+			},
+			"adls_folder": {
+				"type": "String",
+				"defaultValue": "address"
+			},
+			"adls_filemask": {
+				"type": "String",
+				"defaultValue": "A*.csv"
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2022-12-30T15:25:26Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

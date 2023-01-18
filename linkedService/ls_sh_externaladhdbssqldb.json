@@ -1,0 +1,16 @@
+{
+	"name": "ls_sh_externaladhdbssqldb",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "Self hosted IR connected to external-adh-dbs-sqldb using system identity",
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"connectionString": "Integrated Security=False;Encrypt=True;Connection Timeout=30;Data Source=external-adh-dbs-sqlsvr.database.windows.net;Initial Catalog=external-adh-dbs-sqldb"
+		},
+		"connectVia": {
+			"referenceName": "SelfHosted001",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

@@ -1,0 +1,128 @@
+{
+	"name": "13_MedallionDeltaLakeGold",
+	"properties": {
+		"description": "test",
+		"activities": [
+			{
+				"name": "Load L3 Gold",
+				"type": "ExecuteDataFlow",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"dataflow": {
+						"referenceName": "13_MedallionDeltaLake_Gold",
+						"type": "DataFlowReference"
+					},
+					"integrationRuntime": {
+						"referenceName": "ManagedVnetSmall",
+						"type": "IntegrationRuntimeReference"
+					},
+					"traceLevel": "Fine"
+				}
+			},
+			{
+				"name": "Check for L3 error files",
+				"type": "GetMetadata",
+				"dependsOn": [
+					{
+						"activity": "Load L3 Gold",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"dataset": {
+						"referenceName": "d13_sh_adls_binary",
+						"type": "DatasetReference",
+						"parameters": {
+							"container": "general",
+							"folder": {
+								"value": "@concat('names/l3_gold_errors/',\n formatDateTime(convertFromUtc(utcNow(),'Central Standard Time'),'yyyyMMdd')\n)",
+								"type": "Expression"
+							},
+							"file": "*.csv"
+						}
+					},
+					"fieldList": [
+						"childItems"
+					],
+					"storeSettings": {
+						"type": "AzureBlobFSReadSettings",
+						"recursive": true,
+						"enablePartitionDiscovery": false
+					},
+					"formatSettings": {
+						"type": "BinaryReadSettings"
+					}
+				}
+			},
+			{
+				"name": "If l3 Errors",
+				"type": "IfCondition",
+				"dependsOn": [
+					{
+						"activity": "Check for L3 error files",
+						"dependencyConditions": [
+							"Completed"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"expression": {
+						"value": "@contains(activity('Check for L3 error files').output,'childitems')",
+						"type": "Expression"
+					},
+					"ifFalseActivities": [
+						{
+							"name": "Set variable if error files NOT found",
+							"type": "SetVariable",
+							"dependsOn": [],
+							"userProperties": [],
+							"typeProperties": {
+								"variableName": "test",
+								"value": "Success condition"
+							}
+						}
+					],
+					"ifTrueActivities": [
+						{
+							"name": "Set variable if error files found",
+							"type": "SetVariable",
+							"dependsOn": [],
+							"userProperties": [],
+							"typeProperties": {
+								"variableName": "test",
+								"value": "Error condition"
+							}
+						}
+					]
+				}
+			}
+		],
+		"variables": {
+			"test": {
+				"type": "String"
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2023-01-06T19:24:31Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

@@ -1,0 +1,12 @@
+{
+	"name": "ls_auto_storageacct",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "AutoResolveIntegrationRuntime connection to externaladhdbstorage using system managed identity",
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://externaladhdbstorage.dfs.core.windows.net/"
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "pe_externaladhdbstorage_001",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/04d13477-771d-46bf-acec-72a853ea8552/resourceGroups/external-adh-dbs/providers/Microsoft.Storage/storageAccounts/externaladhdbstorage",
+		"groupId": "dfs",
+		"fqdns": [
+			"externaladhdbstorage.dfs.core.windows.net"
+		]
+	}
+}

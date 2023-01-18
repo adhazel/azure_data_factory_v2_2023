@@ -1,0 +1,65 @@
+{
+	"name": "d5_DimEmp",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_auto_externaladhdbssqldb",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "EmpID",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "surrogatekey",
+				"type": "varchar"
+			},
+			{
+				"name": "Region",
+				"type": "varchar"
+			},
+			{
+				"name": "Status",
+				"type": "varchar"
+			},
+			{
+				"name": "EmpFunction",
+				"type": "varchar"
+			},
+			{
+				"name": "Level",
+				"type": "varchar"
+			},
+			{
+				"name": "Role",
+				"type": "varchar"
+			},
+			{
+				"name": "StartDate",
+				"type": "date"
+			},
+			{
+				"name": "EndDate",
+				"type": "date"
+			},
+			{
+				"name": "iscurrent",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "processtime",
+				"type": "datetime2",
+				"scale": 7
+			}
+		],
+		"typeProperties": {
+			"schema": "demoscd2",
+			"table": "dimEmp"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

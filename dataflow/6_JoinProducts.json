@@ -1,0 +1,139 @@
+{
+	"name": "6_JoinProducts",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"linkedService": {
+						"referenceName": "ls_auto_storageacct",
+						"type": "LinkedServiceReference"
+					},
+					"name": "source1",
+					"description": "Import csv data from dbsstorage"
+				},
+				{
+					"linkedService": {
+						"referenceName": "ls_auto_storageacct",
+						"type": "LinkedServiceReference"
+					},
+					"name": "sourceColorFam",
+					"description": "Import color family Excel data from dbsstorage"
+				}
+			],
+			"sinks": [
+				{
+					"linkedService": {
+						"referenceName": "ls_auto_storageacct",
+						"type": "LinkedServiceReference"
+					},
+					"name": "sinkDeltalake",
+					"description": "Sink to delta lake format"
+				}
+			],
+			"transformations": [
+				{
+					"name": "addRowNum",
+					"description": "Adds ___rowNumber based on ProductID and desc ___filename"
+				},
+				{
+					"name": "filterToRowNum1",
+					"description": "Filtering to '__rowNumber' 1"
+				},
+				{
+					"name": "joinColorFamily",
+					"description": "Add color family to main data stream"
+				},
+				{
+					"name": "defineAlterConditions"
+				},
+				{
+					"name": "renameToSparkFriendly"
+				}
+			],
+			"scriptLines": [
+				"parameters{",
+				"     source_container as string (\"general\"),",
+				"     source_folder as string (\"products\"),",
+				"     source_file as string (\"Product2*.csv\"),",
+				"     output_folder as string (\"out1\"),",
+				"     fact_utcfrom as timestamp (toTimestamp(\"2000-01-01 00:00:01\")),",
+				"     fact_utcto as timestamp (toTimestamp(\"2050-01-01 00:00:01\"))",
+				"}",
+				"source(output(",
+				"          ProductID as integer,",
+				"          Name as string,",
+				"          ProductNumber as string,",
+				"          Color as string,",
+				"          StandardCost as float,",
+				"          ListPrice as float,",
+				"          Size as string,",
+				"          Weight as string,",
+				"          ProductCategoryID as integer,",
+				"          ProductModelID as integer",
+				"     ),",
+				"     useSchema: false,",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: true,",
+				"     rowUrlColumn: '__filename',",
+				"     modifiedAfter: ($fact_utcfrom),",
+				"     modifiedBefore: ($fact_utcto),",
+				"     format: 'delimited',",
+				"     fileSystem: ($source_container),",
+				"     columnDelimiter: ',',",
+				"     escapeChar: '\\\\',",
+				"     quoteChar: '\\\"',",
+				"     columnNamesAsHeader: true,",
+				"     wildcardPaths:[(concat(concat($source_folder, \"/\"),$source_file))]) ~> source1",
+				"source(output(",
+				"          Color as string,",
+				"          {Color Family} as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false,",
+				"     format: 'excel',",
+				"     fileSystem: ($source_container),",
+				"     sheetName: 'Sheet1',",
+				"     firstRowAsHeader: true,",
+				"     wildcardPaths:[(concat(concat($source_folder,\"/\"),\"product_color_family/*\"))]) ~> sourceColorFam",
+				"source1 window(over(ProductID),",
+				"     desc({__filename}, false),",
+				"     {__rowNumber} = rowNumber()) ~> addRowNum",
+				"addRowNum filter({__rowNumber} == 1) ~> filterToRowNum1",
+				"filterToRowNum1, renameToSparkFriendly join(source1@Color == renameToSparkFriendly@Color,",
+				"     joinType:'left',",
+				"     matchType:'exact',",
+				"     ignoreSpaces: false,",
+				"     broadcast: 'auto')~> joinColorFamily",
+				"joinColorFamily alterRow(upsertIf(true())) ~> defineAlterConditions",
+				"sourceColorFam select(mapColumn(",
+				"          Color,",
+				"          {__colorFamily} = {Color Family}",
+				"     ),",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true) ~> renameToSparkFriendly",
+				"defineAlterConditions sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     format: 'delta',",
+				"     fileSystem: ($source_container),",
+				"     folderPath: (concat(concat($source_folder,\"/\"),$output_folder)),",
+				"     mergeSchema: false,",
+				"     autoCompact: false,",
+				"     optimizedWrite: false,",
+				"     vacuum: 30,",
+				"     deletable:true,",
+				"     insertable:true,",
+				"     updateable:true,",
+				"     upsertable:true,",
+				"     keys:['ProductID'],",
+				"     umask: 0770,",
+				"     preCommands: [],",
+				"     postCommands: [],",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true) ~> sinkDeltalake"
+			]
+		}
+	}
+}

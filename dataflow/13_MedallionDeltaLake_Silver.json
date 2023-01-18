@@ -1,0 +1,267 @@
+{
+	"name": "13_MedallionDeltaLake_Silver",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"linkedService": {
+						"referenceName": "ls_mvsmall_storageacct",
+						"type": "LinkedServiceReference"
+					},
+					"name": "sourceEmployees"
+				},
+				{
+					"linkedService": {
+						"referenceName": "ls_mvsmall_storageacct",
+						"type": "LinkedServiceReference"
+					},
+					"name": "sourceRegionList"
+				}
+			],
+			"sinks": [
+				{
+					"linkedService": {
+						"referenceName": "ls_mvsmall_storageacct",
+						"type": "LinkedServiceReference"
+					},
+					"name": "sinkL2Silver",
+					"description": "Silver (clean) layer includes unmasked sensitive elements. Highly restricted location."
+				},
+				{
+					"linkedService": {
+						"referenceName": "ls_mvsmall_storageacct",
+						"type": "LinkedServiceReference"
+					},
+					"name": "sinkErrors",
+					"description": "Save error file"
+				}
+			],
+			"transformations": [
+				{
+					"name": "asserts"
+				},
+				{
+					"name": "splitAssertErrors",
+					"description": "Split rows with errors from clean rows"
+				},
+				{
+					"name": "selectRenameToSparkFriendly",
+					"description": "Change to Spark friendly column names "
+				},
+				{
+					"name": "addErrorMessage",
+					"description": "Add assertErrorMessage "
+				},
+				{
+					"name": "castDates"
+				},
+				{
+					"name": "aggregates",
+					"description": "Add RateDateofBirthNull and CountAll"
+				},
+				{
+					"name": "joinAggregates"
+				},
+				{
+					"name": "selectDropDuplicateOutput",
+					"description": "Drop duplicate s1Filename"
+				},
+				{
+					"name": "windowDedupStep1",
+					"description": "Add rowNumberbyEmpId"
+				},
+				{
+					"name": "filterDedupStep2",
+					"description": "Keep rowNumberbyEmpId 1"
+				},
+				{
+					"name": "aggregateMaxFile",
+					"description": "Get maxFilename"
+				},
+				{
+					"name": "latestRegionList"
+				}
+			],
+			"scriptLines": [
+				"source(output(",
+				"          {Emp ID} as long,",
+				"          {Name Prefix} as string,",
+				"          {First Name} as string,",
+				"          {Middle Initial} as string,",
+				"          {Last Name} as string,",
+				"          Gender as string,",
+				"          {E Mail} as string,",
+				"          {Father's Name} as string,",
+				"          {Mother's Name} as string,",
+				"          {Mother's Maiden Name} as string,",
+				"          {Date of Birth} as string,",
+				"          {Time of Birth} as string,",
+				"          {Age in Yrs.} as float,",
+				"          {Weight in Kgs.} as long,",
+				"          {Date of Joining} as string,",
+				"          {Quarter of Joining} as string,",
+				"          {Half of Joining} as string,",
+				"          {Year of Joining} as long,",
+				"          {Month of Joining} as long,",
+				"          {Month Name of Joining} as string,",
+				"          {Short Month} as string,",
+				"          {Day of Joining} as long,",
+				"          {DOW of Joining} as string,",
+				"          {Short DOW} as string,",
+				"          {Age in Company (Years)} as float,",
+				"          Salary as long,",
+				"          {Last % Hike} as float,",
+				"          SSN as string,",
+				"          {Phone No. } as string,",
+				"          {Place Name} as string,",
+				"          County as string,",
+				"          City as string,",
+				"          State as string,",
+				"          Zip as long,",
+				"          Region as string,",
+				"          {User Name} as string,",
+				"          Password as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: true,",
+				"     ignoreNoFilesFound: false,",
+				"     rowUrlColumn: 's1Filename',",
+				"     modifiedAfter: (toTimestamp(1672963200000L)),",
+				"     format: 'excel',",
+				"     fileSystem: 'general',",
+				"     sheetName: '90_name_records',",
+				"     firstRowAsHeader: true,",
+				"     dateFormats: ['MM/dd/yyyy'],",
+				"     timestampFormats: ['MM/dd/yyyy hh:mm:ss a'],",
+				"     preferredIntegralType: 'long',",
+				"     preferredFractionalType: 'float',",
+				"     wildcardPaths:[('names/l1_bronze/*/90_name_records.xlsx')]) ~> sourceEmployees",
+				"source(output(",
+				"          Region as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     limit: 100,",
+				"     ignoreNoFilesFound: false,",
+				"     rowUrlColumn: 'sfilename',",
+				"     format: 'excel',",
+				"     fileSystem: ('general'),",
+				"     sheetName: 'Sheet1',",
+				"     firstRowAsHeader: true,",
+				"     wildcardPaths:[('names/l1_bronze/*/Regions.xlsx')]) ~> sourceRegionList",
+				"selectDropDuplicateOutput, latestRegionList assert(expectTrue(not(isNull(Gender)) && in(['M','F','O'], Gender), false, 'assertGender', null, Gender + ' must be: M (Male), F (Female) or O (Other).'),",
+				"     expectTrue(not(isNull(EMail)), false, 'assertEmail', null, 'Email is required and is Null'),",
+				"     expectUnique(EmpID, false, 'assertEmpId', null, toString({EmpID}) + ' is not unique'),",
+				"     expectTrue(YearofJoining > minus(year(currentUTC()),120), true, 'assertYearJoining', null, toString({YearofJoining}) + ' must be realistic (within last 120 years)'),",
+				"     expectTrue(in(['H1','H2'], HalfofJoining), true, 'assertHalfOfJoining', null, {HalfofJoining} + ' must be H1 or H2'),",
+				"     expectTrue(RateDateofBirthNull < .2, false, 'assertAggregateRateDateofBirthNull', null, 'Source file has an unexpectedly large rate of null Date of Birth values: ' + toString(RateDateofBirthNull) + ' indicating a bad source file.'),",
+				"     expectTrue(CountAll > 20, false, 'assertAggregateCount', null, 'Source file does not include > 20 records; indicating a bad file.'),",
+				"     expectExists(selectDropDuplicateOutput@Region == sourceRegionList@Region, false, 'assertValidRegion', null, selectDropDuplicateOutput@Region + ' does not exist in Regions list')) ~> asserts",
+				"asserts split(isError(),",
+				"     disjoint: false) ~> splitAssertErrors@(AssertErrors, Clean)",
+				"sourceEmployees select(mapColumn(",
+				"          EmpID = {Emp ID},",
+				"          NamePrefix = {Name Prefix},",
+				"          FirstName = {First Name},",
+				"          MiddleInitial = {Middle Initial},",
+				"          LastName = {Last Name},",
+				"          Gender,",
+				"          EMail = {E Mail},",
+				"          FathersName = {Father's Name},",
+				"          MothersName = {Mother's Name},",
+				"          MothersMaidenName = {Mother's Maiden Name},",
+				"          DateofBirth = {Date of Birth},",
+				"          TimeofBirth = {Time of Birth},",
+				"          AgeinYrs = {Age in Yrs.},",
+				"          WeightinKgs = {Weight in Kgs.},",
+				"          DateofJoining = {Date of Joining},",
+				"          QuarterofJoining = {Quarter of Joining},",
+				"          HalfofJoining = {Half of Joining},",
+				"          YearofJoining = {Year of Joining},",
+				"          MonthofJoining = {Month of Joining},",
+				"          MonthNameofJoining = {Month Name of Joining},",
+				"          ShortMonth = {Short Month},",
+				"          DayofJoining = {Day of Joining},",
+				"          DOWofJoining = {DOW of Joining},",
+				"          ShortDOW = {Short DOW},",
+				"          AgeinCompanyYears = {Age in Company (Years)},",
+				"          Salary,",
+				"          LastPercentHike = {Last % Hike},",
+				"          SSN,",
+				"          PhoneNo = {Phone No. },",
+				"          PlaceName = {Place Name},",
+				"          County,",
+				"          City,",
+				"          State,",
+				"          Zip,",
+				"          Region,",
+				"          UserName = {User Name},",
+				"          Password,",
+				"          s1Filename",
+				"     ),",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true) ~> selectRenameToSparkFriendly",
+				"splitAssertErrors@AssertErrors derive(assertErrorMessage = assertErrorMessages()) ~> addErrorMessage",
+				"filterDedupStep2 derive(DateofBirth = toDate(DateofBirth, 'M/d/yyyy'),",
+				"          DateofJoining = toDate(DateofJoining, 'M/d/yyyy')) ~> castDates",
+				"castDates aggregate(groupBy(s1Filename),",
+				"     RateDateofBirthNull = round(countIf(isNull(DateofBirth), EmpID)/countAll(EmpID), 2, 5),",
+				"          CountAll = countAll(EmpID)) ~> aggregates",
+				"castDates, aggregates join(selectRenameToSparkFriendly@s1Filename == aggregates@s1Filename,",
+				"     joinType:'inner',",
+				"     matchType:'exact',",
+				"     ignoreSpaces: false,",
+				"     broadcast: 'auto')~> joinAggregates",
+				"joinAggregates select(skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true) ~> selectDropDuplicateOutput",
+				"selectRenameToSparkFriendly window(over(EmpID),",
+				"     desc(s1Filename, false),",
+				"     rowNumberbyEmpId = rowNumber()) ~> windowDedupStep1",
+				"windowDedupStep1 filter(rowNumberbyEmpId == 1) ~> filterDedupStep2",
+				"sourceRegionList aggregate(maxFilename = max(sfilename)) ~> aggregateMaxFile",
+				"sourceRegionList, aggregateMaxFile join(sfilename == maxFilename,",
+				"     joinType:'inner',",
+				"     matchType:'exact',",
+				"     ignoreSpaces: false,",
+				"     broadcast: 'auto')~> latestRegionList",
+				"splitAssertErrors@Clean sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     format: 'delta',",
+				"     fileSystem: 'general',",
+				"     folderPath: 'names/l2_silver',",
+				"     overwrite:true,",
+				"     mergeSchema: true,",
+				"     autoCompact: true,",
+				"     optimizedWrite: false,",
+				"     vacuum: 14,",
+				"     deletable:false,",
+				"     insertable:true,",
+				"     updateable:false,",
+				"     upsertable:false,",
+				"     umask: 0022,",
+				"     preCommands: [],",
+				"     postCommands: [],",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true,",
+				"     ignoreAssertFailedRows: true) ~> sinkL2Silver",
+				"addErrorMessage sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     format: 'delimited',",
+				"     fileSystem: 'general',",
+				"     folderPath: (\"names/l2_silver_errors/\" +  toString(currentDate('CST'),'yyyyMMdd')),",
+				"     truncate: true,",
+				"     columnDelimiter: ',',",
+				"     escapeChar: '\\\\',",
+				"     quoteChar: '\\\"',",
+				"     columnNamesAsHeader: true,",
+				"     umask: 0022,",
+				"     preCommands: [],",
+				"     postCommands: [],",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true,",
+				"     quoteAll: true) ~> sinkErrors"
+			]
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "pe_externaladhdbssqlsvr_001",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/04d13477-771d-46bf-acec-72a853ea8552/resourceGroups/external-adh-dbs/providers/Microsoft.Sql/servers/external-adh-dbs-sqlsvr",
+		"groupId": "sqlServer",
+		"fqdns": [
+			"external-adh-dbs-sqlsvr.database.windows.net"
+		]
+	}
+}

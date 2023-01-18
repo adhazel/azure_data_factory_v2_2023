@@ -1,0 +1,35 @@
+{
+	"name": "4_Type2SCD_Temporal",
+	"properties": {
+		"description": "To prepare for this test, run the following on the external-adh-dbs-sqlsvr database: \n~delete from  [dbo].[DimCustomerTemporal]~\n\nThen, run this pipeline to do the initial load into the dbo.DimCustomerTemporal table. \nView the table on completion. \n\nThen, change a value in the dbo.CustomerSource table to simulate a subsequent load and run the pipeline again, reviewing dbo.DimCustomerTemporal on completion.",
+		"activities": [
+			{
+				"name": "Data flow1",
+				"type": "ExecuteDataFlow",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"dataflow": {
+						"referenceName": "4_UpdateCustomerTemporalDimension",
+						"type": "DataFlowReference"
+					},
+					"integrationRuntime": {
+						"referenceName": "ManagedVnetSmall",
+						"type": "IntegrationRuntimeReference"
+					},
+					"traceLevel": "Fine"
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2023-01-03T17:04:26Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

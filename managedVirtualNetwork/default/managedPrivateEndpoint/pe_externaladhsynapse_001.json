@@ -1,0 +1,10 @@
+{
+	"name": "pe_externaladhsynapse_001",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/04d13477-771d-46bf-acec-72a853ea8552/resourceGroups/external-adh-dbs/providers/Microsoft.Synapse/workspaces/external-adh-synapse",
+		"groupId": "sql",
+		"fqdns": [
+			"external-adh-synapse.sql.azuresynapse.net"
+		]
+	}
+}

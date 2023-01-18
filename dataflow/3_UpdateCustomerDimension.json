@@ -1,0 +1,142 @@
+{
+	"name": "3_UpdateCustomerDimension",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"dataset": {
+						"referenceName": "d2_CustomerSource",
+						"type": "DatasetReference"
+					},
+					"name": "SourceDB",
+					"description": "Import data from ds_samples2_CustomerSource dataset"
+				},
+				{
+					"dataset": {
+						"referenceName": "d3_DimCustomer",
+						"type": "DatasetReference"
+					},
+					"name": "DimCustomer"
+				}
+			],
+			"sinks": [
+				{
+					"dataset": {
+						"referenceName": "d3_DimCustomer",
+						"type": "DatasetReference"
+					},
+					"name": "Sink"
+				}
+			],
+			"transformations": [
+				{
+					"name": "CreateCustomerHash",
+					"description": "Creates a SHA256 hash of the table values. We use this to detect row changes by comparing the hash of the incoming records to the hash value of the destination records, matching on the CustomerID value. The iifNull function replaces null values with empty strings. Otherwise, the hash values tend to duplicate when null entries are present."
+				},
+				{
+					"name": "Exists"
+				},
+				{
+					"name": "LookupCustomerID"
+				},
+				{
+					"name": "SetDates",
+					"description": "Set SCD date values"
+				},
+				{
+					"name": "AllowUpserts"
+				}
+			],
+			"scriptLines": [
+				"source(output(",
+				"          CustomerID as integer,",
+				"          Title as string,",
+				"          FirstName as string,",
+				"          MiddleName as string,",
+				"          LastName as string,",
+				"          Suffix as string,",
+				"          CompanyName as string,",
+				"          SalesPerson as string,",
+				"          EmailAddress as string,",
+				"          Phone as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     isolationLevel: 'READ_UNCOMMITTED',",
+				"     format: 'table') ~> SourceDB",
+				"source(output(",
+				"          CustomerID as integer,",
+				"          Title as string,",
+				"          FirstName as string,",
+				"          MiddleName as string,",
+				"          LastName as string,",
+				"          Suffix as string,",
+				"          CompanyName as string,",
+				"          SalesPerson as string,",
+				"          EmailAddress as string,",
+				"          Phone as string,",
+				"          InsertedDate as timestamp,",
+				"          ModifiedDate as timestamp,",
+				"          HashKey as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     isolationLevel: 'READ_UNCOMMITTED',",
+				"     format: 'table') ~> DimCustomer",
+				"SourceDB derive(HashKey = sha2(256, iifNull(Title,'') +FirstName +iifNull(MiddleName,'') +LastName +iifNull(Suffix,'') +iifNull(CompanyName,'') +iifNull(SalesPerson,'') +iifNull(EmailAddress,'') +iifNull(Phone,''))) ~> CreateCustomerHash",
+				"CreateCustomerHash, DimCustomer exists(CreateCustomerHash@HashKey == DimCustomer@HashKey,",
+				"     negate:true,",
+				"     broadcast: 'auto')~> Exists",
+				"Exists, DimCustomer lookup(SourceDB@CustomerID == DimCustomer@CustomerID,",
+				"     multiple: false,",
+				"     pickup: 'any',",
+				"     broadcast: 'auto')~> LookupCustomerID",
+				"LookupCustomerID derive(InsertedDate = iif(isNull(InsertedDate), currentTimestamp(), InsertedDate),",
+				"          ModifiedDate = currentTimestamp()) ~> SetDates",
+				"SetDates alterRow(upsertIf(true())) ~> AllowUpserts",
+				"AllowUpserts sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     input(",
+				"          CustomerID as integer,",
+				"          Title as string,",
+				"          FirstName as string,",
+				"          MiddleName as string,",
+				"          LastName as string,",
+				"          Suffix as string,",
+				"          CompanyName as string,",
+				"          SalesPerson as string,",
+				"          EmailAddress as string,",
+				"          Phone as string,",
+				"          InsertedDate as timestamp,",
+				"          ModifiedDate as timestamp,",
+				"          HashKey as string",
+				"     ),",
+				"     deletable:false,",
+				"     insertable:false,",
+				"     updateable:false,",
+				"     upsertable:true,",
+				"     keys:['CustomerID'],",
+				"     format: 'table',",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true,",
+				"     errorHandlingOption: 'stopOnFirstError',",
+				"     mapColumn(",
+				"          CustomerID = SourceDB@CustomerID,",
+				"          Title = SourceDB@Title,",
+				"          FirstName = SourceDB@FirstName,",
+				"          MiddleName = SourceDB@MiddleName,",
+				"          LastName = SourceDB@LastName,",
+				"          Suffix = SourceDB@Suffix,",
+				"          CompanyName = SourceDB@CompanyName,",
+				"          SalesPerson = SourceDB@SalesPerson,",
+				"          EmailAddress = SourceDB@EmailAddress,",
+				"          Phone = SourceDB@Phone,",
+				"          InsertedDate,",
+				"          ModifiedDate,",
+				"          HashKey = CreateCustomerHash@HashKey",
+				"     )) ~> Sink"
+			]
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "ls_mvmedium_storageacct",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "Managed VNet IR Medium connection to externaladhdbstorage using private endpoint pe_externaladhdbstorage_001",
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://externaladhdbstorage.dfs.core.windows.net/"
+		},
+		"connectVia": {
+			"referenceName": "ManagedVnetMedium",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
