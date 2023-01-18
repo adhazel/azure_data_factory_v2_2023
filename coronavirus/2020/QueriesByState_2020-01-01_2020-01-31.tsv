@@ -1,0 +1,1001 @@
+Date	Query	IsImplicitIntent	State	Country	PopularityScore
+2020-01-01	coronavirus	False	Michigan	United States	1
+2020-01-01	coronavirus	False	Pennsylvania	United States	1
+2020-01-01	p2 masks	True	Australian Capital Territory	Australia	1
+2020-01-01	auswärtiges amt	True	North Rhine-Westphalia	Germany	1
+2020-01-01	p2 masks	True	New South Wales	Australia	1
+2020-01-02	coronavirus	False	California	United States	67
+2020-01-02	webasto	True	North Rhine-Westphalia	Germany	1
+2020-01-02	coronavirus	False	Ohio	United States	1
+2020-01-02	corona virus	False	California	United States	100
+2020-01-02	arrowe park hospital	True	Merseyside	United Kingdom	100
+2020-01-02	nhs england	True	London	United Kingdom	100
+2020-01-02	coronavirus	False	Missouri	United States	1
+2020-01-02	public health england	True	Hertfordshire	United Kingdom	1
+2020-01-02	nhs england	True	Greater Manchester	United Kingdom	1
+2020-01-02	coronavirus	False	Pennsylvania	United States	1
+2020-01-02	auswärtiges amt	True	Berlin	Germany	1
+2020-01-02	auswärtiges amt	True	Rhineland-Palatinate	Germany	1
+2020-01-02	auswärtiges amt	True	Hamburg	Germany	1
+2020-01-02	nhs england	True	West Midlands	United Kingdom	1
+2020-01-02	n95 mask	True	California	United States	1
+2020-01-02	nhs england	True	West Yorkshire	United Kingdom	1
+2020-01-02	coronavirus	False	Illinois	United States	1
+2020-01-02	p2 masks	True	New South Wales	Australia	1
+2020-01-02	auswärtiges amt	True	North Rhine-Westphalia	Germany	100
+2020-01-02	coronavirus	False	Ontario	Canada	1
+2020-01-02	nhs england	True	Merseyside	United Kingdom	1
+2020-01-02	webasto	True	Bavaria	Germany	1
+2020-01-02	auswärtiges amt	True	Baden-Wuerttemberg	Germany	1
+2020-01-02	nhs england	True	East Sussex	United Kingdom	1
+2020-01-02	coronavirus	False	New York	United States	1
+2020-01-02	coronavirus	False	Tennessee	United States	1
+2020-01-02	public health england	True	London	United Kingdom	1
+2020-01-02	auswärtiges amt	True	Hesse	Germany	1
+2020-01-02	auswärtiges amt	True	Bavaria	Germany	100
+2020-01-03	auswärtiges amt	True	North Rhine-Westphalia	Germany	1
+2020-01-03	coronavirus	False	Texas	United States	1
+2020-01-03	nhs england	True	Hertfordshire	United Kingdom	1
+2020-01-03	auswärtiges amt	True	Saxony	Germany	1
+2020-01-03	auswärtiges amt	True	Berlin	Germany	1
+2020-01-03	coronavirus	False	California	United States	100
+2020-01-03	public health england	True	Hertfordshire	United Kingdom	100
+2020-01-03	corona virus	False	California	United States	1
+2020-01-03	auswärtiges amt	True	Hesse	Germany	1
+2020-01-03	arrowe park hospital	True	Merseyside	United Kingdom	1
+2020-01-03	nhs england	True	East Sussex	United Kingdom	1
+2020-01-03	auswärtiges amt	True	Bavaria	Germany	1
+2020-01-03	auswärtiges amt	True	Hamburg	Germany	1
+2020-01-03	public health england	True	Greater Manchester	United Kingdom	1
+2020-01-03	coronavirus	False	Virginia	United States	1
+2020-01-03	nhs england	True	Essex	United Kingdom	1
+2020-01-03	nhs england	True	London	United Kingdom	100
+2020-01-03	public health england	True	London	United Kingdom	1
+2020-01-03	public health england	True	West Midlands	United Kingdom	1
+2020-01-03	coronavirus	False	New York	United States	1
+2020-01-03	nhs england	True	West Yorkshire	United Kingdom	100
+2020-01-03	coronavirus	False	Wisconsin	United States	1
+2020-01-03	auswärtiges amt	True	Lower Saxony	Germany	1
+2020-01-03	nhs england	True	South Yorkshire	United Kingdom	1
+2020-01-03	nhs england	True	Greater Manchester	United Kingdom	1
+2020-01-03	coronavirus	False	Pennsylvania	United States	1
+2020-01-03	public health england	True	West Yorkshire	United Kingdom	1
+2020-01-04	coronavirus	False	Wisconsin	United States	1
+2020-01-04	auswärtiges amt	True	North Rhine-Westphalia	Germany	1
+2020-01-04	p2 masks	True	New South Wales	Australia	1
+2020-01-04	auswärtiges amt	True	Baden-Wuerttemberg	Germany	1
+2020-01-04	coronavirus	False	North Carolina	United States	1
+2020-01-04	arrowe park hospital	True	Merseyside	United Kingdom	1
+2020-01-04	coronavirus	False	Colorado	United States	1
+2020-01-05	auswärtiges amt	True	Hesse	Germany	1
+2020-01-05	coronavirus	False	California	United States	1
+2020-01-05	coronavirus	False	Colorado	United States	1
+2020-01-05	p2 masks	True	New South Wales	Australia	1
+2020-01-05	public health england	True	London	United Kingdom	1
+2020-01-05	p2 masks australia	True	Victoria	Australia	1
+2020-01-05	p2 masks	True	Victoria	Australia	100
+2020-01-05	coronavirus	False	Pennsylvania	United States	1
+2020-01-05	p2 masks	True	Australian Capital Territory	Australia	1
+2020-01-05	auswärtiges amt	True	Bavaria	Germany	1
+2020-01-05	auswärtiges amt	True	North Rhine-Westphalia	Germany	1
+2020-01-06	coronavirus	False	Indiana	United States	1
+2020-01-06	corona virus	False	Texas	United States	1
+2020-01-06	nhs england	True	Lancashire	United Kingdom	1
+2020-01-06	coronavirus	False	Missouri	United States	1
+2020-01-06	nhs england	True	London	United Kingdom	100
+2020-01-06	auswärtiges amt	True	North Rhine-Westphalia	Germany	1
+2020-01-06	auswärtiges amt	True	Schleswig-Holstein	Germany	1
+2020-01-06	auswärtiges amt	True	Hamburg	Germany	1
+2020-01-06	coronavirus	False	California	United States	1
+2020-01-06	auswärtiges amt	True	Saxony	Germany	1
+2020-01-06	nhs england	True	East Sussex	United Kingdom	1
+2020-01-06	coronavirus	False	Washington	United States	1
+2020-01-06	coronavirus	False	Pennsylvania	United States	1
+2020-01-06	nhs england	True	Durham	United Kingdom	1
+2020-01-06	public health england	True	West Yorkshire	United Kingdom	1
+2020-01-06	public health england	True	South Yorkshire	United Kingdom	1
+2020-01-06	public health england	True	Durham	United Kingdom	100
+2020-01-06	p2 masks	True	Victoria	Australia	1
+2020-01-06	coronavirus	False	North Carolina	United States	1
+2020-01-06	arrowe park hospital	True	Merseyside	United Kingdom	100
+2020-01-06	public health england	True	Kingston Upon Hull	United Kingdom	1
+2020-01-06	auswärtiges amt	True	Bavaria	Germany	1
+2020-01-06	coronavirus	False	Tennessee	United States	1
+2020-01-06	auswärtiges amt	True	Berlin	Germany	1
+2020-01-06	nhs england	True	Merseyside	United Kingdom	1
+2020-01-06	p2 masks	True	New South Wales	Australia	1
+2020-01-06	auswärtiges amt	True	Hesse	Germany	1
+2020-01-06	public health england	True	Greater Manchester	United Kingdom	1
+2020-01-06	coronavirus	False	Wisconsin	United States	1
+2020-01-06	auswärtiges amt	True	Baden-Wuerttemberg	Germany	1
+2020-01-06	coronavirus	False	Illinois	United States	1
+2020-01-06	nhs england	True	West Yorkshire	United Kingdom	100
+2020-01-06	public health england	True	Hertfordshire	United Kingdom	1
+2020-01-06	public health england	True	London	United Kingdom	1
+2020-01-06	corona virus	False	New York	United States	1
+2020-01-06	nhs england	True	Hertfordshire	United Kingdom	1
+2020-01-06	nhs england	True	England	United Kingdom	1
+2020-01-06	coronavirus	False	New York	United States	1
+2020-01-06	coronavirus	False	Florida	United States	1
+2020-01-06	auswärtiges amt	True	Rhineland-Palatinate	Germany	1
+2020-01-06	auswärtiges amt	True	Lower Saxony	Germany	1
+2020-01-06	nhs england	True	Greater Manchester	United Kingdom	100
+2020-01-06	coronavirus	False	Virginia	United States	1
+2020-01-06	coronavirus	False	Kansas	United States	1
+2020-01-06	kalitta air	True	Michigan	United States	1
+2020-01-07	webasto	True	North Rhine-Westphalia	Germany	1
+2020-01-07	arrowe park hospital	True	Greater Manchester	United Kingdom	17
+2020-01-07	public health england	True	West Midlands	United Kingdom	1
+2020-01-07	coronavirus	False	Ohio	United States	1
+2020-01-07	coronavirus	False	Florida	United States	1
+2020-01-07	auswärtiges amt	True	Bavaria	Germany	100
+2020-01-07	p2 masks	True	Australian Capital Territory	Australia	1
+2020-01-07	auswärtiges amt	True	Rhineland-Palatinate	Germany	1
+2020-01-07	nhs england	True	East Sussex	United Kingdom	1
+2020-01-07	coronavirus	False	Michigan	United States	1
+2020-01-07	n95 mask	True	California	United States	1
+2020-01-07	public health england	True	Merseyside	United Kingdom	1
+2020-01-07	nhs england	True	London	United Kingdom	100
+2020-01-07	auswärtiges amt	True	Baden-Wuerttemberg	Germany	100
+2020-01-07	webasto	True	Baden-Wuerttemberg	Germany	1
+2020-01-07	auswärtiges amt	True	North Rhine-Westphalia	Germany	100
+2020-01-07	sras	True	Occitanie	France	1
+2020-01-07	nhs england	True	Greater Manchester	United Kingdom	100
+2020-01-07	public health england	True	London	United Kingdom	1
+2020-01-07	p2 masks	True	Victoria	Australia	1
+2020-01-07	p2 masks	True	New South Wales	Australia	1
+2020-01-07	public health england	True	Hertfordshire	United Kingdom	1
+2020-01-07	webasto	True	Bavaria	Germany	1
+2020-01-07	arrowe park hospital	True	Merseyside	United Kingdom	100
+2020-01-07	corona virus	False	New York	United States	1
+2020-01-07	auswärtiges amt	True	Hesse	Germany	1
+2020-01-07	coronavirus	False	Texas	United States	1
+2020-01-07	coronavirus	False	Illinois	United States	1
+2020-01-07	coronavirus	False	Pennsylvania	United States	1
+2020-01-07	coronavirus	False	California	United States	100
+2020-01-07	auswärtiges amt	True	Berlin	Germany	1
+2020-01-07	coronavirus	False	New York	United States	100
+2020-01-07	auswärtiges amt	True	Lower Saxony	Germany	1
+2020-01-07	public health england	True	Greater Manchester	United Kingdom	1
+2020-01-07	nhs england	True	Hertfordshire	United Kingdom	100
+2020-01-07	nhs england	True	West Yorkshire	United Kingdom	1
+2020-01-08	coronavirus	False	Maryland	United States	1
+2020-01-08	nhs england	True	West Midlands	United Kingdom	1
+2020-01-08	nhs england	True	Hertfordshire	United Kingdom	1
+2020-01-08	nhs england	True	East Sussex	United Kingdom	1
+2020-01-08	webasto	True	Bavaria	Germany	1
+2020-01-08	nhs england	True	England	United Kingdom	1
+2020-01-08	冠狀病毒	False	Taipei City	Taiwan	1
+2020-01-08	public health england	True	South Yorkshire	United Kingdom	1
+2020-01-08	auswärtiges amt	True	Baden-Wuerttemberg	Germany	1
+2020-01-08	冠状病毒	False	Beijing	China	100
+2020-01-08	冠状病毒	False	Henan	China	1
+2020-01-08	冠状病毒	False	Sichuan	China	1
+2020-01-08	coronavirus	False	Texas	United States	1
+2020-01-08	nhs england	True	London	United Kingdom	1
+2020-01-08	コロナウイルス	False	Nara	Japan	1
+2020-01-08	コロナウイルス	False	Gifu	Japan	1
+2020-01-08	コロナウイルスとは	False	Kanagawa	Japan	1
+2020-01-08	public health england	True	West Midlands	United Kingdom	100
+2020-01-08	冠狀病毒	False	Central And Western District	Hong Kong	1
+2020-01-08	coronavirus	False	Illinois	United States	1
+2020-01-08	corona virus	False	New York	United States	1
+2020-01-08	コロナウイルス	False	Hokkaido	Japan	1
+2020-01-08	コロナウイルス	False	Kyoto	Japan	1
+2020-01-08	auswärtiges amt	True	Hesse	Germany	1
+2020-01-08	auswärtiges amt	True	North Rhine-Westphalia	Germany	1
+2020-01-08	コロナウイルス	False	Aichi	Japan	100
+2020-01-08	コロナウイルス	False	Hiroshima	Japan	1
+2020-01-08	コロナウイルス	False	Toyama	Japan	1
+2020-01-08	coronavirus	False	Shanghai	China	1
+2020-01-08	コロナウイルス	False	Kanagawa	Japan	100
+2020-01-08	コロナウイルス	False	Hyogo	Japan	1
+2020-01-08	coronavirus	False	California	United States	100
+2020-01-08	coronavirus	False	Ohio	United States	1
+2020-01-08	冠状病毒	False	Hubei	China	1
+2020-01-08	コロナウイルス	False	Okayama	Japan	1
+2020-01-08	コロナウイルス	False	Tokyo	Japan	100
+2020-01-08	コロナウイルス	False	Iwate	Japan	1
+2020-01-08	auswärtiges amt	True	Hamburg	Germany	1
+2020-01-08	コロナウイルスとは	False	Tokyo	Japan	1
+2020-01-08	冠状病毒	False	Zhejiang	China	1
+2020-01-08	auswärtiges amt	True	Schleswig-Holstein	Germany	1
+2020-01-08	コロナウイルス	False	Okinawa	Japan	1
+2020-01-08	コロナウイルス	False	Shizuoka	Japan	1
+2020-01-08	冠状病毒	False	Shanghai	China	100
+2020-01-08	コロナウイルスとは	False	Aichi	Japan	1
+2020-01-08	coronavirus	False	Pennsylvania	United States	1
+2020-01-08	冠状病毒	False	Shandong	China	1
+2020-01-08	コロナウイルス	False	Osaka	Japan	100
+2020-01-08	冠状病毒	False	Guangdong	China	100
+2020-01-08	コロナウイルス	False	Nagano	Japan	1
+2020-01-08	coronavirus	False	Iowa	United States	1
+2020-01-08	コロナウイルス	False	Chiba	Japan	1
+2020-01-08	コロナウイルス	False	Niigata	Japan	1
+2020-01-08	nhs england	True	Essex	United Kingdom	1
+2020-01-08	corona virus	False	California	United States	1
+2020-01-08	coronavirus	False	Beijing	China	1
+2020-01-08	coronavirus	False	Wisconsin	United States	1
+2020-01-08	コロナウイルス	False	Saitama	Japan	1
+2020-01-08	nhs england	True	West Yorkshire	United Kingdom	1
+2020-01-08	冠状病毒	False	Jiangsu	China	1
+2020-01-08	public health england	True	Merseyside	United Kingdom	1
+2020-01-08	auswärtiges amt	True	Rhineland-Palatinate	Germany	1
+2020-01-08	public health england	True	London	United Kingdom	100
+2020-01-08	コロナウイルス	False	Ishikawa	Japan	1
+2020-01-08	nhs england	True	Greater Manchester	United Kingdom	1
+2020-01-08	冠状病毒	False	Fujian	China	1
+2020-01-08	コロナウイルス	False	Fukuoka	Japan	1
+2020-01-08	coronavirus	False	Guangdong	China	1
+2020-01-08	auswärtiges amt	True	Lower Saxony	Germany	1
+2020-01-08	コロナウイルス	False	Miyagi	Japan	1
+2020-01-08	arrowe park hospital	True	Merseyside	United Kingdom	100
+2020-01-08	coronavirus	False	Florida	United States	1
+2020-01-08	coronavirus	False	New York	United States	1
+2020-01-08	public health england	True	Hertfordshire	United Kingdom	1
+2020-01-08	コロナウイルス	False	Akita	Japan	1
+2020-01-08	auswärtiges amt	True	Bavaria	Germany	100
+2020-01-08	public health england	True	Tyne And Wear	United Kingdom	1
+2020-01-08	coronavirus	False	Tennessee	United States	1
+2020-01-08	auswärtiges amt	True	Saxony	Germany	1
+2020-01-08	コロナウイルスとは	False	Osaka	Japan	1
+2020-01-08	coronavirus	False	Ontario	Canada	1
+2020-01-08	p2 masks	True	New South Wales	Australia	1
+2020-01-09	コロナウイルス	False	Fukuoka	Japan	1
+2020-01-09	コロナウイルスとは	False	Aichi	Japan	1
+2020-01-09	coronavirus	False	Michigan	United States	100
+2020-01-09	coronavirus	False	Baden-Wuerttemberg	Germany	20
+2020-01-09	coronavirus	False	Florida	United States	1
+2020-01-09	コロナウイルス	False	Aichi	Japan	100
+2020-01-09	コロナウイルス	False	Shizuoka	Japan	1
+2020-01-09	コロナウイルス	False	Chiba	Japan	1
+2020-01-09	coronavirus	False	Massachusetts	United States	1
+2020-01-09	コロナウイルス	False	Nagano	Japan	1
+2020-01-09	coronavirus	False	New York	United States	1
+2020-01-09	冠状病毒	False	Guangdong	China	1
+2020-01-09	public health england	True	East Sussex	United Kingdom	1
+2020-01-09	コロナウイルス	False	Gifu	Japan	1
+2020-01-09	コロナウイルス	False	Hyogo	Japan	1
+2020-01-09	冠状病毒	False	Beijing	China	100
+2020-01-09	nhs england	True	Hertfordshire	United Kingdom	100
+2020-01-09	coronavirus	False	Washington	United States	1
+2020-01-09	auswärtiges amt	True	Berlin	Germany	100
+2020-01-09	corona virus	False	California	United States	17
+2020-01-09	public health england	True	Hertfordshire	United Kingdom	1
+2020-01-09	コロナウイルス	False	Osaka	Japan	100
+2020-01-09	冠状病毒	False	Hubei	China	1
+2020-01-09	coronavirus	False	Beijing	China	1
+2020-01-09	auswärtiges amt	True	Bavaria	Germany	100
+2020-01-09	コロナウイルスとは	False	Saitama	Japan	1
+2020-01-09	coronavirus	False	North Rhine-Westphalia	Germany	1
+2020-01-09	コロナウイルス	False	Toyama	Japan	1
+2020-01-09	コロナウイルス	False	Tokyo	Japan	100
+2020-01-09	冠状病毒	False	Shanghai	China	1
+2020-01-09	coronavirus	False	Texas	United States	100
+2020-01-09	nhs england	True	West Yorkshire	United Kingdom	1
+2020-01-09	webasto	True	Baden-Wuerttemberg	Germany	1
+2020-01-09	coronavirus	False	Nebraska	United States	1
+2020-01-09	coronavirus	False	Ile-De-France	France	1
+2020-01-09	coronavirus	False	California	United States	100
+2020-01-09	arrowe park hospital	True	Merseyside	United Kingdom	100
+2020-01-09	coronavirus	False	Illinois	United States	1
+2020-01-09	coronavirus	False	New Jersey	United States	1
+2020-01-09	nhs england	True	East Sussex	United Kingdom	1
+2020-01-09	public health england	True	South Yorkshire	United Kingdom	1
+2020-01-09	coronavirus	False	Tennessee	United States	1
+2020-01-09	coronavirus	False	Hesse	Germany	1
+2020-01-09	コロナウイルス	False	Kyoto	Japan	1
+2020-01-09	auswärtiges amt	True	North Rhine-Westphalia	Germany	100
+2020-01-09	webasto	True	Bavaria	Germany	1
+2020-01-09	corona virus	False	Texas	United States	1
+2020-01-09	coronavirus	False	London	United Kingdom	1
+2020-01-09	nhs england	True	Greater Manchester	United Kingdom	1
+2020-01-09	kalitta air	True	Michigan	United States	1
+2020-01-09	auswärtiges amt	True	Hamburg	Germany	1
+2020-01-09	コロナウイルス	False	Hokkaido	Japan	1
+2020-01-09	sras	True	Occitanie	France	1
+2020-01-09	coronavirus	False	Berlin	Germany	1
+2020-01-09	coronavirus	False	Missouri	United States	1
+2020-01-09	nhs england	True	Merseyside	United Kingdom	1
+2020-01-09	nhs england	True	South Yorkshire	United Kingdom	1
+2020-01-09	coronavirus	False	Maryland	United States	1
+2020-01-09	coronavirus	False	Kansas	United States	1
+2020-01-09	コロナウイルスとは	False	Kanagawa	Japan	1
+2020-01-09	auswärtiges amt	True	Saxony	Germany	1
+2020-01-09	coronavirus	False	North Carolina	United States	1
+2020-01-09	auswärtiges amt	True	Baden-Wuerttemberg	Germany	100
+2020-01-09	auswärtiges amt	True	Lower Saxony	Germany	1
+2020-01-09	coronavirus	False	Ohio	United States	1
+2020-01-09	n95 mask	True	California	United States	1
+2020-01-09	コロナウイルスとは	False	Tokyo	Japan	1
+2020-01-09	nhs england	True	Durham	United Kingdom	1
+2020-01-09	public health england	True	London	United Kingdom	48
+2020-01-09	coronavirus	False	Georgia	United States	1
+2020-01-09	コロナウイルス	False	Miyagi	Japan	1
+2020-01-09	coronavirus	False	Ontario	Canada	1
+2020-01-09	コロナウイルス	False	Hiroshima	Japan	1
+2020-01-09	public health england	True	West Midlands	United Kingdom	1
+2020-01-09	nhs england	True	London	United Kingdom	100
+2020-01-09	コロナウイルス	False	Okayama	Japan	1
+2020-01-09	coronavirus	False	Pennsylvania	United States	1
+2020-01-09	コロナウイルス	False	Yamaguchi	Japan	1
+2020-01-09	auswärtiges amt	True	Rhineland-Palatinate	Germany	1
+2020-01-09	auswärtiges amt	True	Hesse	Germany	100
+2020-01-09	coronavirus	False	Virginia	United States	1
+2020-01-09	コロナウイルス	False	Kanagawa	Japan	100
+2020-01-09	public health england	True	Merseyside	United Kingdom	100
+2020-01-09	auswärtiges amt	True	Schleswig-Holstein	Germany	1
+2020-01-09	コロナウイルスとは	False	Osaka	Japan	1
+2020-01-09	コロナウイルス	False	Saitama	Japan	100
+2020-01-09	coronavirus	False	Minnesota	United States	1
+2020-01-09	coronavirus	False	Colorado	United States	1
+2020-01-09	public health england	True	Greater Manchester	United Kingdom	100
+2020-01-09	coronavirus	False	Wisconsin	United States	1
+2020-01-10	public health england	True	Durham	United Kingdom	1
+2020-01-10	auswärtiges amt	True	Berlin	Germany	1
+2020-01-10	nhs england	True	Essex	United Kingdom	1
+2020-01-10	coronavirus	False	New Jersey	United States	1
+2020-01-10	コロナウイルス	False	Chiba	Japan	1
+2020-01-10	コロナウイルス	False	Osaka	Japan	1
+2020-01-10	auswärtiges amt	True	Lower Saxony	Germany	1
+2020-01-10	coronavirus	False	Florida	United States	1
+2020-01-10	コロナウイルス	False	Hokkaido	Japan	1
+2020-01-10	コロナウイルスとは	False	Tokyo	Japan	1
+2020-01-10	webasto	True	Bavaria	Germany	1
+2020-01-10	auswärtiges amt	True	Hamburg	Germany	1
+2020-01-10	nhs england	True	Hertfordshire	United Kingdom	100
+2020-01-10	nhs england	True	Greater Manchester	United Kingdom	100
+2020-01-10	コロナウイルス	False	Tokyo	Japan	100
+2020-01-10	kalitta air	True	Michigan	United States	1
+2020-01-10	coronavirus	False	Ontario	Canada	1
+2020-01-10	nhs england	True	Gloucestershire	United Kingdom	1
+2020-01-10	coronavirus	False	Illinois	United States	1
+2020-01-10	auswärtiges amt	True	Baden-Wuerttemberg	Germany	1
+2020-01-10	public health england	True	Plymouth	United Kingdom	1
+2020-01-10	auswärtiges amt	True	Bavaria	Germany	100
+2020-01-10	coronavirus	False	Minnesota	United States	1
+2020-01-10	nhs england	True	Merseyside	United Kingdom	1
+2020-01-10	コロナウイルス	False	Shizuoka	Japan	1
+2020-01-10	coronavirus	False	London	United Kingdom	1
+2020-01-10	coronavirus	False	Pennsylvania	United States	1
+2020-01-10	nhs england	True	West Yorkshire	United Kingdom	1
+2020-01-10	coronavirus	False	Texas	United States	1
+2020-01-10	coronavirus	False	North Carolina	United States	1
+2020-01-10	public health england	True	Greater Manchester	United Kingdom	1
+2020-01-10	auswärtiges amt	True	North Rhine-Westphalia	Germany	1
+2020-01-10	coronavirus	False	Ohio	United States	1
+2020-01-10	public health england	True	London	United Kingdom	48
+2020-01-10	コロナウイルス	False	Kanagawa	Japan	1
+2020-01-10	public health england	True	Hertfordshire	United Kingdom	1
+2020-01-10	arrowe park hospital	True	Merseyside	United Kingdom	100
+2020-01-10	コロナウイルス	False	Saitama	Japan	1
+2020-01-10	nhs england	True	London	United Kingdom	100
+2020-01-10	coronavirus	False	California	United States	1
+2020-01-10	coronavirus	False	Nebraska	United States	1
+2020-01-10	coronavirus	False	New York	United States	1
+2020-01-10	coronavirus	False	Beijing	China	1
+2020-01-10	coronavirus	False	Michigan	United States	100
+2020-01-10	auswärtiges amt	True	Hesse	Germany	1
+2020-01-10	public health england	True	East Sussex	United Kingdom	1
+2020-01-10	public health england	True	Merseyside	United Kingdom	1
+2020-01-10	冠状病毒	False	Guangdong	China	1
+2020-01-10	nhs england	True	West Midlands	United Kingdom	1
+2020-01-11	coronavirus	False	North Rhine-Westphalia	Germany	100
+2020-01-11	コロナウイルス	False	Tokyo	Japan	1
+2020-01-11	coronavirus	False	Ontario	Canada	100
+2020-01-11	corona virus	False	Ontario	Canada	1
+2020-01-11	auswärtiges amt	True	North Rhine-Westphalia	Germany	1
+2020-01-11	coronavirus	False	North Carolina	United States	1
+2020-01-11	corona virus	False	California	United States	1
+2020-01-11	coronavirus	False	California	United States	100
+2020-01-11	auswärtiges amt	True	Baden-Wuerttemberg	Germany	1
+2020-01-11	coronavirus	False	British Columbia	Canada	1
+2020-01-11	coronavirus	False	Texas	United States	1
+2020-01-11	coronavirus	False	Florida	United States	1
+2020-01-11	coronavirus	False	Beijing	China	1
+2020-01-11	coronavirus	False	Alberta	Canada	1
+2020-01-11	coronavirus	False	Pennsylvania	United States	1
+2020-01-11	コロナウイルス	False	Osaka	Japan	1
+2020-01-12	冠状病毒	False	Shanghai	China	1
+2020-01-12	coronavirus	False	California	United States	1
+2020-01-12	coronavirus	False	New York	United States	1
+2020-01-12	coronavirus	False	New Jersey	United States	1
+2020-01-12	冠状病毒	False	Guangdong	China	1
+2020-01-12	コロナウイルス	False	Hiroshima	Japan	1
+2020-01-12	coronavirus	False	Wisconsin	United States	1
+2020-01-12	n95 mask	True	Virginia	United States	1
+2020-01-12	auswärtiges amt	True	Bavaria	Germany	1
+2020-01-12	コロナウイルス	False	Tokyo	Japan	1
+2020-01-12	n95 mask	True	Texas	United States	1
+2020-01-12	コロナウイルス	False	Saitama	Japan	1
+2020-01-12	n95 mask	True	New York	United States	100
+2020-01-12	n95 mask	True	Calabarzon	Philippines	1
+2020-01-12	コロナウイルス	False	Aichi	Japan	1
+2020-01-12	public health england	True	London	United Kingdom	1
+2020-01-12	auswärtiges amt	True	North Rhine-Westphalia	Germany	1
+2020-01-12	n95 mask	True	National Capital Region	Philippines	1
+2020-01-12	coronavirus	False	Texas	United States	1
+2020-01-12	coronavirus	False	Michigan	United States	1
+2020-01-12	n95 mask	True	Ohio	United States	1
+2020-01-12	coronavirus	False	Illinois	United States	1
+2020-01-12	auswärtiges amt	True	Baden-Wuerttemberg	Germany	1
+2020-01-12	n95 mask	True	Metro Manila	Philippines	1
+2020-01-13	coronavirus	False	Massachusetts	United States	1
+2020-01-13	public health england	True	Hertfordshire	United Kingdom	1
+2020-01-13	coronavirus	False	Illinois	United States	100
+2020-01-13	nhs england	True	London	United Kingdom	100
+2020-01-13	webasto	True	Baden-Wuerttemberg	Germany	1
+2020-01-13	coronavirus	False	North Carolina	United States	1
+2020-01-13	public health england	True	West Midlands	United Kingdom	100
+2020-01-13	nhs england	True	Greater Manchester	United Kingdom	100
+2020-01-13	コロナウイルスとは	False	Osaka	Japan	1
+2020-01-13	coronavirus	False	Iowa	United States	1
+2020-01-13	n95 mask	True	Florida	United States	1
+2020-01-13	webasto	True	Bavaria	Germany	1
+2020-01-13	public health england	True	West Yorkshire	United Kingdom	1
+2020-01-13	p2 masks	True	Victoria	Australia	1
+2020-01-13	coronavirus	False	Mexico City	Mexico	1
+2020-01-13	public health england	True	London	United Kingdom	85
+2020-01-13	coronavirus	False	California	United States	100
+2020-01-13	coronavirus	False	Kansas	United States	1
+2020-01-13	coronavirus	False	Washington	United States	1
+2020-01-13	コロナウイルス	False	Kyoto	Japan	1
+2020-01-13	public health england	True	Oxfordshire	United Kingdom	1
+2020-01-13	auswärtiges amt	True	Saxony	Germany	1
+2020-01-13	coronavirus	False	Nebraska	United States	1
+2020-01-13	n95 mask	True	Illinois	United States	1
+2020-01-13	nhs england	True	West Yorkshire	United Kingdom	100
+2020-01-13	coronavirus	False	Arizona	United States	1
+2020-01-13	n95 mask	True	New Jersey	United States	1
+2020-01-13	sras	True	Occitanie	France	1
+2020-01-13	coronavirus	False	Arkansas	United States	1
+2020-01-13	n95 mask	True	Georgia	United States	1
+2020-01-13	nhs england	True	South Yorkshire	United Kingdom	1
+2020-01-13	コロナウイルス	False	Saitama	Japan	1
+2020-01-13	public health england	True	Essex	United Kingdom	1
+2020-01-13	コロナウイルス	False	Osaka	Japan	100
+2020-01-13	n95 mask	True	Metro Manila	Philippines	1
+2020-01-13	コロナウイルス	False	Tokyo	Japan	100
+2020-01-13	n95 mask	True	California	United States	66
+2020-01-13	coronavirus	False	Florida	United States	1
+2020-01-13	auswärtiges amt	True	Bavaria	Germany	100
+2020-01-13	nhs england	True	West Midlands	United Kingdom	1
+2020-01-13	coronavirus	False	New Jersey	United States	100
+2020-01-13	coronavirus	False	Georgia	United States	100
+2020-01-13	nhs england	True	Merseyside	United Kingdom	1
+2020-01-13	coronavirus	False	New York	United States	100
+2020-01-13	コロナウイルス	False	Chiba	Japan	1
+2020-01-13	コロナウイルスとは	False	Tokyo	Japan	1
+2020-01-13	coronavirus	False	Minnesota	United States	1
+2020-01-13	arrowe park hospital	True	Merseyside	United Kingdom	100
+2020-01-13	coronavirus	False	Michigan	United States	100
+2020-01-13	コロナウイルス	False	Fukuoka	Japan	1
+2020-01-13	coronavirus	False	Utah	United States	1
+2020-01-13	コロナウイルス	False	Shizuoka	Japan	1
+2020-01-13	n95 mask	True	New York	United States	1
+2020-01-13	coronavirus	False	Kentucky	United States	1
+2020-01-13	コロナウイルス	False	Aichi	Japan	1
+2020-01-13	auswärtiges amt	True	Lower Saxony	Germany	1
+2020-01-13	auswärtiges amt	True	Baden-Wuerttemberg	Germany	100
+2020-01-13	nhs england	True	East Sussex	United Kingdom	1
+2020-01-13	coronavirus	False	Oklahoma	United States	1
+2020-01-13	コロナウイルス	False	Kanagawa	Japan	1
+2020-01-13	coronavirus	False	Indiana	United States	1
+2020-01-13	public health england	True	South Yorkshire	United Kingdom	100
+2020-01-13	n95 mask	True	Ohio	United States	1
+2020-01-13	n95 mask	True	Connecticut	United States	1
+2020-01-13	coronavirus	False	District Of Columbia	United States	1
+2020-01-13	auswärtiges amt	True	Hesse	Germany	100
+2020-01-13	コロナウイルス	False	Hiroshima	Japan	1
+2020-01-13	sras	True	Nouvelle-Aquitaine	France	1
+2020-01-13	coronavirus	False	Tennessee	United States	1
+2020-01-13	p2 masks	True	New South Wales	Australia	1
+2020-01-13	coronavirus	False	London	United Kingdom	1
+2020-01-13	public health england	True	East Sussex	United Kingdom	100
+2020-01-13	n95 mask	True	Michigan	United States	1
+2020-01-13	コロナウイルス	False	Hokkaido	Japan	1
+2020-01-13	n95 mask	True	National Capital Region	Philippines	1
+2020-01-13	nhs england	True	Hertfordshire	United Kingdom	100
+2020-01-13	コロナウイルス	False	Hyogo	Japan	1
+2020-01-13	coronavirus thailand	False	California	United States	1
+2020-01-13	coronavirus	False	Ohio	United States	100
+2020-01-13	coronavirus	False	New South Wales	Australia	100
+2020-01-13	coronavirus	False	Ontario	Canada	1
+2020-01-13	n95 mask	True	Texas	United States	1
+2020-01-13	coronavirus	False	Pennsylvania	United States	100
+2020-01-13	mscbs	True	Community Of Madrid	Spain	1
+2020-01-13	auswärtiges amt	True	Berlin	Germany	1
+2020-01-13	coronavirus	False	Missouri	United States	1
+2020-01-13	coronavirus	False	Texas	United States	100
+2020-01-13	sras	True	Ile-De-France	France	1
+2020-01-13	coronavirus	False	Hesse	Germany	1
+2020-01-13	corona virus	False	Pennsylvania	United States	1
+2020-01-13	coronavirus	False	Virginia	United States	1
+2020-01-13	coronavirus	False	Maryland	United States	1
+2020-01-13	webasto	True	North Rhine-Westphalia	Germany	1
+2020-01-13	public health england	True	Greater Manchester	United Kingdom	1
+2020-01-13	auswärtiges amt	True	North Rhine-Westphalia	Germany	100
+2020-01-13	coronavirus	False	Colorado	United States	1
+2020-01-14	coronavirus	False	Maryland	United States	1
+2020-01-14	coronavirus	False	Alberta	Canada	1
+2020-01-14	coronavirus	False	Michigan	United States	100
+2020-01-14	webasto	True	Baden-Wuerttemberg	Germany	1
+2020-01-14	auswärtiges amt	True	Bavaria	Germany	100
+2020-01-14	coronavirus	False	Louisiana	United States	1
+2020-01-14	coronavirus	False	Florida	United States	1
+2020-01-14	coronavirus	False	South Carolina	United States	1
+2020-01-14	corona virus	False	California	United States	1
+2020-01-14	coronavirus	False	Ile-De-France	France	100
+2020-01-14	public health england	True	West Midlands	United Kingdom	100
+2020-01-14	coronavirus	False	Hawaii	United States	1
+2020-01-14	コロナウイルス	False	Chiba	Japan	1
+2020-01-14	p2 masks	True	Victoria	Australia	1
+2020-01-14	nhs england	True	Merseyside	United Kingdom	1
+2020-01-14	coronavirus	False	Pennsylvania	United States	1
+2020-01-14	コロナウイルス	False	Shizuoka	Japan	1
+2020-01-14	coronavirus	False	Tennessee	United States	1
+2020-01-14	nhs england	True	London	United Kingdom	100
+2020-01-14	arrowe park hospital	True	Merseyside	United Kingdom	100
+2020-01-14	n95 mask	True	New York	United States	1
+2020-01-14	public health england	True	Hertfordshire	United Kingdom	1
+2020-01-14	コロナウイルス	False	Tokyo	Japan	100
+2020-01-14	冠状病毒	False	Beijing	China	100
+2020-01-14	coronavirus	False	New York	United States	100
+2020-01-14	コロナウイルス	False	Osaka	Japan	1
+2020-01-14	coronavirus	False	Kansas	United States	1
+2020-01-14	kalitta air	True	Michigan	United States	1
+2020-01-14	coronavirus	False	Oregon	United States	1
+2020-01-14	n95 mask	True	Metro Manila	Philippines	1
+2020-01-14	冠状病毒	False	Jiangsu	China	1
+2020-01-14	auswärtiges amt	True	Baden-Wuerttemberg	Germany	100
+2020-01-14	nhs england	True	Greater Manchester	United Kingdom	100
+2020-01-14	コロナウイルスとは	False	Tokyo	Japan	1
+2020-01-14	coronavirus	False	Illinois	United States	1
+2020-01-14	coronavirus	False	North Carolina	United States	1
+2020-01-14	auswärtiges amt	True	Hesse	Germany	1
+2020-01-14	nhs england	True	East Sussex	United Kingdom	1
+2020-01-14	public health england	True	East Sussex	United Kingdom	100
+2020-01-14	webasto	True	North Rhine-Westphalia	Germany	1
+2020-01-14	coronavirus	False	Arizona	United States	1
+2020-01-14	コロナウイルス	False	Hokkaido	Japan	1
+2020-01-14	coronavirus	False	Colorado	United States	1
+2020-01-14	coronavirus	False	California	United States	100
+2020-01-14	coronavirus	False	Massachusetts	United States	1
+2020-01-14	coronavirus	False	Alabama	United States	1
+2020-01-14	coronavirus	False	Minnesota	United States	1
+2020-01-14	sras	True	Occitanie	France	1
+2020-01-14	coronavirus	False	Washington	United States	1
+2020-01-14	コロナウイルス	False	Hyogo	Japan	1
+2020-01-14	public health england	True	South Yorkshire	United Kingdom	1
+2020-01-14	コロナウイルス	False	Kyoto	Japan	1
+2020-01-14	coronavirus	False	Georgia	United States	1
+2020-01-14	coronavirus	False	British Columbia	Canada	1
+2020-01-14	n95 mask	True	Texas	United States	1
+2020-01-14	arrowe park hospital	True	Greater Manchester	United Kingdom	1
+2020-01-14	auswärtiges amt	True	North Rhine-Westphalia	Germany	100
+2020-01-14	n95 mask	True	National Capital Region	Philippines	1
+2020-01-14	nhs england	True	West Midlands	United Kingdom	1
+2020-01-14	coronavirus	False	New South Wales	Australia	1
+2020-01-14	冠状病毒	False	Shanghai	China	1
+2020-01-14	coronavirus	False	Wisconsin	United States	1
+2020-01-14	coronavirus	False	New Jersey	United States	1
+2020-01-14	coronavirus	False	Iowa	United States	1
+2020-01-14	sras	True	Ile-De-France	France	1
+2020-01-14	コロナウイルス	False	Aichi	Japan	1
+2020-01-14	auswärtiges amt	True	Lower Saxony	Germany	1
+2020-01-14	nhs england	True	West Yorkshire	United Kingdom	1
+2020-01-14	nhs england	True	Hertfordshire	United Kingdom	1
+2020-01-14	coronavirus	False	Beijing	China	1
+2020-01-14	coronavirus	False	Ohio	United States	1
+2020-01-14	webasto	True	Bavaria	Germany	1
+2020-01-14	coronavirus	False	Ontario	Canada	1
+2020-01-14	coronavirus	False	Texas	United States	100
+2020-01-14	who china coronavirus	False	Texas	United States	6
+2020-01-14	auswärtiges amt	True	Berlin	Germany	1
+2020-01-14	n95 mask	True	California	United States	83
+2020-01-14	コロナウイルス	False	Saitama	Japan	1
+2020-01-14	public health england	True	London	United Kingdom	25
+2020-01-14	who china coronavirus	False	California	United States	1
+2020-01-14	coronavirus	False	London	United Kingdom	1
+2020-01-14	コロナウイルス	False	Kanagawa	Japan	1
+2020-01-14	coronavirus	False	Indiana	United States	1
+2020-01-14	coronavirus	False	Auvergne-Rhone-Alpes	France	1
+2020-01-14	coronavirus	False	Bogota D C	Colombia	1
+2020-01-15	コロナウイルス	False	Nagasaki	Japan	1
+2020-01-15	coronavirus	False	Hawaii	United States	1
+2020-01-15	who coronavirus	False	Florida	United States	1
+2020-01-15	who coronavirus	False	North Carolina	United States	1
+2020-01-15	auswärtiges amt	True	Bavaria	Germany	1
+2020-01-15	coronavirus	False	Minnesota	United States	1
+2020-01-15	nhs england	True	West Midlands	United Kingdom	1
+2020-01-15	コロナウイルス	False	Kanagawa	Japan	100
+2020-01-15	coronavirus	False	California	United States	100
+2020-01-15	コロナウイルス	False	Tokyo	Japan	100
+2020-01-15	public health england	True	London	United Kingdom	1
+2020-01-15	コロナウイルスとは	False	Kanagawa	Japan	1
+2020-01-15	public health england	True	South Yorkshire	United Kingdom	1
+2020-01-15	coronavirus	False	Maharashtra	India	1
+2020-01-15	coronavirus	False	New York	United States	100
+2020-01-15	コロナウイルス	False	Hiroshima	Japan	1
+2020-01-15	who coronavirus	False	Arizona	United States	1
+2020-01-15	coronavirus	False	Colorado	United States	1
+2020-01-15	コロナウイルス	False	Nara	Japan	1
+2020-01-15	sras	True	Occitanie	France	1
+2020-01-15	コロナウイルス	False	Yamaguchi	Japan	1
+2020-01-15	auswärtiges amt	True	Baden-Wuerttemberg	Germany	100
+2020-01-15	コロナウイルスとは	False	Tokyo	Japan	11
+2020-01-15	コロナウイルス	False	Hokkaido	Japan	1
+2020-01-15	コロナウイルス	False	Ehime	Japan	1
+2020-01-15	コロナウイルス	False	Osaka	Japan	100
+2020-01-15	コロナウイルス	False	Miyagi	Japan	1
+2020-01-15	nhs england	True	Hertfordshire	United Kingdom	1
+2020-01-15	webasto	True	Baden-Wuerttemberg	Germany	1
+2020-01-15	auswärtiges amt	True	Lower Saxony	Germany	1
+2020-01-15	コロナウイルス	False	Aichi	Japan	100
+2020-01-15	コロナウイルス	False	Ibaraki	Japan	1
+2020-01-15	コロナウイルス	False	Saitama	Japan	100
+2020-01-15	n95 mask	True	California	United States	18
+2020-01-15	nhs england	True	Essex	United Kingdom	1
+2020-01-15	コロナウイルス	False	Niigata	Japan	1
+2020-01-15	コロナウイルス	False	Toyama	Japan	1
+2020-01-15	コロナウイルスとは	False	Aichi	Japan	1
+2020-01-15	arrowe park hospital	True	Merseyside	United Kingdom	1
+2020-01-15	coronavirus	False	Tennessee	United States	100
+2020-01-15	2019-ncov	True	Beijing	China	1
+2020-01-15	コロナウイルス感染症	False	Tokyo	Japan	1
+2020-01-15	auswärtiges amt	True	Berlin	Germany	1
+2020-01-15	who coronavirus	False	Tennessee	United States	1
+2020-01-15	who coronavirus	False	New York	United States	1
+2020-01-15	コロナウイルス	False	Mie	Japan	1
+2020-01-15	冠状病毒	False	Beijing	China	100
+2020-01-15	public health england	True	Merseyside	United Kingdom	1
+2020-01-15	coronavirus	False	Massachusetts	United States	1
+2020-01-15	コロナウイルス	False	Fukushima	Japan	1
+2020-01-15	nhs england	True	East Sussex	United Kingdom	1
+2020-01-15	coronavirus	False	Federal Territory Of Kuala Lumpur	Malaysia	1
+2020-01-15	public health england	True	Hertfordshire	United Kingdom	100
+2020-01-15	who coronavirus	False	California	United States	7
+2020-01-15	coronavirus	False	Ohio	United States	1
+2020-01-15	coronavirus	False	Michigan	United States	1
+2020-01-15	coronavirus	False	Ontario	Canada	1
+2020-01-15	coronavirus	False	Nebraska	United States	1
+2020-01-15	コロナウイルス	False	Kumamoto	Japan	1
+2020-01-15	コロナウイルスとは	False	Osaka	Japan	1
+2020-01-15	コロナウイルス	False	Kyoto	Japan	1
+2020-01-15	coronavirus	False	Illinois	United States	1
+2020-01-15	コロナウイルス	False	Hyogo	Japan	1
+2020-01-15	コロナウイルス	False	Iwate	Japan	1
+2020-01-15	auswärtiges amt	True	Hesse	Germany	1
+2020-01-15	coronavirus	False	Virginia	United States	1
+2020-01-15	coronavirus	False	Wisconsin	United States	1
+2020-01-15	auswärtiges amt	True	North Rhine-Westphalia	Germany	100
+2020-01-15	コロナウイルスとは	False	Saitama	Japan	1
+2020-01-15	nhs england	True	West Yorkshire	United Kingdom	1
+2020-01-15	コロナウイルス	False	Shiga	Japan	1
+2020-01-15	coronavirus	False	Missouri	United States	1
+2020-01-15	webasto	True	North Rhine-Westphalia	Germany	1
+2020-01-15	coronavirus	False	Oregon	United States	1
+2020-01-15	nhs england	True	Greater Manchester	United Kingdom	1
+2020-01-15	coronavirus	False	Washington	United States	100
+2020-01-15	coronavirus	False	Pennsylvania	United States	100
+2020-01-15	nhs england	True	Oxfordshire	United Kingdom	1
+2020-01-15	who coronavirus	False	Pennsylvania	United States	1
+2020-01-15	public health england	True	Greater Manchester	United Kingdom	1
+2020-01-15	coronavirus	False	Ile-De-France	France	1
+2020-01-15	nhs england	True	England	United Kingdom	1
+2020-01-15	who coronavirus	False	Washington	United States	1
+2020-01-15	coronavirus	False	Shanghai	China	1
+2020-01-15	coronavirus	False	Maryland	United States	1
+2020-01-15	コロナウイルス	False	Okayama	Japan	1
+2020-01-15	コロナウイルス	False	Nagano	Japan	1
+2020-01-15	who coronavirus	False	Oregon	United States	1
+2020-01-15	sras	True	Ile-De-France	France	1
+2020-01-15	coronavirus	False	Texas	United States	100
+2020-01-15	コロナウイルス	False	Okinawa	Japan	1
+2020-01-15	coronavirus	False	Connecticut	United States	1
+2020-01-15	コロナウイルス	False	Fukuoka	Japan	100
+2020-01-15	コロナウイルス	False	Shizuoka	Japan	1
+2020-01-15	biofire	True	Utah	United States	1
+2020-01-15	n95 mask	True	Texas	United States	1
+2020-01-15	コロナウイルス	False	Gifu	Japan	1
+2020-01-15	corona virus	False	California	United States	1
+2020-01-15	コロナウイルス	False	Aomori	Japan	1
+2020-01-15	コロナウイルスとは	False	Fukuoka	Japan	1
+2020-01-15	coronavirus	False	North Carolina	United States	100
+2020-01-15	コロナウイルス	False	Kochi	Japan	1
+2020-01-15	コロナウイルス	False	Chiba	Japan	1
+2020-01-15	コロナウイルス	False	Tochigi	Japan	1
+2020-01-15	冠状病毒	False	Guangdong	China	1
+2020-01-15	coronavirus	False	Tokyo	Japan	1
+2020-01-15	coronavirus	False	Arizona	United States	1
+2020-01-15	coronavirus	False	Georgia	United States	1
+2020-01-15	coronavirus	False	Iowa	United States	1
+2020-01-15	nhs england	True	London	United Kingdom	100
+2020-01-15	coronavirus	False	Florida	United States	100
+2020-01-16	coronavirus	False	Tokyo	Japan	1
+2020-01-16	corona virus	False	Ontario	Canada	1
+2020-01-16	コロナウイルス	False	Mie	Japan	1
+2020-01-16	auswärtiges amt	True	Baden-Wuerttemberg	Germany	100
+2020-01-16	coronavirus	False	Colorado	United States	1
+2020-01-16	コロナウイルス	False	Fukuoka	Japan	100
+2020-01-16	webasto	True	Baden-Wuerttemberg	Germany	1
+2020-01-16	public health england	True	Hertfordshire	United Kingdom	1
+2020-01-16	coronavirus	False	Florida	United States	1
+2020-01-16	コロナウイルス	False	Miyagi	Japan	1
+2020-01-16	コロナウイルス	False	Okinawa	Japan	1
+2020-01-16	コロナウイルス感染症	False	Tokyo	Japan	1
+2020-01-16	public health england	True	Merseyside	United Kingdom	1
+2020-01-16	コロナウイルス	False	Kyoto	Japan	1
+2020-01-16	コロナウイルス	False	Toyama	Japan	1
+2020-01-16	auswärtiges amt	True	Bavaria	Germany	100
+2020-01-16	coronavirus	False	Texas	United States	1
+2020-01-16	nhs england	True	Durham	United Kingdom	1
+2020-01-16	coronavirus	False	Pennsylvania	United States	1
+2020-01-16	コロナウイルスとは	False	Kanagawa	Japan	1
+2020-01-16	coronavirus	False	Indiana	United States	1
+2020-01-16	coronavirus	False	Ontario	Canada	100
+2020-01-16	コロナウイルス	False	Saitama	Japan	100
+2020-01-16	コロナウイルス	False	Osaka	Japan	100
+2020-01-16	coronavirus	False	Georgia	United States	100
+2020-01-16	coronavirus	False	Beijing	China	100
+2020-01-16	auswärtiges amt	True	Lower Saxony	Germany	1
+2020-01-16	コロナウイルス	False	Wakayama	Japan	1
+2020-01-16	coronavirus	False	Baden-Wuerttemberg	Germany	45
+2020-01-16	coronavirus	False	New York	United States	1
+2020-01-16	コロナウイルス	False	Aichi	Japan	1
+2020-01-16	コロナウイルス	False	Hokkaido	Japan	1
+2020-01-16	coronavirus	False	Wisconsin	United States	1
+2020-01-16	コロナウイルス	False	Hyogo	Japan	1
+2020-01-16	coronavirus	False	Virginia	United States	1
+2020-01-16	コロナウイルス	False	Ibaraki	Japan	1
+2020-01-16	コロナウイルスとは	False	Saitama	Japan	1
+2020-01-16	arrowe park hospital	True	Merseyside	United Kingdom	100
+2020-01-16	public health england	True	London	United Kingdom	60
+2020-01-16	coronavirus	False	New South Wales	Australia	1
+2020-01-16	コロナウイルス	False	Chiba	Japan	1
+2020-01-16	冠状病毒	False	Shanghai	China	1
+2020-01-16	コロナウイルス	False	Aomori	Japan	1
+2020-01-16	novel coronavirus	False	Georgia	United States	1
+2020-01-16	coronavirus	False	North Carolina	United States	1
+2020-01-16	コロナウイルス	False	Kagawa	Japan	1
+2020-01-16	auswärtiges amt	True	Berlin	Germany	1
+2020-01-16	coronavirus	False	Maryland	United States	1
+2020-01-16	コロナウイルスとは	False	Fukuoka	Japan	1
+2020-01-16	auswärtiges amt	True	Rhineland-Palatinate	Germany	1
+2020-01-16	coronavirus	False	New Jersey	United States	1
+2020-01-16	コロナウイルス	False	Tokyo	Japan	100
+2020-01-16	coronavirus	False	District Of Columbia	United States	1
+2020-01-16	コロナウイルス	False	Shizuoka	Japan	1
+2020-01-16	coronavirus	False	Kentucky	United States	1
+2020-01-16	コロナウイルス	False	Ehime	Japan	1
+2020-01-16	n95 mask	True	California	United States	24
+2020-01-16	auswärtiges amt	True	North Rhine-Westphalia	Germany	100
+2020-01-16	coronavirus	False	Lower Saxony	Germany	100
+2020-01-16	corona virus	False	California	United States	31
+2020-01-16	webasto	True	Bavaria	Germany	1
+2020-01-16	coronavirus	False	Washington	United States	1
+2020-01-16	coronavirus	False	Michigan	United States	1
+2020-01-16	冠状病毒	False	Guangdong	China	1
+2020-01-16	冠状病毒	False	Hubei	China	1
+2020-01-16	コロナウイルス	False	Niigata	Japan	1
+2020-01-16	public health england	True	East Sussex	United Kingdom	1
+2020-01-16	coronavirus	False	Ile-De-France	France	100
+2020-01-16	coronavirus	False	Ohio	United States	1
+2020-01-16	coronavirus	False	Hesse	Germany	1
+2020-01-16	コロナウイルス	False	Nagano	Japan	1
+2020-01-16	nhs england	True	West Yorkshire	United Kingdom	100
+2020-01-16	coronavirus	False	Bavaria	Germany	45
+2020-01-16	coronavirus	False	North Rhine-Westphalia	Germany	1
+2020-01-16	コロナウイルス	False	Kumamoto	Japan	1
+2020-01-16	コロナウイルスとは	False	Tokyo	Japan	17
+2020-01-16	コロナウイルス	False	Hiroshima	Japan	1
+2020-01-16	coronavirus	False	Oregon	United States	1
+2020-01-16	コロナウイルス	False	Okayama	Japan	1
+2020-01-16	coronavirus	False	British Columbia	Canada	1
+2020-01-16	public health england	True	Greater Manchester	United Kingdom	1
+2020-01-16	コロナウイルスとは	False	Osaka	Japan	1
+2020-01-16	コロナウイルス	False	Yamaguchi	Japan	1
+2020-01-16	nhs england	True	London	United Kingdom	100
+2020-01-16	auswärtiges amt	True	Hesse	Germany	1
+2020-01-16	コロナウイルス	False	Shiga	Japan	1
+2020-01-16	コロナウイルス	False	Fukushima	Japan	1
+2020-01-16	novel coronavirus	False	California	United States	1
+2020-01-16	coronavirus	False	Tennessee	United States	1
+2020-01-16	coronavirus	False	Nevada	United States	1
+2020-01-16	コロナウイルス	False	Kanagawa	Japan	100
+2020-01-16	coronavirus	False	California	United States	100
+2020-01-16	coronavirus	False	London	United Kingdom	1
+2020-01-16	sras	True	Ile-De-France	France	1
+2020-01-16	coronavirus	False	Illinois	United States	1
+2020-01-16	nhs england	True	Greater Manchester	United Kingdom	1
+2020-01-16	public health england	True	West Yorkshire	United Kingdom	1
+2020-01-16	冠状病毒	False	Beijing	China	1
+2020-01-17	coronavirus	False	North Holland	Netherlands	1
+2020-01-17	コロナウイルス	False	Hyogo	Japan	1
+2020-01-17	auswärtiges amt	True	Bavaria	Germany	100
+2020-01-17	arrowe park hospital	True	Merseyside	United Kingdom	100
+2020-01-17	coronavirus	False	Kansas	United States	1
+2020-01-17	novel coronavirus	False	California	United States	4
+2020-01-17	coronavirus	False	North Rhine-Westphalia	Germany	1
+2020-01-17	coronavirus	False	Minnesota	United States	1
+2020-01-17	public health england	True	London	United Kingdom	100
+2020-01-17	coronavirus	False	Iowa	United States	1
+2020-01-17	wuhan virus	True	California	United States	1
+2020-01-17	coronavirus	False	District Of Columbia	United States	1
+2020-01-17	n95 mask	True	California	United States	1
+2020-01-17	auswärtiges amt	True	Lower Saxony	Germany	1
+2020-01-17	nhs england	True	West Yorkshire	United Kingdom	1
+2020-01-17	coronavirus	False	Stockholm County	Sweden	1
+2020-01-17	public health england	True	South Yorkshire	United Kingdom	1
+2020-01-17	coronavirus	False	Washington	United States	1
+2020-01-17	coronavirus	False	Massachusetts	United States	1
+2020-01-17	coronavirus	False	Pennsylvania	United States	1
+2020-01-17	coronavirus	False	Mexico City	Mexico	1
+2020-01-17	corona virus	False	New York	United States	1
+2020-01-17	コロナウイルス	False	Tokyo	Japan	100
+2020-01-17	auswärtiges amt	True	Saxony	Germany	1
+2020-01-17	china virus	True	California	United States	1
+2020-01-17	coronavirus	False	South Dakota	United States	1
+2020-01-17	coronavirus	False	Baden-Wuerttemberg	Germany	1
+2020-01-17	coronavirus	False	Nevada	United States	1
+2020-01-17	コロナウイルス	False	Ibaraki	Japan	1
+2020-01-17	coronavirus	False	Beijing	China	1
+2020-01-17	coronavirus	False	Manitoba	Canada	1
+2020-01-17	コロナウイルス	False	Osaka	Japan	1
+2020-01-17	coronavirus	False	Nebraska	United States	1
+2020-01-17	coronavirus	False	London	United Kingdom	1
+2020-01-17	コロナウイルス	False	Chiba	Japan	1
+2020-01-17	coronavirus	False	Kentucky	United States	1
+2020-01-17	coronavirus	False	Maryland	United States	1
+2020-01-17	coronavirus	False	Vastra Gotaland County	Sweden	1
+2020-01-17	coronavirus	False	Guangdong	China	1
+2020-01-17	coronavirus	False	Hawaii	United States	1
+2020-01-17	coronavirus	False	Michigan	United States	1
+2020-01-17	coronavirus	False	Alabama	United States	1
+2020-01-17	novel coronavirus	False	Georgia	United States	1
+2020-01-17	auswärtiges amt	True	Berlin	Germany	1
+2020-01-17	コロナウイルス	False	Aichi	Japan	1
+2020-01-17	corona virus	False	California	United States	19
+2020-01-17	nhs england	True	Greater Manchester	United Kingdom	38
+2020-01-17	coronavirus	False	New Mexico	United States	1
+2020-01-17	coronavirus	False	North Carolina	United States	1
+2020-01-17	webasto	True	Bavaria	Germany	1
+2020-01-17	public health england	True	Merseyside	United Kingdom	1
+2020-01-17	auswärtiges amt	True	Hesse	Germany	1
+2020-01-17	coronavirus	False	New York	United States	100
+2020-01-17	coronavirus	False	Oregon	United States	1
+2020-01-17	coronavirus	False	California	United States	100
+2020-01-17	nhs england	True	Merseyside	United Kingdom	25
+2020-01-17	コロナウイルスとは	False	Tokyo	Japan	1
+2020-01-17	コロナウイルス	False	Hokkaido	Japan	1
+2020-01-17	coronavirus	False	Tennessee	United States	1
+2020-01-17	auswärtiges amt	True	Baden-Wuerttemberg	Germany	100
+2020-01-17	coronavirus	False	South Holland	Netherlands	1
+2020-01-17	public health england	True	West Midlands	United Kingdom	1
+2020-01-17	coronavirus	False	Ohio	United States	1
+2020-01-17	coronavirus	False	Colorado	United States	1
+2020-01-17	public health england	True	Greater Manchester	United Kingdom	100
+2020-01-17	coronavirus	False	Illinois	United States	1
+2020-01-17	corona virus	False	Florida	United States	1
+2020-01-17	coronavirus	False	Oklahoma	United States	1
+2020-01-17	china virus	True	Texas	United States	1
+2020-01-17	coronavirus	False	New Jersey	United States	1
+2020-01-17	coronavirus	False	Quebec	Canada	1
+2020-01-17	nhs england	True	London	United Kingdom	100
+2020-01-17	public health england	True	Oxfordshire	United Kingdom	1
+2020-01-17	coronavirus	False	British Columbia	Canada	1
+2020-01-17	coronavirus	False	Greater Manchester	United Kingdom	1
+2020-01-17	coronavirus	False	Bavaria	Germany	17
+2020-01-17	coronavirus	False	Texas	United States	100
+2020-01-17	coronavirus	False	Wisconsin	United States	1
+2020-01-17	コロナウイルス	False	Kanagawa	Japan	1
+2020-01-17	coronavirus	False	Virginia	United States	1
+2020-01-17	coronavirus	False	Essex	United Kingdom	1
+2020-01-17	コロナウイルス	False	Fukuoka	Japan	1
+2020-01-17	coronavirus	False	Georgia	United States	100
+2020-01-17	coronavirus	False	Missouri	United States	1
+2020-01-17	coronavirus	False	Arizona	United States	1
+2020-01-17	coronavirus	False	Alberta	Canada	1
+2020-01-17	coronavirus	False	Connecticut	United States	1
+2020-01-17	コロナウイルス	False	Saitama	Japan	1
+2020-01-17	coronavirus	False	Florida	United States	100
+2020-01-17	coronavirus	False	Ontario	Canada	1
+2020-01-17	auswärtiges amt	True	North Rhine-Westphalia	Germany	100
+2020-01-18	coronavirus	False	Bavaria	Germany	1
+2020-01-18	coronavirus	False	Kentucky	United States	1
+2020-01-18	冠状病毒	False	Jiangsu	China	100
+2020-01-18	coronavirus	False	Tennessee	United States	1
+2020-01-18	コロナウイルス	False	Tokyo	Japan	100
+2020-01-18	wuhan virus	True	Hubei	China	1
+2020-01-18	coronavirus	False	North Carolina	United States	100
+2020-01-18	coronavirus	False	Zhejiang	China	1
+2020-01-18	coronavirus	False	Oklahoma	United States	1
+2020-01-18	wuhan virus	True	Jiangsu	China	1
+2020-01-18	coronavirus	False	Nevada	United States	1
+2020-01-18	コロナウイルス	False	Hyogo	Japan	1
+2020-01-18	coronavirus	False	Beijing	China	100
+2020-01-18	auswärtiges amt	True	Bavaria	Germany	100
+2020-01-18	china virus	True	California	United States	1
+2020-01-18	coronavirus	False	Kansas	United States	1
+2020-01-18	coronavirus	False	South Holland	Netherlands	1
+2020-01-18	coronavirus	False	New York	United States	100
+2020-01-18	coronavirus	False	Jiangsu	China	50
+2020-01-18	coronavirus	False	British Columbia	Canada	1
+2020-01-18	coronavirus	False	California	United States	100
+2020-01-18	coronavirus	False	Quebec	Canada	1
+2020-01-18	wuhan coronavirus	False	Beijing	China	1
+2020-01-18	コロナウイルスとは	False	Tokyo	Japan	1
+2020-01-18	coronavirus	False	Lombardy	Italy	1
+2020-01-18	china virus	True	Texas	United States	1
+2020-01-18	コロナウイルス	False	Osaka	Japan	1
+2020-01-18	wuhan virus	True	Shanghai	China	36
+2020-01-18	sras	True	Auvergne-Rhone-Alpes	France	1
+2020-01-18	コロナウイルス	False	Kanagawa	Japan	1
+2020-01-18	wuhan virus	True	Beijing	China	34
+2020-01-18	coronavirus	False	Minnesota	United States	1
+2020-01-18	coronavirus	False	Michigan	United States	1
+2020-01-18	coronavirus	False	Washington	United States	1
+2020-01-18	冠状病毒	False	Guangdong	China	100
+2020-01-18	冠状病毒	False	Beijing	China	56
+2020-01-18	coronavirus	False	Wisconsin	United States	1
+2020-01-18	coronavirus	False	Ohio	United States	100
+2020-01-18	coronavirus	False	Virginia	United States	1
+2020-01-18	coronavirus	False	Illinois	United States	1
+2020-01-18	coronavirus	False	Missouri	United States	1
+2020-01-18	china virus	True	New York	United States	1
+2020-01-18	novel coronavirus	False	California	United States	1
+2020-01-18	public health england	True	London	United Kingdom	25
+2020-01-18	coronavirus	False	Florida	United States	1
+2020-01-18	sras	True	Nouvelle-Aquitaine	France	1
+2020-01-18	wuhan virus	True	Guangdong	China	1
+2020-01-18	coronavirus	False	New South Wales	Australia	1
+2020-01-18	corona virus	False	Ohio	United States	1
+2020-01-18	coronavirus	False	Ontario	Canada	1
+2020-01-18	corona virus	False	Pennsylvania	United States	1
+2020-01-18	coronavirus	False	New Jersey	United States	1
+2020-01-18	chinese virus	True	London	United Kingdom	1
+2020-01-18	wuhan coronavirus	False	Shanghai	China	1
+2020-01-18	coronavirus	False	Maryland	United States	1
+2020-01-18	coronavirus	False	Pennsylvania	United States	100
+2020-01-18	coronavirus	False	Indiana	United States	1
+2020-01-18	coronavirus	False	Guangdong	China	28
+2020-01-18	coronavirus	False	Texas	United States	100
+2020-01-18	coronavirus	False	Arizona	United States	1
+2020-01-18	冠状病毒	False	Shanghai	China	24
+2020-01-18	coronavirus	False	Georgia	United States	1
+2020-01-18	coronavirus	False	Colorado	United States	1
+2020-01-18	arrowe park hospital	True	Merseyside	United Kingdom	1
+2020-01-18	corona virus	False	Texas	United States	5
+2020-01-18	coronavirus	False	Louisiana	United States	1
+2020-01-18	coronavirus	False	Utah	United States	1
+2020-01-18	coronavirus	False	Alabama	United States	1
+2020-01-18	china virus	True	North Carolina	United States	1
+2020-01-18	coronavirus	False	Oregon	United States	1
+2020-01-18	coronavirus	False	Shanghai	China	100
+2020-01-18	coronavirus	False	Massachusetts	United States	1
+2020-01-18	corona virus	False	New York	United States	9
+2020-01-18	corona virus	False	California	United States	9
+2020-01-18	コロナウイルス	False	Aichi	Japan	1
+2020-01-18	コロナウイルス	False	Chiba	Japan	1
+2020-01-18	coronavirus	False	London	United Kingdom	100
+2020-01-18	coronavirus	False	North Holland	Netherlands	1
+2020-01-19	冠状病毒	False	Zhejiang	China	100
+2020-01-19	コロナウイルスとは	False	Tokyo	Japan	12
+2020-01-19	wuhan virus	True	Guangdong	China	5
+2020-01-19	coronavirus	False	Ontario	Canada	100
+2020-01-19	coronavirus	False	Michigan	United States	1
+2020-01-19	冠状病毒	False	Anhui	China	1
+2020-01-19	coronavirus	False	Alberta	Canada	1
+2020-01-19	coronavirus	False	Texas	United States	100
+2020-01-19	corona virus	False	California	United States	7
+2020-01-19	coronavirus	False	Beijing	China	40
+2020-01-19	nhs england	True	London	United Kingdom	1
+2020-01-19	coronavirus	False	Maryland	United States	1
+2020-01-19	wuhan coronavirus	False	Beijing	China	1
+2020-01-19	coronavirus	False	Utah	United States	1
+2020-01-19	coronavirus	False	New Mexico	United States	1
+2020-01-19	coronavirus	False	New South Wales	Australia	1
+2020-01-19	コロナウイルス	False	Toyama	Japan	1
+2020-01-19	china virus	True	Shanghai	China	1
+2020-01-19	coronavirus	False	Alabama	United States	1
+2020-01-19	冠状病毒	False	Fujian	China	1

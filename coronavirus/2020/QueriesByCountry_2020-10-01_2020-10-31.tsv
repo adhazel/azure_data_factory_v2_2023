@@ -1,0 +1,1001 @@
+Date	Query	IsImplicitIntent	Country	PopularityScore
+2020-10-01	prime pepa	True	France	1
+2020-10-01	test-for-coronavirus.service.gov.uk/care-home	False	United Kingdom	1
+2020-10-01	prime macron 2020	True	France	1
+2020-10-01	when will coronavirus end	False	United States	1
+2020-10-01	test-for-coronavirus.service.gov.uk register	False	United Kingdom	1
+2020-10-01	prime macron	True	France	1
+2020-10-01	test for coronavirus	False	United Kingdom	1
+2020-10-01	when will california reopen	True	United States	1
+2020-10-01	when was covid 19 discovered	False	United States	1
+2020-10-01	prime exceptionnelle covid	False	France	1
+2020-10-01	test covid	False	United Kingdom	1
+2020-10-01	diabetes uk	True	United Kingdom	2
+2020-10-01	prime covid	False	France	1
+2020-10-01	test and trace coronavirus	False	United Kingdom	1
+2020-10-01	prevenar 13	True	France	1
+2020-10-01	test and trace	True	United Kingdom	1
+2020-10-01	prefecture pas de calais	True	France	1
+2020-10-01	tesco opening times	True	United Kingdom	1
+2020-10-01	prefecture isere	True	France	1
+2020-10-01	tesco opening hours	True	United Kingdom	1
+2020-10-01	prefecture haute savoie	True	France	1
+2020-10-01	tesco loans	True	United Kingdom	1
+2020-10-01	when to quarantine for covid 19	False	United States	1
+2020-10-01	prefecture gironde	True	France	1
+2020-10-01	tesco loan	True	United Kingdom	1
+2020-10-01	prefecture du gard	True	France	1
+2020-10-01	when to get tested for covid	False	United States	1
+2020-10-01	when should you get tested for coronavirus	False	United States	1
+2020-10-01	tesco jobs	True	United Kingdom	3
+2020-10-01	prefecture de la gironde	True	France	1
+2020-10-01	diarrhea coronavirus	False	United Kingdom	1
+2020-10-01	tesco home delivery uk	True	United Kingdom	1
+2020-10-01	prefecture de l'oise	True	France	1
+2020-10-01	tesco home delivery	True	United Kingdom	13
+2020-10-01	pr raoult	True	France	1
+2020-10-01	tesco face masks	True	United Kingdom	1
+2020-10-01	pourquoi la covid	False	France	1
+2020-10-01	tesco credit card	True	United Kingdom	3
+2020-10-01	portugal covid 19	False	France	1
+2020-10-01	tesco careers	True	United Kingdom	3
+2020-10-01	port du masque obligatoire	True	France	1
+2020-10-01	jhu covid 19 map	False	Germany	1
+2020-10-01	tenerife news	True	United Kingdom	1
+2020-10-01	port du masque en entreprise	True	France	1
+2020-10-01	tenerife coronavirus update	False	United Kingdom	1
+2020-10-01	when is the coronavirus gonna end	False	United States	1
+2020-10-01	when is covid 19 going to end	False	United States	1
+2020-10-01	polyarthrite rhumatoïde	True	France	1
+2020-10-01	tenerife coronavirus	False	United Kingdom	1
+2020-10-01	diarrhoea	True	United Kingdom	1
+2020-10-01	politologue coronavirus	False	France	1
+2020-10-01	tagesschau	True	United Kingdom	1
+2020-10-01	point covid france	False	France	1
+2020-10-01	symptoms of covid 19	False	United Kingdom	1
+2020-10-01	point covid	False	France	1
+2020-10-01	symptoms of covid	False	United Kingdom	1
+2020-10-01	point coronavirus	False	France	1
+2020-10-01	symptoms of coronavirus	False	United Kingdom	2
+2020-10-01	plexiglass covid	False	France	1
+2020-10-01	symptoms coronavirus	False	United Kingdom	1
+2020-10-01	when is coronavirus gonna end	False	United States	1
+2020-10-01	plan blanc	True	France	1
+2020-10-01	sykes holiday cottages	True	United Kingdom	1
+2020-10-01	personnes vulnérables covid 19	False	France	1
+2020-10-01	barclays coronavirus overdraft online	False	United Kingdom	1
+2020-10-01	corona virus	False	Germany	2
+2020-10-01	sykes cottages uk	True	United Kingdom	4
+2020-10-01	personne a risque covid 19	False	France	1
+2020-10-01	direct ferries uk	True	United Kingdom	1
+2020-10-01	sykes cottages	True	United Kingdom	2
+2020-10-01	pcr covid	False	France	1
+2020-10-01	switzerland coronavirus update	False	United Kingdom	1
+2020-10-01	patrick pelloux	True	France	1
+2020-10-01	switzerland coronavirus	False	United Kingdom	1
+2020-10-01	paris covid 19	False	France	1
+2020-10-01	swine flu	True	United Kingdom	1
+2020-10-01	paris covid	False	France	1
+2020-10-01	swim england coronavirus	False	United Kingdom	1
+2020-10-01	paris coronavirus	False	France	1
+2020-10-01	when did the coronavirus begin	False	United States	1
+2020-10-01	covid 19 update	False	Malta	1
+2020-10-01	swim england	True	United Kingdom	1
+2020-10-01	paracétamol	True	France	1
+2020-10-01	when did hope hicks test positive for covid	False	United States	1
+2020-10-01	coronavirus in scotland	False	United Kingdom	1
+2020-10-01	condor ferries	True	Jersey	100
+2020-10-01	sweeden cornavirus	False	United Kingdom	1
+2020-10-01	direct line	True	United Kingdom	5
+2020-10-01	pandémie coronavirus	False	France	1
+2020-10-01	companies house	True	Jersey	1
+2020-10-01	sweden covid deaths	False	United Kingdom	1
+2020-10-01	pajemploi assistante maternelle	True	France	2
+2020-10-01	sweden covid 19	False	United Kingdom	1
+2020-10-01	pajemploi	True	France	76
+2020-10-01	sweden covid	False	United Kingdom	1
+2020-10-01	ouverture des frontières	True	France	1
+2020-10-01	sweden coronavirus update	False	United Kingdom	1
+2020-10-01	ou voyager covid	False	France	1
+2020-10-01	when did covid start in usa	False	United States	1
+2020-10-01	sweden coronavirus	False	United Kingdom	1
+2020-10-01	ou faire le test coronavirus	False	France	1
+2020-10-01	swansea lockdown	True	United Kingdom	1
+2020-10-01	barclays coronavirus overdraft	False	United Kingdom	1
+2020-10-01	when did covid start	False	United States	1
+2020-10-01	onfray	True	France	1
+2020-10-01	support bubble rules	True	United Kingdom	1
+2020-10-01	disposable face masks	True	United Kingdom	1
+2020-10-01	oms coronavirus	False	France	1
+2020-10-01	support bubble	True	United Kingdom	1
+2020-10-01	olivier véran annonces coronavirus	False	France	1
+2020-10-01	superdrug antibody test	True	United Kingdom	1
+2020-10-01	nouvelles mesures gouvernementales covid 19	False	France	1
+2020-10-01	superdrug	True	United Kingdom	15
+2020-10-01	nouvelles mesures covid 19	False	France	1
+2020-10-01	sun holidays	True	United Kingdom	1
+2020-10-01	nouvelles mesures covid	False	France	1
+2020-10-01	student finance login	True	United Kingdom	13
+2020-10-01	when did covid 19 start	False	United States	1
+2020-10-01	nouvelles mesures coronavirus	False	France	1
+2020-10-01	student finance	True	United Kingdom	4
+2020-10-01	nouvelle mesure covid 19	False	France	1
+2020-10-01	when did coronavirus first start	False	United States	1
+2020-10-01	when are you contagious with coronavirus	False	United States	1
+2020-10-01	stoke on trent	True	United Kingdom	1
+2020-10-01	nouvelle carte covid	False	France	1
+2020-10-01	disposable gloves	True	United Kingdom	1
+2020-10-01	stockport news	True	United Kingdom	1
+2020-10-01	nouvelair tunisie	True	France	1
+2020-10-01	stockport covid update	False	United Kingdom	1
+2020-10-01	nouvelair	True	France	1
+2020-10-01	stena line	True	United Kingdom	1
+2020-10-01	nombre de personnes pour un enterrement	True	France	1
+2020-10-01	staysure travel insurance coronavirus	False	United Kingdom	1
+2020-10-01	nombre de mort du coronavirus	False	France	1
+2020-10-01	staysure travel insurance	True	United Kingdom	1
+2020-10-01	nombre de mort coronavirus france	False	France	1
+2020-10-01	whatcom county health department	True	United States	1
+2020-10-01	statutory sick pay	True	United Kingdom	1
+2020-10-01	nombre de mort coronavirus	False	France	1
+2020-10-01	stamp duty holiday	True	United Kingdom	1
+2020-10-01	whatcom county coronavirus	False	United States	1
+2020-10-01	john hopkins coronavirus map	False	Germany	1
+2020-10-01	nombre de cas de coronavirus en france	False	France	1
+2020-10-01	stagecoach bus timetables	True	United Kingdom	2
+2020-10-01	doctap	True	United Kingdom	1
+2020-10-01	nombre de cas covid france	False	France	1
+2020-10-01	st peter's hospital	True	United Kingdom	1
+2020-10-01	noirmoutier	True	France	1
+2020-10-01	st lucia coronavirus	False	United Kingdom	1
+2020-10-01	n95 mask for coronavirus for sale	False	France	1
+2020-10-01	st helens coronavirus update	False	United Kingdom	1
+2020-10-01	morts coronavirus monde	False	France	1
+2020-10-01	ssp	True	United Kingdom	2
+2020-10-01	morts coronavirus france	False	France	1
+2020-10-01	sse hydro	True	United Kingdom	1
+2020-10-01	what to do if you have been exposed to covid	False	United States	1
+2020-10-01	mort covid france	False	France	1
+2020-10-01	worldometer coronavirus	False	Romania	100
+2020-10-01	sport england	True	United Kingdom	1
+2020-10-01	what to do if exposed to coronavirus	False	United States	1
+2020-10-01	what temperature kills coronavirus	False	United States	1
+2020-10-01	mort coronavirus monde	False	France	1
+2020-10-01	trump covid	False	Romania	5
+2020-10-01	dolores cahill	True	United Kingdom	1
+2020-10-01	spelthorne	True	United Kingdom	1
+2020-10-01	mort coronavirus france	False	France	1
+2020-10-01	stiri oficiale	True	Romania	25
+2020-10-01	specsavers	True	United Kingdom	10
+2020-10-01	mondial relay	True	France	17
+2020-10-01	grupul de comunicare strategica	True	Romania	7
+2020-10-01	spain covid	False	United Kingdom	1
+2020-10-01	ministère du travail covid 19	False	France	1
+2020-10-01	covid azi	False	Romania	1
+2020-10-01	spain coronavirus update	False	United Kingdom	1
+2020-10-01	drosten podcast	True	Germany	2
+2020-10-01	ministère du travail	True	France	1
+2020-10-01	covid 19 update	False	Romania	11
+2020-10-01	spain coronavirus	False	United Kingdom	1
+2020-10-01	covid protect tui	False	Germany	1
+2020-10-01	what temperature is a fever	True	United States	1
+2020-10-01	ministère des sports	True	France	1
+2020-10-01	covid 19 romania	False	Romania	7
+2020-10-01	dominic cummings	True	United Kingdom	1
+2020-10-01	sowerbys holiday cottages	True	United Kingdom	1
+2020-10-01	ministère de la santé coronavirus	False	France	1
+2020-10-01	covid 19	False	Romania	25
+2020-10-01	south park coronavirus full episode	False	United Kingdom	1
+2020-10-01	ministère de la santé	True	France	1
+2020-10-01	covid	False	Romania	29
+2020-10-01	south park coronavirus episode	False	United Kingdom	1
+2020-10-01	ministère de l'intérieur	True	France	1
+2020-10-01	coronavirus worldometer	False	Romania	9
+2020-10-01	south africa coronavirus	False	United Kingdom	1
+2020-10-01	what states have coronavirus	False	United States	1
+2020-10-01	ministre de la culture	True	France	1
+2020-10-01	coronavirus update	False	Romania	52
+2020-10-01	sore throat coronavirus	False	United Kingdom	1
+2020-10-01	coronavirus in spain	False	United Kingdom	1
+2020-10-01	what started the coronavirus	False	United States	1
+2020-10-01	ministere des affaires etrangeres coronavirus	False	France	1
+2020-10-01	coronavirus statistics	False	Romania	9
+2020-10-01	dominic raab	True	United Kingdom	1
+2020-10-01	somerset live	True	United Kingdom	2
+2020-10-01	ministere de la sante	True	France	1
+2020-10-01	coronavirus romania	False	Romania	21
+2020-10-01	social distancing signs	True	United Kingdom	1
+2020-10-01	michel cymes	True	France	1
+2020-10-01	coronavirus	False	Romania	29
+2020-10-01	social distancing rules	True	United Kingdom	1
+2020-10-01	mhd	True	France	1
+2020-10-01	cazuri covid azi	False	Romania	11
+2020-10-01	social distancing posters	True	United Kingdom	1
+2020-10-01	condor flüge	True	Germany	1
+2020-10-01	mexique coronavirus	False	France	1
+2020-10-01	cazuri confirmate coronavirus	False	Romania	17
+2020-10-01	social distancing poster	True	United Kingdom	1
+2020-10-01	what phase is michigan in	True	United States	1
+2020-10-01	what phase is king county in	True	United States	1
+2020-10-01	mesures sanitaires covid 19	False	France	1
+2020-10-01	sintomas del coronavirus	False	Ecuador	29
+2020-10-01	dominican republic coronavirus	False	United Kingdom	1
+2020-10-01	social distancing	True	United Kingdom	1
+2020-10-01	mesures covid paris	False	France	1
+2020-10-01	salvoconductos	True	Ecuador	50
+2020-10-01	snp mp covid	False	United Kingdom	1
+2020-10-01	mesures covid lyon	False	France	1
+2020-10-01	salvoconducto quito	True	Ecuador	83
+2020-10-01	snoods	True	United Kingdom	1
+2020-10-01	mesures covid 19	False	France	1
+2020-10-01	salvoconducto ecuador	True	Ecuador	33
+2020-10-01	smyths toys uk	True	United Kingdom	11
+2020-10-01	what is the percentage of death coronavirus	False	United States	1
+2020-10-01	mesures covid	False	France	1
+2020-10-01	salvoconducto	True	Ecuador	100
+2020-10-01	smyths	True	United Kingdom	12
+2020-10-01	what is the normal body temperature	True	United States	1
+2020-10-01	what is the incubation period for covid 19	False	United States	1
+2020-10-01	mesure covid	False	France	1
+2020-10-01	que es el covid 19	False	Ecuador	1
+2020-10-01	donald trump coronavirus	False	United Kingdom	1
+2020-10-01	smiths toy super stores	True	United Kingdom	2
+2020-10-01	mery sur oise	True	France	1
+2020-10-01	protocolos de bioseguridad covid 19	False	Ecuador	15
+2020-10-01	small business grant	True	United Kingdom	1
+2020-10-01	mbappe	True	France	1
+2020-10-01	covid 19	False	Ecuador	100
+2020-10-01	slovakia coronavirus	False	United Kingdom	1
+2020-10-01	mayotte	True	France	1
+2020-10-01	covid	False	Ecuador	8
+2020-10-01	slough borough council	True	United Kingdom	1
+2020-10-01	what is the death rate for coronavirus	False	United States	1
+2020-10-01	maxicours	True	France	1
+2020-10-01	coronavirus	False	Ecuador	83
+2020-10-01	slimming world	True	United Kingdom	5
+2020-10-01	john hopkins university coronavirus map	False	Germany	2
+2020-10-01	what is the coronavirus	False	United States	1
+2020-10-01	masques ffp2	True	France	1
+2020-10-01	simon calder	True	United Kingdom	1
+2020-10-01	donald trump covid	False	United Kingdom	1
+2020-10-01	masques	True	France	1
+2020-10-01	silk face masks uk	True	United Kingdom	1
+2020-10-01	masque transparent covid	False	France	1
+2020-10-01	signs of covid	False	United Kingdom	1
+2020-10-01	masque transparent	True	France	1
+2020-10-01	signs of coronavirus	False	United Kingdom	1
+2020-10-01	masque personnalisé	True	France	1
+2020-10-01	shielding coronavirus update	False	United Kingdom	1
+2020-10-01	masque personnalisable	True	France	1
+2020-10-01	shielding	True	United Kingdom	1
+2020-10-01	what is pcr covid testing	False	United States	1
+2020-10-01	masque lavable	True	France	1
+2020-10-01	sheffield covid	False	United Kingdom	1
+2020-10-01	masque lacoste	True	France	1
+2020-10-01	what is in the new stimulus package	True	United States	1
+2020-10-01	barclays bounce back loan	True	United Kingdom	1
+2020-10-01	sheffield coronavirus update	False	United Kingdom	1
+2020-10-01	masque ffp3	True	France	1
+2020-10-01	donald trump has coronavirus	False	United Kingdom	1
+2020-10-01	shearings holidays	True	United Kingdom	1
+2020-10-01	masque ffp2	True	France	1
+2020-10-01	shearings coach holidays 2020	True	United Kingdom	1
+2020-10-01	masque ffp1	True	France	1
+2020-10-01	shearings	True	United Kingdom	1
+2020-10-01	masque en soie covid	False	France	1
+2020-10-01	senior railcard renewal	True	United Kingdom	1
+2020-10-01	masque en soie	True	France	1
+2020-10-01	self isolation rules	True	United Kingdom	1
+2020-10-01	masque covid transparent	False	France	1
+2020-10-01	close contact coronavirus uk	False	United Kingdom	1
+2020-10-01	self isolation note	True	United Kingdom	1
+2020-10-01	masque covid	False	France	1
+2020-10-01	self isolation guidance	True	United Kingdom	2
+2020-10-01	what is in pelosi's stimulus bill	True	United States	1
+2020-10-01	what is covid 19	False	United States	1
+2020-10-01	masque adidas	True	France	1
+2020-10-01	self isolation	True	United Kingdom	1
+2020-10-01	donning and doffing ppe	True	United Kingdom	1
+2020-10-01	martinique covid	False	France	1
+2020-10-01	self employment income support scheme	True	United Kingdom	1
+2020-10-01	marseille covid	False	France	1
+2020-10-01	self employment grant	True	United Kingdom	1
+2020-10-01	maladie de lyme	True	France	1
+2020-10-01	self employed income support scheme	True	United Kingdom	1
+2020-10-01	worldometer coronavirus	False	Czech Republic	7
+2020-10-01	maif	True	France	7
+2020-10-01	self employed grant scheme	True	United Kingdom	1
+2020-10-01	semafor covid	False	Czech Republic	17
+2020-10-01	coronavirus in turkey latest	False	United Kingdom	1
+2020-10-01	madrid covid	False	France	1
+2020-10-01	self employed grant	True	United Kingdom	2
+2020-10-01	odberova mista covid praha	False	Czech Republic	1
+2020-10-01	what is coronavirus	False	United States	1
+2020-10-01	companies house	True	Germany	1
+2020-10-01	madrid coronavirus	False	France	1
+2020-10-01	seiss	True	United Kingdom	1
+2020-10-01	draycote water	True	United Kingdom	1
+2020-10-01	odberova mista	True	Czech Republic	1
+2020-10-01	macron	True	France	2
+2020-10-01	seguridad social	True	United Kingdom	1
+2020-10-01	mzcr covid	False	Czech Republic	3
+2020-10-01	ma classe a la maison	True	France	1
+2020-10-01	sefton covid rules	False	United Kingdom	1
+2020-10-01	ministerstvo zdravotnictví	True	Czech Republic	100
+2020-10-01	lyon covid	False	France	1
+2020-10-01	sefton covid cases	False	United Kingdom	1
+2020-10-01	mapa covid	False	Czech Republic	4
+2020-10-01	what is corona virus	False	United States	1
+2020-10-01	lyon coronavirus	False	France	1
+2020-10-01	sefton council coronavirus	False	United Kingdom	1
+2020-10-01	fnhk	True	Czech Republic	8
+2020-10-01	what is considered a fever	True	United States	1
+2020-10-01	what is asymptomatic coronavirus	False	United States	1
+2020-10-01	lille covid	False	France	1
+2020-10-01	sdcep	True	United Kingdom	1
+2020-10-01	drive through coronavirus tests	False	United Kingdom	1
+2020-10-01	covid19	False	Czech Republic	2
+2020-10-01	les chiffres du covid 19	False	France	1
+2020-10-01	screwfix	True	United Kingdom	84
+2020-10-01	covid semafor	False	Czech Republic	14
+2020-10-01	les 12 coups de midi	True	France	1
+2020-10-01	scottish news	True	United Kingdom	3
+2020-10-01	covid příznaky	False	Czech Republic	2
+2020-10-01	le monde covid	False	France	1
+2020-10-01	scottish mp coronavirus	False	United Kingdom	1
+2020-10-01	covid mzcr	False	Czech Republic	1
+2020-10-01	what is a pcr test for covid	False	United States	1
+2020-10-01	le journal des femmes coronavirus	False	France	1
+2020-10-01	scottish government coronavirus update today	False	United Kingdom	1
+2020-10-01	covid 19	False	Czech Republic	17
+2020-10-01	what is a pandemic	True	United States	1
+2020-10-01	johns hopkins coronavirus map	False	Germany	1
+2020-10-01	le covid ou la covid	False	France	1
+2020-10-01	scottish government coronavirus update	False	United Kingdom	2
+2020-10-01	dubai coronavirus	False	United Kingdom	1
+2020-10-01	covid	False	Czech Republic	23
+2020-10-01	le covid 19	False	France	1
+2020-10-01	scottish government coronavirus	False	United Kingdom	1
+2020-10-01	coronavirus update	False	Czech Republic	6
+2020-10-01	le coronavirus en france	False	France	1
+2020-10-01	scottish government	True	United Kingdom	3
+2020-10-01	coronavirus stats	False	Czech Republic	1
+2020-10-01	le coronavirus	False	France	1
+2020-10-01	scottish golf union	True	United Kingdom	1
+2020-10-01	coronavirus statistics	False	Czech Republic	1
+2020-10-01	what does covid stand for	False	United States	1
+2020-10-01	labosud	True	France	2
+2020-10-01	scottish golf	True	United Kingdom	1
+2020-10-01	coronavirus	False	Czech Republic	9
+2020-10-01	what does covid 19 stand for	False	United States	1
+2020-10-01	what does asymptomatic mean	True	United States	1
+2020-10-01	laboratoire test covid	False	France	1
+2020-10-01	scottish football	True	United Kingdom	1
+2020-10-01	dunelm	True	United Kingdom	30
+2020-10-01	la vanguardia	True	France	1
+2020-10-01	scottish covid update	False	United Kingdom	1
+2020-10-01	la réunion covid 19	False	France	1
+2020-10-01	scottish covid rules	False	United Kingdom	1
+2020-10-01	la poste	True	France	41
+2020-10-01	scottish coronavirus update	False	United Kingdom	1
+2020-10-01	la ou le covid	False	France	1
+2020-10-01	scotrail timetable	True	United Kingdom	1
+2020-10-01	la covid ou le covid	False	France	1
+2020-10-01	scotrail	True	United Kingdom	2
+2020-10-01	canada coronavirus	False	United Kingdom	1
+2020-10-01	la covid 19	False	France	1
+2020-10-01	scotland covid rules	False	United Kingdom	1
+2020-10-01	la covid	False	France	1
+2020-10-01	barclaycard.co.uk	True	United Kingdom	1
+2020-10-01	what country has the most coronavirus cases	False	United States	1
+2020-10-01	scotland covid restrictions	False	United Kingdom	1
+2020-10-01	l'internaute covid 19	False	France	1
+2020-10-01	dvla	True	United Kingdom	28
+2020-10-01	scotland covid cases	False	United Kingdom	1
+2020-10-01	l'internaute coronavirus	False	France	1
+2020-10-01	scotland covid 19 update	False	United Kingdom	1
+2020-10-01	journal officiel	True	France	2
+2020-10-01	scotland covid	False	United Kingdom	1
+2020-10-01	journal des femmes coronavirus	False	France	1
+2020-10-01	scotland coronavirus update today	False	United Kingdom	1
+2020-10-01	jour de carence covid 19	False	France	1
+2020-10-01	scotland coronavirus update	False	United Kingdom	2
+2020-10-01	jordanie	True	France	1
+2020-10-01	what are the symptoms of the coronavirus	False	United States	1
+2020-10-01	scotland coronavirus rules	False	United Kingdom	1
+2020-10-01	johns hopkins coronavirus map	False	France	1
+2020-10-01	scotland coronavirus	False	United Kingdom	1
+2020-10-01	coronavirus in uk	False	United Kingdom	1
+2020-10-01	what are the symptoms of covid 19	False	United States	1
+2020-10-01	john hopkins coronavirus map	False	France	1
+2020-10-01	scotgov coronavirus update	False	United Kingdom	1
+2020-10-01	dvla driving licence renewal	True	United Kingdom	1
+2020-10-01	jean jacques goldman	True	France	1
+2020-10-01	scot.gov.uk coronavirus	False	United Kingdom	1
+2020-10-01	jean castex	True	France	1
+2020-10-01	scot gov coronavirus update	False	United Kingdom	1
+2020-10-01	jackie et michel	True	France	2
+2020-10-01	scot gov coronavirus	False	United Kingdom	1
+2020-10-01	italie	True	France	1
+2020-10-01	scarborough news	True	United Kingdom	1
+2020-10-01	internaute coronavirus	False	France	1
+2020-10-01	santander bounce back loan	True	United Kingdom	1
+2020-10-01	christian drosten	True	Germany	1
+2020-10-01	institut pasteur lille	True	France	1
+2020-10-01	sainsburys groceries	True	United Kingdom	29
+2020-10-01	inserm vaccin covid	False	France	1
+2020-10-01	what are the odds of getting coronavirus	False	United States	1
+2020-10-01	what are the chances of getting coronavirus	False	United States	1
+2020-10-01	sainsburys	True	United Kingdom	24
+2020-10-01	inserm covid 19	False	France	1
+2020-10-01	dvla licence renewal	True	United Kingdom	1
+2020-10-01	saga holidays	True	United Kingdom	1
+2020-10-01	inserm covid	False	France	1
+2020-10-01	saga cruises latest news	True	United Kingdom	1
+2020-10-01	inserm	True	France	5
+2020-10-01	saga cruises	True	United Kingdom	1
+2020-10-01	infos covid	False	France	1
+2020-10-01	ryanair refunds	True	United Kingdom	1
+2020-10-01	infos coronavirus	False	France	1
+2020-10-01	russia coronavirus	False	United Kingdom	1
+2020-10-01	information coronavirus	False	France	1
+2020-10-01	what are symptoms of coronavirus	False	United States	1
+2020-10-01	rule of six	True	United Kingdom	1
+2020-10-01	infographie coronavirus	False	France	1
+2020-10-01	rspb	True	United Kingdom	2
+2020-10-01	what are covid 19 symptoms	False	United States	1
+2020-10-01	westport ct	True	United States	1
+2020-10-01	info.gouv.fr covid 19	False	France	1
+2020-10-01	royal mail priority postbox covid	False	United Kingdom	1
+2020-10-01	dvla mot check	True	United Kingdom	6
+2020-10-01	info gouv coronavirus	False	France	1
+2020-10-01	royal mail priority postbox	True	United Kingdom	1
+2020-10-01	info covid 19 gouvernement	False	France	1
+2020-10-01	royal mail news	True	United Kingdom	1
+2020-10-01	info covid 19	False	France	1
+2020-10-01	royal albert hall	True	United Kingdom	1
+2020-10-01	info covid	False	France	1
+2020-10-01	rotherham news	True	United Kingdom	1
+2020-10-01	info coronavirus en france	False	France	1
+2020-10-01	road tax	True	United Kingdom	4
+2020-10-01	kachelmann	True	Germany	1
+2020-10-01	info coronavirus	False	France	1
+2020-10-01	riviera travel	True	United Kingdom	1
+2020-10-01	indemnisation chômage partiel	True	France	1
+2020-10-01	westmoreland county coronavirus	False	United States	1
+2020-10-01	west virginia coronavirus stats by county	False	United States	1
+2020-10-01	risk assessment template	True	United Kingdom	1
+2020-10-01	incubation covid 19	False	France	1
+2020-10-01	dvsa	True	United Kingdom	2
+2020-10-01	risk assessment coronavirus	False	United Kingdom	1
+2020-10-01	incubation covid	False	France	1
+2020-10-01	riddor reporting	True	United Kingdom	1
+2020-10-01	impôts gouv professionnels	True	France	1
+2020-10-01	riddor	True	United Kingdom	3
+2020-10-01	impôts gouv particulier	True	France	3
+2020-10-01	rics	True	United Kingdom	2
+2020-10-01	impots.gouv.fr	True	France	39
+2020-10-01	rick stein	True	United Kingdom	1
+2020-10-01	image covid	False	France	1
+2020-10-01	west virginia coronavirus	False	United States	1
+2020-10-01	rhodes coronavirus update	False	United Kingdom	1
+2020-10-01	géodes santé publique france	True	France	1
+2020-10-01	rhodes coronavirus	False	United Kingdom	1
+2020-10-01	barclaycard credit balance refund	True	United Kingdom	1
+2020-10-01	chlordioxid	True	Germany	1
+2020-10-01	guadeloupe covid	False	France	1
+2020-10-01	reusable face masks uk	True	United Kingdom	1
+2020-10-01	east anglian daily times	True	United Kingdom	1
+2020-10-01	grèce covid	False	France	1
+2020-10-01	restrictions coronavirus	False	United Kingdom	1
+2020-10-01	groupe sanguin	True	France	1
+2020-10-01	renew driving licence at 70	True	United Kingdom	1
+2020-10-01	grippe espagnole	True	France	1
+2020-10-01	remdesivir drug	True	United Kingdom	1
+2020-10-01	grenoble covid	False	France	1
+2020-10-01	remdesivir	True	United Kingdom	1
+2020-10-01	grece covid	False	France	1
+2020-10-01	register home test kit coronavirus	False	United Kingdom	1
+2020-10-01	west covina	True	United States	1
+2020-10-01	gouvernement.fr	True	France	1
+2020-10-01	register home test kit	True	United Kingdom	1
+2020-10-01	gouvernement covid 19	False	France	1
+2020-10-01	wausau covid	False	United States	1
+2020-10-01	coronavirus in wales	False	United Kingdom	1
+2020-10-01	register covid test online	False	United Kingdom	1
+2020-10-01	gouvernement covid	False	France	1
+2020-10-01	easy jet cancellations	True	United Kingdom	1
+2020-10-01	register covid test	False	United Kingdom	1
+2020-10-01	gouvernement coronavirus cartes et données	False	France	1
+2020-10-01	register coronavirus test	False	United Kingdom	1
+2020-10-01	gouvernement coronavirus	False	France	1
+2020-10-01	register care home test kit	True	United Kingdom	1
+2020-10-01	gouvernement	True	France	2
+2020-10-01	register a covid test	False	United Kingdom	1
+2020-10-01	gouv.fr covid	False	France	1
+2020-10-01	redundancy	True	United Kingdom	1
+2020-10-01	gouv.fr	True	France	2
+2020-10-01	waukesha county covid dashboard	False	United States	1
+2020-10-01	red whale	True	United Kingdom	1
+2020-10-01	gouv covid	False	France	1
+2020-10-01	worldometer coronavirus	False	Thailand	100
+2020-10-01	barbados coronavirus	False	United Kingdom	1
+2020-10-01	waukesha county coronavirus	False	United States	1
+2020-10-01	red funnel ferries	True	United Kingdom	1
+2020-10-01	www.bancodebogota.com.co	True	Colombia	18
+2020-10-01	easyjet holidays	True	United Kingdom	2
+2020-10-01	gouv coronavirus	False	France	1
+2020-10-01	trump covid	False	Thailand	1
+2020-10-01	red funnel	True	United Kingdom	2
+2020-10-01	sintomas del covid 19	False	Colombia	8
+2020-10-01	goldman jean-jacques	True	France	1
+2020-10-01	covid 19 update	False	Thailand	13
+2020-10-01	recovery trial	True	United Kingdom	1
+2020-10-01	sintomas del coronavirus	False	Colombia	43
+2020-10-01	goldman	True	France	1
+2020-10-01	covid 19	False	Thailand	50
+2020-10-01	washoe county coronavirus	False	United States	1
+2020-10-01	rcog covid	False	United Kingdom	1
+2020-10-01	minsalud	True	Colombia	4
+2020-10-01	coronavirus update	False	Kenya	100
+2020-10-01	washington state covid update	False	United States	1
+2020-10-01	washington state covid stats	False	United States	1
+2020-10-01	go voyages	True	France	1
+2020-10-01	coronavirus update	False	Thailand	50
+2020-10-01	easyjet refunds	True	United Kingdom	1
+2020-10-01	randox	True	United Kingdom	1
+2020-10-01	ministerio de salud de colombia	True	Colombia	1
+2020-10-01	coronavirus	False	Kenya	1
+2020-10-01	gestes barrières covid 19	False	France	1
+2020-10-01	coronavirus prevention	False	Thailand	50
+2020-10-01	rainbow pictures	True	United Kingdom	1
+2020-10-01	ministerio de salud	True	Colombia	47
+2020-10-01	geste barrière covid 19	False	France	1
+2020-10-01	minsa panama	True	Panama	100
+2020-10-01	railcard	True	United Kingdom	1
+2020-10-01	washington state covid dashboard	False	United States	1
+2020-10-01	instituto nacional de salud	True	Colombia	29
+2020-10-01	geodes sante publique france	True	France	1
+2020-10-01	ministerio de salud panama	True	Panama	1
+2020-10-01	kanaren coronavirus	False	Germany	1
+2020-10-01	washington state covid cases	False	United States	1
+2020-10-01	racing 92 covid	False	United Kingdom	1
+2020-10-01	covid colombia	False	Colombia	8
+2020-10-01	easyjet uk	True	United Kingdom	2
+2020-10-01	geodes	True	France	1
+2020-10-01	covid 19	False	Panama	25
+2020-10-01	r rate uk	True	United Kingdom	1
+2020-10-01	covid 19	False	Colombia	75
+2020-10-01	gad elmaleh	True	France	1
+2020-10-01	r rate in uk	True	United Kingdom	1
+2020-10-01	covid	False	Colombia	100
+2020-10-01	futuroscope	True	France	2
+2020-10-01	r rate	True	United Kingdom	1
+2020-10-01	coronavirus update	False	Colombia	1
+2020-10-01	washington state covid	False	United States	1
+2020-10-01	frontière suisse covid	False	France	1
+2020-10-01	r number uk	True	United Kingdom	1
+2020-10-01	coronavirus en colombia	False	Colombia	11
+2020-10-01	washington state coronavirus update	False	United States	1
+2020-10-01	einreise spanien	True	Germany	1
+2020-10-01	frenchbee	True	France	1
+2020-10-01	quarantine uk	True	United Kingdom	1
+2020-10-01	ecb cricket	True	United Kingdom	1
+2020-10-01	coronavirus	False	Colombia	100
+2020-10-01	french bee	True	France	1
+2020-10-01	quarantine rules uk	True	United Kingdom	1
+2020-10-01	france info	True	France	20
+2020-10-01	quarantine list	True	United Kingdom	2
+2020-10-01	france covid 19	False	France	1
+2020-10-01	public health wales dashboard	True	United Kingdom	1
+2020-10-01	france covid	False	France	1
+2020-10-01	public health wales coronavirus	False	United Kingdom	1
+2020-10-01	france coronavirus update	False	France	1
+2020-10-01	charité berlin	True	Germany	1
+2020-10-01	public health wales	True	United Kingdom	3
+2020-10-01	france coronavirus	False	France	1
+2020-10-01	public health scotland	True	United Kingdom	1
+2020-10-01	washington state coronavirus	False	United States	1
+2020-10-01	washington post coronavirus	False	United States	1
+2020-10-01	fr3 bretagne	True	France	1
+2020-10-01	public health england coronavirus update	False	United Kingdom	1
+2020-10-01	ecdc	True	United Kingdom	1
+2020-10-01	formulaire test covid	False	France	1
+2020-10-01	public health england coronavirus	False	United Kingdom	1
+2020-10-01	formulaire covid	False	France	1
+2020-10-01	public health england	True	United Kingdom	3
+2020-10-01	fonds de solidarité	True	France	1
+2020-10-01	public health agency	True	United Kingdom	1
+2020-10-01	fonds de solidarite	True	France	1
+2020-10-01	protect scotland app	True	United Kingdom	1
+2020-10-01	fond de solidarite	True	France	1
+2020-10-01	coronavirus in your area	False	United Kingdom	1
+2020-10-01	private covid tests	False	United Kingdom	1
+2020-10-01	fne formation	True	France	1
+2020-10-01	private covid testing uk	False	United Kingdom	1
+2020-10-01	washington ozaukee health department	True	United States	1
+2020-10-01	baptist union	True	United Kingdom	1
+2020-10-01	fne	True	France	1
+2020-10-01	private covid testing	False	United Kingdom	1
+2020-10-01	ecdc coronavirus	False	United Kingdom	1
+2020-10-01	ffp2	True	France	1
+2020-10-01	private covid test	False	United Kingdom	1
+2020-10-01	fermeture salle de sport coronavirus	False	France	1
+2020-10-01	private coronavirus test uk	False	United Kingdom	1
+2020-10-01	fermeture salle de sport	True	France	1
+2020-10-01	private coronavirus test	False	United Kingdom	1
+2020-10-01	fermeture restaurant paris covid	False	France	1
+2020-10-01	priority postbox	True	United Kingdom	1
+2020-10-01	fermeture restaurant covid 19	False	France	1
+2020-10-01	washington covid stats	False	United States	1
+2020-10-01	ppe masks	True	United Kingdom	1
+2020-10-01	fermeture des ecoles	True	France	1
+2020-10-01	ppe equipment	True	United Kingdom	1
+2020-10-01	washington county pa	True	United States	1
+2020-10-01	washington county oregon	True	United States	1
+2020-10-01	fermeture des bars coronavirus	False	France	1
+2020-10-01	post office travel insurance	True	United Kingdom	1
+2020-10-01	ecdc coronavirus update	False	United Kingdom	1
+2020-10-01	fermeture des bars	True	France	1
+2020-10-01	portugal quarantine	True	United Kingdom	1
+2020-10-01	fermeture administrative covid 19	False	France	1
+2020-10-01	portugal news	True	United Kingdom	1
+2020-10-01	face masks for coronavirus for sale	False	France	1
+2020-10-01	portugal coronavirus update	False	United Kingdom	1
+2020-10-01	evolution covid france	False	France	1
+2020-10-01	portugal coronavirus	False	United Kingdom	1
+2020-10-01	evolution covid 19 france	False	France	1
+2020-10-01	washington coronavirus	False	United States	1
+2020-10-01	portsmouth news	True	United Kingdom	2
+2020-10-01	evolution covid	False	France	1
+2020-10-01	porton down	True	United Kingdom	1
+2020-10-01	waseca county covid	False	United States	1
+2020-10-01	covid 19 update	False	Zimbabwe	1
+2020-10-01	evolution coronavirus	False	France	1
+2020-10-01	pontins	True	United Kingdom	1
+2020-10-01	edf energy	True	United Kingdom	4
+2020-10-01	eurotunnel	True	France	1
+2020-10-01	covid 19	False	Croatia	1
+2020-10-01	poland covid cases	False	United Kingdom	1
+2020-10-01	etalab covid	False	France	1
+2020-10-01	poland covid	False	United Kingdom	1
+2020-10-01	essai vaccin covid	False	France	1
+2020-10-01	poland coronavirus update	False	United Kingdom	1
+2020-10-01	essai clinique vaccin covid	False	France	1
+2020-10-01	poland coronavirus	False	United Kingdom	1
+2020-10-01	espagne coronavirus	False	France	1
+2020-10-01	karte risikogebiete coronavirus	False	Germany	1
+2020-10-01	pinderfields hospital	True	United Kingdom	1
+2020-10-01	emphysème pulmonaire	True	France	1
+2020-10-01	phw tableau	True	United Kingdom	1
+2020-10-01	was biden exposed to covid	False	United States	1
+2020-10-01	warn act	True	United States	1
+2020-10-01	eficiens coronavirus	False	France	1
+2020-10-01	phw dashboard	True	United Kingdom	1
+2020-10-01	edinburgh airport	True	United Kingdom	1
+2020-10-01	education nationale	True	France	1
+2020-10-01	hzz	True	Croatia	100
+2020-10-01	phw	True	United Kingdom	1
+2020-10-01	edgar morin	True	France	1
+2020-10-01	phonics play	True	United Kingdom	10
+2020-10-01	easyjet site officiel	True	France	1
+2020-10-01	phe coronavirus uk	False	United Kingdom	1
+2020-10-01	dépistage covid 19	False	France	1
+2020-10-01	phe coronavirus	False	United Kingdom	1
+2020-10-01	décret 2020-860	True	France	1
+2020-10-01	walmart store hours	True	United States	1
+2020-10-01	phe	True	United Kingdom	2
+2020-10-01	durée incubation covid 19	False	France	1
+2020-10-01	pets at home	True	United Kingdom	12
+2020-10-01	cdc coronavirus	False	Germany	1
+2020-10-01	covid map	False	Germany	1
+2020-10-01	duer	True	France	1
+2020-10-01	peter symonds college	True	United Kingdom	1
+2020-10-01	edinburgh covid update	False	United Kingdom	1
+2020-10-01	droit de retrait	True	France	1
+2020-10-01	koronavirus.hr	True	Croatia	4
+2020-10-01	peter hitchens	True	United Kingdom	1
+2020-10-01	donald trump covid	False	France	1
+2020-10-01	perspex screens	True	United Kingdom	1
+2020-10-01	doctolib test covid	False	France	1
+2020-10-01	personalised face masks	True	United Kingdom	1
+2020-10-01	doctolib covid	False	France	1
+2020-10-01	pendle	True	United Kingdom	1
+2020-10-01	dividende	True	France	1
+2020-10-01	walmart senior hours	True	United States	1
+2020-10-01	pcr test	True	United Kingdom	1
+2020-10-01	discours macron	True	France	1
+2020-10-01	parkdean resorts	True	United Kingdom	3
+2020-10-01	walmart returns	True	United States	1
+2020-10-01	coronavirus india	False	United Kingdom	1
+2020-10-01	discours covid	False	France	1
+2020-10-01	park holidays	True	United Kingdom	1
+2020-10-01	eiba bowls	True	United Kingdom	1
+2020-10-01	didier raoult	True	France	1
+2020-10-01	corona virus	False	Pakistan	1
+2020-10-01	pam ayres poems	True	United Kingdom	1
+2020-10-01	diarrhée et coronavirus	False	France	1
+2020-10-01	pam ayres	True	United Kingdom	1
+2020-10-01	dernières infos coronavirus	False	France	1
+2020-10-01	p&o ferries	True	United Kingdom	1
+2020-10-01	depistage covid 19	False	France	1
+2020-10-01	p&o cruises	True	United Kingdom	1
+2020-10-01	depistage covid	False	France	1
+2020-10-01	walmart face masks	True	United States	1
+2020-10-01	p and o ferries	True	United Kingdom	1
+2020-10-01	demain nous appartient	True	France	8
+2020-10-01	p and o cruises	True	United Kingdom	1
+2020-10-01	donald trump coronavirus	False	Germany	1
+2020-10-01	walmart covid testing	False	United States	1
+2020-10-01	deces covid france	False	France	1
+2020-10-01	oxford vaccine update	True	United Kingdom	1
+2020-10-01	elmbridge	True	United Kingdom	1
+2020-10-01	deces covid 19 france	False	France	1
+2020-10-01	coronavirus	False	Pakistan	24
+2020-10-01	oxford vaccine latest	True	United Kingdom	1
+2020-10-01	deces coronavirus monde	False	France	1
+2020-10-01	oxford vaccine	True	United Kingdom	1
+2020-10-01	deces coronavirus italie	False	France	1
+2020-10-01	order a covid test	False	United Kingdom	1
+2020-10-01	deces coronavirus france	False	France	1
+2020-10-01	opodo customer service	True	United Kingdom	1
+2020-10-01	deces coronavirus espagne	False	France	1
+2020-10-01	walla walla county health dept	True	United States	1
+2020-10-01	ons coronavirus update	False	United Kingdom	1
+2020-10-01	deces coronavirus	False	France	1
+2020-10-01	ons coronavirus	False	United Kingdom	1
+2020-10-01	walgreens/coronavirus testing	False	United States	1
+2020-10-01	walgreens.com/findcare/covid19/adminportal	False	United States	1
+2020-10-01	dashboard covid 19	False	France	1
+2020-10-01	oldham news	True	United Kingdom	1
+2020-10-01	emergency dentist	True	United Kingdom	1
+2020-10-01	dashboard coronavirus	False	France	1
+2020-10-01	coronavirus prevention	False	Pakistan	54
+2020-10-01	oldham council	True	United Kingdom	1
+2020-10-01	curcuma	True	France	1
+2020-10-01	ofqual	True	United Kingdom	1
+2020-10-01	covid19 usa	False	France	1
+2020-10-01	office of national statistics coronavirus	False	United Kingdom	1
+2020-10-01	covid19 france	False	France	1
+2020-10-01	office for national statistics coronavirus	False	United Kingdom	1
+2020-10-01	covid19 en direct	False	France	1
+2020-10-01	walgreens.com/covid19testing	False	United States	1
+2020-10-01	ocado	True	United Kingdom	18
+2020-10-01	covid19	False	France	1
+2020-10-01	nuneaton news	True	United Kingdom	1
+2020-10-01	walgreens.com/coronavirustesting	False	United States	1
+2020-10-01	kassel coronavirus	False	Germany	1
+2020-10-01	covid île de france	False	France	1
+2020-10-01	number of coronavirus cases uk	False	United Kingdom	1
+2020-10-01	emirates flights	True	United Kingdom	1
+2020-10-01	covid états unis	False	France	1
+2020-10-01	coronavirus update	False	Pakistan	100
+2020-10-01	nras	True	United Kingdom	1
+2020-10-01	covid zone rouge	False	France	1
+2020-10-01	npcc	True	United Kingdom	1
+2020-10-01	covid vendee	False	France	1
+2020-10-01	novavax vaccine	True	United Kingdom	1
+2020-10-01	covid vaucluse	False	France	1
+2020-10-01	novavax	True	United Kingdom	1
+2020-10-01	covid var	False	France	1
+2020-10-01	walgreens rapid covid testing	False	United States	1
+2020-10-01	nostradamus predictions	True	United Kingdom	1
+2020-10-01	covid val d'oise	False	France	1
+2020-10-01	northwick park hospital	True	United Kingdom	1
+2020-10-01	walgreens rapid covid test	False	United States	1
+2020-10-01	walgreens covid testing locations	False	United States	1
+2020-10-01	covid vaccin	False	France	1
+2020-10-01	northumbria university	True	United Kingdom	3
+2020-10-01	england athletics	True	United Kingdom	1
+2020-10-01	covid usa	False	France	1
+2020-10-01	covid	False	Pakistan	31
+2020-10-01	northumberland gazette news	True	United Kingdom	1
+2020-10-01	covid trump	False	France	1
+2020-10-01	northumberland gazette	True	United Kingdom	1
+2020-10-01	covid tours	False	France	1
+2020-10-01	northridge finance	True	United Kingdom	1
+2020-10-01	covid toulouse	False	France	1
+2020-10-01	northlink ferries	True	United Kingdom	1
+2020-10-01	covid symptômes	False	France	1
+2020-10-01	bame	True	United Kingdom	2
+2020-10-01	northern trains	True	United Kingdom	1
+2020-10-01	covid symptomes	False	France	1
+2020-10-01	northern rail	True	United Kingdom	1
+2020-10-01	carte covid france	False	Germany	1
+2020-10-01	walgreens covid testing	False	United States	2
+2020-10-01	covid suisse	False	France	1
+2020-10-01	northern ireland news	True	United Kingdom	2
+2020-10-01	england coronavirus update	False	United Kingdom	1
+2020-10-01	covid sarthe	False	France	1
+2020-10-01	covid 19	False	Pakistan	47
+2020-10-01	northern ireland covid restrictions	False	United Kingdom	1
+2020-10-01	covid rennes	False	France	1
+2020-10-01	northern ireland covid	False	United Kingdom	1
+2020-10-01	covid puy de dome	False	France	1
+2020-10-01	northern ireland coronavirus	False	United Kingdom	1
+2020-10-01	covid portugal	False	France	1
+2020-10-01	north west restrictions covid 19	False	United Kingdom	1
+2020-10-01	covid paris	False	France	2
+2020-10-01	walgreens covid test	False	United States	1
+2020-10-01	north wales lockdown update	True	United Kingdom	1
+2020-10-01	covid nouvelles mesures	False	France	1
+2020-10-01	north lincolnshire council	True	United Kingdom	1
+2020-10-01	coronavirus italy	False	United Kingdom	1
+2020-10-01	walgreens covid 19 testing locations	False	United States	1
+2020-10-01	covid normandie	False	France	1
+2020-10-01	north east restrictions	True	United Kingdom	1
+2020-10-01	england golf	True	United Kingdom	1
+2020-10-01	covid nord	False	France	1
+2020-10-01	covid 19 update	False	Pakistan	16
+2020-10-01	north east news	True	United Kingdom	1
+2020-10-01	covid nievre	False	France	1
+2020-10-01	north east lockdown	True	United Kingdom	1
+2020-10-01	covid nantes	False	France	1
+2020-10-01	north east covid restrictions	False	United Kingdom	1
+2020-10-01	covid moselle	False	France	1
+2020-10-01	north east coronavirus update	False	United Kingdom	1
+2020-10-01	covid morbihan	False	France	1
+2020-10-01	cold or coronavirus	False	United Kingdom	1
+2020-10-01	north east	True	United Kingdom	1
+2020-10-01	covid monde	False	France	1
+2020-10-01	nicola sturgeon update	True	United Kingdom	1
+2020-10-01	walgreens covid 19 testing	False	United States	1
+2020-10-01	walgreens covid	False	United States	1
+2020-10-01	covid martinique	False	France	1
+2020-10-01	nicola sturgeon latest news	True	United Kingdom	1
+2020-10-01	england hockey	True	United Kingdom	1
+2020-10-01	covid marseille	False	France	1
+2020-10-01	stimulus update	True	Pakistan	24
+2020-10-01	nicola sturgeon announcement today	True	United Kingdom	1
+2020-10-01	covid maroc	False	France	1
+2020-10-01	nicola sturgeon	True	United Kingdom	3
+2020-10-01	worldometer coronavirus	False	Ethiopia	1
+2020-10-01	covid maine et loire	False	France	1
+2020-10-01	ni news	True	United Kingdom	2
+2020-10-01	coronavirus update	False	Ethiopia	100
+2020-10-01	covid madrid	False	France	1
+2020-10-01	wake county schools	True	United States	1
+2020-10-01	ni direct.gov.uk	True	United Kingdom	1
+2020-10-01	covid lyon	False	France	1
+2020-10-01	ni covid dashboard	False	United Kingdom	1
+2020-10-01	wake county health department	True	United States	1
+2020-10-01	wake county	True	United States	1
+2020-10-01	covid loire atlantique	False	France	1
+2020-10-01	ni coronavirus update	False	United Kingdom	1
+2020-10-01	essex county council	True	United Kingdom	1
+2020-10-01	covid loire 42	False	France	1
+2020-10-01	worldometer coronavirus	False	Pakistan	77
+2020-10-01	nhsuk/coronavirus	False	United Kingdom	1
+2020-10-01	covid lille	False	France	1
+2020-10-01	nhsinform	True	United Kingdom	1
+2020-10-01	covid italie	False	France	1
+2020-10-01	nhs/coronavirus test	False	United Kingdom	1
+2020-10-01	covid islande	False	France	1
+2020-10-01	nhs.uk/coronavirus book test	False	United Kingdom	1
+2020-10-01	covid isere	False	France	1
+2020-10-01	kbv coronavirus	False	Germany	1
+2020-10-01	nhs.uk/coronavirus	False	United Kingdom	1
+2020-10-01	covid info	False	France	1
+2020-10-01	nhs.co.uk/coronavirus	False	United Kingdom	1
+2020-10-01	wa state coronavirus	False	United States	1
+2020-10-01	wa coronavirus	False	United States	1
+2020-10-01	covid indre et loire	False	France	1
+2020-10-01	nhs track and trace app	True	United Kingdom	2
+2020-10-01	essex live	True	United Kingdom	1
+2020-10-01	covid ille et vilaine	False	France	1
+2020-10-01	covid 19	False	Ukraine	1
+2020-10-01	nhs track and trace	True	United Kingdom	2
+2020-10-01	covid hérault	False	France	1
+2020-10-01	nhs test and trace	True	United Kingdom	1
+2020-10-01	covid guadeloupe	False	France	1
+2020-10-01	nhs scotland coronavirus	False	United Kingdom	1
+2020-10-01	covid grenoble	False	France	1
+2020-10-01	nhs qr code	True	United Kingdom	1
+2020-10-01	covid gouvernement	False	France	1
+2020-10-01	vtdigger	True	United States	1
+2020-10-01	nhs inform scotland	True	United Kingdom	1
+2020-10-01	covid gouv	False	France	1
+2020-10-01	nhs inform	True	United Kingdom	2
+2020-10-01	b&q diy store	True	United Kingdom	9
+2020-10-01	can you get covid twice	False	United Kingdom	1
+2020-10-01	covid gironde	False	France	1
+2020-10-01	nhs grampian	True	United Kingdom	1
+2020-10-01	etsy face masks	True	United Kingdom	1
+2020-10-01	covid france carte	False	France	1
+2020-10-01	коронавирус	True	Ukraine	100
+2020-10-01	nhs england	True	United Kingdom	2
+2020-10-01	covid france bilan	False	France	1
+2020-10-01	nhs employers	True	United Kingdom	1
+2020-10-01	covid france	False	France	3
+2020-10-01	nhs discounts	True	United Kingdom	2
+2020-10-01	covid face masks for sale	False	France	1
+2020-10-01	nhs covid testing	False	United Kingdom	1
+2020-10-01	covid etats unis	False	France	1
+2020-10-01	vt digger	True	United States	1
+2020-10-01	nhs covid test booking	False	United Kingdom	1
+2020-10-01	covid espagne	False	France	1
+2020-10-01	nhs covid test	False	United Kingdom	2
+2020-10-01	vt covid	False	United States	1
+2020-10-01	coronavirus italy update	False	United Kingdom	1
+2020-10-01	covid en suisse	False	France	1
+2020-10-01	nhs covid symptoms checker	False	United Kingdom	1
+2020-10-01	euro 2020	True	United Kingdom	1
+2020-10-01	covid en savoie	False	France	1
+2020-10-01	nhs covid symptoms	False	United Kingdom	1
+2020-10-01	covid en france ce jour	False	France	1
+2020-10-01	nhs covid signage	False	United Kingdom	1
+2020-10-01	covid en france	False	France	1
+2020-10-01	nhs covid qr code	False	United Kingdom	1
+2020-10-01	covid en charente	False	France	1
+2020-10-01	nhs covid app uk	False	United Kingdom	1
+2020-10-01	covid drome	False	France	1
+2020-10-01	nhs covid app	False	United Kingdom	1
+2020-10-01	vt coronavirus	False	United States	1
+2020-10-01	covid direct	False	France	1
+2020-10-01	nhs covid advice	False	United Kingdom	1
+2020-10-01	covid dijon	False	France	1
+2020-10-01	bzga	True	Germany	2
+2020-10-01	volusia county	True	United States	1
+2020-10-01	nhs covid 19 app download	False	United Kingdom	1
+2020-10-01	covid dashboard	False	France	1
+2020-10-01	eurotunnel	True	United Kingdom	2
+2020-10-01	nhs covid 19 app	False	United Kingdom	2
+2020-10-01	covid dans le monde	False	France	1
+2020-10-01	nhs covid 19	False	United Kingdom	1
+2020-10-01	covid corrèze	False	France	1
+2020-10-01	nhs covid	False	United Kingdom	1
+2020-10-01	covid chine	False	France	1
+2020-10-01	nhs coronavirus uk	False	United Kingdom	1
+2020-10-01	covid cas contact	False	France	1
+2020-10-01	nhs coronavirus test	False	United Kingdom	1
+2020-10-01	covid carte france	False	France	1
+2020-10-01	volaris official site	True	United States	1
+2020-10-01	nhs coronavirus symptoms	False	United Kingdom	1
+2020-10-01	covid calvados	False	France	1
+2020-10-01	nhs coronavirus advice	False	United Kingdom	1
+2020-10-01	b&q	True	United Kingdom	34
+2020-10-01	vmi covid numbers	False	United States	1
+2020-10-01	covid bretagne	False	France	1
+2020-10-01	nhs coronavirus	False	United Kingdom	1
+2020-10-01	face coverings uk	True	United Kingdom	1
+2020-10-01	covid bresil	False	France	1
+2020-10-01	nhs app download	True	United Kingdom	1
+2020-10-01	covid bordeaux	False	France	1
+2020-10-01	nhs app	True	United Kingdom	2
+2020-10-01	covid belgique	False	France	1
+2020-10-01	nhs 111 online	True	United Kingdom	1
+2020-10-01	covid angleterre	False	France	1
+2020-10-01	nhs 111 coronavirus	False	United Kingdom	1
+2020-10-01	covid alpes maritimes	False	France	1
+2020-10-01	nhs 111	True	United Kingdom	1
+2020-10-01	vmi covid	False	United States	1
+2020-10-01	covid allemagne	False	France	1
+2020-10-01	nhbf	True	United Kingdom	1
+2020-10-01	covid actualité	False	France	1
+2020-10-01	vitamin d covid	False	United States	1
+2020-10-01	kekule	True	Germany	1
+2020-10-01	next returns	True	United Kingdom	1
+2020-10-01	covid 19 wikipedia	False	France	1
+2020-10-01	face mask exemption card uk	True	United Kingdom	1
+2020-10-01	news covid	False	United Kingdom	1
+2020-10-01	covid 19 usa	False	France	1
+2020-10-01	news coronavirus	False	United Kingdom	1
+2020-10-01	covid 19 uk	False	France	1
+2020-10-01	newport lockdown	True	United Kingdom	1
+2020-10-01	covid 19 toulouse	False	France	1
+2020-10-01	newmarket holidays	True	United Kingdom	1
+2020-10-01	covid 19 symptômes	False	France	1
+2020-10-01	new zealand covid	False	United Kingdom	1
+2020-10-01	covid 19 symptomes	False	France	1
+2020-10-01	vitamin d and covid 19	False	United States	1
+2020-10-01	new zealand coronavirus update	False	United Kingdom	1
+2020-10-01	covid 19 suède	False	France	1
+2020-10-01	new zealand coronavirus	False	United Kingdom	1
+2020-10-01	vitamin d and covid	False	United States	1
+2020-10-01	vitamin d and coronavirus	False	United States	1
+2020-10-01	covid 19 suisse	False	France	1
+2020-10-01	new restrictions coronavirus	False	United Kingdom	1
+2020-10-01	face mask pattern	True	United Kingdom	1
+2020-10-01	covid 19 royaume uni	False	France	1
+2020-10-01	new lockdown rules uk	True	United Kingdom	1
+2020-10-01	covid 19 portugal	False	France	1

@@ -1,0 +1,1003 @@
+Date	Query	IsImplicitIntent	State	Country	PopularityScore
+2020-11-01	boris johnson	True	California	United States	2
+2020-11-01	screwfix	True	North Somerset	United Kingdom	100
+2020-11-01	fhi	True	Akershus	Norway	1
+2020-11-01	cuomo new york travelers test	True	Virginia	United States	1
+2020-11-01	geoportail fr	True	Bourgogne-Franche-Comte	France	4
+2020-11-01	家賃支援給付金	True	Saitama	Japan	28
+2020-11-01	pajemploi	True	Ile-De-France	France	11
+2020-11-01	charité berlin	True	Berlin	Germany	4
+2020-11-01	attestation de deplacement octobre 2020	True	Normandy	France	3
+2020-11-01	coronavirus	False	Mexico City	Mexico	1
+2020-11-01	screwfix	True	Telford And Wrekin	United Kingdom	89
+2020-11-01	covid 19	False	Alaska	United States	10
+2020-11-01	stanford study trump rallies	True	Illinois	United States	2
+2020-11-01	cdc coronavirus update	False	Montana	United States	4
+2020-11-01	covid vaccine update	False	Virginia	United States	2
+2020-11-01	france info	True	Bourgogne-Franche-Comte	France	6
+2020-11-01	snl cold open	True	Delaware	United States	58
+2020-11-01	stimulus update today	True	Washington	United States	1
+2020-11-01	stimulus update	True	Wyoming	United States	3
+2020-11-01	the range	True	Falkirk	United Kingdom	88
+2020-11-01	고용보험홈페이지	True	South Chungcheong	Korea (South)	25
+2020-11-01	hmrc login	True	Buckinghamshire	United Kingdom	20
+2020-11-01	covid 19 update	False	Arkansas	United States	6
+2020-11-01	コロナウイルス	False	Osaka	Japan	25
+2020-11-01	covid 19	False	Federal Territory Of Kuala Lumpur	Malaysia	100
+2020-11-01	tesco home delivery	True	North Somerset	United Kingdom	19
+2020-11-01	b&q	True	Blackburn With Darwen	United Kingdom	8
+2020-11-01	at&t	True	Montana	United States	8
+2020-11-01	covid	False	Utah	United States	6
+2020-11-01	smyths	True	Newport	United Kingdom	46
+2020-11-01	pajemploi assistante maternelle	True	Ile-De-France	France	1
+2020-11-01	worldometers coronavirus	False	Delhi	India	81
+2020-11-01	covid update	False	Virginia	United States	1
+2020-11-01	covid 19	False	Mexico City	Mexico	1
+2020-11-01	déplacement covid 19	False	Nouvelle-Aquitaine	France	2
+2020-11-01	stop and shop peapod	True	New York	United States	2
+2020-11-01	dérogation de déplacement	True	Bourgogne-Franche-Comte	France	3
+2020-11-01	b&q diy store	True	Surrey	United Kingdom	8
+2020-11-01	nicola sturgeon	True	Aberdeen City	United Kingdom	1
+2020-11-01	morrisons	True	Bracknell Forest	United Kingdom	40
+2020-11-01	worldometers coronavirus	False	Kerala	India	34
+2020-11-01	blackpool victoria hospital	True	Lancashire	United Kingdom	5
+2020-11-01	coronavirus update	False	Mississippi	United States	5
+2020-11-01	ffp2 maske	True	Thuringia	Germany	9
+2020-11-01	코로나	True	South Chungcheong	Korea (South)	35
+2020-11-01	currys pc world	True	Cheshire West And Chester	United Kingdom	77
+2020-11-01	jet2 flights	True	London	United Kingdom	4
+2020-11-01	coronavirus worldometers	False	Bristol	United Kingdom	4
+2020-11-01	covid tracker	False	Virginia	United States	6
+2020-11-01	waitrose	True	North Somerset	United Kingdom	46
+2020-11-01	currys pc world	True	Blackburn With Darwen	United Kingdom	39
+2020-11-01	déplacement covid 19	False	Bourgogne-Franche-Comte	France	1
+2020-11-01	sainsburys	True	Cornwall	United Kingdom	15
+2020-11-01	coronavirus symptoms	False	North Carolina	United States	4
+2020-11-01	patron masque	True	Ile-De-France	France	1
+2020-11-01	currys pc world	True	Cornwall	United Kingdom	32
+2020-11-01	chomage partiel	True	Occitanie	France	1
+2020-11-01	infonavit mi cuenta	True	Mexico City	Mexico	26
+2020-11-01	sensex	True	Kerala	India	23
+2020-11-01	miur	True	Liguria	Italy	6
+2020-11-01	covid 19 belgique	False	Liege	Belgium	6
+2020-11-01	covid testing sites near me	False	Virginia	United States	12
+2020-11-01	covid 19	False	Hertfordshire	United Kingdom	12
+2020-11-01	demain nous appartient	True	Bourgogne-Franche-Comte	France	1
+2020-11-01	gouv.fr covid19	False	Auvergne-Rhone-Alpes	France	1
+2020-11-01	hmrc login	True	Leicestershire	United Kingdom	6
+2020-11-01	seguridad social	True	Balearic Islands	Spain	74
+2020-11-01	coronavirus new mexico	False	New Mexico	United States	3
+2020-11-01	持続化給付金	True	Yamanashi	Japan	100
+2020-11-01	brain damage covid	False	California	United States	1
+2020-11-01	jagratha portal	True	Kerala	India	34
+2020-11-01	持続化給付金	True	Saitama	Japan	30
+2020-11-01	costco online	True	Utah	United States	84
+2020-11-01	wickes	True	North Somerset	United Kingdom	19
+2020-11-01	dunelm	True	Blackburn With Darwen	United Kingdom	1
+2020-11-01	covid symptoms	False	Virginia	United States	8
+2020-11-01	declare ameli.fr	True	Bourgogne-Franche-Comte	France	1
+2020-11-01	radio gütersloh	True	North Rhine-Westphalia	Germany	6
+2020-11-01	personnes vulnérables covid 19	False	Ile-De-France	France	1
+2020-11-01	seguridad social	True	Canary Islands	Spain	100
+2020-11-01	attestation de déplacement	True	Normandy	France	100
+2020-11-01	salud digna	True	Mexico City	Mexico	100
+2020-11-01	stimulus update	True	Maine	United States	19
+2020-11-01	smyths	True	Telford And Wrekin	United Kingdom	30
+2020-11-01	covid19jagratha	False	Kerala	India	100
+2020-11-01	covid 19 alaska	False	Alaska	United States	10
+2020-11-01	covid map	False	Virginia	United States	3
+2020-11-01	covid suisse	False	Bourgogne-Franche-Comte	France	1
+2020-11-01	trump approval rating	True	New Jersey	United States	4
+2020-11-01	dérogation de déplacement	True	Pays De La Loire	France	2
+2020-11-01	walgreens covid testing	False	Delaware	United States	15
+2020-11-01	worldometer coronavirus	False	Saint Michael	Barbados	1
+2020-11-01	worldometer coronavirus	False	Wyoming	United States	1
+2020-11-01	tui	True	Falkirk	United Kingdom	25
+2020-11-01	jordan peterson	True	California	United States	1
+2020-11-01	miur	True	Latium	Italy	10
+2020-11-01	covid symptoms	False	Arkansas	United States	9
+2020-11-01	コロナ対策	True	Osaka	Japan	2
+2020-11-01	halfords	True	Blackburn With Darwen	United Kingdom	16
+2020-11-01	b&q diy store	True	Wiltshire	United Kingdom	17
+2020-11-01	the range	True	Newport	United Kingdom	28
+2020-11-01	the range	True	Leicester City	United Kingdom	27
+2020-11-01	politologue coronavirus	False	Ile-De-France	France	1
+2020-11-01	worldometer coronavirus	False	Brussels Region	Belgium	1
+2020-11-01	covid19india org	False	Kerala	India	23
+2020-11-01	b&q	True	Plymouth	United Kingdom	35
+2020-11-01	attestaion covid	False	Nouvelle-Aquitaine	France	1
+2020-11-01	sainsburys	True	Aberdeen City	United Kingdom	24
+2020-11-01	coronavirus uk	False	Hampshire	United Kingdom	16
+2020-11-01	covid 19 vaccine	False	Virginia	United States	2
+2020-11-01	debenhams uk	True	Flintshire	United Kingdom	100
+2020-11-01	covid 19 france	False	Bourgogne-Franche-Comte	France	3
+2020-11-01	bolton news	True	Lancashire	United Kingdom	2
+2020-11-01	cronaca di napoli	True	Campania	Italy	10
+2020-11-01	dérogation de déplacement	True	Nouvelle-Aquitaine	France	4
+2020-11-01	coronavirus utah	False	Utah	United States	17
+2020-11-01	cuomo new york travelers test	True	Florida	United States	3
+2020-11-01	ihk erfurt	True	Thuringia	Germany	9
+2020-11-01	debenhams uk	True	Cheshire West And Chester	United Kingdom	70
+2020-11-01	jet2 holidays 2020	True	London	United Kingdom	1
+2020-11-01	coventry building society	True	Bristol	United Kingdom	7
+2020-11-01	companies house	True	Lancashire	United Kingdom	18
+2020-11-01	ocado	True	Blackburn With Darwen	United Kingdom	16
+2020-11-01	covid vaccine	False	Kerala	India	1
+2020-11-01	scottish news	True	Glasgow City	United Kingdom	40
+2020-11-01	covid 19 update	False	Virginia	United States	26
+2020-11-01	port du masque obligatoire	True	Ile-De-France	France	1
+2020-11-01	covid 19	False	Bourgogne-Franche-Comte	France	5
+2020-11-01	the range	True	Torbay	United Kingdom	45
+2020-11-01	boots the chemist	True	Plymouth	United Kingdom	16
+2020-11-01	moniteur belge	True	Liege	Belgium	26
+2020-11-01	nuovo dpcm	True	Liguria	Italy	44
+2020-11-01	covid 19 latest	False	Hertfordshire	United Kingdom	5
+2020-11-01	debenhams uk	True	Brighton And Hove	United Kingdom	39
+2020-11-01	home bargains	True	Leicestershire	United Kingdom	8
+2020-11-01	covid jagratha	False	Kerala	India	89
+2020-11-01	cvs covid testing	False	Texas	United States	12
+2020-11-01	covid 19 testing locations	False	Virginia	United States	3
+2020-11-01	covid	False	Bourgogne-Franche-Comte	France	3
+2020-11-01	新型コロナウイルス	False	Yamanashi	Japan	1
+2020-11-01	ca coronavirus	False	California	United States	1
+2020-11-01	持続化補助金	True	Saitama	Japan	2
+2020-11-01	vogtlandkreis	True	Saxony	Germany	6
+2020-11-01	attestation de déplacement coronavirus	False	Normandy	France	1
+2020-11-01	universal credit	True	Telford And Wrekin	United Kingdom	6
+2020-11-01	covid 19 update	False	Alaska	United States	10
+2020-11-01	sainsburys groceries	True	Blackburn With Darwen	United Kingdom	8
+2020-11-01	coronavirus espagne	False	Grand Est	France	1
+2020-11-01	worldometer coronavirus	False	Delaware	United States	1
+2020-11-01	covid alberta	False	Alberta	Canada	19
+2020-11-01	protocole sanitaire	True	Ile-De-France	France	1
+2020-11-01	wyoming coronavirus	False	Wyoming	United States	26
+2020-11-01	covid 19 jagratha kerala nic in	False	Kerala	India	45
+2020-11-01	coronavirus uk	False	Plymouth	United Kingdom	12
+2020-11-01	covid 19 symptoms	False	Virginia	United States	18
+2020-11-01	radio bielefeld	True	North Rhine-Westphalia	Germany	9
+2020-11-01	coronavirus usa	False	Bourgogne-Franche-Comte	France	1
+2020-11-01	wilko	True	Falkirk	United Kingdom	25
+2020-11-01	segurança social directa	True	Lisboa	Portugal	100
+2020-11-01	covid19 arkansas	False	Arkansas	United States	1
+2020-11-01	coronavirus updates	False	Utah	United States	9
+2020-11-01	マスク	True	Osaka	Japan	12
+2020-11-01	sepe	True	Canary Islands	Spain	86
+2020-11-01	mgm resorts	True	Nevada	United States	3
+2020-11-01	boots the chemist	True	Vale Of Glamorgan	United Kingdom	1
+2020-11-01	las vegas cases fo coronavirus	False	California	United States	1
+2020-11-01	scotland coronavirus update	False	Aberdeen City	United Kingdom	16
+2020-11-01	worldometer coronavirus	False	Dubai	United Arab Emirates	74
+2020-11-01	covid 19 map	False	Virginia	United States	1
+2020-11-01	coronavirus	False	Bavaria	Germany	6
+2020-11-01	screwfix	True	Blackburn With Darwen	United Kingdom	100
+2020-11-01	coronavirus france	False	Bourgogne-Franche-Comte	France	7
+2020-11-01	boots the chemist	True	Lancashire	United Kingdom	12
+2020-11-01	lavanguardia	True	Balearic Islands	Spain	9
+2020-11-01	protocole sanitaire ecole	True	Ile-De-France	France	1
+2020-11-01	lockdown deutschland	True	Thuringia	Germany	9
+2020-11-01	dunelm	True	Cheshire West And Chester	United Kingdom	60
+2020-11-01	coronavirus update	False	Plymouth	United Kingdom	4
+2020-11-01	covid 19	False	Bristol	United Kingdom	4
+2020-11-01	jet2holidays	True	London	United Kingdom	4
+2020-11-01	tgcom	True	Sardinia	Italy	20
+2020-11-01	us elections 2020	True	Dubai	United Arab Emirates	3
+2020-11-01	covid 19	False	Virginia	United States	28
+2020-11-01	coronavirus espagne	False	Bourgogne-Franche-Comte	France	1
+2020-11-01	symptoms of covid 19	False	California	United States	4
+2020-11-01	nuovo dpcm oggi	True	Liguria	Italy	22
+2020-11-01	currys pc world	True	Hertfordshire	United Kingdom	99
+2020-11-01	irs stimulus check	True	New York	United States	2
+2020-11-01	region skåne	True	Skane County	Sweden	10
+2020-11-01	rtbf info	True	Liege	Belgium	58
+2020-11-01	jet2holidays	True	Leicestershire	United Kingdom	16
+2020-11-01	worldometer	True	Colorado	United States	3
+2020-11-01	john hopkins coronavirus tracker	False	Washington	United States	5
+2020-11-01	b&q	True	Warrington	United Kingdom	29
+2020-11-01	california coronavirus	False	California	United States	6
+2020-11-01	pure health	True	Dubai	United Arab Emirates	30
+2020-11-01	新型コロナウイルス	False	Saitama	Japan	17
+2020-11-01	puy du fou	True	Ile-De-France	France	1
+2020-11-01	covid	False	Virginia	United States	12
+2020-11-01	morrisons	True	Flintshire	United Kingdom	1
+2020-11-01	currys pc world	True	Plymouth	United Kingdom	93
+2020-11-01	coronavirus update	False	Utah	United States	24
+2020-11-01	coronavirus	False	Bourgogne-Franche-Comte	France	3
+2020-11-01	dérogation de sortie	True	Nouvelle-Aquitaine	France	1
+2020-11-01	chiffres covid	False	Occitanie	France	1
+2020-11-01	attestation de déplacement covid 19	False	Normandy	France	27
+2020-11-01	waitrose	True	Telford And Wrekin	United Kingdom	12
+2020-11-01	drudge report 2020	True	Alaska	United States	20
+2020-11-01	lockdown rules england	True	West Yorkshire	United Kingdom	3
+2020-11-01	sars-cov-2	True	Toyama	Japan	1
+2020-11-01	wickes	True	England	United Kingdom	40
+2020-11-01	autocertificazione covid	False	Tuscany	Italy	2
+2020-11-01	covid vaccine	False	Dubai	United Arab Emirates	3
+2020-11-01	uk lockdown	True	Leicester City	United Kingdom	9
+2020-11-01	pcr検査	True	Hyogo	Japan	3
+2020-11-01	ameli	True	Pays De La Loire	France	16
+2020-11-01	boots the chemist	True	Warrington	United Kingdom	22
+2020-11-01	costco online	True	Virginia	United States	59
+2020-11-01	pua arkansas	True	Arkansas	United States	52
+2020-11-01	confinement france	True	Bourgogne-Franche-Comte	France	2
+2020-11-01	raoult	True	Ile-De-France	France	1
+2020-11-01	入国制限	True	Osaka	Japan	1
+2020-11-01	attestation sortie covid	False	Pays De La Loire	France	4
+2020-11-01	debenhams uk	True	Plymouth	United Kingdom	31
+2020-11-01	screwfix	True	Vale Of Glamorgan	United Kingdom	100
+2020-11-01	青森県　コロナ	True	Aomori	Japan	62
+2020-11-01	screwfix	True	Isle Of Wight	United Kingdom	32
+2020-11-01	scottish government	True	Aberdeen City	United Kingdom	47
+2020-11-01	coronavirus update	False	Hampshire	United Kingdom	12
+2020-11-01	covid 19 update	False	Dubai	United Arab Emirates	18
+2020-11-01	brexit latest	True	Lancashire	United Kingdom	2
+2020-11-01	the range	True	Derby City	United Kingdom	38
+2020-11-01	mdr aktuell	True	Thuringia	Germany	27
+2020-11-01	dvla	True	Cheshire West And Chester	United Kingdom	15
+2020-11-01	quarantäne	True	North Rhine-Westphalia	Germany	4
+2020-11-01	coronavirus	False	Cairo	Egypt	100
+2020-11-01	covid 19 symptoms	False	Bristol	United Kingdom	3
+2020-11-01	coronavirus worldometer	False	Virginia	United States	4
+2020-11-01	covid testing sites near me	False	Indiana	United States	16
+2020-11-01	coronavirus uk	False	Warrington	United Kingdom	36
+2020-11-01	confinement	True	Bourgogne-Franche-Comte	France	2
+2020-11-01	poste italiane	True	Liguria	Italy	100
+2020-11-01	coronavirus statistics	False	Utah	United States	6
+2020-11-01	raoult didier	True	Ile-De-France	France	1
+2020-11-01	job retention scheme	True	London	United Kingdom	2
+2020-11-01	tesco home delivery	True	Conwy	United Kingdom	1
+2020-11-01	dunelm	True	Plymouth	United Kingdom	27
+2020-11-01	debenhams uk	True	Hertfordshire	United Kingdom	59
+2020-11-01	cuomo	True	Florida	United States	2
+2020-11-01	lockdown	True	Leicestershire	United Kingdom	6
+2020-11-01	covid 19 symptoms	False	Dubai	United Arab Emirates	1
+2020-11-01	tesco home delivery	True	Torbay	United Kingdom	1
+2020-11-01	rtl info	True	Liege	Belgium	100
+2020-11-01	coronavirus virginia	False	Virginia	United States	12
+2020-11-01	cesu.urssaf.fr espace employeur	True	Bourgogne-Franche-Comte	France	2
+2020-11-01	smyths	True	Gloucestershire	United Kingdom	24
+2020-11-01	california covid	False	California	United States	2
+2020-11-01	新型コロナウイルス感染症	False	Saitama	Japan	1
+2020-11-01	covid 19	False	Oxfordshire	United Kingdom	4
+2020-11-01	wickes	True	Telford And Wrekin	United Kingdom	18
+2020-11-01	snl cold open	True	Alaska	United States	15
+2020-11-01	debenhams uk	True	Glasgow City	United Kingdom	100
+2020-11-01	currys pc world	True	Warrington	United Kingdom	65
+2020-11-01	コロナ	True	Toyama	Japan	100
+2020-11-01	attestation de déplacement dérogatoire	True	Normandy	France	8
+2020-11-01	covid 19	False	Dubai	United Arab Emirates	12
+2020-11-01	ratp	True	Ile-De-France	France	3
+2020-11-01	covid umbria	False	Latium	Italy	1
+2020-11-01	coronavirus updates	False	Virginia	United States	13
+2020-11-01	gov uk coronavirus	False	Plymouth	United Kingdom	4
+2020-11-01	la vanguardia	True	Balearic Islands	Spain	83
+2020-11-01	コロナ	True	Hyogo	Japan	92
+2020-11-01	covid 19 map	False	Oregon	United States	2
+2020-11-01	autorisation de sortie covid 19	False	Bourgogne-Franche-Comte	France	2
+2020-11-01	pua.arkansas.gov	True	Arkansas	United States	54
+2020-11-01	北海道　コロナ	True	Osaka	Japan	4
+2020-11-01	pets at home	True	Glasgow City	United Kingdom	16
+2020-11-01	screwfix	True	Flintshire	United Kingdom	1
+2020-11-01	dvla	True	West Yorkshire	United Kingdom	19
+2020-11-01	nachrichten aktuell	True	Saxony	Germany	27
+2020-11-01	pneumokokken impfung	True	North Rhine-Westphalia	Germany	1
+2020-11-01	education nationale	True	Nouvelle-Aquitaine	France	1
+2020-11-01	scottish government coronavirus update	False	Aberdeen City	United Kingdom	31
+2020-11-01	attestation sortie covid 19	False	Grand Est	France	1
+2020-11-01	camping and caravanning club	True	Lancashire	United Kingdom	3
+2020-11-01	debenhams uk	True	Warrington	United Kingdom	100
+2020-11-01	attestation	True	Nouvelle-Aquitaine	France	34
+2020-11-01	coronavirus map	False	Utah	United States	8
+2020-11-01	cuomo new york travelers test	True	Texas	United States	22
+2020-11-01	reconfinement	True	Ile-De-France	France	1
+2020-11-01	covid	False	Dubai	United Arab Emirates	24
+2020-11-01	nachrichten	True	Thuringia	Germany	51
+2020-11-01	gov.uk	True	Plymouth	United Kingdom	35
+2020-11-01	england golf	True	Cheshire West And Chester	United Kingdom	5
+2020-11-01	coronavirus update	False	Virginia	United States	73
+2020-11-01	autorisation de sortie	True	Bourgogne-Franche-Comte	France	6
+2020-11-01	covid 19	False	Cairo	Egypt	1
+2020-11-01	currys pc world	True	Bristol	United Kingdom	74
+2020-11-01	srf	True	Schwyz	Switzerland	1
+2020-11-01	self employed grant	True	West Sussex	United Kingdom	4
+2020-11-01	aggiornamento coronavirus	False	Piedmont	Italy	2
+2020-11-01	rai news	True	Liguria	Italy	6
+2020-11-01	direct line	True	Hertfordshire	United Kingdom	9
+2020-11-01	svt nyheter	True	Skane Lan	Sweden	1
+2020-11-01	lockdown uk	True	Leicestershire	United Kingdom	6
+2020-11-01	stimulus update today	True	North Carolina	United States	3
+2020-11-01	worldometers coronavirus	False	South Australia	Australia	40
+2020-11-01	california covid update	False	California	United States	3
+2020-11-01	dunelm	True	Warrington	United Kingdom	22
+2020-11-01	job seekers allowance	True	London	United Kingdom	1
+2020-11-01	東京都	True	Saitama	Japan	16
+2020-11-01	stimulus update today	True	New York	United States	2
+2020-11-01	reconfinement france	True	Ile-De-France	France	1
+2020-11-01	coronavirus update	False	Dubai	United Arab Emirates	100
+2020-11-01	coronavirus statistics in virginia	False	Virginia	United States	3
+2020-11-01	halfords	True	Plymouth	United Kingdom	16
+2020-11-01	waitrose	True	Leicester City	United Kingdom	16
+2020-11-01	wilko	True	Telford And Wrekin	United Kingdom	12
+2020-11-01	at&t	True	Kentucky	United States	22
+2020-11-01	autorisation de deplacement	True	Bourgogne-Franche-Comte	France	2
+2020-11-01	réseau santé wallon	True	Liege	Belgium	4
+2020-11-01	stimulus update	True	Alaska	United States	15
+2020-11-01	unemployment login	True	North Dakota	United States	1
+2020-11-01	コロナウイルス	False	Toyama	Japan	24
+2020-11-01	cesu.urssaf.fr espace employeur	True	Occitanie	France	1
+2020-11-01	coronavirus	False	Balearic Islands	Spain	1
+2020-11-01	コロナ 症状	True	Hyogo	Japan	11
+2020-11-01	coronavirus	False	Dubai	United Arab Emirates	15
+2020-11-01	cdc coronavirus	False	Georgia	United States	2
+2020-11-01	coronavirus	False	Utah	United States	25
+2020-11-01	sam's club	True	Arkansas	United States	100
+2020-11-01	gov.uk	True	Warrington	United Kingdom	29
+2020-11-01	nuovo dpcm	True	Piedmont	Italy	56
+2020-11-01	coronavirus statistics in united states	False	Virginia	United States	1
+2020-11-01	phoenix reisen	True	North Rhine-Westphalia	Germany	1
+2020-11-01	remboursement imagine r	True	Ile-De-France	France	1
+2020-11-01	dpcm oggi	True	Piedmont	Italy	6
+2020-11-01	attestation sortie covid 19	False	Bourgogne-Franche-Comte	France	1
+2020-11-01	morrisons	True	Plymouth	United Kingdom	100
+2020-11-01	attestation de déplacement dérogatoire covid	False	Normandy	France	1
+2020-11-01	rts info	True	Valais	Switzerland	1
+2020-11-01	埼玉県	True	Osaka	Japan	5
+2020-11-01	companies house	True	Buckinghamshire	United Kingdom	30
+2020-11-01	trader joe's	True	Arizona	United States	4
+2020-11-01	johns hopkins coronavirus dashboard	False	Arizona	United States	7
+2020-11-01	scottish news	True	Aberdeen City	United Kingdom	16
+2020-11-01	the range	True	Flintshire	United Kingdom	1
+2020-11-01	wilko	True	Cumbria	United Kingdom	27
+2020-11-01	covid	False	Hampshire	United Kingdom	1
+2020-11-01	caravan and motorhome club	True	Lancashire	United Kingdom	5
+2020-11-01	esri france	True	Nouvelle-Aquitaine	France	1
+2020-11-01	worldometer coronavirus	False	New Hampshire	United States	22
+2020-11-01	nachrichten aktuell	True	Thuringia	Germany	22
+2020-11-01	gov uk coronavirus	False	Cheshire West And Chester	United Kingdom	29
+2020-11-01	halfords	True	Warrington	United Kingdom	29
+2020-11-01	coronavirus statistics	False	Virginia	United States	19
+2020-11-01	debenhams uk	True	Bristol	United Kingdom	48
+2020-11-01	b&q	True	Swindon	United Kingdom	40
+2020-11-01	remboursement navigo	True	Ile-De-France	France	1
+2020-11-01	attestation sortie covid	False	Bourgogne-Franche-Comte	France	3
+2020-11-01	nuovo dpcm	True	Lombardy	Italy	52
+2020-11-01	national trust	True	Plymouth	United Kingdom	1
+2020-11-01	referti covid toscana	False	Liguria	Italy	1
+2020-11-01	dunelm	True	Hertfordshire	United Kingdom	53
+2020-11-01	covid19	False	Florida	United States	3
+2020-11-01	morrisons	True	Leicestershire	United Kingdom	82
+2020-11-01	covid19.aslnapoli3sud.it	False	Campania	Italy	1
+2020-11-01	gazeta de sud	True	Dolj	Romania	100
+2020-11-01	ben shapiro	True	Utah	United States	4
+2020-11-01	covid 19 latest	False	Cornwall	United Kingdom	9
+2020-11-01	wickes	True	Cumbria	United Kingdom	6
+2020-11-01	superdrug	True	Torbay	United Kingdom	12
+2020-11-01	home bargains	True	Glasgow City	United Kingdom	16
+2020-11-01	gouvernement covid attestation	False	Grand Est	France	1
+2020-11-01	job support scheme	True	London	United Kingdom	2
+2020-11-01	california thanksgiving rules	True	California	United States	1
+2020-11-01	東京都 コロナ	True	Saitama	Japan	1
+2020-11-01	jet2holidays	True	Warrington	United Kingdom	1
+2020-11-01	caravan and motorhome club	True	West Yorkshire	United Kingdom	3
+2020-11-01	coronavirus prevention	False	Virginia	United States	9
+2020-11-01	ofsp coronavirus	False	Valais	Switzerland	20
+2020-11-01	renaud	True	Ile-De-France	France	1
+2020-11-01	attestation sortie	True	Bourgogne-Franche-Comte	France	3
+2020-11-01	attestation deplacement covid	False	Nouvelle-Aquitaine	France	1
+2020-11-01	new lockdown rules uk	True	Plymouth	United Kingdom	54
+2020-11-01	trump twitter	True	Alaska	United States	10
+2020-11-01	wilko	True	York	United Kingdom	27
+2020-11-01	santé wallonie	True	Liege	Belgium	1
+2020-11-01	what are the new lockdown rules	True	Cumbria	United Kingdom	10
+2020-11-01	coronavirus numbers	False	Virginia	United States	4
+2020-11-01	attestation scolaire covid	False	Bourgogne-Franche-Comte	France	3
+2020-11-01	rki	True	Brandenburg	Germany	93
+2020-11-01	cdc coronavirus update	False	Kentucky	United States	3
+2020-11-01	マスク	True	Toyama	Japan	16
+2020-11-01	kurier	True	Lower Austria	Austria	100
+2020-11-01	coronavirus worldometer	False	Illinois	United States	3
+2020-11-01	コロナウイルス	False	Hyogo	Japan	43
+2020-11-01	johns hopkins coronavirus dashboard	False	Georgia	United States	7
+2020-11-01	sec football	True	Arkansas	United States	6
+2020-11-01	外務省海外安全ホームページ	True	Osaka	Japan	6
+2020-11-01	morrisons	True	Warrington	United Kingdom	65
+2020-11-01	attestation de déplacement dérogatoire papier	True	Normandy	France	3
+2020-11-01	covid vaccine	False	New York	United States	2
+2020-11-01	wickes	True	Leicester City	United Kingdom	42
+2020-11-01	sante publique france	True	Ile-De-France	France	1
+2020-11-01	uk coronavirus	False	Cumbria	United Kingdom	1
+2020-11-01	bear river health department	True	Utah	United States	11
+2020-11-01	pets at home	True	Plymouth	United Kingdom	16
+2020-11-01	sweden coronavirus update	False	Washington	United States	1
+2020-11-01	pcr test	True	North Rhine-Westphalia	Germany	1
+2020-11-01	coronavirus map	False	Virginia	United States	6
+2020-11-01	attestation scolaire	True	Bourgogne-Franche-Comte	France	3
+2020-11-01	screwfix	True	Aberdeen City	United Kingdom	62
+2020-11-01	landratsamt dachau	True	Bavaria	Germany	3
+2020-11-01	church of england coronavirus	False	Lancashire	United Kingdom	4
+2020-11-01	vtm nieuws	True	Brussels Region	Belgium	3
+2020-11-01	ofsp	True	Valais	Switzerland	80
+2020-11-01	covid19	False	Texas	United States	1
+2020-11-01	coronavirus tracker	False	North Carolina	United States	1
+2020-11-01	sweden covid	False	California	United States	1
+2020-11-01	ndr	True	Thuringia	Germany	9
+2020-11-01	nyheter idag	True	Skane County	Sweden	16
+2020-11-01	gov.uk	True	Cheshire West And Chester	United Kingdom	22
+2020-11-01	ocado	True	Warrington	United Kingdom	36
+2020-11-01	celoplosne testovanie	True	Kosice	Slovak Republic	1
+2020-11-01	dunelm	True	Bristol	United Kingdom	40
+2020-11-01	travis perkins	True	Cumbria	United Kingdom	8
+2020-11-01	sante publique france coronavirus	False	Ile-De-France	France	1
+2020-11-01	federation de chasse 33	True	Nouvelle-Aquitaine	France	1
+2020-11-01	france info	True	Pays De La Loire	France	7
+2020-11-01	sainsburys	True	Plymouth	United Kingdom	39
+2020-11-01	boots the chemist	True	Swindon	United Kingdom	15
+2020-11-01	hmrc login	True	Surrey	United Kingdom	13
+2020-11-01	gds	True	Dolj	Romania	1
+2020-11-01	coronavirus	False	Virginia	United States	40
+2020-11-01	regione liguria	True	Liguria	Italy	37
+2020-11-01	attestation professionnelle covid 19	False	Bourgogne-Franche-Comte	France	1
+2020-11-01	dvla	True	Hertfordshire	United Kingdom	16
+2020-11-01	john hopkins coronavirus map	False	London	United Kingdom	1
+2020-11-01	última hora coronavirus	False	Andalusia	Spain	1
+2020-11-01	mot check	True	Leicestershire	United Kingdom	6
+2020-11-01	self employed grant	True	Buckinghamshire	United Kingdom	8
+2020-11-01	attestation a imprimer covid 19	False	Nouvelle-Aquitaine	France	1
+2020-11-01	coronavirus hoje	False	Sao Paulo	Brazil	72
+2020-11-01	at&t	True	Utah	United States	13
+2020-11-01	california unemployment	True	California	United States	10
+2020-11-01	pets at home	True	Warrington	United Kingdom	8
+2020-11-01	沖縄　コロナウイルス	False	Saitama	Japan	2
+2020-11-01	trump news	True	North Dakota	United States	4
+2020-11-01	drudge report 2020	True	Nevada	United States	2
+2020-11-01	santé publique france	True	Ile-De-France	France	1
+2020-11-01	the range	True	Cumbria	United Kingdom	10
+2020-11-01	sciensano	True	Liege	Belgium	20
+2020-11-01	sainsburys groceries	True	Plymouth	United Kingdom	81
+2020-11-01	coronavirus suisse	False	Valais	Switzerland	100
+2020-11-01	nuovo dpcm	True	Latium	Italy	33
+2020-11-01	aberdeen fc	True	Fife	United Kingdom	5
+2020-11-01	corona virus update	False	Virginia	United States	2
+2020-11-01	attestation gouvernement coronavirus	False	Bourgogne-Franche-Comte	France	1
+2020-11-01	attestation déplacement covid octobre 2020	False	Auvergne-Rhone-Alpes	France	1
+2020-11-01	家賃支援給付金	True	Toyama	Japan	50
+2020-11-01	regione toscana covid	False	Tuscany	Italy	2
+2020-11-01	face masks	True	New York	United States	1
+2020-11-01	コロナ対策	True	Hyogo	Japan	6
+2020-11-01	attestation employeur	True	Grand Est	France	7
+2020-11-01	tesco home delivery	True	Cumbria	United Kingdom	16
+2020-11-01	coronavirus	False	Kentucky	United States	9
+2020-11-01	snl cold open	True	Arkansas	United States	40
+2020-11-01	家賃支援給付金	True	Osaka	Japan	100
+2020-11-01	sainsburys	True	Warrington	United Kingdom	43
+2020-11-01	attestation de déplacement dérogatoire pdf	True	Normandy	France	7
+2020-11-01	expressen	True	Vasternorrlands Lan	Sweden	1
+2020-11-01	sainsburys groceries	True	Tyne Wear	United Kingdom	64
+2020-11-01	santé publique france coronavirus	False	Ile-De-France	France	1
+2020-11-01	corona virus	False	Virginia	United States	2
+2020-11-01	attestation employeur covid 19	False	Bourgogne-Franche-Comte	France	1
+2020-11-01	screwfix	True	Plymouth	United Kingdom	77
+2020-11-01	oberstdorf	True	North Rhine-Westphalia	Germany	1
+2020-11-01	amy coney barrett	True	Utah	United States	4
+2020-11-01	covid 19	False	Hampshire	United Kingdom	5
+2020-11-01	cas covid	False	Occitanie	France	1
+2020-11-01	smyths	True	Aberdeen City	United Kingdom	39
+2020-11-01	remembrance sunday 2020	True	West Yorkshire	United Kingdom	3
+2020-11-01	trader joe's hours	True	New Jersey	United States	2
+2020-11-01	the range	True	Cornwall	United Kingdom	29
+2020-11-01	worldometers coronavirus	False	Andalusia	Spain	1
+2020-11-01	regione sardegna	True	Sardinia	Italy	39
+2020-11-01	trump news	True	Oregon	United States	2
+2020-11-01	worldometer coronavirus	False	Hamerkaz	Israel	1
+2020-11-01	superdrug	True	Cumbria	United Kingdom	14
+2020-11-01	wilko	True	Leicester City	United Kingdom	27
+2020-11-01	covid vaccine update	False	Florida	United States	2
+2020-11-01	sainsburys groceries	True	Warrington	United Kingdom	58
+2020-11-01	cdc guidelines for coronavirus	False	Virginia	United States	2
+2020-11-01	svt.se	True	Uppsala County	Sweden	1
+2020-11-01	conselleria de sanitat	True	Valencian Community	Spain	5
+2020-11-01	service civique	True	Ile-De-France	France	1
+2020-11-01	attestation employeur covid	False	Bourgogne-Franche-Comte	France	1
+2020-11-01	arimr	True	Kujawsko-Pomorskie	Poland	1
+2020-11-01	smyths	True	Plymouth	United Kingdom	12
+2020-11-01	smyths toys uk	True	Torbay	United Kingdom	34
+2020-11-01	covid worldometer	False	Texas	United States	1
+2020-11-01	arimr	True	Wielkopolskie	Poland	16
+2020-11-01	géodes santé publique france	True	Auvergne-Rhone-Alpes	France	1
+2020-11-01	france info	True	Nouvelle-Aquitaine	France	7
+2020-11-01	johns hopkins coronavirus	False	London	United Kingdom	1
+2020-11-01	vaccin covid 19	False	Provence-Alpes-Cote D'azur	France	1
+2020-11-01	covid verordnung neu	False	Vienna	Austria	8
+2020-11-01	urssaf	True	Nouvelle-Aquitaine	France	6
+2020-11-01	dunelm	True	Brighton And Hove	United Kingdom	39
+2020-11-01	attestation derogation covid 19 pdf	False	Grand Est	France	1
+2020-11-01	pets at home	True	West Yorkshire	United Kingdom	22
+2020-11-01	smyths toys uk	True	Cumbria	United Kingdom	27
+2020-11-01	cdc coronavirus update	False	Virginia	United States	12
+2020-11-01	covid	False	Kanagawa	Japan	4
+2020-11-01	screwfix	True	Warrington	United Kingdom	79
+2020-11-01	attestation employeur	True	Bourgogne-Franche-Comte	France	6
+2020-11-01	covid oggi	False	Calabria	Italy	16
+2020-11-01	wilko	True	Southampton	United Kingdom	6
+2020-11-01	sfr mon compte	True	Ile-De-France	France	3
+2020-11-01	sciensano coronavirus	False	Liege	Belgium	2
+2020-11-01	autorisation de sortie covid 19	False	Occitanie	France	2
+2020-11-01	smyths toys uk	True	Plymouth	United Kingdom	35
+2020-11-01	smyths	True	Torbay	United Kingdom	23
+2020-11-01	wickes	True	West Midlands	United Kingdom	56
+2020-11-01	smyths	True	Cumbria	United Kingdom	6
+2020-11-01	coronavirus	False	Sao Paulo	Brazil	22
+2020-11-01	svt nyheter	True	Uppsala County	Sweden	8
+2020-11-01	cares act 2020	True	Virginia	United States	4
+2020-11-01	coronavirus france	False	Grand Est	France	8
+2020-11-01	attestation ecole covid 19	False	Bourgogne-Franche-Comte	France	2
+2020-11-01	attestation de déplacement octobre 2020	True	Normandy	France	2
+2020-11-01	home bargains	True	Tyne Wear	United Kingdom	21
+2020-11-01	nzz	True	North Rhine-Westphalia	Germany	5
+2020-11-01	covid vaccine update	False	Texas	United States	1
+2020-11-01	covid 19 latest	False	Hampshire	United Kingdom	3
+2020-11-01	covid update	False	Florida	United States	2
+2020-11-01	screwfix	True	West Sussex	United Kingdom	68
+2020-11-01	smyths	True	Warrington	United Kingdom	8
+2020-11-01	coronavirus worldometers	False	London	United Kingdom	11
+2020-11-01	worldometer coronavirus	False	Leicester City	United Kingdom	5
+2020-11-01	urssaf	True	Provence-Alpes-Cote D'azur	France	6
+2020-11-01	sfr tv	True	Ile-De-France	France	6
+2020-11-01	costco online	True	Illinois	United States	65
+2020-11-01	coronavirus uk	False	Milton Keynes	United Kingdom	37
+2020-11-01	superdrug	True	Plymouth	United Kingdom	31
+2020-11-01	screwfix	True	Cumbria	United Kingdom	100
+2020-11-01	attestation de sortie	True	Nouvelle-Aquitaine	France	9
+2020-11-01	coronavirus prevention	False	Kentucky	United States	4
+2020-11-01	vacuna coronavirus	False	Andalusia	Spain	4
+2020-11-01	wickes	True	Southampton	United Kingdom	64
+2020-11-01	boris johnson	True	Virginia	United States	4
+2020-11-01	attestation dérogatoire de déplacement	True	Bourgogne-Franche-Comte	France	6
+2020-11-01	lockdown italia	True	Lombardy	Italy	13
+2020-11-01	stimulus update	True	New York	United States	19
+2020-11-01	screwfix	True	Torbay	United Kingdom	34
+2020-11-01	bag coronavirus	False	Basel	Switzerland	16
+2020-11-01	cas covid	False	Auvergne-Rhone-Alpes	France	1
+2020-11-01	koronawirus	False	Kujawsko-Pomorskie	Poland	28
+2020-11-01	coventry building society	True	Wiltshire	United Kingdom	10
+2020-11-01	covid vaccine	False	Texas	United States	2
+2020-11-01	smyths toys uk	True	Warrington	United Kingdom	29
+2020-11-01	gouvernement.fr	True	Grand Est	France	2
+2020-11-01	nyheter idag	True	Uppsala County	Sweden	7
+2020-11-01	universal credit	True	Glasgow City	United Kingdom	16
+2020-11-01	situation covid france	False	Ile-De-France	France	1
+2020-11-01	sainsburys groceries	True	Cumbria	United Kingdom	27
+2020-11-01	kate garraway husband update	True	London	United Kingdom	1
+2020-11-01	tesco home delivery	True	Plymouth	United Kingdom	24
+2020-11-01	bing covid tracker	False	Virginia	United States	1
+2020-11-01	attestation déplacement covid 19	False	Auvergne-Rhone-Alpes	France	1
+2020-11-01	attestation déplacement professionnel	True	Bourgogne-Franche-Comte	France	2
+2020-11-01	sudinfo	True	Liege	Belgium	84
+2020-11-01	turquie	True	Provence-Alpes-Cote D'azur	France	1
+2020-11-01	dérogation de déplacement	True	Auvergne-Rhone-Alpes	France	3
+2020-11-01	landratsamt forchheim	True	Bavaria	Germany	2
+2020-11-01	covid 19 update	False	Alberta	Canada	46
+2020-11-01	sainsburys	True	Cumbria	United Kingdom	22
+2020-11-01	trump news	True	Georgia	United States	4
+2020-11-01	sainsburys groceries	True	Torbay	United Kingdom	100
+2020-11-01	ansa ultima ora	True	Liguria	Italy	2
+2020-11-01	ben shapiro	True	Virginia	United States	2
+2020-11-01	cozo	True	East Flanders	Belgium	20
+2020-11-01	covid tracker	False	Texas	United States	6
+2020-11-01	wickes	True	Warrington	United Kingdom	15
+2020-11-01	coronavirus	False	Wielkopolskie	Poland	1
+2020-11-01	when does lockdown start in the uk	True	Southampton	United Kingdom	11
+2020-11-01	attestation déplacement covid	False	Bourgogne-Franche-Comte	France	1
+2020-11-01	statistique coronavirus	False	Ile-De-France	France	1
+2020-11-01	geoportail fr	True	Nouvelle-Aquitaine	France	2
+2020-11-01	smyths toys uk	True	Medway	United Kingdom	27
+2020-11-01	the range	True	Plymouth	United Kingdom	58
+2020-11-01	drudge report 2020	True	Georgia	United States	11
+2020-11-01	försäkringskassan	True	Uppsala County	Sweden	23
+2020-11-01	attestation de déplacement professionnel	True	Normandy	France	4
+2020-11-01	ncdhhs dashboard	True	North Carolina	United States	2
+2020-11-01	coronavirus aktuell	False	Bavaria	Germany	3
+2020-11-01	attestation de déplacement dérogatoire	True	Pays De La Loire	France	9
+2020-11-01	ezekiel elliott	True	Washington	United States	1
+2020-11-01	pets at home	True	Cumbria	United Kingdom	10
+2020-11-01	b&q	True	Nottingham City	United Kingdom	60
+2020-11-01	blackpool gazette	True	Merseyside	United Kingdom	3
+2020-11-01	ntv livestream	True	North Rhine-Westphalia	Germany	3
+2020-11-01	currys pc world	True	Hampshire	United Kingdom	61
+2020-11-01	covid oggi	False	Campania	Italy	8
+2020-11-01	síntomas covid 19	False	Andalusia	Spain	1
+2020-11-01	new lockdown rules uk	True	Torbay	United Kingdom	34
+2020-11-01	wilko	True	Warrington	United Kingdom	29
+2020-11-01	at&t	True	Virginia	United States	52
+2020-11-01	tous anti covid	False	Provence-Alpes-Cote D'azur	France	1
+2020-11-01	covid texas	False	Texas	United States	2
+2020-11-01	statistiques coronavirus	False	Ile-De-France	France	1
+2020-11-01	autorisation de sortie	True	Occitanie	France	5
+2020-11-01	uk lockdown	True	Plymouth	United Kingdom	8
+2020-11-01	attestation déplacement coronavirus	False	Bourgogne-Franche-Comte	France	1
+2020-11-01	masters 2020	True	North Carolina	United States	2
+2020-11-01	ibrahimovic	True	Tuscany	Italy	2
+2020-11-01	screwfix	True	Pembrokeshire	United Kingdom	100
+2020-11-01	when does lockdown start	True	Southampton	United Kingdom	14
+2020-11-01	www.diagnosticum.eu/fuer-patienten/covid	False	Saxony	Germany	1
+2020-11-01	trader joe's	True	New Jersey	United States	10
+2020-11-01	고용보험	True	Ulsan	Korea (South)	100
+2020-11-01	waitrose	True	Wiltshire	United Kingdom	42
+2020-11-01	symptoms of covid 19	False	Washington	United States	3
+2020-11-01	ntv coronavirus	False	North Rhine-Westphalia	Germany	1
+2020-11-01	koronawirus w polsce	True	Kujawsko-Pomorskie	Poland	55
+2020-11-01	attestation confinement	True	Nouvelle-Aquitaine	France	8
+2020-11-01	new lockdown rules uk	True	Cumbria	United Kingdom	18
+2020-11-01	dunelm	True	West Yorkshire	United Kingdom	44
+2020-11-01	worldometer coronavirus	False	Warrington	United Kingdom	15
+2020-11-01	ffp2 maske	True	Berlin	Germany	9
+2020-11-01	folkhälsomyndigheten se	True	Uppsala County	Sweden	11
+2020-11-01	covid tracker	False	Florida	United States	7
+2020-11-01	stop covid	False	Ile-De-France	France	1
+2020-11-01	coronavirus statistics	False	Kentucky	United States	4
+2020-11-01	waitrose	True	Plymouth	United Kingdom	4
+2020-11-01	kew gardens	True	London	United Kingdom	12
+2020-11-01	amy coney barrett	True	Virginia	United States	10
+2020-11-01	attestation déplacement	True	Bourgogne-Franche-Comte	France	6
+2020-11-01	coronavirus worldometers	False	Saskatchewan	Canada	6
+2020-11-01	sweden coronavirus update	False	California	United States	2
+2020-11-01	sudpresse	True	Liege	Belgium	42
+2020-11-01	tibo inshape	True	Provence-Alpes-Cote D'azur	France	1
+2020-11-01	morrisons	True	Torbay	United Kingdom	34
+2020-11-01	wilko	True	England	United Kingdom	24
+2020-11-01	stimulus	True	Illinois	United States	4
+2020-11-01	worldometer coronavirus	False	Devon	United Kingdom	4
+2020-11-01	nationwide building society	True	Cumbria	United Kingdom	4
+2020-11-01	zangrillo	True	Lombardy	Italy	3
+2020-11-01	air purifiers-for-home-2020	True	Virginia	United States	1
+2020-11-01	försäkringskassan	True	Skane County	Sweden	62
+2020-11-01	covid testing sites near me	False	Texas	United States	8
+2020-11-01	attestation deplacement covid	False	Bourgogne-Franche-Comte	France	1
+2020-11-01	scott atlas	True	Georgia	United States	3
+2020-11-01	waitrose	True	Southampton	United Kingdom	43
+2020-11-01	symptome covid 19	False	Ile-De-France	France	1
+2020-11-01	at&t	True	Georgia	United States	47
+2020-11-01	wickes	True	Plymouth	United Kingdom	31
+2020-11-01	attestation de sortie	True	Normandy	France	10
+2020-11-01	doja cat	True	California	United States	2
+2020-11-01	boots the chemist	True	Durham	United Kingdom	20
+2020-11-01	wilko	True	Devon	United Kingdom	21
+2020-11-01	sepe	True	Andalusia	Spain	67
+2020-11-01	morrisons	True	Cumbria	United Kingdom	75
+2020-11-01	expressen	True	Uppsala County	Sweden	100
+2020-11-01	gesundheitsministerium at	True	Lower Austria	Austria	42
+2020-11-01	rai news	True	Sardinia	Italy	1
+2020-11-01	ansa notizie	True	Latium	Italy	1
+2020-11-01	symptoms of covid 19	False	North Carolina	United States	8
+2020-11-01	attestation de sortie covid 19	False	Bourgogne-Franche-Comte	France	6
+2020-11-01	dziennik ustaw	True	Wielkopolskie	Poland	5
+2020-11-01	b&q diy store	True	Nottingham City	United Kingdom	18
+2020-11-01	attestation sortie covid 19	False	Pays De La Loire	France	1
+2020-11-01	attestation professionnelle	True	Nouvelle-Aquitaine	France	1
+2020-11-01	gouv.fr	True	Nouvelle-Aquitaine	France	6
+2020-11-01	nzta	True	Wanganui-Manawatu	New Zealand	1
+2020-11-01	lockdown rules	True	Torbay	United Kingdom	34
+2020-11-01	test antigénique	True	Ile-De-France	France	1
+2020-11-01	gov uk coronavirus	False	Brighton And Hove	United Kingdom	15
+2020-11-01	wilko	True	Plymouth	United Kingdom	31
+2020-11-01	symptôme covid 19	False	Provence-Alpes-Cote D'azur	France	1
+2020-11-01	b&q	True	Portsmouth	United Kingdom	29
+2020-11-01	covid testing near me	False	Texas	United States	2
+2020-11-01	wickes	True	Devon	United Kingdom	41
+2020-11-01	pacjent gov	True	Kujawsko-Pomorskie	Poland	100
+2020-11-01	matalan uk	True	Cumbria	United Kingdom	10
+2020-11-01	niedersachsen	True	North Rhine-Westphalia	Germany	1
+2020-11-01	idph coronavirus	False	Illinois	United States	3
+2020-11-01	universal credit	True	Southampton	United Kingdom	3
+2020-11-01	tesco careers	True	West Midlands	United Kingdom	2
+2020-11-01	kings college hospital	True	London	United Kingdom	1
+2020-11-01	attestation de sortie covid	False	Bourgogne-Franche-Comte	France	1
+2020-11-01	air purifiers-for-home-2020	True	Minnesota	United States	2
+2020-11-01	covid 19 update	False	Washington	United States	10
+2020-11-01	governor newsom	True	California	United States	1
+2020-11-01	debenhams uk	True	Hampshire	United Kingdom	38
+2020-11-01	covid 19	False	Cornwall	United Kingdom	7
+2020-11-01	coronavirus update	False	North Carolina	United States	38
+2020-11-01	when does lockdown start	True	Devon	United Kingdom	5
+2020-11-01	test covid	False	Ile-De-France	France	1
+2020-11-01	independent coronavirus live update	False	Surrey	United Kingdom	4
+2020-11-01	srf	True	Schaffhausen	Switzerland	1
+2020-11-01	aftonbladet senaste nytt	True	Uppsala County	Sweden	18
+2020-11-01	trump polls	True	Oregon	United States	1
+2020-11-01	dati coronavirus oggi	False	Latium	Italy	2
+2020-11-01	martin lewis	True	Cumbria	United Kingdom	6
+2020-11-01	attestation de sortie coronavirus	False	Bourgogne-Franche-Comte	France	1
+2020-11-01	福岡県庁ホームページ	True	Fukuoka	Japan	100
+2020-11-01	attestation de sortie confinement	True	Normandy	France	1
+2020-11-01	johns hopkins coronavirus dashboard	False	Washington	United States	4
+2020-11-01	covid italia	False	Calabria	Italy	1
+2020-11-01	autorisation de déplacement covid 19	False	Occitanie	France	1
+2020-11-01	currys pc world	True	Torbay	United Kingdom	45
+2020-11-01	waitrose	True	Devon	United Kingdom	29
+2020-11-01	dunelm	True	Merseyside	United Kingdom	47
+2020-11-01	stop covid	False	Provence-Alpes-Cote D'azur	France	1
+2020-11-01	covid symptoms	False	Texas	United States	6
+2020-11-01	regione toscana referti covid	False	Tuscany	Italy	4
+2020-11-01	coronavirus statistics in kentucky	False	Kentucky	United States	2
+2020-11-01	regione lombardia	True	Piedmont	Italy	4
+2020-11-01	lockdown rules	True	Cumbria	United Kingdom	18
+2020-11-01	test pcr	True	Ile-De-France	France	1
+2020-11-01	zus	True	Podkarpackie	Poland	100
+2020-11-01	thanksgiving 2020	True	North Dakota	United States	4
+2020-11-01	covid testing sites near me	False	Florida	United States	14
+2020-11-01	tui	True	Southampton	United Kingdom	3
+2020-11-01	sainsburys groceries	True	West Sussex	United Kingdom	100
+2020-11-01	seguridad social	True	Andalusia	Spain	100
+2020-11-01	attestation de sortie confinement	True	Bourgogne-Franche-Comte	France	1
+2020-11-01	coronavirus uk	False	Torbay	United Kingdom	34
+2020-11-01	gouv covid	False	Pays De La Loire	France	1
+2020-11-01	zus	True	Kujawsko-Pomorskie	Poland	100
+2020-11-01	amy coney barrett	True	New Hampshire	United States	11
+2020-11-01	boots the chemist	True	Nottingham City	United Kingdom	18
+2020-11-01	covid stats	False	Texas	United States	1
+2020-11-01	uk lockdown	True	Devon	United Kingdom	5
+2020-11-01	latest coronavirus figures	False	London	United Kingdom	1
+2020-11-01	1177	True	Uppsala County	Sweden	30
+2020-11-01	poste italiane	True	Sardinia	Italy	100
+2020-11-01	regione piemonte	True	Lombardy	Italy	5
+2020-11-01	lockdown	True	Cumbria	United Kingdom	12
+2020-11-01	nuovo dpcm oggi	True	Latium	Italy	12
+2020-11-01	attestation de sortie	True	Bourgogne-Franche-Comte	France	10
+2020-11-01	tibo inshape	True	Ile-De-France	France	1
+2020-11-01	amy coney barrett	True	Minnesota	United States	9
+2020-11-01	stimulus update today	True	Georgia	United States	6
+2020-11-01	lockdown rules	True	West Yorkshire	United Kingdom	11
+2020-11-01	ndr	True	North Rhine-Westphalia	Germany	11
+2020-11-01	tui	True	Devon	United Kingdom	8
+2020-11-01	jet2 flights	True	Cumbria	United Kingdom	10
+2020-11-01	sfr tv	True	Provence-Alpes-Cote D'azur	France	5
+2020-11-01	irs get my payment	True	California	United States	1
+2020-11-01	grippe espagnole	True	Grand Est	France	1
+2020-11-01	attestation de sortie coronavirus	False	Normandy	France	1
+2020-11-01	attestation de déplacement professionnel	True	Bourgogne-Franche-Comte	France	3
+2020-11-01	walgreens covid testing	False	Colorado	United States	11
+2020-11-01	attestation employeur covid 19	False	Nouvelle-Aquitaine	France	1
+2020-11-01	koronawirus	False	Wielkopolskie	Poland	23
+2020-11-01	gouv.fr covid19	False	Nouvelle-Aquitaine	France	2
+2020-11-01	lincoln project ads	True	New York	United States	1
+2020-11-01	dunelm	True	Hampshire	United Kingdom	47
+2020-11-01	trader joe's	True	Nevada	United States	2
+2020-11-01	landratsamt kronach	True	Bavaria	Germany	1
+2020-11-01	the range	True	Southampton	United Kingdom	24
+2020-11-01	coronovirus	False	London	United Kingdom	1
+2020-11-01	tous anti covid	False	Ile-De-France	France	1
+2020-11-01	calderdale council	True	West Yorkshire	United Kingdom	7
+2020-11-01	attestation de sortie confinement	True	Grand Est	France	2
+2020-11-01	stimulus check 2	True	New York	United States	3
+2020-11-01	the range	True	Devon	United Kingdom	27
+2020-11-01	hmrc login	True	Cumbria	United Kingdom	6
+2020-11-01	attestation déplacement covid	False	Auvergne-Rhone-Alpes	France	1
+2020-11-01	fhi	True	Troms	Norway	1
+2020-11-01	attestation de déplacement octobre 2020	True	Bourgogne-Franche-Comte	France	3
+2020-11-01	autorisation de déplacement	True	Occitanie	France	1
+2020-11-01	vrt nws	True	Brussels Region	Belgium	79
+2020-11-01	air canada stock	True	Ontario	Canada	5
+2020-11-01	sainsburys	True	Tyne Wear	United Kingdom	38
+2020-11-01	västra götalandsregionen	True	Vastra Gotaland County	Sweden	1
+2020-11-01	boris johnson	True	Nottingham City	United Kingdom	4
+2020-11-01	latest coronavirus news	False	London	United Kingdom	3
+2020-11-01	b&q	True	Torbay	United Kingdom	34
+2020-11-01	covid numbers	False	Texas	United States	1
+2020-11-01	covid toscana oggi	False	Tuscany	Italy	8
+2020-11-01	covid	False	Illinois	United States	15
+2020-11-01	sfr mon compte	True	Provence-Alpes-Cote D'azur	France	5
+2020-11-01	salud responde	True	Andalusia	Spain	6
+2020-11-01	tous anti covid 19	False	Ile-De-France	France	1
+2020-11-01	covid 19 isère	False	Auvergne-Rhone-Alpes	France	1
+2020-11-01	attestation sur l'honneur covid 19 pdf	False	Grand Est	France	1
+2020-11-01	tesco home delivery	True	Devon	United Kingdom	27
+2020-11-01	thanksgiving 2020	True	Washington	United States	20
+2020-11-01	at&t	True	Minnesota	United States	34
+2020-11-01	halfords	True	Cumbria	United Kingdom	24
+2020-11-01	tesco home delivery	True	Southampton	United Kingdom	29
+2020-11-01	nachrichten aktuell	True	North Rhine-Westphalia	Germany	34
+2020-11-01	attestation de déplacement dérogatoire pdf	True	Bourgogne-Franche-Comte	France	8
+2020-11-01	covid map	False	Texas	United States	2
+2020-11-01	home bargains	True	Oxfordshire	United Kingdom	8
+2020-11-01	screwfix	True	Gloucestershire	United Kingdom	100
+2020-11-01	uk lockdown	True	West Midlands	United Kingdom	12
+2020-11-01	coronavirus update	False	Kentucky	United States	21
+2020-11-01	attestation de sortie covid 19	False	Normandy	France	9
+2020-11-01	worldometer coronavirus	False	South Yorkshire	United Kingdom	11
+2020-11-01	coronavirus statistics	False	Shanghai	China	26
+2020-11-01	covid testing near me	False	Florida	United States	2
+2020-11-01	attestation coronavirus	False	Nouvelle-Aquitaine	France	2
+2020-11-01	covid italia	False	Campania	Italy	2
+2020-11-01	cas contact covid 19	False	Auvergne-Rhone-Alpes	France	1
+2020-11-01	tous contre le covid	False	Ile-De-France	France	1
+2020-11-01	when does lockdown start	True	Wiltshire	United Kingdom	26
+2020-11-01	covid verordnung	False	Vienna	Austria	8
+2020-11-01	sykes cottages uk	True	Devon	United Kingdom	2
+2020-11-01	superdrug	True	Medway	United Kingdom	8
+2020-11-01	government lockdown rules	True	Cumbria	United Kingdom	6
+2020-11-01	coronavirus statistics	False	Karnataka	India	1
+2020-11-01	santé publique france coronavirus	False	Provence-Alpes-Cote D'azur	France	1
+2020-11-01	b and q diy store	True	Surrey	United Kingdom	1
+2020-11-01	dvla	True	Hampshire	United Kingdom	19
+2020-11-01	attestation de déplacement dérogatoire papier	True	Bourgogne-Franche-Comte	France	1
+2020-11-01	covid deaths usa	False	Texas	United States	1
+2020-11-01	nuovo dpcm oggi	True	Lombardy	Italy	26
+2020-11-01	alberta covid 19 update	False	Ontario	Canada	2
+2020-11-01	drudge report 2020	True	New Mexico	United States	7
+2020-11-01	rki coronavirus	False	Brandenburg	Germany	6
+2020-11-01	superdrug	True	Southampton	United Kingdom	53
+2020-11-01	debenhams uk	True	Pembrokeshire	United Kingdom	1
+2020-11-01	gov uk coronavirus update	False	Brighton And Hove	United Kingdom	5
+2020-11-01	noticias última hora	True	Andalusia	Spain	5
+2020-11-01	svt nyheter	True	Vaesterbotten	Sweden	8
+2020-11-01	companies house	True	Nottingham City	United Kingdom	12
+2020-11-01	transavia	True	Ile-De-France	France	2
+2020-11-01	superdrug	True	Devon	United Kingdom	19
+2020-11-01	attestation de déplacement dérogatoire covid	False	Nouvelle-Aquitaine	France	2
+2020-11-01	latest covid news	False	London	United Kingdom	1
+2020-11-01	wilko	True	South Yorkshire	United Kingdom	43
+2020-11-01	gov.uk	True	Cumbria	United Kingdom	16
+2020-11-01	attestation de déplacement dérogatoire covid	False	Bourgogne-Franche-Comte	France	3
+2020-11-01	srf	True	Basel	Switzerland	100
+2020-11-01	koronawirus w polsce	True	Wielkopolskie	Poland	69
+2020-11-01	ben shapiro	True	Minnesota	United States	2
+2020-11-01	gouvernement	True	Nouvelle-Aquitaine	France	9
+2020-11-01	autorisation de deplacement	True	Occitanie	France	2
+2020-11-01	john hopkins coronavirus tracker	False	Georgia	United States	4
+2020-11-01	stagecoach bus timetables	True	Devon	United Kingdom	5
+2020-11-01	sainsburys groceries	True	Durham	United Kingdom	59
+2020-11-01	マスク	True	Tochigi	Japan	4
+2020-11-01	reconfinement	True	Provence-Alpes-Cote D'azur	France	1
+2020-11-01	covid 19	False	Saskatchewan	Canada	5
+2020-11-01	imprimer attestation de sortie coronavirus	False	Auvergne-Rhone-Alpes	France	1
+2020-11-01	gov uk coronavirus	False	Cumbria	United Kingdom	16
+2020-11-01	coronavirus worldometers	False	Surrey	United Kingdom	3
+2020-11-01	attestation de sortie covid 19 octobre 2020	False	Normandy	France	1
+2020-11-01	transavia site officiel	True	Ile-De-France	France	1
+2020-11-01	attestation de déplacement dérogatoire	True	Bourgogne-Franche-Comte	France	9
+2020-11-01	covid deaths	False	Texas	United States	2
+2020-11-01	nachrichten	True	North Rhine-Westphalia	Germany	73
+2020-11-01	smyths toys uk	True	Southampton	United Kingdom	29
+2020-11-01	john hopkins coronavirus tracker	False	Arizona	United States	5
+2020-11-01	covid 19 update	False	Federal Territory Of Kuala Lumpur	Malaysia	10
+2020-11-01	gouvernement covid attestation	False	Auvergne-Rhone-Alpes	France	1
+2020-11-01	ministerio de sanidad	True	Andalusia	Spain	4
+2020-11-01	stimulus update today	True	California	United States	4
+2020-11-01	specsavers	True	Devon	United Kingdom	4
+2020-11-01	svt.se	True	Vastra Gotaland County	Sweden	2
+2020-11-01	covid 19 österreich	False	Lower Austria	Austria	1
+2020-11-01	england golf	True	Cumbria	United Kingdom	4
+2020-11-01	worldometer coronavirus	False	England	United Kingdom	17
+2020-11-01	wickes	True	South Yorkshire	United Kingdom	51
+2020-11-01	folkhälsomyndigheten se	True	Skane County	Sweden	13
+2020-11-01	autorisation de déplacement covid 19	False	Pays De La Loire	France	1
+2020-11-01	tesco home delivery	True	Portsmouth	United Kingdom	12
+2020-11-01	wv.getmycorvidresult.com	True	West Virginia	United States	4
+2020-11-01	algoma public health	True	Ontario	Canada	2
+2020-11-01	attestation de déplacement covid 19	False	Bourgogne-Franche-Comte	France	8
+2020-11-01	turquie	True	Ile-De-France	France	1
+2020-11-01	ofsp	True	Zurich	Switzerland	1
+2020-11-01	thanksgiving 2020	True	North Carolina	United States	29
+2020-11-01	mappa contagi piemonte	True	Piedmont	Italy	15
+2020-11-01	raoult didier	True	Provence-Alpes-Cote D'azur	France	1
+2020-11-01	pacjent gov	True	Podkarpackie	Poland	100
+2020-11-01	leeds building society	True	London	United Kingdom	4
+2020-11-01	wickes	True	York	United Kingdom	14
+2020-11-01	covid cases	False	Texas	United States	2
+2020-11-01	bing covid tracker	False	Minnesota	United States	1
+2020-11-01	coronavirus updates	False	Kentucky	United States	2
+2020-11-01	sainsburys groceries	True	Isle Of Wight	United Kingdom	1
+2020-11-01	decreto ristoro	True	Latium	Italy	1
+2020-11-01	smyths toys uk	True	Devon	United Kingdom	15
+2020-11-01	rts info	True	Geneva	Switzerland	100
+2020-11-01	smyths	True	Southampton	United Kingdom	19
+2020-11-01	dvla	True	Cumbria	United Kingdom	8
+2020-11-01	svt.se	True	Stockholm County	Sweden	1
+2020-11-01	coronavirus uk	False	Merseyside	United Kingdom	19
+2020-11-01	england golf	True	Hampshire	United Kingdom	16
+2020-11-01	coronavirus	False	Nottingham City	United Kingdom	4
+2020-11-01	attestation de déplacement coronavirus	False	Bourgogne-Franche-Comte	France	1
+2020-11-01	télétravail covid 19	False	Ile-De-France	France	1
+2020-11-01	nicola sturgeon	True	Glasgow City	United Kingdom	8
+2020-11-01	job retention scheme	True	Surrey	United Kingdom	1
+2020-11-01	when does lockdown start	True	South Yorkshire	United Kingdom	7
+2020-11-01	trump twitter	True	Oregon	United States	6
+2020-11-01	attestation derogation covid 19 pdf	False	Normandy	France	2
+2020-11-01	yolo county coronavirus	False	California	United States	1
+2020-11-01	covid calabria	False	Calabria	Italy	18
+2020-11-01	smyths	True	Devon	United Kingdom	18
+2020-11-01	covid symptoms	False	Florida	United States	6
+2020-11-01	dunelm	True	Cumbria	United Kingdom	49
+2020-11-01	nuovo dpcm	True	Sardinia	Italy	12
+2020-11-01	gouv.fr	True	Auvergne-Rhone-Alpes	France	3
+2020-11-01	mascarillas	True	Andalusia	Spain	2
+2020-11-01	covid 19 vaccine	False	Texas	United States	1
+2020-11-01	raoult	True	Provence-Alpes-Cote D'azur	France	1
+2020-11-01	covid 19 symptoms	False	Alberta	Canada	5
+2020-11-01	ndr	True	Saxony	Germany	1
+2020-11-01	covid tracker	False	New York	United States	2
+2020-11-01	attestation de déplacement	True	Bourgogne-Franche-Comte	France	100
+2020-11-01	ilani casino	True	Oregon	United States	1
+2020-11-01	mundschutz	True	North Rhine-Westphalia	Germany	1
+2020-11-01	urssaf	True	Ile-De-France	France	6
+2020-11-01	brant county health unit	True	Ontario	Canada	3
+2020-11-01	covid	False	Porto	Portugal	1
+2020-11-01	self employed grant	True	Southampton	United Kingdom	1
+2020-11-01	coronavirus haut rhin	False	Grand Est	France	1
+2020-11-01	géodes santé publique france	True	Grand Est	France	1
+2020-11-01	confinement suisse	True	Geneva	Switzerland	24
+2020-11-01	lloyds business banking	True	London	United Kingdom	3
+2020-11-01	objawy koronawirusa	True	Wielkopolskie	Poland	13
+2020-11-01	waitrose	True	South Yorkshire	United Kingdom	15
+2020-11-01	gouvernement attestation	True	Nouvelle-Aquitaine	France	6
+2020-11-01	sintomi covid19	False	Tuscany	Italy	4
+2020-11-01	landratsamt ostallgäu	True	Bavaria	Germany	2
+2020-11-01	self employed grant	True	Devon	United Kingdom	8
+2020-11-01	debenhams uk	True	Cumbria	United Kingdom	56
+2020-11-01	leeds building society	True	Wiltshire	United Kingdom	4
+2020-11-01	covid 19 update texas	False	Texas	United States	1
+2020-11-01	coronovirus update	False	London	United Kingdom	1
+2020-11-01	attestation de deplacement derogatoire	True	Bourgogne-Franche-Comte	France	3
+2020-11-01	cdc coronavirus update	False	Minnesota	United States	10
+2020-11-01	sam's club	True	West Virginia	United States	100
+2020-11-01	vaccin covid 19	False	Ile-De-France	France	1
+2020-11-01	attestations covid	False	Occitanie	France	1
+2020-11-01	thanksgiving 2020	True	New Jersey	United States	38
+2020-11-01	protocole sanitaire ecole	True	Provence-Alpes-Cote D'azur	France	1
+2020-11-01	covid 19	False	Illinois	United States	27
+2020-11-01	thanksgiving 2020	True	Arizona	United States	29
+2020-11-01	screwfix	True	Devon	United Kingdom	100
+2020-11-01	expressen	True	Stockholm County	Sweden	100
+2020-11-01	attestation déplacement	True	Normandy	France	6
+2020-11-01	screwfix	True	Southampton	United Kingdom	100
+2020-11-01	coronavirus uk	False	Nottingham City	United Kingdom	27
+2020-11-01	currys pc world	True	Cumbria	United Kingdom	72
+2020-11-01	coronavirus augsburg	False	Bavaria	Germany	1
+2020-11-01	svt nyheter	True	Vastra Gotaland County	Sweden	28
+2020-11-01	zaia	True	Lombardy	Italy	1
+2020-11-01	lucena hoy	True	Andalusia	Spain	1
+2020-11-01	minijob-zentrale	True	North Rhine-Westphalia	Germany	2
+2020-11-01	england hockey	True	Hampshire	United Kingdom	1
+2020-11-01	covid 19 update	False	Texas	United States	20
+2020-11-01	attestation de deplacement covid 19	False	Bourgogne-Franche-Comte	France	10
+2020-11-01	universal credit	True	South Yorkshire	United Kingdom	11
+2020-11-01	volotea	True	Ile-De-France	France	1
+2020-11-01	gov uk coronavirus	False	Merseyside	United Kingdom	6
+2020-11-01	direct line	True	West Yorkshire	United Kingdom	3
+2020-11-01	us elections 2020	True	Guangdong	China	14
+2020-11-01	tesco home delivery	True	Medway	United Kingdom	43
+2020-11-01	covid stats	False	Florida	United States	2
+2020-11-01	コロナ	True	Miyagi	Japan	100
+2020-11-01	hmrc login	True	Milton Keynes	United Kingdom	1
+2020-11-01	tesco jobs	True	West Midlands	United Kingdom	2
+2020-11-01	pajemploi	True	Provence-Alpes-Cote D'azur	France	6
+2020-11-01	sainsburys groceries	True	Devon	United Kingdom	71
+2020-11-01	covid19	False	Gyeonggi	Korea (South)	1
+2020-11-01	johns hopkins coronavirus dashboard	False	California	United States	6
+2020-11-01	coronavirus update	False	Cumbria	United Kingdom	10
+2020-11-01	wickes	True	Derby City	United Kingdom	32
+2020-11-01	sintomi covid19	False	Lombardy	Italy	6
+2020-11-01	stimulus	True	New York	United States	3
+2020-11-01	trader joe's	True	Washington	United States	5
+2020-11-01	canada coronavirus	False	Ontario	Canada	3
+2020-11-01	sainsburys groceries	True	Southampton	United Kingdom	72
+2020-11-01	covid 19 tracker	False	Texas	United States	3
+2020-11-01	worldometer coronavirus	False	Ile-De-France	France	1
+2020-11-01	costco online	True	Kentucky	United States	14
+2020-11-01	yonkers public schools	True	New York	United States	1
+2020-11-01	aftonbladet senaste nytt	True	Skane Lan	Sweden	17
+2020-11-01	attestation de deplacement coronavirus	False	Bourgogne-Franche-Comte	France	2
+2020-11-01	uk lockdown	True	South Yorkshire	United Kingdom	11
+2020-11-01	lockdown	True	London	United Kingdom	32
+2020-11-01	hmrc login	True	Tyne Wear	United Kingdom	12
+2020-11-01	cdc covid	False	Minnesota	United States	5
+2020-11-01	sainsburys	True	West Sussex	United Kingdom	46
+2020-11-01	sainsburys	True	Devon	United Kingdom	41
+2020-11-01	coronavirus uk	False	Cumbria	United Kingdom	16
+2020-11-01	justin turner	True	Washington	United States	5
+2020-11-01	stimulus check 2	True	Illinois	United States	12
+2020-11-01	coronavirus update	False	Nottingham City	United Kingdom	12
+2020-11-01	nouvelle attestation de déplacement covid19	False	Provence-Alpes-Cote D'azur	France	1
+2020-11-01	covid	False	Oregon	United States	3
+2020-11-01	ezekiel elliott	True	New York	United States	1
+2020-11-01	lavanguardia	True	Andalusia	Spain	11
+2020-11-01	attestation de deplacement	True	Bourgogne-Franche-Comte	France	24

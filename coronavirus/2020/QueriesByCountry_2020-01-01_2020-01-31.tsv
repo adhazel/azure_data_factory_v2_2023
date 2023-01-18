@@ -1,0 +1,1001 @@
+Date	Query	IsImplicitIntent	Country	PopularityScore
+2020-01-01	kalitta air	True	United States	1
+2020-01-01	sars virus	True	United States	15
+2020-01-01	auswärtiges amt	True	Germany	100
+2020-01-01	arrowe park hospital	True	United Kingdom	1
+2020-01-01	冠状病毒	False	China	1
+2020-01-01	webasto	True	Germany	1
+2020-01-01	china virus	True	United States	15
+2020-01-01	coronavirus hku1	False	United States	16
+2020-01-01	corona virus	False	United States	13
+2020-01-01	p2 masks australia	True	Australia	1
+2020-01-01	public health england	True	United Kingdom	100
+2020-01-01	p2 masks	True	Australia	100
+2020-01-01	nhs england	True	United Kingdom	71
+2020-01-01	coronavirus	False	United States	100
+2020-01-01	n95 mask	True	United States	2
+2020-01-02	auswärtiges amt	True	Germany	100
+2020-01-02	christmas island	True	Australia	1
+2020-01-02	china virus	True	United States	3
+2020-01-02	corona virus	False	United States	35
+2020-01-02	webasto	True	Germany	1
+2020-01-02	sras	True	France	1
+2020-01-02	coronavirus	False	Canada	1
+2020-01-02	coronavirus infection	False	United States	1
+2020-01-02	kalitta air	True	United States	1
+2020-01-02	arrowe park hospital	True	United Kingdom	1
+2020-01-02	coronavirus	False	United States	100
+2020-01-02	biofire	True	United States	5
+2020-01-02	public health england	True	United Kingdom	80
+2020-01-02	biofire diagnostics	True	United States	5
+2020-01-02	march air reserve base	True	United States	1
+2020-01-02	nhs england	True	United Kingdom	100
+2020-01-02	coronavirus hku1	False	United States	12
+2020-01-02	n95 mask	True	United States	11
+2020-01-02	p2 masks	True	Australia	100
+2020-01-02	sars virus	True	United States	14
+2020-01-02	coronovirus	False	United States	1
+2020-01-03	coronovirus	False	United States	6
+2020-01-03	sras	True	France	1
+2020-01-03	corona virus	False	United States	31
+2020-01-03	coronavirus hku1 isolation precautions	False	United States	1
+2020-01-03	coronavirus	False	China	1
+2020-01-03	冠状病毒	False	China	100
+2020-01-03	n95 mask	True	United States	14
+2020-01-03	public health england	True	United Kingdom	79
+2020-01-03	coronavirus nl63	False	United States	1
+2020-01-03	webasto	True	Germany	1
+2020-01-03	biofire diagnostics	True	United States	7
+2020-01-03	auswärtiges amt	True	Germany	100
+2020-01-03	coronavirus	False	United States	100
+2020-01-03	corona virus in adults	False	United States	4
+2020-01-03	coronavirus hku1	False	United States	13
+2020-01-03	arrowe park hospital	True	United Kingdom	16
+2020-01-03	march air reserve base	True	United States	4
+2020-01-03	kalitta air	True	United States	6
+2020-01-03	sars virus	True	United States	5
+2020-01-03	nhs england	True	United Kingdom	100
+2020-01-03	biofire	True	United States	10
+2020-01-03	coronavirus	False	United Kingdom	1
+2020-01-04	arrowe park hospital	True	United Kingdom	1
+2020-01-04	coronavirus	False	United States	100
+2020-01-04	冠状病毒	False	China	1
+2020-01-04	public health england	True	United Kingdom	100
+2020-01-04	n95 mask	True	United States	6
+2020-01-04	webasto	True	Germany	1
+2020-01-04	p2 masks	True	Australia	1
+2020-01-04	sars virus	True	United States	6
+2020-01-04	biofire	True	United States	1
+2020-01-04	corona virus	False	United States	32
+2020-01-04	auswärtiges amt	True	Germany	100
+2020-01-04	nhs england	True	United Kingdom	62
+2020-01-04	coronavirus hku1	False	United States	6
+2020-01-05	auswärtiges amt	True	Germany	100
+2020-01-05	wuhan virus	True	China	1
+2020-01-05	coronavirus	False	United States	100
+2020-01-05	n95 mask	True	United States	6
+2020-01-05	p2 masks	True	Australia	100
+2020-01-05	冠状病毒	False	China	1
+2020-01-05	webasto	True	Germany	1
+2020-01-05	corona virus	False	United States	23
+2020-01-05	p2 masks australia	True	Australia	2
+2020-01-05	nhs england	True	United Kingdom	1
+2020-01-05	corona virus in adults	False	United States	1
+2020-01-05	coronavirus hku1	False	United States	1
+2020-01-05	public health england	True	United Kingdom	100
+2020-01-05	christmas island	True	Australia	1
+2020-01-06	wuhan virus	True	United States	1
+2020-01-06	coronavirus	False	United Kingdom	1
+2020-01-06	コロナウイルス	False	Japan	1
+2020-01-06	biofire	True	United States	9
+2020-01-06	冠状病毒	False	China	100
+2020-01-06	p2 masks	True	Australia	100
+2020-01-06	kalitta air	True	United States	5
+2020-01-06	china virus	True	United States	6
+2020-01-06	n95 mask	True	United States	12
+2020-01-06	public health england	True	United Kingdom	96
+2020-01-06	webasto	True	Germany	1
+2020-01-06	coronavirus hku1	False	United States	10
+2020-01-06	christmas island	True	Australia	1
+2020-01-06	nhs england	True	United Kingdom	100
+2020-01-06	auswärtiges amt	True	Germany	100
+2020-01-06	coronavirus	False	United States	100
+2020-01-06	p2 masks australia	True	Australia	5
+2020-01-06	biofire diagnostics	True	United States	3
+2020-01-06	corona virus	False	United States	36
+2020-01-06	coronavirus hku1 isolation precautions	False	United States	1
+2020-01-06	coronavirus	False	China	1
+2020-01-06	sras	True	France	1
+2020-01-06	coronovirus	False	United States	2
+2020-01-06	sars virus	True	United States	2
+2020-01-06	arrowe park hospital	True	United Kingdom	14
+2020-01-07	public health england	True	United Kingdom	94
+2020-01-07	sras	True	France	1
+2020-01-07	sars virus	True	United States	1
+2020-01-07	biofire	True	United States	6
+2020-01-07	christmas island	True	Australia	1
+2020-01-07	coronavirus hku1	False	United States	8
+2020-01-07	biofire diagnostics	True	United States	3
+2020-01-07	p2 masks	True	Australia	100
+2020-01-07	冠状病毒	False	China	1
+2020-01-07	wuhan virus	True	United States	1
+2020-01-07	arrowe park hospital	True	United Kingdom	1
+2020-01-07	n95 mask	True	United States	23
+2020-01-07	china virus	True	United States	8
+2020-01-07	coronavirus infection	False	United States	1
+2020-01-07	corona virus	False	United States	30
+2020-01-07	corona virus in adults	False	United States	5
+2020-01-07	nhs england	True	United Kingdom	100
+2020-01-07	kalitta air	True	United States	7
+2020-01-07	wuhan virus	True	China	100
+2020-01-07	coronovirus	False	United States	1
+2020-01-07	webasto	True	Germany	1
+2020-01-07	auswärtiges amt	True	Germany	100
+2020-01-07	coronavirus	False	United States	100
+2020-01-08	public health england	True	United Kingdom	100
+2020-01-08	冠狀病毒	False	Hong Kong	1
+2020-01-08	arrowe park hospital	True	United Kingdom	10
+2020-01-08	christmas island	True	Australia	20
+2020-01-08	冠狀病毒	False	Taiwan	1
+2020-01-08	coronavirus	False	Germany	1
+2020-01-08	p2 masks	True	Australia	100
+2020-01-08	nhs england	True	United Kingdom	100
+2020-01-08	coronavirus	False	Australia	1
+2020-01-08	コロナウイルスとは	False	Japan	15
+2020-01-08	wuhan virus	True	United States	2
+2020-01-08	auswärtiges amt	True	Germany	100
+2020-01-08	kalitta air	True	United States	4
+2020-01-08	コロナウイルス	False	Japan	100
+2020-01-08	coronavirus infection	False	United States	1
+2020-01-08	sras	True	France	100
+2020-01-08	corona virus	False	United States	23
+2020-01-08	march air reserve base	True	United States	2
+2020-01-08	coronavirus	False	United States	100
+2020-01-08	coronavirus	False	Canada	1
+2020-01-08	n95 mask	True	United States	10
+2020-01-08	webasto	True	Germany	14
+2020-01-08	coronavirus	False	United Kingdom	1
+2020-01-08	coronavirus	False	China	1
+2020-01-08	冠状病毒	False	China	100
+2020-01-08	biofire	True	United States	9
+2020-01-08	china virus	True	United States	2
+2020-01-08	coronavirus hku1	False	United States	3
+2020-01-08	coronavirus	False	France	1
+2020-01-08	コロナウィルスとは	False	Japan	1
+2020-01-08	biofire diagnostics	True	United States	1
+2020-01-08	corona virus in adults	False	United States	2
+2020-01-08	coronovirus	False	United States	2
+2020-01-09	coronavirus	False	United Kingdom	19
+2020-01-09	biofire diagnostics	True	United States	2
+2020-01-09	what is coronavirus	False	United States	1
+2020-01-09	china virus	True	United States	1
+2020-01-09	coronavirus	False	Australia	100
+2020-01-09	auswärtiges amt	True	Germany	100
+2020-01-09	coronavirus symptoms	False	United States	1
+2020-01-09	sars virus	True	United States	2
+2020-01-09	corona virus	False	Germany	1
+2020-01-09	コロナウィルスの分類	False	Japan	1
+2020-01-09	coronavirus	False	Norway	1
+2020-01-09	coronavirus in dogs	False	United States	1
+2020-01-09	coronavirus	False	Switzerland	1
+2020-01-09	arrowe park hospital	True	United Kingdom	1
+2020-01-09	冠状病毒	False	China	100
+2020-01-09	kalitta air	True	United States	5
+2020-01-09	china coronavirus	False	United States	1
+2020-01-09	corona virus in adults	False	United States	2
+2020-01-09	coronavirus	False	France	100
+2020-01-09	coronavirus	False	Japan	1
+2020-01-09	biofire	True	United States	4
+2020-01-09	coronavirus	False	Germany	30
+2020-01-09	コロナウィルスとは	False	Japan	1
+2020-01-09	coronavirus	False	Canada	100
+2020-01-09	冠狀病毒	False	Hong Kong	100
+2020-01-09	coronavirus	False	Hong Kong	1
+2020-01-09	christmas island	True	Australia	1
+2020-01-09	nhs england	True	United Kingdom	100
+2020-01-09	sras	True	France	1
+2020-01-09	cdc coronavirus	False	United States	1
+2020-01-09	n95 mask	True	United States	10
+2020-01-09	코로나 바이러스	False	Korea (South)	1
+2020-01-09	virus china	True	Germany	1
+2020-01-09	corona virus	False	Canada	1
+2020-01-09	wuhan virus	True	United States	1
+2020-01-09	coronavirus	False	United States	100
+2020-01-09	public health england	True	United Kingdom	91
+2020-01-09	coronaviruses	False	United States	2
+2020-01-09	webasto	True	Germany	11
+2020-01-09	coronavirus china	False	United States	1
+2020-01-09	coronavirus hku1	False	United States	6
+2020-01-09	コロナウイルスとは	False	Japan	21
+2020-01-09	冠狀病毒	False	Taiwan	1
+2020-01-09	コロナウイルス感染症	False	Japan	2
+2020-01-09	p2 masks	True	Australia	75
+2020-01-09	coronavirus	False	China	34
+2020-01-09	corona virus	False	United States	18
+2020-01-09	コロナウイルス	False	Japan	100
+2020-01-09	wuhan virus	True	China	1
+2020-01-10	auswärtiges amt	True	Germany	100
+2020-01-10	冠状病毒	False	China	100
+2020-01-10	march air reserve base	True	United States	1
+2020-01-10	coronavirus	False	United States	100
+2020-01-10	コロナウイルス	False	Japan	100
+2020-01-10	nhs england	True	United Kingdom	100
+2020-01-10	webasto	True	Germany	11
+2020-01-10	kalitta air	True	United States	6
+2020-01-10	n95 mask	True	United States	11
+2020-01-10	coronavirus	False	Netherlands	1
+2020-01-10	corona virus	False	United States	23
+2020-01-10	arrowe park hospital	True	United Kingdom	1
+2020-01-10	virus china	True	Germany	1
+2020-01-10	coronovirus	False	United States	4
+2020-01-10	coronavirus	False	China	1
+2020-01-10	coronavirus infection	False	United States	3
+2020-01-10	coronavirus	False	United Kingdom	1
+2020-01-10	coronavirus	False	France	1
+2020-01-10	coronavirus	False	Australia	1
+2020-01-10	coronavirus	False	Canada	1
+2020-01-10	china virus	True	Germany	1
+2020-01-10	coronavirus	False	Germany	13
+2020-01-10	biofire	True	United States	3
+2020-01-10	corona virus	False	Germany	1
+2020-01-10	coronavirus hku1	False	United States	6
+2020-01-10	コロナウイルスとは	False	Japan	1
+2020-01-10	china virus	True	United States	3
+2020-01-10	sras	True	France	100
+2020-01-10	corona virus in adults	False	United States	2
+2020-01-10	public health england	True	United Kingdom	76
+2020-01-11	webasto	True	Germany	11
+2020-01-11	coronavirus	False	Australia	1
+2020-01-11	コロナウイルスとは	False	Japan	1
+2020-01-11	corona-virus	False	Germany	13
+2020-01-11	sras	True	France	1
+2020-01-11	nhs england	True	United Kingdom	74
+2020-01-11	冠状病毒	False	China	100
+2020-01-11	coronavirus hku1	False	United States	2
+2020-01-11	coronavirus	False	United States	100
+2020-01-11	corona virus	False	United States	23
+2020-01-11	china virus	True	Germany	1
+2020-01-11	public health england	True	United Kingdom	100
+2020-01-11	arrowe park hospital	True	United Kingdom	4
+2020-01-11	coronavirus	False	Canada	100
+2020-01-11	coronavirus	False	Netherlands	1
+2020-01-11	corona virus	False	Germany	11
+2020-01-11	coronavirus	False	United Kingdom	35
+2020-01-11	biofire	True	United States	1
+2020-01-11	coronavirus	False	China	88
+2020-01-11	coronavirus	False	Germany	100
+2020-01-11	corona virus	False	Canada	1
+2020-01-11	コロナウイルス	False	Japan	100
+2020-01-11	corona virus in adults	False	United States	1
+2020-01-11	coronavirus	False	Italy	1
+2020-01-11	initial genome release of novel coronavirus	False	China	1
+2020-01-11	auswärtiges amt	True	Germany	74
+2020-01-11	corona virus	False	United Kingdom	1
+2020-01-12	christmas island	True	Australia	1
+2020-01-12	march air reserve base	True	United States	1
+2020-01-12	p2 masks	True	Australia	100
+2020-01-12	auswärtiges amt	True	Germany	100
+2020-01-12	sras	True	France	1
+2020-01-12	coronavirus	False	Germany	1
+2020-01-12	webasto	True	Germany	2
+2020-01-12	wuhan coronavirus	False	China	1
+2020-01-12	n95 mask	True	United States	95
+2020-01-12	冠状病毒	False	China	100
+2020-01-12	コロナウイルスとは	False	Japan	1
+2020-01-12	n95 mask	True	Philippines	1
+2020-01-12	n95 mask	True	China	8
+2020-01-12	coronavirus	False	United Kingdom	1
+2020-01-12	corona virus	False	United States	20
+2020-01-12	public health england	True	United Kingdom	100
+2020-01-12	n95 mask	True	Hong Kong	1
+2020-01-12	arrowe park hospital	True	United Kingdom	3
+2020-01-12	coronavirus hku1	False	United States	8
+2020-01-12	coronavirus	False	Canada	1
+2020-01-12	コロナウイルス	False	Japan	100
+2020-01-12	china virus	True	United States	1
+2020-01-12	coronavirus	False	China	31
+2020-01-12	nhs england	True	United Kingdom	42
+2020-01-12	coronavirus	False	France	1
+2020-01-12	coronavirus	False	United States	100
+2020-01-12	coronovirus	False	United States	1
+2020-01-13	coronavirus	False	France	1
+2020-01-13	coronavirus	False	United States	100
+2020-01-13	coronavirus	False	United Kingdom	7
+2020-01-13	coronovirus	False	United States	2
+2020-01-13	arrowe park hospital	True	United Kingdom	17
+2020-01-13	coronavirus hku1	False	United States	3
+2020-01-13	coronavirus	False	Mexico	1
+2020-01-13	webasto	True	Germany	19
+2020-01-13	p2 masks	True	Australia	100
+2020-01-13	novel coronavirus	False	United Kingdom	1
+2020-01-13	biofire	True	United States	2
+2020-01-13	coronaviruses	False	United States	1
+2020-01-13	新型コロナウイルスとは	False	Japan	1
+2020-01-13	novel coronavirus	False	United States	2
+2020-01-13	コロナウイルス感染症	False	Japan	1
+2020-01-13	coronavirus thailand	False	United States	15
+2020-01-13	china virus	True	United States	1
+2020-01-13	kalitta air	True	United States	2
+2020-01-13	coronavirus	False	Canada	100
+2020-01-13	coronavirus infection	False	United States	2
+2020-01-13	sars virus	True	United States	3
+2020-01-13	corona virus	False	United States	9
+2020-01-13	nhs england	True	United Kingdom	82
+2020-01-13	コロナウイルス	False	Japan	100
+2020-01-13	biofire diagnostics	True	United States	1
+2020-01-13	coronavirus	False	Germany	9
+2020-01-13	冠状病毒	False	China	100
+2020-01-13	sras	True	France	100
+2020-01-13	cdc novel coronavirus	False	United States	1
+2020-01-13	n95 mask	True	China	6
+2020-01-13	what is coronavirus	False	United States	2
+2020-01-13	coronavirus thailand	False	Canada	1
+2020-01-13	china virus	True	Germany	1
+2020-01-13	mscbs	True	Spain	1
+2020-01-13	corona virus in adults	False	United States	2
+2020-01-13	n95 mask	True	Philippines	1
+2020-01-13	n95 mask	True	United States	41
+2020-01-13	n95 mask	True	Singapore	1
+2020-01-13	corona virus	False	Canada	3
+2020-01-13	public health england	True	United Kingdom	100
+2020-01-13	coronavirus	False	Australia	1
+2020-01-13	auswärtiges amt	True	Germany	100
+2020-01-13	コロナウイルスとは	False	Japan	16
+2020-01-13	wuhan virus	True	United States	1
+2020-01-13	wuhan virus	True	China	1
+2020-01-14	webasto	True	Germany	27
+2020-01-14	wuhan virus	True	United States	2
+2020-01-14	p2 masks	True	Australia	100
+2020-01-14	china coronavirus	False	United States	2
+2020-01-14	coronavirus oc43	False	United States	1
+2020-01-14	china virus	True	Germany	1
+2020-01-14	coronavirus	False	France	100
+2020-01-14	march air reserve base	True	United States	1
+2020-01-14	china virus	True	United States	1
+2020-01-14	coronavirus	False	Germany	3
+2020-01-14	novel coronavirus	False	United States	3
+2020-01-14	who coronavirus	False	United States	1
+2020-01-14	coronavirus hku1	False	United States	5
+2020-01-14	sras	True	France	1
+2020-01-14	nhs england	True	United Kingdom	100
+2020-01-14	coronavirus	False	United Kingdom	2
+2020-01-14	coronavirus	False	Colombia	1
+2020-01-14	who china coronavirus	False	United States	24
+2020-01-14	n95 mask	True	United States	30
+2020-01-14	コロナウイルスとは	False	Japan	18
+2020-01-14	コロナウイルス感染症	False	Japan	1
+2020-01-14	coronavirus	False	Canada	1
+2020-01-14	wuhan virus	True	China	1
+2020-01-14	arrowe park hospital	True	United Kingdom	1
+2020-01-14	coronovirus	False	United States	1
+2020-01-14	coronavirus	False	China	46
+2020-01-14	biofire diagnostics	True	United States	3
+2020-01-14	auswärtiges amt	True	Germany	100
+2020-01-14	coronavirus china	False	United States	1
+2020-01-14	public health england	True	United Kingdom	79
+2020-01-14	n95 mask	True	Philippines	1
+2020-01-14	冠状病毒	False	China	100
+2020-01-14	coronavirus symptoms	False	United States	1
+2020-01-14	christmas island	True	Australia	1
+2020-01-14	coronaviruses	False	United States	2
+2020-01-14	what is coronavirus	False	United States	2
+2020-01-14	コロナウイルス	False	Japan	100
+2020-01-14	coronavirus infection	False	United States	1
+2020-01-14	coronavirus	False	United States	100
+2020-01-14	coronavirus	False	Australia	20
+2020-01-14	mscbs	True	Spain	1
+2020-01-14	coronavirus	False	Sweden	1
+2020-01-14	biofire	True	United States	4
+2020-01-14	sars virus	True	United States	2
+2020-01-14	coronavirus thailand	False	United States	7
+2020-01-14	corona virus in adults	False	United States	2
+2020-01-14	coronavirus	False	Japan	1
+2020-01-14	corona virus	False	United States	13
+2020-01-14	kalitta air	True	United States	2
+2020-01-15	sras	True	France	100
+2020-01-15	wuhan virus	True	Singapore	1
+2020-01-15	what is coronavirus	False	United States	1
+2020-01-15	wuhan virus	True	China	1
+2020-01-15	コロナウィルスの分類	False	Japan	1
+2020-01-15	coronavirus	False	China	44
+2020-01-15	n95 mask	True	United States	17
+2020-01-15	mscbs	True	Spain	1
+2020-01-15	who china coronavirus	False	United States	2
+2020-01-15	march air reserve base	True	United States	2
+2020-01-15	coronavirus	False	India	1
+2020-01-15	biofire	True	United States	5
+2020-01-15	coronavirus	False	Australia	100
+2020-01-15	コロナウイルス感染症	False	Japan	2
+2020-01-15	n95 mask	True	Philippines	100
+2020-01-15	コロナウイルスとは	False	Japan	14
+2020-01-15	corona virus	False	United Kingdom	1
+2020-01-15	webasto	True	Germany	12
+2020-01-15	冠状病毒	False	China	100
+2020-01-15	nhs england	True	United Kingdom	100
+2020-01-15	coronaviruses	False	United States	1
+2020-01-15	coronovirus	False	United States	1
+2020-01-15	corona virus	False	Japan	1
+2020-01-15	corona virus in adults	False	United States	1
+2020-01-15	wuhan virus	True	United States	1
+2020-01-15	コロナウィルスとは	False	Japan	1
+2020-01-15	auswärtiges amt	True	Germany	100
+2020-01-15	冠狀病毒	False	Taiwan	1
+2020-01-15	who coronavirus	False	United States	49
+2020-01-15	novel coronavirus	False	United States	4
+2020-01-15	coronavirus	False	United States	100
+2020-01-15	china virus	True	United States	4
+2020-01-15	coronavirus	False	Brazil	1
+2020-01-15	sars virus	True	United States	3
+2020-01-15	新型コロナウイルスとは	False	Japan	1
+2020-01-15	2019-ncov	True	China	13
+2020-01-15	china coronavirus	False	United States	1
+2020-01-15	コロナウイルス	False	Japan	100
+2020-01-15	coronavirus	False	Sweden	1
+2020-01-15	arrowe park hospital	True	United Kingdom	11
+2020-01-15	coronavirus	False	Portugal	1
+2020-01-15	coronavirus	False	United Kingdom	11
+2020-01-15	novel coronavirus	False	United Kingdom	1
+2020-01-15	corona virus	False	United States	14
+2020-01-15	coronavirus	False	France	1
+2020-01-15	who coronavirus diagnosis	False	United States	2
+2020-01-15	coronavirus	False	Malaysia	1
+2020-01-15	corona virus china	False	United States	1
+2020-01-15	coronavirus hku1	False	United States	4
+2020-01-15	public health england	True	United Kingdom	76
+2020-01-15	coronavirus	False	Canada	100
+2020-01-15	coronavirus	False	Germany	1
+2020-01-15	kalitta air	True	United States	3
+2020-01-15	coronavirus infection	False	United States	1
+2020-01-15	corona virus	False	Canada	1
+2020-01-15	coronavirus	False	Philippines	1
+2020-01-15	coronavirus	False	Japan	2
+2020-01-15	christmas island	True	Australia	1
+2020-01-15	corona virus	False	Denmark	1
+2020-01-16	p2 masks	True	Australia	1
+2020-01-16	corona virus	False	United Kingdom	1
+2020-01-16	wuhan virus	True	Singapore	1
+2020-01-16	coronavirus nhs	False	United Kingdom	1
+2020-01-16	coronavirus	False	United Kingdom	40
+2020-01-16	wuhan virus	True	United States	3
+2020-01-16	코로나 바이러스	False	Korea (South)	1
+2020-01-16	biofire	True	United States	3
+2020-01-16	sars virus	True	United States	5
+2020-01-16	冠状病毒	False	China	100
+2020-01-16	biofire diagnostics	True	United States	1
+2020-01-16	coronavirus in japan nachgewi	False	Germany	1
+2020-01-16	coronavirus	False	Canada	100
+2020-01-16	coronovirus	False	United States	2
+2020-01-16	wuhan virus	True	China	28
+2020-01-16	coronavirus in	False	Germany	1
+2020-01-16	coronavirus	False	Japan	1
+2020-01-16	coronavirus china	False	United States	2
+2020-01-16	coronavirus in japan nachgewie	False	Germany	1
+2020-01-16	china coronavirus	False	United States	1
+2020-01-16	sras	True	France	1
+2020-01-16	冠狀病毒	False	Taiwan	1
+2020-01-16	wuhan coronavirus	False	China	1
+2020-01-16	corona virus in adults	False	United States	3
+2020-01-16	coronavirus	False	Switzerland	1
+2020-01-16	coronavirus	False	Italy	1
+2020-01-16	coronavirus in japan nachgewiesen	False	Germany	10
+2020-01-16	coronavirus hku1	False	United States	3
+2020-01-16	cdc coronavirus	False	United States	1
+2020-01-16	コロナウィルスとは	False	Japan	1
+2020-01-16	coronavirus	False	Portugal	1
+2020-01-16	webasto	True	Germany	22
+2020-01-16	coronavirus	False	India	1
+2020-01-16	what is coronavirus	False	United States	1
+2020-01-16	christmas island	True	Australia	12
+2020-01-16	coronavirus	False	Germany	87
+2020-01-16	coronavirus	False	Romania	1
+2020-01-16	coronavirus	False	Australia	100
+2020-01-16	kalitta air	True	United States	1
+2020-01-16	coronavirus in japan	False	Germany	1
+2020-01-16	コロナウイルス	False	Japan	100
+2020-01-16	coronavirus	False	Mexico	1
+2020-01-16	public health england	True	United Kingdom	88
+2020-01-16	coronavirus	False	China	38
+2020-01-16	coronavirus	False	Belgium	1
+2020-01-16	corona virus	False	Canada	1
+2020-01-16	corona virus	False	United States	16
+2020-01-16	novel coronavirus	False	United States	6
+2020-01-16	china virus	True	United States	3
+2020-01-16	coronavirus	False	France	100
+2020-01-16	コロナウイルスとは	False	Japan	18
+2020-01-16	cdc novel coronavirus	False	United States	1
+2020-01-16	corona virus	False	Germany	3
+2020-01-16	who coronavirus	False	United States	3
+2020-01-16	coronavirus outbreak	False	United States	1
+2020-01-16	coronavirus	False	Sweden	1
+2020-01-16	coronavirus infection	False	United States	1
+2020-01-16	nhs england	True	United Kingdom	100
+2020-01-16	arrowe park hospital	True	United Kingdom	16
+2020-01-16	コロナウイルス感染症	False	Japan	2
+2020-01-16	coronavirus	False	Netherlands	1
+2020-01-16	n95 mask	True	United States	12
+2020-01-16	coronavirus	False	United States	100
+2020-01-16	2019-ncov	True	China	14
+2020-01-16	auswärtiges amt	True	Germany	100
+2020-01-17	coronavirus	False	Australia	1
+2020-01-17	coronavirus	False	France	1
+2020-01-17	coronavirus nhs	False	United Kingdom	3
+2020-01-17	n95 mask	True	United States	5
+2020-01-17	wuhan coronavirus	False	China	1
+2020-01-17	china coronavirus	False	United States	1
+2020-01-17	coronavirus in japan nachgewiesen	False	Germany	1
+2020-01-17	coronavirus hku1	False	United States	2
+2020-01-17	corona virus	False	United Kingdom	1
+2020-01-17	webasto	True	Germany	12
+2020-01-17	biofire	True	United States	2
+2020-01-17	novel coronavirus	False	China	1
+2020-01-17	coronavirus människa	False	Sweden	1
+2020-01-17	corona virus	False	Canada	1
+2020-01-17	コロナウイルス感染症	False	Japan	1
+2020-01-17	corona virus	False	Netherlands	1
+2020-01-17	wuhan virus	True	United States	3
+2020-01-17	coronavirus	False	China	100
+2020-01-17	coronavirus	False	Mexico	1
+2020-01-17	chinese virus	True	United Kingdom	4
+2020-01-17	coronavirus	False	Sweden	100
+2020-01-17	coronavirus china	False	United States	1
+2020-01-17	coronovirus	False	United States	1
+2020-01-17	what is a coronavirus	False	United States	1
+2020-01-17	2019-ncov	True	United States	2
+2020-01-17	new coronavirus	False	United States	1
+2020-01-17	china virus	True	United States	7
+2020-01-17	corona virus	False	Germany	9
+2020-01-17	kalitta air	True	United States	1
+2020-01-17	wuhan coronavirus	False	United Kingdom	1
+2020-01-17	sars virus	True	United States	5
+2020-01-17	coronavirus in dogs	False	United States	1
+2020-01-17	what is the coronavirus	False	United States	1
+2020-01-17	corona virus	False	China	5
+2020-01-17	coronavirus infection	False	United States	3
+2020-01-17	コロナウイルスとは	False	Japan	12
+2020-01-17	corona-virus	False	Sweden	1
+2020-01-17	chinese corona virus	False	United States	1
+2020-01-17	caronavirus	False	United States	1
+2020-01-17	arrowe park hospital	True	United Kingdom	15
+2020-01-17	2019-ncov	True	China	10
+2020-01-17	coronavirus	False	Netherlands	100
+2020-01-17	sras	True	France	100
+2020-01-17	2019 novel coronavirus	False	United States	1
+2020-01-17	coronavirus symptoms	False	United Kingdom	1
+2020-01-17	march air reserve base	True	United States	1
+2020-01-17	corona virus in adults	False	United States	4
+2020-01-17	corona virus	False	Sweden	1
+2020-01-17	コロナウイルス	False	Japan	100
+2020-01-17	coronavirus	False	Canada	100
+2020-01-17	wuhan coronavirus	False	United States	1
+2020-01-17	coronavirus	False	Norway	1
+2020-01-17	cdc coronavirus	False	United States	1
+2020-01-17	who coronavirus	False	United States	1
+2020-01-17	corona virus china	False	United States	1
+2020-01-17	what is coronavirus	False	United States	2
+2020-01-17	symptoms of coronavirus	False	United States	1
+2020-01-17	corona virus	False	United States	17
+2020-01-17	public health england	True	United Kingdom	100
+2020-01-17	coronavirus	False	Germany	46
+2020-01-17	coronavirus symptoms in humans	False	United States	1
+2020-01-17	biofire diagnostics	True	United States	1
+2020-01-17	冠状病毒	False	China	96
+2020-01-17	coronavirus	False	India	100
+2020-01-17	what is corona virus	False	United States	1
+2020-01-17	coronavirus symptoms	False	United States	2
+2020-01-17	carona virus	False	United States	1
+2020-01-17	coronavirus	False	Spain	1
+2020-01-17	coronavirus	False	United Kingdom	36
+2020-01-17	corona virus	False	India	1
+2020-01-17	cdc novel coronavirus	False	United States	1
+2020-01-17	wuhan virus	True	China	39
+2020-01-17	coronavirus	False	United States	100
+2020-01-17	auswärtiges amt	True	Germany	100
+2020-01-17	chinese coronavirus	False	United States	1
+2020-01-17	nhs england	True	United Kingdom	91
+2020-01-17	novel coronavirus	False	United States	5
+2020-01-18	2019-ncov	True	United States	1
+2020-01-18	corona-virus	False	Germany	1
+2020-01-18	nhs england	True	United Kingdom	10
+2020-01-18	carona virus	False	United States	1
+2020-01-18	coronavirus	False	Germany	84
+2020-01-18	public health england	True	United Kingdom	24
+2020-01-18	new coronavirus	False	United States	1
+2020-01-18	novel coronavirus	False	China	9
+2020-01-18	webasto	True	Germany	23
+2020-01-18	what is coronavirus	False	United Kingdom	1
+2020-01-18	coronavirus infection	False	United States	3
+2020-01-18	what is coronavirus	False	United States	2
+2020-01-18	china coronavirus	False	China	4
+2020-01-18	coronavirus	False	China	100
+2020-01-18	china virus	True	United States	9
+2020-01-18	coronavirus	False	United States	100
+2020-01-18	novel coronavirus	False	United States	5
+2020-01-18	christmas island	True	Australia	1
+2020-01-18	coronavirus	False	Switzerland	1
+2020-01-18	wuhan virus	True	United States	3
+2020-01-18	wuhan coronavirus	False	China	10
+2020-01-18	coronavirus symptoms	False	United States	2
+2020-01-18	corona virus	False	Netherlands	1
+2020-01-18	コロナウイルス	False	Japan	100
+2020-01-18	corona virus	False	Australia	10
+2020-01-18	コロナウイルスとは	False	Japan	16
+2020-01-18	cdc coronavirus	False	United States	1
+2020-01-18	coronavirus	False	Mexico	1
+2020-01-18	coronavirus	False	Spain	1
+2020-01-18	コロナウイルス感染症	False	Japan	1
+2020-01-18	novel coronavirus definition	False	United States	1
+2020-01-18	corona virus	False	Philippines	1
+2020-01-18	coronavirus china	False	China	2
+2020-01-18	coronavirus	False	Australia	100
+2020-01-18	coronavirus	False	Netherlands	100
+2020-01-18	biofire	True	United States	1
+2020-01-18	coronavirus china	False	United States	1
+2020-01-18	wuhan virus	True	China	62
+2020-01-18	china virus	True	China	2
+2020-01-18	coronovirus	False	United States	1
+2020-01-18	coronavirus	False	Philippines	100
+2020-01-18	coronavirus	False	India	1
+2020-01-18	corona virus	False	United States	15
+2020-01-18	coronavirus	False	New Zealand	1
+2020-01-18	corona virus	False	France	1
+2020-01-18	arrowe park hospital	True	United Kingdom	2
+2020-01-18	sars virus	True	United States	5
+2020-01-18	corona virus	False	Canada	6
+2020-01-18	chinese virus	True	United Kingdom	26
+2020-01-18	coronavirus	False	Italy	1
+2020-01-18	coronavirus	False	Canada	100
+2020-01-18	corona virus	False	United Kingdom	20
+2020-01-18	coronavirus	False	France	49
+2020-01-18	coronavirus humain	False	Canada	1
+2020-01-18	冠状病毒	False	China	91
+2020-01-18	coronavirus wuhan	False	China	1
+2020-01-18	coronavirus	False	United Kingdom	100
+2020-01-18	n95 mask	True	United States	2
+2020-01-18	coronavirus	False	Belgium	1
+2020-01-18	2019-ncov	True	China	20
+2020-01-18	coronavirus symptoms	False	Canada	6
+2020-01-18	coronavirus hku1	False	United States	2
+2020-01-18	china coronavirus	False	United States	1
+2020-01-18	coronavirus facts	False	United Kingdom	1
+2020-01-18	auswärtiges amt	True	Germany	100
+2020-01-18	sras	True	France	100
+2020-01-18	coronavirus nhs	False	United Kingdom	8
+2020-01-18	corona virus	False	China	7
+2020-01-18	what is a coronavirus	False	United States	1
+2020-01-18	corona virus	False	Germany	20
+2020-01-18	corona virus in adults	False	United States	4
+2020-01-18	coronavirus symptoms	False	United Kingdom	8
+2020-01-19	sras	True	France	100
+2020-01-19	nhs england	True	United Kingdom	44
+2020-01-19	chinese coronavirus	False	United States	1
+2020-01-19	coronavirus	False	Germany	100
+2020-01-19	what is novel coronavirus	False	United States	1
+2020-01-19	coronavirus	False	Italy	1
+2020-01-19	coronavirus wuhan	False	China	2
+2020-01-19	coronavirus	False	India	100
+2020-01-19	coronaviruses	False	United States	1
+2020-01-19	coronavirus	False	Spain	1
+2020-01-19	corona virus	False	Japan	1
+2020-01-19	corona virus china	False	Germany	1
+2020-01-19	carona virus	False	United States	1
+2020-01-19	coronavirus cases	False	United States	1
+2020-01-19	코로나 바이러스	False	Korea (South)	1
+2020-01-19	coronavirus	False	Netherlands	100
+2020-01-19	coronavirus	False	Norway	1
+2020-01-19	webasto	True	Germany	4
+2020-01-19	coronavirus nhs	False	United Kingdom	2
+2020-01-19	coronavirus symptoms	False	United States	2
+2020-01-19	coronavirus	False	Mexico	1
+2020-01-19	coronavirus	False	France	1
+2020-01-19	coronavirus	False	South Africa	1
+2020-01-19	coronavirus symptoms	False	China	1
+2020-01-19	what is coronavirus	False	United States	4
+2020-01-19	china wuhan coronavirus cases	False	United States	19
+2020-01-19	coronavirus	False	United Kingdom	100
+2020-01-19	what is coronavirus	False	Australia	1
+2020-01-19	novel coronavirus	False	China	6
+2020-01-19	coronavirus	False	Canada	100
+2020-01-19	biofire	True	United States	1
+2020-01-19	corona virus	False	Germany	26
+2020-01-19	wuhan novel coronavirus	False	China	1
+2020-01-19	china wuhan coronavirus	False	United States	2
+2020-01-19	coronavirus outbreak	False	United States	1
+2020-01-19	coronavirus symptoms	False	Canada	1
+2020-01-19	coronavirus china	False	China	5
+2020-01-19	corona virus	False	United Kingdom	7
+2020-01-19	coronavirus in humans	False	Australia	2
+2020-01-19	corona virus	False	Netherlands	1
+2020-01-19	china virus	True	China	5
+2020-01-19	what is a coronavirus	False	United States	1
+2020-01-19	coronavirus	False	Austria	1
+2020-01-19	china wuhan coronavirus case	False	United States	1
+2020-01-19	coronavirus china	False	United States	1
+2020-01-19	coronavirus	False	Australia	100
+2020-01-19	chinese virus	True	United Kingdom	28
+2020-01-19	kalitta air	True	United States	1
+2020-01-19	coronavirus	False	United States	100
+2020-01-19	china virus	True	United States	8
+2020-01-19	coronavirus	False	China	35
+2020-01-19	新型コロナウイルスとは	False	Japan	1
+2020-01-19	coronovirus	False	United States	1
+2020-01-19	n95 mask	True	United States	2
+2020-01-19	coronavirus	False	Sweden	1
+2020-01-19	2019-ncov	True	United States	1
+2020-01-19	coronavirus infection	False	United States	2
+2020-01-19	china virus	True	Germany	6
+2020-01-19	coronavirus china	False	Germany	1
+2020-01-19	coronavirus	False	Philippines	100
+2020-01-19	コロナウイルス感染症	False	Japan	2
+2020-01-19	corona virus	False	Australia	12
+2020-01-19	china coronavirus	False	China	1
+2020-01-19	sars virus	True	United States	4
+2020-01-19	corona virus	False	Philippines	1
+2020-01-19	arrowe park hospital	True	United Kingdom	1
+2020-01-19	コロナウイルスとは	False	Japan	14
+2020-01-19	corona virus china	False	China	1
+2020-01-19	china wuhan coronavirus cas	False	United States	1
+2020-01-19	sars virus	True	China	2
+2020-01-19	コロナウイルス	False	Japan	100
+2020-01-19	china wuhan coronaviru	False	United States	1
+2020-01-19	冠狀病毒	False	Taiwan	1
+2020-01-19	christmas island	True	Australia	4
+2020-01-19	corona virus	False	Canada	8
+2020-01-19	冠状病毒	False	China	100
+2020-01-19	coronavirus in china	False	United States	1
+2020-01-19	コロナウィルスの分類	False	Japan	1
+2020-01-19	novel coronavirus definition	False	United States	2
+2020-01-19	corona virus	False	China	3
+2020-01-19	auswärtiges amt	True	Germany	42
+2020-01-19	コロナウィルスとは	False	Japan	1
+2020-01-19	wuhan virus	True	China	20
+2020-01-19	2019-ncov	True	China	15
+2020-01-19	china wuhan coronavirus c	False	United States	1
+2020-01-19	world health organization: clinical management of severe acute respiratory infection when novel coronavirus (ncov) infection is suspected: interim guidance	False	China	1
+2020-01-19	coronavirus	False	Japan	1
+2020-01-19	coronavirus hku1	False	United States	2
+2020-01-19	china wuhan coronavirus cases	False	China	4
+2020-01-19	corona virus	False	India	1
+2020-01-19	coronavirus	False	Belgium	1
+2020-01-19	coronavirus	False	New Zealand	1
+2020-01-19	coronavirus/influenza	False	United States	1
+2020-01-19	wuhan virus	True	Singapore	100
+2020-01-19	wuhan coronavirus	False	China	5
+2020-01-19	n95 mask	True	China	2
+2020-01-19	wuhan virus	True	United States	3
+2020-01-19	coronavírus	False	Brazil	1
+2020-01-19	coronavirus	False	Nigeria	1
+2020-01-19	corona virus	False	United States	8
+2020-01-19	corona-virus	False	Germany	1
+2020-01-19	cdc coronavirus	False	United States	1
+2020-01-19	coronavirus	False	Hong Kong	1
+2020-01-19	virus china	True	Germany	3
+2020-01-19	coronavirus	False	Switzerland	1
+2020-01-19	novel coronavirus	False	United States	6
+2020-01-19	wuhan coronavirus	False	United States	1
+2020-01-19	public health england	True	United Kingdom	59
+2020-01-19	china coronavirus	False	United States	1
+2020-01-19	new coronavirus	False	China	1
+2020-01-19	epidemia cina	True	Italy	1
+2020-01-19	coronaviruses	False	China	1
+2020-01-19	coronavirus vaccine	False	United States	1
+2020-01-19	coronavirus	False	Singapore	1
+2020-01-19	corona virus in adults	False	United States	3
+2020-01-20	china coronavirus new cases	False	China	2
+2020-01-20	chinese virus	True	United Kingdom	14
+2020-01-20	coronavirus	False	Poland	1
+2020-01-20	coronavirus	False	Ireland	1
+2020-01-20	sras	True	France	86
+2020-01-20	rki coronavirus	False	Germany	1
+2020-01-20	what is coronavirus?	False	United States	1
+2020-01-20	coronvirus	False	Australia	1
+2020-01-20	coronavirus	False	Sweden	100
+2020-01-20	corona virus	False	Philippines	42
+2020-01-20	china corona virus	False	China	1
+2020-01-20	冠状病毒	False	China	100
+2020-01-20	coronavirus brisbane	False	Australia	1
+2020-01-20	coronavirus	False	Canada	100
+2020-01-20	coronavirus symptoms	False	United Kingdom	9
+2020-01-20	corona virus	False	New Zealand	1
+2020-01-20	china virus	True	China	9
+2020-01-20	china virus	True	Hong Kong	1
+2020-01-20	coronavirus wuhan	False	China	2
+2020-01-20	china coronavirus	False	Canada	2
+2020-01-20	coronavirus pneumonia	False	China	1
+2020-01-20	2019-ncov	True	China	14
+2020-01-20	coronavirus	False	New Zealand	100
+2020-01-20	coronavirus hku1	False	United States	1
+2020-01-20	epidemia cina	True	Italy	1
+2020-01-20	coronavirus	False	Nigeria	1
+2020-01-20	coronavirus sars	False	United States	1
+2020-01-20	coronavirus	False	Germany	100
+2020-01-20	chinese coronavirus	False	United States	1
+2020-01-20	what is coronavirus	False	United States	4
+2020-01-20	corona virus in adults	False	Philippines	1
+2020-01-20	corona-virus	False	Germany	5
+2020-01-20	cdc coronavirus	False	United States	1
+2020-01-20	2019-ncov	True	United States	1
+2020-01-20	corona virus	False	Australia	11
+2020-01-20	koronavirus	False	Finland	100
+2020-01-20	新型コロナウイルスとは	False	Japan	2
+2020-01-20	coronavirus	False	Brazil	100
+2020-01-20	coronavirus in canada	False	Canada	3
+2020-01-20	coronavirus	False	Other Country	1
+2020-01-20	new coronavirus	False	China	2
+2020-01-20	coronavirus china	False	Canada	3
+2020-01-20	corona virus	False	Mexico	5
+2020-01-20	chinese coronvirus	False	United Kingdom	2
+2020-01-20	biofire	True	United States	1
+2020-01-20	corona virus china	False	United States	1
+2020-01-20	coronavirus in humans	False	Australia	15
+2020-01-20	what is corona virus	False	United States	1
+2020-01-20	coronovirus	False	Canada	2
+2020-01-20	coronavirus infection	False	United States	3
+2020-01-20	estimating the potential total number of novel coronavirus cases in wuhan city	False	China	1
+2020-01-20	coronavirus nhs	False	United Kingdom	9
+2020-01-20	corona virus	False	Austria	1
+2020-01-20	shanghai coronavirus	False	China	1
+2020-01-20	china coronavirus new cases	False	United States	4
+2020-01-20	coronavirus 2020	False	United States	1
+2020-01-20	coronavirus news	False	China	1
+2020-01-20	coronavirus	False	United Kingdom	100
+2020-01-20	biofire diagnostics	True	United States	1
+2020-01-20	corona virus outbreak	False	United States	1
+2020-01-20	coronavirus vaccine	False	United States	1
+2020-01-20	what is coronavirus	False	Australia	8
+2020-01-20	what is a coronavirus	False	United States	1
+2020-01-20	coronavirus	False	Czech Republic	1
+2020-01-20	coronavirus wiki	False	Germany	1
+2020-01-20	coronavirus	False	Viet Nam	1
+2020-01-20	coronavirus	False	Australia	100
+2020-01-20	coronavirus symptoms	False	Canada	9
+2020-01-20	who coronavirus	False	Canada	1
+2020-01-20	conovirus	False	United States	1
+2020-01-20	novel coronavirus	False	Hong Kong	12
+2020-01-20	novel coronavirus	False	United Kingdom	1
+2020-01-20	2019-ncov（新型コロナウイルス）感染を疑う患者の検体採取・搬送マニュアル	False	Japan	1
+2020-01-20	coronavirus impfung	False	Germany	1
+2020-01-20	coronavirus symptoms in humans	False	United States	1
+2020-01-20	novel coronavirus	False	United Arab Emirates	1
+2020-01-20	corona virus	False	Netherlands	25
+2020-01-20	what is coronavirus	False	United Kingdom	3
+2020-01-20	corona virus	False	India	1
+2020-01-20	china corona virus	False	United States	1
+2020-01-20	what is coronavirus	False	Philippines	1
+2020-01-20	coronavirus vaccine	False	China	1
+2020-01-20	china coronavirus	False	Australia	1
+2020-01-20	wuhan coronavirus	False	China	4
+2020-01-20	coronavirus	False	Romania	1
+2020-01-20	coronavirus pneumonia	False	United States	1
+2020-01-20	coronavirus in china	False	Canada	1
+2020-01-20	coronavirus	False	Malta	1
+2020-01-20	coronavirus	False	Belgium	100
+2020-01-20	virus china	True	Germany	13
+2020-01-20	coronaviruses	False	Canada	1
+2020-01-20	coronavirus	False	Portugal	1
+2020-01-20	what is a corona virus	False	United States	1
+2020-01-20	sars virus	True	China	3
+2020-01-20	corona virus	False	United States	12
+2020-01-20	corona virus in adults	False	China	2
+2020-01-20	corona virus	False	Italy	1
+2020-01-20	wuhan virus	True	United States	4
+2020-01-20	coronavirus nl63	False	United States	1
+2020-01-20	chinese coronavirus	False	United Kingdom	2
+2020-01-20	coronavirus in children	False	United States	1
+2020-01-20	symptoms of coronavirus	False	United States	1
+2020-01-20	coronovirus	False	China	1
+2020-01-20	corona virus	False	Belgium	1
+2020-01-20	auswärtiges amt	True	Germany	21
+2020-01-20	coronavirus humain	False	Canada	3
+2020-01-20	arrowe park hospital	True	United Kingdom	5
+2020-01-20	corona virus china	False	United Kingdom	1
+2020-01-20	sars virus	True	United States	5
+2020-01-20	public health england	True	United Kingdom	23
+2020-01-20	coronavirus china	False	Australia	1
+2020-01-20	coronavirus treatment	False	United States	1
+2020-01-20	coronovirus	False	United Kingdom	2
+2020-01-20	コロナウイルス感染症	False	Japan	3
+2020-01-20	coronavírus	False	Brazil	40
+2020-01-20	who coronavirus	False	Australia	1
+2020-01-20	coronavirus	False	Netherlands	100
+2020-01-20	cornovirus	False	United States	1
+2020-01-20	corona virus outbreak	False	China	1
+2020-01-20	coronavirus	False	Pakistan	1
+2020-01-20	coronavirus definition	False	Canada	1
+2020-01-20	coronavirus	False	Denmark	1
+2020-01-20	coronavirus	False	United Arab Emirates	100
+2020-01-20	china coronavirus	False	United States	2
+2020-01-20	coronavirus/influenza	False	United States	1
+2020-01-20	sars coronavirus	False	United States	1
+2020-01-20	china coronavirus	False	Germany	1
+2020-01-20	coronavirus outbreak	False	United States	1
+2020-01-20	corona virus	False	Japan	1
+2020-01-20	carona virus	False	Australia	1
+2020-01-20	what is a coronavirus	False	Canada	1
+2020-01-20	coronavirus symptome	False	Germany	3
+2020-01-20	corona virus	False	Canada	17
+2020-01-20	コロナウイルス	False	Japan	100
+2020-01-20	corona virus	False	Korea (South)	6
+2020-01-20	coronavirus	False	Argentina	1
+2020-01-20	coronavirus symptoms	False	China	1
+2020-01-20	coronavirus	False	Indonesia	1
+2020-01-20	caronavirus	False	United States	1
+2020-01-20	corona virus	False	Malaysia	1
+2020-01-20	novel coronavirus	False	United States	2
+2020-01-20	コロナウイルスとは	False	Japan	15
+2020-01-20	wuhan coronavirus	False	United States	1
+2020-01-20	coronavirus	False	Singapore	39
+2020-01-20	china virus	True	United States	13
+2020-01-20	corona virus in china	False	United States	1
+2020-01-20	wuhan virus	True	China	30
+2020-01-20	corona virus	False	Sweden	1
+2020-01-20	coronaviruses	False	United Kingdom	1
+2020-01-20	corona virus	False	South Africa	1
+2020-01-20	coronavirus	False	Sri Lanka	1
+2020-01-20	coronavirus spread	False	United States	1
+2020-01-20	evolution of the novel coronavirus from the ongoing wuhan outbreak and modeling of its spike protein for risk of human transmission	False	China	2
+2020-01-20	wuhan coronavirus	False	United Kingdom	3
+2020-01-20	corona virus	False	Hong Kong	4
+2020-01-20	coronavirus.	False	Australia	1
+2020-01-20	coronavirus from china	False	United States	1
+2020-01-20	corona virus in adults	False	Canada	1
+2020-01-20	coronavirus	False	Switzerland	100
+2020-01-20	coronavirus thailand	False	United States	1
+2020-01-20	coronavirus	False	United States	100
+2020-01-20	korona virus	False	Germany	3
+2020-01-20	coronavirus china	False	United States	2
+2020-01-20	new coronavirus	False	United States	1
+2020-01-20	corona virus	False	United Arab Emirates	1
+2020-01-20	cornavirus	False	United States	1
+2020-01-20	coronavirus china	False	Germany	4
+2020-01-20	coronavirus ansteckung	False	Germany	2
+2020-01-20	n95 mask	True	United States	2
+2020-01-20	corona virus	False	United Kingdom	12
+2020-01-20	n95 mask	True	China	4
+2020-01-20	coronavirus china	False	China	5
+2020-01-20	新型コロナウイルス感染症	False	Japan	1
+2020-01-20	coronavirus oc43	False	United States	1
+2020-01-20	corona virus wuhan	False	China	1
+2020-01-20	coronvirus	False	United Kingdom	5
+2020-01-20	moh wuhan	True	Singapore	1
+2020-01-20	wuhan coronavirus	False	Australia	1
+2020-01-20	coronavirus	False	Israel	1
+2020-01-20	coronavirus	False	Philippines	100
+2020-01-20	middle east respiratory syndrome-related coronavirus	False	United States	1
+2020-01-20	coronavirus bij mensen	False	Belgium	1
+2020-01-20	who coronavirus	False	United States	1
+2020-01-20	wuhan virus	True	Hong Kong	16
+2020-01-20	corona virus	False	France	6
+2020-01-20	china corona virus	False	Canada	1
+2020-01-20	coronavirus china	False	United Kingdom	3
+2020-01-20	coronavirus	False	India	100
+2020-01-20	corona virus	False	Spain	1
+2020-01-20	coronavirus shanghai	False	China	1
+2020-01-20	coronavirus.	False	United States	1
+2020-01-20	コロナウィルスの分類	False	Japan	1
+2020-01-20	coronoavirus	False	United States	1
+2020-01-20	coronavirus australia	False	Australia	4
+2020-01-20	wuhan virus	True	Singapore	100
+2020-01-20	coronavirus outbreak	False	China	1
+2020-01-20	novel coronavirus	False	Japan	1
+2020-01-20	coranavirus	False	United States	1
+2020-01-20	coronavirus def	False	United States	1
+2020-01-20	冠狀病毒	False	Taiwan	100
+2020-01-20	coronavirus in wuhan	False	China	1
+2020-01-20	kalitta air	True	United States	1
+2020-01-20	what is the coronavirus in humans	False	United States	1
+2020-01-20	coronavirus bei katzen	False	Germany	1
+2020-01-20	webasto	True	Germany	4
+2020-01-20	coronavirus	False	Peru	1
+2020-01-20	coronavirus	False	Italy	100
+2020-01-20	chinese corona virus	False	United States	1
+2020-01-20	corona virus	False	Finland	1
+2020-01-20	corona virus china	False	Australia	1
+2020-01-20	コロナウィルスとは	False	Japan	1
+2020-01-20	nhs england	True	United Kingdom	25
+2020-01-20	coronavirus in china	False	Australia	1
+2020-01-20	corona virus symptoms	False	United States	1
+2020-01-20	corona virus in adults	False	United States	8
+2020-01-20	coronavirus in china	False	China	2
+2020-01-20	coronarovirus	False	France	1
+2020-01-20	코로나 바이러스	False	Korea (South)	100
+2020-01-20	china coronavirus	False	United Kingdom	3

@@ -1,0 +1,1001 @@
+Date	Query	IsImplicitIntent	State	Country	PopularityScore
+2020-07-01	sainsburys groceries	True	Peterborough	United Kingdom	44
+2020-07-01	canada.ca	True	Manitoba	Canada	35
+2020-07-01	coronavirus	False	Kent	United Kingdom	9
+2020-07-01	worldometer coronavirus	False	Lincolnshire	United Kingdom	1
+2020-07-01	sainsburys	True	Peterborough	United Kingdom	14
+2020-07-01	jet2 holidays 2020	True	West Yorkshire	United Kingdom	5
+2020-07-01	protezione civile	True	Veneto	Italy	3
+2020-07-01	return to play gaa	True	County Dublin	Ireland	1
+2020-07-01	congestion charge	True	Kent	United Kingdom	2
+2020-07-01	covid 19	False	Nevada	United States	8
+2020-07-01	wilko	True	Lincolnshire	United Kingdom	23
+2020-07-01	public health england	True	Peterborough	United Kingdom	14
+2020-07-01	hspc	True	County Dublin	Ireland	10
+2020-07-01	companies house beta	True	Kent	United Kingdom	17
+2020-07-01	wickes click and collect	True	Lincolnshire	United Kingdom	1
+2020-07-01	nationwide building society	True	Peterborough	United Kingdom	18
+2020-07-01	hpsc	True	County Dublin	Ireland	15
+2020-07-01	companies house	True	Kent	United Kingdom	99
+2020-07-01	wickes	True	Lincolnshire	United Kingdom	49
+2020-07-01	mot check	True	Peterborough	United Kingdom	9
+2020-07-01	gov.ie	True	County Dublin	Ireland	100
+2020-07-01	charity commission	True	Kent	United Kingdom	3
+2020-07-01	waitrose	True	Lincolnshire	United Kingdom	5
+2020-07-01	morrisons	True	Peterborough	United Kingdom	35
+2020-07-01	gaa.ie	True	County Dublin	Ireland	1
+2020-07-01	center parcs	True	Kent	United Kingdom	5
+2020-07-01	universal credit	True	Lincolnshire	United Kingdom	22
+2020-07-01	jet2 holidays coronavirus	False	West Yorkshire	United Kingdom	2
+2020-07-01	rai news	True	Veneto	Italy	2
+2020-07-01	love holidays	True	Peterborough	United Kingdom	1
+2020-07-01	gaa return to play	True	County Dublin	Ireland	12
+2020-07-01	covid 19 map	False	Nevada	United States	3
+2020-07-01	caravan and motorhome club	True	Kent	United Kingdom	4
+2020-07-01	uk coronavirus update	False	Lincolnshire	United Kingdom	3
+2020-07-01	jet2holidays	True	Peterborough	United Kingdom	18
+2020-07-01	face masks for sale	True	County Dublin	Ireland	22
+2020-07-01	caravan and camping club	True	Kent	United Kingdom	1
+2020-07-01	tui holidays	True	Lincolnshire	United Kingdom	2
+2020-07-01	hmrc login	True	Peterborough	United Kingdom	83
+2020-07-01	companies house	True	County Dublin	Ireland	1
+2020-07-01	camping and caravanning club	True	Kent	United Kingdom	3
+2020-07-01	tui	True	Lincolnshire	United Kingdom	15
+2020-07-01	halfords	True	Peterborough	United Kingdom	27
+2020-07-01	bharath biotech vaccine for covid19	False	County Dublin	Ireland	15
+2020-07-01	butlins	True	Kent	United Kingdom	2
+2020-07-01	tsb bank	True	Lincolnshire	United Kingdom	4
+2020-07-01	gov.uk	True	Peterborough	United Kingdom	9
+2020-07-01	bq superstores	True	Kent	United Kingdom	2
+2020-07-01	travis perkins	True	Lincolnshire	United Kingdom	13
+2020-07-01	jet2holidays	True	West Yorkshire	United Kingdom	32
+2020-07-01	regione lombardia	True	Veneto	Italy	2
+2020-07-01	eurotunnel	True	Peterborough	United Kingdom	9
+2020-07-01	boots the chemist	True	Kent	United Kingdom	9
+2020-07-01	covid 19 n95 masks for sale	False	Nevada	United States	3
+2020-07-01	the range	True	Lincolnshire	United Kingdom	40
+2020-07-01	dvla	True	Peterborough	United Kingdom	27
+2020-07-01	bame	True	Kent	United Kingdom	2
+2020-07-01	tesco home delivery	True	Lincolnshire	United Kingdom	23
+2020-07-01	dunelm	True	Peterborough	United Kingdom	27
+2020-07-01	b&q diy store	True	Kent	United Kingdom	12
+2020-07-01	superdrug	True	Lincolnshire	United Kingdom	12
+2020-07-01	debenhams uk	True	Peterborough	United Kingdom	9
+2020-07-01	b&q	True	Kent	United Kingdom	43
+2020-07-01	student finance login	True	Lincolnshire	United Kingdom	9
+2020-07-01	currys pc world	True	Peterborough	United Kingdom	48
+2020-07-01	b and q diy store	True	Kent	United Kingdom	7
+2020-07-01	specsavers	True	Lincolnshire	United Kingdom	4
+2020-07-01	coronavirus update	False	Peterborough	United Kingdom	9
+2020-07-01	airbnb uk	True	Kent	United Kingdom	6
+2020-07-01	smyths toys uk	True	Lincolnshire	United Kingdom	3
+2020-07-01	coronavirus uk	False	Peterborough	United Kingdom	14
+2020-07-01	john hopkins coronavirus map	False	West Yorkshire	United Kingdom	2
+2020-07-01	regione veneto	True	Veneto	Italy	25
+2020-07-01	air bridges travel news	True	Kent	United Kingdom	3
+2020-07-01	screwfix	True	Lincolnshire	United Kingdom	99
+2020-07-01	covid 19 nevada	False	Nevada	United States	3
+2020-07-01	companies house	True	Peterborough	United Kingdom	83
+2020-07-01	air bridges	True	Kent	United Kingdom	3
+2020-07-01	sainsburys groceries	True	Lincolnshire	United Kingdom	39
+2020-07-01	b&q	True	Peterborough	United Kingdom	61
+2020-07-01	acas	True	Kent	United Kingdom	5
+2020-07-01	sainsburys	True	Lincolnshire	United Kingdom	17
+2020-07-01	parcelamento fgts mp 927	True	Para	Brazil	1
+2020-07-01	worldometer coronavirus	False	Edinburgh City	United Kingdom	10
+2020-07-01	public health england	True	Lincolnshire	United Kingdom	4
+2020-07-01	fgts	True	Para	Brazil	100
+2020-07-01	wickes	True	Edinburgh City	United Kingdom	28
+2020-07-01	phonics play	True	Lincolnshire	United Kingdom	10
+2020-07-01	covid 19	False	Para	Brazil	1
+2020-07-01	waitrose	True	Edinburgh City	United Kingdom	8
+2020-07-01	pets at home	True	Lincolnshire	United Kingdom	13
+2020-07-01	worldometer coronavirus	False	Hampshire	United Kingdom	15
+2020-07-01	universal credit	True	Edinburgh City	United Kingdom	16
+2020-07-01	kate garraway husband derek draper	True	West Yorkshire	United Kingdom	2
+2020-07-01	regione veneto coronavirus	False	Veneto	Italy	2
+2020-07-01	ocado	True	Lincolnshire	United Kingdom	5
+2020-07-01	wilko	True	Hampshire	United Kingdom	16
+2020-07-01	covid 19 symptoms	False	Nevada	United States	6
+2020-07-01	tui holidays 2020	True	Edinburgh City	United Kingdom	4
+2020-07-01	nationwide building society	True	Lincolnshire	United Kingdom	27
+2020-07-01	wickes	True	Hampshire	United Kingdom	59
+2020-07-01	tui holidays	True	Edinburgh City	United Kingdom	8
+2020-07-01	national trust	True	Lincolnshire	United Kingdom	2
+2020-07-01	waitrose	True	Hampshire	United Kingdom	29
+2020-07-01	tui	True	Edinburgh City	United Kingdom	21
+2020-07-01	mot check	True	Lincolnshire	United Kingdom	14
+2020-07-01	virgin holidays	True	Hampshire	United Kingdom	1
+2020-07-01	tsb bank	True	Edinburgh City	United Kingdom	8
+2020-07-01	morrisons	True	Lincolnshire	United Kingdom	35
+2020-07-01	villa plus	True	Hampshire	United Kingdom	1
+2020-07-01	travel republic	True	Edinburgh City	United Kingdom	11
+2020-07-01	martin lewis money saving expert	True	Lincolnshire	United Kingdom	5
+2020-07-01	universal credit	True	Hampshire	United Kingdom	18
+2020-07-01	the range	True	Edinburgh City	United Kingdom	27
+2020-07-01	love holidays	True	Lincolnshire	United Kingdom	5
+2020-07-01	knowsley safari park	True	West Yorkshire	United Kingdom	3
+2020-07-01	rinnovo patente	True	Veneto	Italy	1
+2020-07-01	uk coronavirus update	False	Hampshire	United Kingdom	6
+2020-07-01	tesco home delivery	True	Edinburgh City	United Kingdom	7
+2020-07-01	covid 19 testing locations	False	Nevada	United States	4
+2020-07-01	lloyds business banking	True	Lincolnshire	United Kingdom	5
+2020-07-01	tui holidays 2020	True	Hampshire	United Kingdom	3
+2020-07-01	superdrug	True	Edinburgh City	United Kingdom	8
+2020-07-01	leicester lockdown map	True	Lincolnshire	United Kingdom	4
+2020-07-01	tui holidays	True	Hampshire	United Kingdom	2
+2020-07-01	stena line	True	Edinburgh City	United Kingdom	2
+2020-07-01	jet2holidays	True	Lincolnshire	United Kingdom	9
+2020-07-01	tui	True	Hampshire	United Kingdom	8
+2020-07-01	specsavers	True	Edinburgh City	United Kingdom	3
+2020-07-01	home bargains	True	Lincolnshire	United Kingdom	4
+2020-07-01	travis perkins	True	Hampshire	United Kingdom	9
+2020-07-01	smyths toys uk	True	Edinburgh City	United Kingdom	8
+2020-07-01	hmrc login	True	Lincolnshire	United Kingdom	39
+2020-07-01	travel republic	True	Hampshire	United Kingdom	2
+2020-07-01	slimming world	True	Edinburgh City	United Kingdom	4
+2020-07-01	halfords	True	Lincolnshire	United Kingdom	15
+2020-07-01	the range	True	Hampshire	United Kingdom	27
+2020-07-01	latest coronavirus news	False	West Yorkshire	United Kingdom	2
+2020-07-01	salvini	True	Veneto	Italy	1
+2020-07-01	screwfix	True	Edinburgh City	United Kingdom	66
+2020-07-01	gov.uk coronavirus	False	Lincolnshire	United Kingdom	4
+2020-07-01	covid 19 tracker	False	Nevada	United States	2
+2020-07-01	tesco home delivery	True	Hampshire	United Kingdom	25
+2020-07-01	scottish news	True	Edinburgh City	United Kingdom	27
+2020-07-01	gov.uk	True	Lincolnshire	United Kingdom	37
+2020-07-01	sykes cottages uk	True	Hampshire	United Kingdom	2
+2020-07-01	scottish government coronavirus update	False	Edinburgh City	United Kingdom	50
+2020-07-01	dvla	True	Lincolnshire	United Kingdom	28
+2020-07-01	superdrug	True	Hampshire	United Kingdom	7
+2020-07-01	scottish government coronavirus	False	Edinburgh City	United Kingdom	3
+2020-07-01	dunelm	True	Lincolnshire	United Kingdom	28
+2020-07-01	student finance login	True	Hampshire	United Kingdom	8
+2020-07-01	scotrail	True	Edinburgh City	United Kingdom	16
+2020-07-01	debenhams uk	True	Lincolnshire	United Kingdom	15
+2020-07-01	student finance	True	Hampshire	United Kingdom	4
+2020-07-01	scotland coronavirus update	False	Edinburgh City	United Kingdom	26
+2020-07-01	currys pc world	True	Lincolnshire	United Kingdom	100
+2020-07-01	specsavers	True	Hampshire	United Kingdom	6
+2020-07-01	sainsburys groceries	True	Edinburgh City	United Kingdom	31
+2020-07-01	leeds building society	True	West Yorkshire	United Kingdom	14
+2020-07-01	smart working	True	Veneto	Italy	3
+2020-07-01	covid deaths today uk	False	Lincolnshire	United Kingdom	7
+2020-07-01	smyths toys uk	True	Hampshire	United Kingdom	10
+2020-07-01	covid 19 update	False	Nevada	United States	26
+2020-07-01	sainsburys	True	Edinburgh City	United Kingdom	22
+2020-07-01	coventry building society	True	Lincolnshire	United Kingdom	4
+2020-07-01	slimming world	True	Hampshire	United Kingdom	3
+2020-07-01	pets at home	True	Edinburgh City	United Kingdom	13
+2020-07-01	coronavirus worldometers	False	Lincolnshire	United Kingdom	3
+2020-07-01	screwfix	True	Hampshire	United Kingdom	100
+2020-07-01	nicola sturgeon latest news	True	Edinburgh City	United Kingdom	3
+2020-07-01	coronavirus update	False	Lincolnshire	United Kingdom	17
+2020-07-01	sainsburys groceries	True	Hampshire	United Kingdom	49
+2020-07-01	nicola sturgeon	True	Edinburgh City	United Kingdom	5
+2020-07-01	coronavirus uk	False	Lincolnshire	United Kingdom	25
+2020-07-01	sainsburys	True	Hampshire	United Kingdom	25
+2020-07-01	nhs inform scotland	True	Edinburgh City	United Kingdom	9
+2020-07-01	coronavirus	False	Lincolnshire	United Kingdom	7
+2020-07-01	public health england	True	Hampshire	United Kingdom	5
+2020-07-01	nhs inform	True	Edinburgh City	United Kingdom	19
+2020-07-01	companies house beta	True	Lincolnshire	United Kingdom	9
+2020-07-01	leicester lockdown	True	West Yorkshire	United Kingdom	9
+2020-07-01	statistiche coronavirus	False	Veneto	Italy	4
+2020-07-01	portsmouth news	True	Hampshire	United Kingdom	22
+2020-07-01	nationwide building society	True	Edinburgh City	United Kingdom	13
+2020-07-01	covid cases	False	Nevada	United States	1
+2020-07-01	companies house	True	Lincolnshire	United Kingdom	53
+2020-07-01	phonics play	True	Hampshire	United Kingdom	8
+2020-07-01	mot check	True	Edinburgh City	United Kingdom	13
+2020-07-01	caravan and motorhome club	True	Lincolnshire	United Kingdom	9
+2020-07-01	pets at home	True	Hampshire	United Kingdom	12
+2020-07-01	morrisons	True	Edinburgh City	United Kingdom	39
+2020-07-01	camping and caravanning club	True	Lincolnshire	United Kingdom	5
+2020-07-01	p&o cruises	True	Hampshire	United Kingdom	1
+2020-07-01	love holidays	True	Edinburgh City	United Kingdom	9
+2020-07-01	butlins skegness	True	Lincolnshire	United Kingdom	3
+2020-07-01	ocado	True	Hampshire	United Kingdom	23
+2020-07-01	loganair	True	Edinburgh City	United Kingdom	4
+2020-07-01	butlins	True	Lincolnshire	United Kingdom	3
+2020-07-01	nationwide building society	True	Hampshire	United Kingdom	19
+2020-07-01	leeds building society	True	Edinburgh City	United Kingdom	1
+2020-07-01	boots the chemist	True	Lincolnshire	United Kingdom	3
+2020-07-01	national trust	True	Hampshire	United Kingdom	10
+2020-07-01	leicester lockdown map	True	West Yorkshire	United Kingdom	6
+2020-07-01	tgcom	True	Veneto	Italy	100
+2020-07-01	jet2holidays	True	Edinburgh City	United Kingdom	16
+2020-07-01	b&q diy store	True	Lincolnshire	United Kingdom	10
+2020-07-01	covid map	False	Nevada	United States	1
+2020-07-01	mot check	True	Hampshire	United Kingdom	18
+2020-07-01	jet2 holidays 2020	True	Edinburgh City	United Kingdom	4
+2020-07-01	b&q	True	Lincolnshire	United Kingdom	52
+2020-07-01	morrisons	True	Hampshire	United Kingdom	26
+2020-07-01	jet2 flights	True	Edinburgh City	United Kingdom	4
+2020-07-01	infonavit mi cuenta	True	Hidalgo	Mexico	25
+2020-07-01	martin lewis money saving expert	True	Hampshire	United Kingdom	7
+2020-07-01	jet2	True	Edinburgh City	United Kingdom	10
+2020-07-01	climss iniciar sesión	True	Hidalgo	Mexico	1
+2020-07-01	martin lewis	True	Hampshire	United Kingdom	4
+2020-07-01	jet 2 holidays 2020	True	Edinburgh City	United Kingdom	5
+2020-07-01	climss	True	Hidalgo	Mexico	100
+2020-07-01	lv car insurance	True	Hampshire	United Kingdom	1
+2020-07-01	hmrc login	True	Edinburgh City	United Kingdom	40
+2020-07-01	love holidays	True	Hampshire	United Kingdom	10
+2020-07-01	health protection scotland	True	Edinburgh City	United Kingdom	7
+2020-07-01	longleat safari park	True	Hampshire	United Kingdom	2
+2020-07-01	lloyds business banking	True	West Yorkshire	United Kingdom	3
+2020-07-01	ticketone	True	Veneto	Italy	5
+2020-07-01	hays travel	True	Edinburgh City	United Kingdom	4
+2020-07-01	lockdown	True	Hampshire	United Kingdom	1
+2020-07-01	covid stats	False	Nevada	United States	1
+2020-07-01	halfords	True	Edinburgh City	United Kingdom	25
+2020-07-01	leicester lockdown map	True	Hampshire	United Kingdom	3
+2020-07-01	gov.uk	True	Edinburgh City	United Kingdom	15
+2020-07-01	leicester lockdown	True	Hampshire	United Kingdom	3
+2020-07-01	fco travel advice	True	Edinburgh City	United Kingdom	1
+2020-07-01	island echo	True	Hampshire	United Kingdom	6
+2020-07-01	face masks	True	Edinburgh City	United Kingdom	13
+2020-07-01	hoseasons	True	Hampshire	United Kingdom	2
+2020-07-01	edinburgh airport	True	Edinburgh City	United Kingdom	20
+2020-07-01	home bargains	True	Hampshire	United Kingdom	3
+2020-07-01	easyjet holidays	True	Edinburgh City	United Kingdom	2
+2020-07-01	hmrc login	True	Hampshire	United Kingdom	45
+2020-07-01	dvla mot check	True	Edinburgh City	United Kingdom	5
+2020-07-01	hays travel	True	Hampshire	United Kingdom	1
+2020-07-01	dvla	True	Edinburgh City	United Kingdom	35
+2020-07-01	haven holidays 2020	True	Hampshire	United Kingdom	1
+2020-07-01	love holidays	True	West Yorkshire	United Kingdom	14
+2020-07-01	trentino quotidiano	True	Veneto	Italy	1
+2020-07-01	dunelm	True	Edinburgh City	United Kingdom	33
+2020-07-01	haven holidays	True	Hampshire	United Kingdom	1
+2020-07-01	covid symptoms	False	Nevada	United States	8
+2020-07-01	debenhams uk	True	Edinburgh City	United Kingdom	9
+2020-07-01	halfords	True	Hampshire	United Kingdom	33
+2020-07-01	currys pc world	True	Edinburgh City	United Kingdom	100
+2020-07-01	gov.uk coronavirus	False	Hampshire	United Kingdom	3
+2020-07-01	covid 19 scotland	False	Edinburgh City	United Kingdom	13
+2020-07-01	gov.uk	True	Hampshire	United Kingdom	19
+2020-07-01	coventry building society	True	Edinburgh City	United Kingdom	5
+2020-07-01	furlough scheme	True	Hampshire	United Kingdom	2
+2020-07-01	coronavirus update	False	Edinburgh City	United Kingdom	4
+2020-07-01	foreign office travel advice	True	Hampshire	United Kingdom	2
+2020-07-01	coronavirus uk	False	Edinburgh City	United Kingdom	15
+2020-07-01	eurotunnel	True	Hampshire	United Kingdom	3
+2020-07-01	coronavirus scotland	False	Edinburgh City	United Kingdom	15
+2020-07-01	ecb cricket	True	Hampshire	United Kingdom	4
+2020-07-01	coronavirus	False	Edinburgh City	United Kingdom	10
+2020-07-01	easyjet uk	True	Hampshire	United Kingdom	9
+2020-07-01	martin lewis	True	West Yorkshire	United Kingdom	2
+2020-07-01	unipolsai	True	Veneto	Italy	2
+2020-07-01	companies house beta	True	Edinburgh City	United Kingdom	29
+2020-07-01	easyjet holidays	True	Hampshire	United Kingdom	1
+2020-07-01	covid testing las vegas	False	Nevada	United States	6
+2020-07-01	companies house	True	Edinburgh City	United Kingdom	97
+2020-07-01	dvla mot check	True	Hampshire	United Kingdom	3
+2020-07-01	caravan and motorhome club	True	Edinburgh City	United Kingdom	2
+2020-07-01	dvla	True	Hampshire	United Kingdom	25
+2020-07-01	camping and caravanning club	True	Edinburgh City	United Kingdom	2
+2020-07-01	dunelm	True	Hampshire	United Kingdom	32
+2020-07-01	calmac ferries	True	Edinburgh City	United Kingdom	10
+2020-07-01	debenhams uk	True	Hampshire	United Kingdom	20
+2020-07-01	bq superstores	True	Edinburgh City	United Kingdom	4
+2020-07-01	currys pc world	True	Hampshire	United Kingdom	69
+2020-07-01	boots the chemist	True	Edinburgh City	United Kingdom	13
+2020-07-01	covid deaths today uk	False	Hampshire	United Kingdom	10
+2020-07-01	barrhead travel	True	Edinburgh City	United Kingdom	5
+2020-07-01	covid 19	False	Hampshire	United Kingdom	3
+2020-07-01	b&q diy store	True	Edinburgh City	United Kingdom	10
+2020-07-01	coventry building society	True	Hampshire	United Kingdom	3
+2020-07-01	martin lewis money saving expert	True	West Yorkshire	United Kingdom	9
+2020-07-01	unipolsai area clienti	True	Veneto	Italy	4
+2020-07-01	b&q	True	Edinburgh City	United Kingdom	67
+2020-07-01	coronavirus worldometers	False	Hampshire	United Kingdom	5
+2020-07-01	covid testing sites	False	Nevada	United States	1
+2020-07-01	b and q diy store	True	Edinburgh City	United Kingdom	3
+2020-07-01	coronavirus update uk	False	Hampshire	United Kingdom	1
+2020-07-01	airbnb uk	True	Edinburgh City	United Kingdom	3
+2020-07-01	coronavirus update	False	Hampshire	United Kingdom	18
+2020-07-01	air bridges travel news	True	Edinburgh City	United Kingdom	3
+2020-07-01	coronavirus uk	False	Hampshire	United Kingdom	24
+2020-07-01	sepe	True	Autonomia De La Rioja	Spain	1
+2020-07-01	coronavirus statistics	False	Hampshire	United Kingdom	3
+2020-07-01	seguridad social	True	Autonomia De La Rioja	Spain	100
+2020-07-01	coronavirus latest	False	Hampshire	United Kingdom	1
+2020-07-01	coronavirus	False	Hampshire	United Kingdom	5
+2020-07-01	companies house beta	True	Hampshire	United Kingdom	17
+2020-07-01	companies house	True	Hampshire	United Kingdom	89
+2020-07-01	charity commission	True	Hampshire	United Kingdom	5
+2020-07-01	caravan and motorhome club	True	Hampshire	United Kingdom	3
+2020-07-01	brittany ferries	True	Hampshire	United Kingdom	5
+2020-07-01	morrisons	True	West Yorkshire	United Kingdom	63
+2020-07-01	viaggiare sicuri	True	Veneto	Italy	11
+2020-07-01	bq superstores	True	Hampshire	United Kingdom	1
+2020-07-01	boots the chemist	True	Hampshire	United Kingdom	5
+2020-07-01	covid tracker	False	Nevada	United States	6
+2020-07-01	b&q diy store	True	Hampshire	United Kingdom	18
+2020-07-01	b&q	True	Hampshire	United Kingdom	49
+2020-07-01	b and q diy store	True	Hampshire	United Kingdom	2
+2020-07-01	airbnb uk	True	Hampshire	United Kingdom	1
+2020-07-01	air bridges travel news	True	Hampshire	United Kingdom	2
+2020-07-01	air bridges	True	Hampshire	United Kingdom	3
+2020-07-01	acas	True	Hampshire	United Kingdom	3
+2020-07-01	疫情	True	Anhui	China	1
+2020-07-01	volotea sito ufficiale	True	Trentino-Alto Adige	Italy	14
+2020-07-01	trentino quotidiano	True	Trentino-Alto Adige	Italy	31
+2020-07-01	tgcom	True	Trentino-Alto Adige	Italy	84
+2020-07-01	poste italiane	True	Trentino-Alto Adige	Italy	50
+2020-07-01	miur	True	Trentino-Alto Adige	Italy	1
+2020-07-01	italo treno	True	Trentino-Alto Adige	Italy	6
+2020-07-01	coronavirus italia	False	Trentino-Alto Adige	Italy	20
+2020-07-01	coronavirus	False	Trentino-Alto Adige	Italy	20
+2020-07-01	mot check	True	West Yorkshire	United Kingdom	20
+2020-07-01	volotea sito ufficiale	True	Veneto	Italy	14
+2020-07-01	alto adige	True	Trentino-Alto Adige	Italy	100
+2020-07-01	minsal chile	True	Region Metropolitana	Chile	15
+2020-07-01	covid19	False	Nevada	United States	1
+2020-07-01	minsal	True	Region Metropolitana	Chile	100
+2020-07-01	covid19	False	Region Metropolitana	Chile	100
+2020-07-01	coronavirus	False	Region Metropolitana	Chile	1
+2020-07-01	c19	True	Region Metropolitana	Chile	58
+2020-07-01	bono emergencia familiar	True	Region Metropolitana	Chile	29
+2020-07-01	bono de emergencia	True	Region Metropolitana	Chile	1
+2020-07-01	xunta de galicia	True	Galicia	Spain	22
+2020-07-01	sepe	True	Galicia	Spain	55
+2020-07-01	seguridad social	True	Galicia	Spain	100
+2020-07-01	noticias última hora	True	Galicia	Spain	1
+2020-07-01	ministerio de sanidad	True	Galicia	Spain	3
+2020-07-01	mc mutual	True	Galicia	Spain	1
+2020-07-01	mascarillas	True	Galicia	Spain	1
+2020-07-01	lavanguardia	True	Galicia	Spain	1
+2020-07-01	la vanguardia	True	Galicia	Spain	16
+2020-07-01	fremap	True	Galicia	Spain	3
+2020-07-01	mot extensions due to coronavirus	False	West Yorkshire	United Kingdom	2
+2020-07-01	covid	False	Illinois	United States	9
+2020-07-01	coronavirus galicia	False	Galicia	Spain	2
+2020-07-01	coronavirus españa	False	Galicia	Spain	1
+2020-07-01	cvs covid testing	False	Nevada	United States	7
+2020-07-01	coronavirus	False	Galicia	Spain	3
+2020-07-01	経済産業省 ホームページ	True	Chiba	Japan	8
+2020-07-01	東京都　コロナ	True	Chiba	Japan	6
+2020-07-01	東京都	True	Chiba	Japan	25
+2020-07-01	新型コロナウイルス	False	Chiba	Japan	22
+2020-07-01	新型コロナウィルス	False	Chiba	Japan	1
+2020-07-01	持続化補助金	True	Chiba	Japan	16
+2020-07-01	持続化給付金	True	Chiba	Japan	45
+2020-07-01	感染者数	True	Chiba	Japan	3
+2020-07-01	家賃支援給付金	True	Chiba	Japan	10
+2020-07-01	埼玉県	True	Chiba	Japan	7
+2020-07-01	千葉市特別給付金	True	Chiba	Japan	1
+2020-07-01	千葉市 給付金	True	Chiba	Japan	2
+2020-07-01	マスク	True	Chiba	Japan	14
+2020-07-01	コロナ対策	True	Chiba	Japan	1
+2020-07-01	コロナウイルスとは	False	Chiba	Japan	1
+2020-07-01	national express	True	West Yorkshire	United Kingdom	3
+2020-07-01	when are taxes due 2020	True	California	United States	2
+2020-07-01	コロナウイルス	False	Chiba	Japan	18
+2020-07-01	コロナ	True	Chiba	Japan	100
+2020-07-01	detr	True	Nevada	United States	15
+2020-07-01	pcr検査	True	Chiba	Japan	4
+2020-07-01	srf news	True	Solothurn	Switzerland	1
+2020-07-01	nhk コロナ	True	Chiba	Japan	2
+2020-07-01	srf	True	Solothurn	Switzerland	100
+2020-07-01	covid19	False	Chiba	Japan	2
+2020-07-01	coronavirus schweiz	False	Solothurn	Switzerland	28
+2020-07-01	covid-19	False	Chiba	Japan	3
+2020-07-01	bag coronavirus	False	Solothurn	Switzerland	55
+2020-07-01	sunweb	True	North Brabant	Netherlands	32
+2020-07-01	spanjevandaag	True	North Brabant	Netherlands	2
+2020-07-01	rivm update	True	North Brabant	Netherlands	1
+2020-07-01	rivm richtlijnen	True	North Brabant	Netherlands	10
+2020-07-01	rivm coronavirus	False	North Brabant	Netherlands	24
+2020-07-01	rivm	True	North Brabant	Netherlands	100
+2020-07-01	rijksoverheid	True	North Brabant	Netherlands	13
+2020-07-01	reisadvies griekenland	True	North Brabant	Netherlands	4
+2020-07-01	national trust	True	West Yorkshire	United Kingdom	5
+2020-07-01	coronavirus update	False	Makkah	Saudi Arabia	1
+2020-07-01	nieuws	True	North Brabant	Netherlands	43
+2020-07-01	mondkapjes	True	North Brabant	Netherlands	4
+2020-07-01	doug ducey	True	Nevada	United States	1
+2020-07-01	kras reizen	True	North Brabant	Netherlands	4
+2020-07-01	kras	True	North Brabant	Netherlands	2
+2020-07-01	ggd	True	North Brabant	Netherlands	4
+2020-07-01	coronavirus nederland	False	North Brabant	Netherlands	4
+2020-07-01	coronavirus	False	North Brabant	Netherlands	23
+2020-07-01	ad.nl	True	North Brabant	Netherlands	32
+2020-07-01	segurança social directa	True	Azores	Portugal	100
+2020-07-01	segurança social	True	Azores	Portugal	1
+2020-07-01	salud digna	True	Veracruz	Mexico	47
+2020-07-01	mi cuenta infonavit	True	Veracruz	Mexico	8
+2020-07-01	ivermectina	True	Veracruz	Mexico	1
+2020-07-01	infonavit mi cuenta	True	Veracruz	Mexico	100
+2020-07-01	diario oficial de la federación	True	Veracruz	Mexico	8
+2020-07-01	coronavirus veracruz	False	Veracruz	Mexico	8
+2020-07-01	coronavirus	False	Veracruz	Mexico	16
+2020-07-01	conacyt	True	Veracruz	Mexico	1
+2020-07-01	nationwide building society	True	West Yorkshire	United Kingdom	9
+2020-07-01	put in bay coronavirus	False	Ohio	United States	1
+2020-07-01	climss iniciar sesión	True	Veracruz	Mexico	24
+2020-07-01	climss	True	Veracruz	Mexico	77
+2020-07-01	dr fauci	True	Nevada	United States	1
+2020-07-01	österreich coronavirus	False	Bavaria	Germany	1
+2020-07-01	zdf heute	True	Bavaria	Germany	2
+2020-07-01	worldometers	True	Bavaria	Germany	4
+2020-07-01	worldometer coronavirus	False	Bavaria	Germany	1
+2020-07-01	worldometer	True	Bavaria	Germany	3
+2020-07-01	webasto	True	Bavaria	Germany	1
+2020-07-01	usa coronavirus	False	Bavaria	Germany	2
+2020-07-01	tüv	True	Bavaria	Germany	2
+2020-07-01	türkei news	True	Bavaria	Germany	1
+2020-07-01	tönnies	True	Bavaria	Germany	7
+2020-07-01	tui fly	True	Bavaria	Germany	1
+2020-07-01	tui cruises	True	Bavaria	Germany	2
+2020-07-01	tui	True	Bavaria	Germany	17
+2020-07-01	timmendorfer strand	True	Bavaria	Germany	1
+2020-07-01	tagesschau	True	Bavaria	Germany	100
+2020-07-01	tag24 chemnitz	True	Bavaria	Germany	1
+2020-07-01	nhs discounts	True	West Yorkshire	United Kingdom	6
+2020-07-01	tui holidays	True	Derby City	United Kingdom	10
+2020-07-01	symptome coronavirus	False	Bavaria	Germany	2
+2020-07-01	sylt	True	Bavaria	Germany	2
+2020-07-01	drudge report 2020	True	Nevada	United States	2
+2020-07-01	sunexpress	True	Bavaria	Germany	2
+2020-07-01	schauinsland-reisen	True	Bavaria	Germany	1
+2020-07-01	robert koch institut coronavirus	False	Bavaria	Germany	5
+2020-07-01	rki risikogebiete	True	Bavaria	Germany	12
+2020-07-01	rki fallzahlen	True	Bavaria	Germany	10
+2020-07-01	rki dashboard	True	Bavaria	Germany	24
+2020-07-01	rki coronavirus fallzahlen	False	Bavaria	Germany	9
+2020-07-01	rki coronavirus	False	Bavaria	Germany	26
+2020-07-01	rki	True	Bavaria	Germany	75
+2020-07-01	risikogebiete rki	True	Bavaria	Germany	2
+2020-07-01	reproduktionszahl	True	Bavaria	Germany	1
+2020-07-01	reisewarnungen auswärtiges amt	True	Bavaria	Germany	5
+2020-07-01	radio gütersloh	True	Bavaria	Germany	1
+2020-07-01	pressekonferenz söder	True	Bavaria	Germany	1
+2020-07-01	pneumokokken impfung	True	Bavaria	Germany	1
+2020-07-01	phoenix reisen	True	Bavaria	Germany	1
+2020-07-01	nhs employers	True	West Yorkshire	United Kingdom	3
+2020-07-01	srhd.org	True	Washington	United States	1
+2020-07-01	pcr test	True	Bavaria	Germany	1
+2020-07-01	covid 19 tracker india	False	Uttarakhand	India	1
+2020-07-01	drug overdoses coronavirus	False	Nevada	United States	2
+2020-07-01	opodo	True	Bavaria	Germany	6
+2020-07-01	coronil	True	Uttarakhand	India	50
+2020-07-01	oberstdorf	True	Bavaria	Germany	2
+2020-07-01	coronavirus update	False	Uttarakhand	India	100
+2020-07-01	nzz	True	Bavaria	Germany	9
+2020-07-01	climss iniciar sesión	True	Tabasco	Mexico	1
+2020-07-01	ntv livestream	True	Bavaria	Germany	2
+2020-07-01	climss	True	Tabasco	Mexico	100
+2020-07-01	ntv coronavirus	False	Bavaria	Germany	1
+2020-07-01	tui	True	Saarland	Germany	1
+2020-07-01	ndr	True	Bavaria	Germany	6
+2020-07-01	tagesschau	True	Saarland	Germany	100
+2020-07-01	nachrichten aktuell	True	Bavaria	Germany	20
+2020-07-01	rki	True	Saarland	Germany	33
+2020-07-01	nachrichten	True	Bavaria	Germany	80
+2020-07-01	nachrichten	True	Saarland	Germany	39
+2020-07-01	nhs england	True	West Yorkshire	United Kingdom	3
+2020-07-01	robert koch institut coronavirus	False	Hesse	Germany	3
+2020-07-01	mundschutz	True	Bavaria	Germany	1
+2020-07-01	coronavirus	False	Saarland	Germany	6
+2020-07-01	edd unemployment	True	Nevada	United States	2
+2020-07-01	minijob-zentrale	True	Bavaria	Germany	5
+2020-07-01	worldometers coronavirus	False	Newfoundland And Labrador	Canada	1
+2020-07-01	mein schiff	True	Bavaria	Germany	1
+2020-07-01	great west life login	True	Newfoundland And Labrador	Canada	38
+2020-07-01	magdeburg	True	Bavaria	Germany	2
+2020-07-01	covid 19 update	False	Newfoundland And Labrador	Canada	100
+2020-07-01	logo nachrichten	True	Bavaria	Germany	10
+2020-07-01	covid 19 newfoundland	False	Newfoundland And Labrador	Canada	13
+2020-07-01	lidl reisen	True	Bavaria	Germany	2
+2020-07-01	coronavirus update	False	Newfoundland And Labrador	Canada	25
+2020-07-01	lgl bayern coronavirus	False	Bavaria	Germany	9
+2020-07-01	lgl bayern	True	Bavaria	Germany	15
+2020-07-01	landratsamt ostallgäu	True	Bavaria	Germany	2
+2020-07-01	landratsamt dachau	True	Bavaria	Germany	3
+2020-07-01	landratsamt coburg	True	Bavaria	Germany	1
+2020-07-01	könig der löwen hamburg	True	Bavaria	Germany	1
+2020-07-01	northwick park hospital	True	West Yorkshire	United Kingdom	3
+2020-07-01	travel restrictions by state	True	Michigan	United States	2
+2020-07-01	kroatien einreise	True	Bavaria	Germany	1
+2020-07-01	kroatien coronavirus	False	Bavaria	Germany	3
+2020-07-01	face masks	True	Nevada	United States	15
+2020-07-01	kieser training	True	Bavaria	Germany	3
+2020-07-01	kachelmann	True	Bavaria	Germany	1
+2020-07-01	www.reactstudy.org/antigentest	True	West Midlands	United Kingdom	1
+2020-07-01	johns hopkins coronavirus map	False	Bavaria	Germany	1
+2020-07-01	wren kitchens	True	West Midlands	United Kingdom	2
+2020-07-01	john hopkins university coronavirus map	False	Bavaria	Germany	7
+2020-07-01	worldometer coronavirus	False	West Midlands	United Kingdom	13
+2020-07-01	its reisen	True	Bavaria	Germany	2
+2020-07-01	wilko	True	West Midlands	United Kingdom	34
+2020-07-01	ischgl	True	Bavaria	Germany	1
+2020-07-01	wickes click and collect	True	West Midlands	United Kingdom	6
+2020-07-01	impfstoff coronavirus	False	Bavaria	Germany	1
+2020-07-01	wickes	True	West Midlands	United Kingdom	55
+2020-07-01	heute.de	True	Bavaria	Germany	3
+2020-07-01	wetherspoons	True	West Midlands	United Kingdom	3
+2020-07-01	gesundheitsamt regensburg	True	Bavaria	Germany	2
+2020-07-01	ocado	True	West Yorkshire	United Kingdom	16
+2020-07-01	coronavirus worldometer	False	Illinois	United States	2
+2020-07-01	weston super mare	True	West Midlands	United Kingdom	1
+2020-07-01	gesundheitsamt freising	True	Bavaria	Germany	1
+2020-07-01	face masks for coronavirus	False	Nevada	United States	3
+2020-07-01	warwickshire county council	True	West Midlands	United Kingdom	1
+2020-07-01	germersheim	True	Bavaria	Germany	1
+2020-07-01	wales lockdown update	True	West Midlands	United Kingdom	1
+2020-07-01	fti touristik	True	Bavaria	Germany	1
+2020-07-01	waitrose	True	West Midlands	United Kingdom	14
+2020-07-01	fti	True	Bavaria	Germany	2
+2020-07-01	virtual college	True	West Midlands	United Kingdom	1
+2020-07-01	friedrich merz	True	Bavaria	Germany	2
+2020-07-01	virgin holidays	True	West Midlands	United Kingdom	2
+2020-07-01	flughafen frankfurt	True	Bavaria	Germany	1
+2020-07-01	usa coronavirus update	False	West Midlands	United Kingdom	1
+2020-07-01	ffp2 maske	True	Bavaria	Germany	2
+2020-07-01	universal credit	True	West Midlands	United Kingdom	25
+2020-07-01	einreise griechenland	True	Bavaria	Germany	4
+2020-07-01	uk death toll today	True	West Midlands	United Kingdom	2
+2020-07-01	dirk müller	True	Bavaria	Germany	1
+2020-07-01	p&o cruises	True	West Yorkshire	United Kingdom	1
+2020-07-01	what is considered a fever	True	California	United States	1
+2020-07-01	uk covid deaths today	False	West Midlands	United Kingdom	1
+2020-07-01	deutschland coronavirus	False	Bavaria	Germany	1
+2020-07-01	face masks for sale	True	Nevada	United States	6
+2020-07-01	uk coronavirus update	False	West Midlands	United Kingdom	8
+2020-07-01	dehoga	True	Bavaria	Germany	5
+2020-07-01	uk coronavirus deaths	False	West Midlands	United Kingdom	1
+2020-07-01	covid-19 masks for sale	False	Bavaria	Germany	1
+2020-07-01	uk coronavirus cases	False	West Midlands	United Kingdom	1
+2020-07-01	covid 19 n95 masks for sale	False	Bavaria	Germany	2
+2020-07-01	uk coronavirus	False	West Midlands	United Kingdom	1
+2020-07-01	covid 19 map	False	Bavaria	Germany	2
+2020-07-01	tui holidays 2020	True	West Midlands	United Kingdom	4
+2020-07-01	covid 19	False	Bavaria	Germany	5
+2020-07-01	tui holidays	True	West Midlands	United Kingdom	15
+2020-07-01	covid	False	Bavaria	Germany	2
+2020-07-01	tui coronavirus update	False	West Midlands	United Kingdom	2
+2020-07-01	coronavirus weltweit	False	Bavaria	Germany	1
+2020-07-01	tui	True	West Midlands	United Kingdom	19
+2020-07-01	coronavirus statistiken	False	Bavaria	Germany	2
+2020-07-01	parkdean resorts	True	West Yorkshire	United Kingdom	5
+2020-07-01	covid mississippi	False	Mississippi	United States	2
+2020-07-01	tsb bank	True	West Midlands	United Kingdom	6
+2020-07-01	coronavirus news	False	Bavaria	Germany	2
+2020-07-01	face shields	True	Nevada	United States	6
+2020-07-01	travis perkins	True	West Midlands	United Kingdom	11
+2020-07-01	coronavirus nachrichten	False	Bavaria	Germany	2
+2020-07-01	travelodge uk	True	West Midlands	United Kingdom	3
+2020-07-01	coronavirus in münchen aktuell	False	Bavaria	Germany	1
+2020-07-01	travel republic	True	West Midlands	United Kingdom	3
+2020-07-01	coronavirus deutschland	False	Bavaria	Germany	5
+2020-07-01	the range	True	West Midlands	United Kingdom	35
+2020-07-01	coronavirus bayern aktuell	False	Bavaria	Germany	1
+2020-07-01	tesco jobs	True	West Midlands	United Kingdom	2
+2020-07-01	coronavirus bayern	False	Bavaria	Germany	6
+2020-07-01	tesco home delivery	True	West Midlands	United Kingdom	18
+2020-07-01	coronavirus aktuell	False	Bavaria	Germany	10
+2020-07-01	tesco credit card	True	West Midlands	United Kingdom	3
+2020-07-01	coronavirus	False	Bavaria	Germany	13
+2020-07-01	symptoms of coronavirus	False	West Midlands	United Kingdom	1
+2020-07-01	corona virus	False	Bavaria	Germany	3
+2020-07-01	pets at home	True	West Yorkshire	United Kingdom	14
+2020-07-01	tui	True	Derby City	United Kingdom	35
+2020-07-01	sykes cottages uk	True	West Midlands	United Kingdom	8
+2020-07-01	condor flüge	True	Bavaria	Germany	2
+2020-07-01	gavin newsom	True	Nevada	United States	3
+2020-07-01	sykes cottages	True	West Midlands	United Kingdom	3
+2020-07-01	bzga	True	Bavaria	Germany	3
+2020-07-01	swine flu	True	West Midlands	United Kingdom	2
+2020-07-01	bistum regensburg	True	Bavaria	Germany	11
+2020-07-01	superdrug	True	West Midlands	United Kingdom	14
+2020-07-01	bistum augsburg	True	Bavaria	Germany	3
+2020-07-01	student finance login	True	West Midlands	United Kingdom	26
+2020-07-01	bibione	True	Bavaria	Germany	2
+2020-07-01	student finance	True	West Midlands	United Kingdom	10
+2020-07-01	berge und meer	True	Bavaria	Germany	2
+2020-07-01	ssp	True	West Midlands	United Kingdom	1
+2020-07-01	auswärtiges amt reisehinweise	True	Bavaria	Germany	15
+2020-07-01	specsavers	True	West Midlands	United Kingdom	10
+2020-07-01	auswärtiges amt	True	Bavaria	Germany	12
+2020-07-01	smyths toys uk	True	West Midlands	United Kingdom	14
+2020-07-01	alltours	True	Bavaria	Germany	4
+2020-07-01	phe	True	West Yorkshire	United Kingdom	4
+2020-07-01	covid 19 update ohio	False	Ohio	United States	1
+2020-07-01	smyths	True	West Midlands	United Kingdom	7
+2020-07-01	aktuelle nachrichten	True	Bavaria	Germany	14
+2020-07-01	gavin newsom press conference	True	Nevada	United States	9
+2020-07-01	smiths toy super stores	True	West Midlands	United Kingdom	3
+2020-07-01	aida kreuzfahrten	True	Bavaria	Germany	1
+2020-07-01	slimming world	True	West Midlands	United Kingdom	7
+2020-07-01	self employed income support scheme	True	West Midlands	United Kingdom	1
+2020-07-01	screwfix	True	West Midlands	United Kingdom	99
+2020-07-01	scotland coronavirus update	False	West Midlands	United Kingdom	1
+2020-07-01	sainsburys groceries	True	West Midlands	United Kingdom	52
+2020-07-01	sainsburys	True	West Midlands	United Kingdom	26
+2020-07-01	saga holidays	True	West Midlands	United Kingdom	1
+2020-07-01	rspb	True	West Midlands	United Kingdom	2
+2020-07-01	road tax	True	West Midlands	United Kingdom	3
+2020-07-01	riddor	True	West Midlands	United Kingdom	2
+2020-07-01	rics	True	West Midlands	United Kingdom	1
+2020-07-01	remdesivir drug coronavirus	False	West Midlands	United Kingdom	3
+2020-07-01	remdesivir	True	West Midlands	United Kingdom	5
+2020-07-01	pubs reopening	True	West Midlands	United Kingdom	1
+2020-07-01	phonics play	True	West Yorkshire	United Kingdom	15
+2020-07-01	corona virus	False	Utah	United States	3
+2020-07-01	public health england coronavirus	False	West Midlands	United Kingdom	2
+2020-07-01	public health england	True	West Midlands	United Kingdom	7
+2020-07-01	george floyd	True	Nevada	United States	1
+2020-07-01	phonics play	True	West Midlands	United Kingdom	18
+2020-07-01	pets at home	True	West Midlands	United Kingdom	11
+2020-07-01	parkdean resorts	True	West Midlands	United Kingdom	3
+2020-07-01	p and o cruises	True	West Midlands	United Kingdom	1
+2020-07-01	ofqual	True	West Midlands	United Kingdom	1
+2020-07-01	ocado	True	West Midlands	United Kingdom	14
+2020-07-01	nuneaton news	True	West Midlands	United Kingdom	1
+2020-07-01	nhs england	True	West Midlands	United Kingdom	1
+2020-07-01	nhs discounts	True	West Midlands	United Kingdom	1
+2020-07-01	nationwide building society	True	West Midlands	United Kingdom	16
+2020-07-01	national trust	True	West Midlands	United Kingdom	11
+2020-07-01	national express coaches	True	West Midlands	United Kingdom	3
+2020-07-01	national express	True	West Midlands	United Kingdom	6
+2020-07-01	mot extensions due to coronavirus	False	West Midlands	United Kingdom	2
+2020-07-01	mot check	True	West Midlands	United Kingdom	22
+2020-07-01	morrisons	True	West Midlands	United Kingdom	46
+2020-07-01	pinderfields hospital	True	West Yorkshire	United Kingdom	3
+2020-07-01	rki risikogruppen	True	Hesse	Germany	1
+2020-07-01	matalan uk	True	West Midlands	United Kingdom	1
+2020-07-01	get my payment	True	Nevada	United States	2
+2020-07-01	martin lewis money saving expert	True	West Midlands	United Kingdom	8
+2020-07-01	martin lewis	True	West Midlands	United Kingdom	6
+2020-07-01	lv car insurance	True	West Midlands	United Kingdom	1
+2020-07-01	loveholidays	True	West Midlands	United Kingdom	2
+2020-07-01	love holidays	True	West Midlands	United Kingdom	11
+2020-07-01	lockdown	True	West Midlands	United Kingdom	2
+2020-07-01	lloyds business banking	True	West Midlands	United Kingdom	5
+2020-07-01	leicester lockdown map	True	West Midlands	United Kingdom	5
+2020-07-01	leicester lockdown	True	West Midlands	United Kingdom	4
+2020-07-01	leger holidays	True	West Midlands	United Kingdom	1
+2020-07-01	leeds building society	True	West Midlands	United Kingdom	1
+2020-07-01	latest coronavirus figures	False	West Midlands	United Kingdom	1
+2020-07-01	kate garraway husband derek draper	True	West Midlands	United Kingdom	2
+2020-07-01	john hopkins coronavirus map	False	West Midlands	United Kingdom	1
+2020-07-01	joe wicks	True	West Midlands	United Kingdom	1
+2020-07-01	job seekers allowance	True	West Midlands	United Kingdom	1
+2020-07-01	public health england	True	West Yorkshire	United Kingdom	13
+2020-07-01	coronavirus vaccine	False	Illinois	United States	2
+2020-07-01	job retention scheme	True	West Midlands	United Kingdom	1
+2020-07-01	governor newsom	True	Nevada	United States	28
+2020-07-01	jet2holidays	True	West Midlands	United Kingdom	14
+2020-07-01	jet2 holidays 2020	True	West Midlands	United Kingdom	3
+2020-07-01	jet2 flights	True	West Midlands	United Kingdom	12
+2020-07-01	jet2	True	West Midlands	United Kingdom	10
+2020-07-01	jet 2 holidays 2020	True	West Midlands	United Kingdom	6
+2020-07-01	ir35	True	West Midlands	United Kingdom	2
+2020-07-01	how to make a face mask	True	West Midlands	United Kingdom	1
+2020-07-01	how many people have died from coronavirus	False	West Midlands	United Kingdom	2
+2020-07-01	how many deaths today	True	West Midlands	United Kingdom	1
+2020-07-01	how many cases of coronavirus in my area	False	West Midlands	United Kingdom	3
+2020-07-01	house prices	True	West Midlands	United Kingdom	1
+2020-07-01	hoseasons uk	True	West Midlands	United Kingdom	1
+2020-07-01	hoseasons	True	West Midlands	United Kingdom	10
+2020-07-01	home bargains	True	West Midlands	United Kingdom	12
+2020-07-01	holiday extras	True	West Midlands	United Kingdom	1
+2020-07-01	hmrc vat	True	West Midlands	United Kingdom	1
+2020-07-01	public health england coronavirus	False	West Yorkshire	United Kingdom	6
+2020-07-01	west covina	True	California	United States	1
+2020-07-01	hmrc login	True	West Midlands	United Kingdom	52
+2020-07-01	heidi klum coronavirus	False	Nevada	United States	3
+2020-07-01	hays travel	True	West Midlands	United Kingdom	5
+2020-07-01	haven holidays 2020	True	West Midlands	United Kingdom	3
+2020-07-01	haven holidays	True	West Midlands	United Kingdom	5
+2020-07-01	halfords	True	West Midlands	United Kingdom	35
+2020-07-01	greta thunberg	True	West Midlands	United Kingdom	1
+2020-07-01	gov.uk coronavirus	False	West Midlands	United Kingdom	3
+2020-07-01	gov.uk	True	West Midlands	United Kingdom	33
+2020-07-01	gov uk coronavirus	False	West Midlands	United Kingdom	5
+2020-07-01	gloucestershire live	True	West Midlands	United Kingdom	2
+2020-07-01	furlough scheme uk	True	West Midlands	United Kingdom	3
+2020-07-01	furlough scheme	True	West Midlands	United Kingdom	3
+2020-07-01	companies house	True	Ballymena	United Kingdom	1
+2020-07-01	foreign office travel advice	True	West Midlands	United Kingdom	1
+2020-07-01	fco travel advice	True	West Midlands	United Kingdom	2
+2020-07-01	face masks uk	True	West Midlands	United Kingdom	1
+2020-07-01	face masks	True	West Midlands	United Kingdom	5
+2020-07-01	eurotunnel	True	West Midlands	United Kingdom	3
+2020-07-01	quarantine uk	True	West Yorkshire	United Kingdom	3
+2020-07-01	travis perkins	True	Derby City	United Kingdom	10
+2020-07-01	covid 19 update	False	Nairobi Province	Kenya	40
+2020-07-01	heroes act 2020	True	Nevada	United States	1
+2020-07-01	edf energy	True	West Midlands	United Kingdom	1
+2020-07-01	coronavirus update	False	Nairobi Province	Kenya	100
+2020-07-01	ecb cricket	True	West Midlands	United Kingdom	6
+2020-07-01	corona virus updates	False	Nairobi Province	Kenya	1
+2020-07-01	easyjet uk	True	West Midlands	United Kingdom	1
+2020-07-01	zus	True	Lubuskie	Poland	100
+2020-07-01	dvla mot check	True	West Midlands	United Kingdom	5
+2020-07-01	koronawirus w polsce	True	Lubuskie	Poland	1
+2020-07-01	segurança social directa	True	Vila Real	Portugal	1
+2020-07-01	dvla	True	West Midlands	United Kingdom	31
+2020-07-01	svt nyheter	True	Jonkoping County	Sweden	1
+2020-07-01	currys pc world	True	Ballymena	United Kingdom	100
+2020-07-01	経済産業省 ホームページ	True	Kanagawa	Japan	7
+2020-07-01	dunelm	True	West Midlands	United Kingdom	39
+2020-07-01	folkhälsomyndigheten se	True	Jonkoping County	Sweden	1
+2020-07-01	神奈川県　コロナ	True	Kanagawa	Japan	7
+2020-07-01	dominic cummings	True	West Midlands	United Kingdom	1
+2020-07-01	remdesivir	True	West Yorkshire	United Kingdom	5
+2020-07-01	rki risikogebiete	True	Hesse	Germany	12
+2020-07-01	expressen	True	Jonkoping County	Sweden	100
+2020-07-01	irs get my payment	True	Nevada	United States	4
+2020-07-01	神奈川　コロナ	True	Kanagawa	Japan	10
+2020-07-01	disposable gloves	True	West Midlands	United Kingdom	1
+2020-07-01	aftonbladet senaste nytt	True	Jonkoping County	Sweden	17
+2020-07-01	東京都　コロナ	True	Kanagawa	Japan	7
+2020-07-01	direct line	True	West Midlands	United Kingdom	4
+2020-07-01	1177	True	Jonkoping County	Sweden	15
+2020-07-01	東京都	True	Kanagawa	Japan	26
+2020-07-01	diabetes uk	True	West Midlands	United Kingdom	2
+2020-07-01	édouard philippe	True	Grand Est	France	1
+2020-07-01	新型コロナウイルス	False	Kanagawa	Japan	13
+2020-07-01	dfe	True	West Midlands	United Kingdom	3
+2020-07-01	screwfix	True	Ballymena	United Kingdom	100
+2020-07-01	zoo de beauval	True	Grand Est	France	2
+2020-07-01	持続化補助金	True	Kanagawa	Japan	12
+2020-07-01	debenhams uk	True	West Midlands	United Kingdom	31
+2020-07-01	volotea	True	Grand Est	France	18
+2020-07-01	持続化給付金	True	Kanagawa	Japan	35
+2020-07-01	remdesivir drug coronavirus	False	West Yorkshire	United Kingdom	2
+2020-07-01	covid19relief.sba.gov	False	Alabama	United States	2
+2020-07-01	deaths in uk from coronavirus	False	West Midlands	United Kingdom	1
+2020-07-01	irs stimulus check	True	Nevada	United States	5
+2020-07-01	urssaf	True	Grand Est	France	18
+2020-07-01	感染者数	True	Kanagawa	Japan	3
+2020-07-01	currys pc world	True	West Midlands	United Kingdom	96
+2020-07-01	transavia	True	Grand Est	France	1
+2020-07-01	山中伸弥	True	Kanagawa	Japan	1
+2020-07-01	covid testing uk	False	West Midlands	United Kingdom	1
+2020-07-01	soldes été 2020	True	Grand Est	France	5
+2020-07-01	家賃支援給付金	True	Kanagawa	Japan	9
+2020-07-01	covid symptoms	False	West Midlands	United Kingdom	1
+2020-07-01	sfr tv	True	Grand Est	France	3
+2020-07-01	外務省海外安全ホームページ	True	Kanagawa	Japan	1
+2020-07-01	b&q	True	Durham	United Kingdom	62
+2020-07-01	covid deaths today uk	False	West Midlands	United Kingdom	12
+2020-07-01	sfr mon compte	True	Grand Est	France	23
+2020-07-01	埼玉県　コロナ	True	Kanagawa	Japan	1
+2020-07-01	covid 19 update	False	West Midlands	United Kingdom	1
+2020-07-01	service civique	True	Grand Est	France	1
+2020-07-01	riddor	True	West Yorkshire	United Kingdom	3
+2020-07-01	coronavirus usa	False	Illinois	United States	1
+2020-07-01	埼玉県	True	Kanagawa	Japan	6
+2020-07-01	john hopkins coronavirus map	False	Nevada	United States	4
+2020-07-01	covid 19 uk	False	West Midlands	United Kingdom	1
+2020-07-01	scei	True	Grand Est	France	1
+2020-07-01	マスク	True	Kanagawa	Japan	14
+2020-07-01	covid 19 symptoms	False	West Midlands	United Kingdom	1
+2020-07-01	résultat bac 2020	True	Grand Est	France	1
+2020-07-01	コロナ－ウイルス	False	Kanagawa	Japan	1
+2020-07-01	covid 19 deaths today	False	West Midlands	United Kingdom	2
+2020-07-01	ratp	True	Grand Est	France	2
+2020-07-01	コロナ対策	True	Kanagawa	Japan	3
+2020-07-01	covid 19	False	West Midlands	United Kingdom	9
+2020-07-01	puy du fou 2020	True	Grand Est	France	1
+2020-07-01	caravan and motorhome club	True	Durham	United Kingdom	7
+2020-07-01	コロナウイルスとは	False	Kanagawa	Japan	1
+2020-07-01	covid	False	West Midlands	United Kingdom	3
+2020-07-01	puy du fou	True	Grand Est	France	1
+2020-07-01	コロナウイルス	False	Kanagawa	Japan	19
+2020-07-01	coventry telegraph	True	West Midlands	United Kingdom	27
+2020-07-01	road tax	True	West Yorkshire	United Kingdom	3
+2020-07-01	washington state coronavirus update	False	California	United States	1
+2020-07-01	pajemploi assistante maternelle	True	Grand Est	France	1
+2020-07-01	johns hopkins coronavirus dashboard	False	Nevada	United States	4
+2020-07-01	コロナ　症状	True	Kanagawa	Japan	2
+2020-07-01	coventry building society	True	West Midlands	United Kingdom	27
+2020-07-01	pajemploi	True	Grand Est	France	72
+2020-07-01	コロナ　ワクチン	True	Kanagawa	Japan	1
+2020-07-01	cottages.com	True	West Midlands	United Kingdom	2
+2020-07-01	mondial relay	True	Grand Est	France	16
+2020-07-01	コロナ-ウイルス	False	Kanagawa	Japan	3
+2020-07-01	costa coffee	True	West Midlands	United Kingdom	1
+2020-07-01	maif	True	Grand Est	France	6
+2020-07-01	コロナ －ウイルス	False	Kanagawa	Japan	2
+2020-07-01	coronavirus worldometers	False	West Midlands	United Kingdom	6
+2020-07-01	companies house	True	Durham	United Kingdom	49
+2020-07-01	la poste	True	Grand Est	France	31
+2020-07-01	コロナ ウイルス	False	Kanagawa	Japan	1
+2020-07-01	coronavirus worldometer	False	West Midlands	United Kingdom	1
+2020-07-01	impôts gouv professionnels	True	Grand Est	France	1
+2020-07-01	コロナ	True	Kanagawa	Japan	100
+2020-07-01	sainsburys	True	West Yorkshire	United Kingdom	22
+2020-07-01	the range	True	Derby City	United Kingdom	32
+2020-07-01	coronavirus usa	False	West Midlands	United Kingdom	1
+2020-07-01	las vegas coronavirus	False	Nevada	United States	1
+2020-07-01	impôts gouv particulier	True	Grand Est	France	4
+2020-07-01	pcr検査	True	Kanagawa	Japan	2
+2020-07-01	coronavirus update uk	False	West Midlands	United Kingdom	3
+2020-07-01	impots.gouv.fr	True	Grand Est	France	100
+2020-07-01	nhk コロナ	True	Kanagawa	Japan	1
+2020-07-01	coronavirus update	False	West Midlands	United Kingdom	24
+2020-07-01	gouvernement coronavirus	False	Grand Est	France	1
+2020-07-01	covid19	False	Kanagawa	Japan	2
+2020-07-01	coronavirus uk	False	West Midlands	United Kingdom	29
+2020-07-01	go voyages	True	Grand Est	France	1
+2020-07-01	companies house beta	True	Durham	United Kingdom	7
+2020-07-01	covid-19	False	Kanagawa	Japan	5
+2020-07-01	coronavirus symptoms	False	West Midlands	United Kingdom	1
+2020-07-01	futuroscope	True	Grand Est	France	2
+2020-07-01	covid	False	Kanagawa	Japan	2
+2020-07-01	coronavirus stats	False	West Midlands	United Kingdom	1
+2020-07-01	sainsburys groceries	True	West Yorkshire	United Kingdom	46
+2020-07-01	tesco home delivery	True	Southampton	United Kingdom	30
+2020-07-01	france info	True	Grand Est	France	9
+2020-07-01	las vegas coronavirus update	False	Nevada	United States	2
+2020-07-01	coronavirus	False	Kanagawa	Japan	1
+2020-07-01	coronavirus statistics	False	West Midlands	United Kingdom	4
+2020-07-01	easyjet site officiel	True	Grand Est	France	1
+2020-07-01	coronavirus latest	False	West Midlands	United Kingdom	3
+2020-07-01	demain nous appartient	True	Grand Est	France	7
+2020-07-01	coronavirus in my area	False	West Midlands	United Kingdom	1
+2020-07-01	covid usa	False	Grand Est	France	1
+2020-07-01	coronavirus deaths uk	False	West Midlands	United Kingdom	2
+2020-07-01	covid france	False	Grand Est	France	1
+2020-07-01	coronavirus deaths today uk	False	West Midlands	United Kingdom	1
+2020-07-01	coronavirus	False	Durham	United Kingdom	5
+2020-07-01	covid 19 france	False	Grand Est	France	5
+2020-07-01	coronavirus	False	West Midlands	United Kingdom	10
+2020-07-01	covid 19	False	Grand Est	France	4
+2020-07-01	congestion charge	True	West Midlands	United Kingdom	1
+2020-07-01	covid	False	Grand Est	France	2
+2020-07-01	screwfix	True	West Yorkshire	United Kingdom	98
+2020-07-01	rki fallzahlen	True	Hesse	Germany	4
+2020-07-01	companies house beta	True	West Midlands	United Kingdom	21
+2020-07-01	mask for coronavirus for sale	False	Nevada	United States	2
+2020-07-01	corsica ferries	True	Grand Est	France	2
+2020-07-01	companies house	True	West Midlands	United Kingdom	100
+2020-07-01	coronavirus usa	False	Grand Est	France	1
+2020-07-01	cineworld	True	West Midlands	United Kingdom	2
+2020-07-01	coronavirus statistiques	False	Grand Est	France	1
+2020-07-01	chester zoo	True	West Midlands	United Kingdom	3
+2020-07-01	coronavirus monde	False	Grand Est	France	4
+2020-07-01	charity commission	True	West Midlands	United Kingdom	3
+2020-07-01	coronavirus italie	False	Grand Est	France	2
+2020-07-01	center parcs	True	West Midlands	United Kingdom	2
+2020-07-01	coronavirus uk	False	Durham	United Kingdom	20
+2020-07-01	coronavirus france	False	Grand Est	France	15
+2020-07-01	caravan and motorhome club	True	West Midlands	United Kingdom	4
+2020-07-01	coronavirus espagne	False	Grand Est	France	1
+2020-07-01	canal and river trust	True	West Midlands	United Kingdom	1
+2020-07-01	coronavirus bresil	False	Grand Est	France	1
+2020-07-01	shearings	True	West Yorkshire	United Kingdom	1
+2020-07-01	coronavirus us	False	Illinois	United States	1
+2020-07-01	camping and caravanning club	True	West Midlands	United Kingdom	3
+2020-07-01	masks	True	Nevada	United States	6
+2020-07-01	coronavirus	False	Grand Est	France	8
+2020-07-01	butlins	True	West Midlands	United Kingdom	3
+2020-07-01	chômage partiel	True	Grand Est	France	1
+2020-07-01	brittany ferries	True	West Midlands	United Kingdom	3
+2020-07-01	chomage partiel	True	Grand Est	France	1
+2020-07-01	bradford lockdown	True	West Midlands	United Kingdom	2
+2020-07-01	cesu.urssaf.fr espace employeur	True	Grand Est	France	13
+2020-07-01	bq superstores	True	West Midlands	United Kingdom	4
+2020-07-01	carpimko	True	Grand Est	France	4
+2020-07-01	bounce back loan scheme	True	West Midlands	United Kingdom	2
+2020-07-01	coronavirus update	False	Durham	United Kingdom	11
+2020-07-01	bilan coronavirus	False	Grand Est	France	1
+2020-07-01	boris johnson	True	West Midlands	United Kingdom	4
+2020-07-01	ars grand est	True	Grand Est	France	3
+2020-07-01	boots the chemist	True	West Midlands	United Kingdom	11
+2020-07-01	ameli	True	Grand Est	France	67
+2020-07-01	shearings coach holidays 2020	True	West Yorkshire	United Kingdom	2
+2020-07-01	walgreens covid testing	False	California	United States	1
+2020-07-01	black horse finance	True	West Midlands	United Kingdom	1
+2020-07-01	masks for coronavirus	False	Nevada	United States	1
+2020-07-01	algerie	True	Grand Est	France	1
+2020-07-01	birmingham airport	True	West Midlands	United Kingdom	5
+2020-07-01	agirc-arrco	True	Grand Est	France	1
+2020-07-01	bbc covid 19 area checker	False	West Midlands	United Kingdom	1
+2020-07-01	actualités	True	Grand Est	France	14
+2020-07-01	bbc coronavirus in my area	False	West Midlands	United Kingdom	2
+2020-07-01	activité partielle	True	Grand Est	France	5
+2020-07-01	bame	True	West Midlands	United Kingdom	2
+2020-07-01	action logement	True	Grand Est	France	9
+2020-07-01	b&q diy store	True	West Midlands	United Kingdom	15
+2020-07-01	covid deaths today uk	False	Durham	United Kingdom	3
+2020-07-01	b&q	True	West Midlands	United Kingdom	52
+2020-07-01	b and q diy store	True	West Midlands	United Kingdom	8
+2020-07-01	aldi opening times	True	West Midlands	United Kingdom	1
+2020-07-01	airbnb uk	True	West Midlands	United Kingdom	8
+2020-07-01	air bridges travel news	True	West Midlands	United Kingdom	4
+2020-07-01	shielding coronavirus	False	West Yorkshire	United Kingdom	3
+2020-07-01	superdrug	True	Derby City	United Kingdom	16
+2020-07-01	air bridges	True	West Midlands	United Kingdom	4
+2020-07-01	mgm resorts	True	Nevada	United States	3
+2020-07-01	acas employee advice	True	West Midlands	United Kingdom	2
+2020-07-01	acas	True	West Midlands	United Kingdom	6
+2020-07-01	sunweb	True	Overijssel	Netherlands	1
+2020-07-01	rivm coronavirus	False	Overijssel	Netherlands	18
+2020-07-01	rivm	True	Overijssel	Netherlands	100
+2020-07-01	nieuws	True	Overijssel	Netherlands	24
+2020-07-01	ad.nl	True	Overijssel	Netherlands	30
+2020-07-01	svt.se	True	Blekinge County	Sweden	1
+2020-07-01	svt nyheter	True	Blekinge County	Sweden	9
+2020-07-01	expressen	True	Blekinge County	Sweden	100
+2020-07-01	currys pc world	True	Durham	United Kingdom	100
+2020-07-01	aftonbladet senaste nytt	True	Blekinge County	Sweden	14
+2020-07-01	1177	True	Blekinge County	Sweden	27
+2020-07-01	worldometers coronavirus	False	Telangana	India	58
+2020-07-01	sensex	True	Telangana	India	6
+2020-07-01	hyderabad news	True	Telangana	India	33
+2020-07-01	slimming world	True	West Yorkshire	United Kingdom	7
+2020-07-01	covid 19 update	False	East Java	Indonesia	100
+2020-07-01	covid19india org	False	Telangana	India	100
+2020-07-01	n95 face masks	True	Nevada	United States	2
+2020-07-01	covid telangana	False	Telangana	India	1
+2020-07-01	covid cases in india	False	Telangana	India	9
+2020-07-01	covid 19 tracker world	False	Telangana	India	8
+2020-07-01	covid 19 tracker india	False	Telangana	India	56
+2020-07-01	covid 19 tracker	False	Telangana	India	9
+2020-07-01	covid 19 india	False	Telangana	India	17
+2020-07-01	covid 19 cases in india	False	Telangana	India	2
+2020-07-01	covid 19	False	Telangana	India	13
+2020-07-01	covid	False	Telangana	India	17
+2020-07-01	coronil	True	Telangana	India	17
+2020-07-01	debenhams uk	True	Durham	United Kingdom	9
+2020-07-01	coronavirus worldometer	False	Telangana	India	27
+2020-07-01	coronavirus update	False	Telangana	India	68
+2020-07-01	coronavirus symptoms	False	Telangana	India	6
+2020-07-01	coronavirus statistics	False	Telangana	India	4
+2020-07-01	coronavirus india	False	Telangana	India	8
+2020-07-01	smyths	True	West Yorkshire	United Kingdom	3
+2020-07-01	put in bay coronavirus update	False	Ohio	United States	2
+2020-07-01	coronavirus	False	Telangana	India	36
+2020-07-01	n95 mask	True	Nevada	United States	1
+2020-07-01	corona virus	False	Telangana	India	2
+2020-07-01	worldometer coronavirus	False	Mpumalanga	South Africa	1
+2020-07-01	uif ters	True	Mpumalanga	South Africa	100
+2020-07-01	uif	True	Mpumalanga	South Africa	56
+2020-07-01	ters	True	Mpumalanga	South Africa	23
+2020-07-01	covid 19 update	False	Mpumalanga	South Africa	45
+2020-07-01	coronavirus update	False	Mpumalanga	South Africa	78
+2020-07-01	nzta	True	Bay Of Plenty	New Zealand	1
+2020-07-01	sepe	True	Basque Country	Spain	47
+2020-07-01	seguridad social	True	Basque Country	Spain	100
+2020-07-01	dunelm	True	Durham	United Kingdom	30
+2020-07-01	zus	True	Pomorskie	Poland	100
+2020-07-01	renovar dni	True	Basque Country	Spain	3
+2020-07-01	koronawirus w polsce	True	Pomorskie	Poland	19
+2020-07-01	ministerio de sanidad	True	Basque Country	Spain	3
+2020-07-01	koronawirus	False	Pomorskie	Poland	2
+2020-07-01	smyths toys uk	True	West Yorkshire	United Kingdom	10
+2020-07-01	rki dashboard	True	Hesse	Germany	19
+2020-07-01	mascarillas	True	Basque Country	Spain	1
+2020-07-01	n95 masks	True	Nevada	United States	2
+2020-07-01	dziennik ustaw	True	Pomorskie	Poland	1
+2020-07-01	lavanguardia	True	Basque Country	Spain	4
+2020-07-01	salvoconducto ecuador	True	Pichincha	Ecuador	100
+2020-07-01	la vanguardia	True	Basque Country	Spain	26
+2020-07-01	salvoconducto	True	Pichincha	Ecuador	1
+2020-07-01	la gaceta de salamanca	True	Basque Country	Spain	1
+2020-07-01	持続化補助金	True	Miyazaki	Japan	17
+2020-07-01	ingreso minimo vital	True	Basque Country	Spain	1
+2020-07-01	持続化給付金	True	Miyazaki	Japan	100
+2020-07-01	fremap	True	Basque Country	Spain	2
+2020-07-01	dvla	True	Durham	United Kingdom	11
+2020-07-01	コロナウイルス	False	Miyazaki	Japan	1
+2020-07-01	erte	True	Basque Country	Spain	1
+2020-07-01	コロナ	True	Miyazaki	Japan	95
+2020-07-01	covid	False	Basque Country	Spain	1
+2020-07-01	経済産業省 ホームページ	True	Ishikawa	Japan	5
+2020-07-01	specsavers	True	West Yorkshire	United Kingdom	9
+2020-07-01	spokane regional health district	True	Washington	United States	6
+2020-07-01	coronavirus euskadi	False	Basque Country	Spain	4
+2020-07-01	n95 masks for sale	True	Nevada	United States	2
+2020-07-01	東京都	True	Ishikawa	Japan	15
+2020-07-01	coronavirus españa	False	Basque Country	Spain	3
+2020-07-01	新型コロナウイルス	False	Ishikawa	Japan	29
+2020-07-01	coronavirus	False	Basque Country	Spain	5
+2020-07-01	持続化補助金	True	Ishikawa	Japan	39
